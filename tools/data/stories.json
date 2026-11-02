@@ -1,0 +1,8 @@
+{
+ "matches": [
+  {"slug": "ireland-romania-1990", "d": "1990-06-25", "title": "Ireland 0–0 Romania, 5–4 on penalties, Italia ’90", "label": "The full story", "desc": "O’Leary’s penalty and a first World Cup quarter-final"}
+ ],
+ "campaigns": [
+  {"slug": "euro-1988", "name": "Euro ’88", "title": "Euro ’88: how Ireland got there", "from": "1986-09-10", "to": "1988-06-18", "comps": ["ECQ", "EC"], "desc": "Mackay’s goal in Sofia, Houghton’s in Stuttgart"}
+ ]
+}

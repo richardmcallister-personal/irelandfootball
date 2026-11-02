@@ -88,7 +88,7 @@ fetch("/history/records.json").then(function(r){return r.json()}).then(function(
  $("comps").innerHTML='<h2>By competition</h2>'+tb(TH,R.comps.map(function(c){return tl(MU.compRow({c:c.c,t:c.name,d:"2026"})+'<a href="/results/?comp='+c.c+'">'+c.name+'</a>',c)}));
  $("decades").innerHTML='<h2>By decade</h2>'+tb(TH,R.decades.map(function(c){return tl('<a href="/results/?dec='+c.dec.slice(0,4)+'">'+c.dec+'</a>',c)}));
  $("grounds").innerHTML='<h2>Home grounds</h2>'+tb([["Ground",0],["Games",1]],R.grounds.map(function(g){return '<tr><td>'+E(g[0])+'</td><td class="n">'+g[1]+'</td></tr>'}));
- $("hats").innerHTML='<h2>Hat-tricks on record</h2><p class="sub" style="margin:0 0 8px">Friendlies before 2017 are missing, as their scorers are not in the data yet.</p>'+tb([["Player",0],["Goals",1],["Opponent",0],["Date",0]],R.hats.slice().reverse().map(function(h){return '<tr><td>'+E(h.name)+'</td><td class="n">'+h.g+'</td><td>'+MU.club(h.o,14)+'</td><td>'+dt(h.d)+'</td></tr>'}));
+ $("hats").innerHTML='<h2>Hat-tricks on record</h2><p class="sub" style="margin:0 0 8px">Some friendlies before 2017 are still missing, as their scorers are not all in the data yet.</p>'+tb([["Player",0],["Goals",1],["Opponent",0],["Date",0]],R.hats.slice().reverse().map(function(h){return '<tr><td><a href="/player/?p='+MU.slug(h.name)+'">'+E(h.name)+'</a></td><td class="n">'+h.g+'</td><td>'+MU.club(h.o,14)+'</td><td>'+dt(h.d)+'</td></tr>'}));
 });
 
 })();

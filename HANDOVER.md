@@ -19,9 +19,13 @@ Web Push on the hub, minute cron in the Worker. The live logic was replayed offl
 
 `/calendar.ics` (all games, or `?m=<fixture id>` for one) is built from the fixtures feed, one event per fixture id, so a subscribed calendar follows a moved kick-off. Where to watch is on the hub and match pages, Nations League only.
 
+## Great days and campaigns
+
+Static pages from `tools/build_stories.py`: `/matches/ireland-romania-1990/`, `/campaigns/euro-1988/`. Next candidates: other tournament campaigns and big games.
+
 ## Known gaps
 
-- Scorers: friendlies before about 2017 have none. Line-ups start about 2017.
+- Scorers: friendlies before about 2017 are mostly unnamed; Keane and all listed hat-tricks are now in, without minutes. Line-ups start about 2017.
 - Feed history for team 776 (`/api/team-season?season=Y`): see the year-by-year result below. Next data job: fill recent friendly scorers and line-ups from it.
 - Totals differ slightly from eu-football (639 games, 246 W against 247, 181 D against 180, 870 GF against 867, 775 GA against 772). See tools/data/reconcile.txt. Which early and unofficial games count is still Richard's call.
 - Results update through the weekly scheduled task, so a game can take up to a week to reach the archive.

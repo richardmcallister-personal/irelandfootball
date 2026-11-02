@@ -35,10 +35,14 @@ WIKI ONLY 2015-06-04 Northern Ireland 0-0 [Training match] Crowd: 50. Training m
 WIKI ONLY 2018-05-21 Celtic F.C. 2-2 [Testimonial] Testimonial for Scott Brown.
 WIKI ONLY 2023-09-20 Netherlands 1-2 [Euro 2024 qualifier] 
 FEED SCORE 2021-11-14 Luxembourg: archive 3-0, feed 0-3
+DATE 1924 United States: match lists and US records say 14 June, Wikipedia's hat-tricks list says 16 June. Kept 14 June.
+DATE 1929 Belgium: dataset 30 April, Wikipedia's hat-tricks list 20 April. Same game; kept the dataset date.
+WIKI 2007 and 2012 Keane list: two goals dated 11 Nov 2007 and 9 Sep 2012, no game on those days. They match the archive's 17 Nov 2007 and 7 Sep 2012 goals.
 CAPS James Abankwah: line-ups 7, Wikipedia 6
 CAPS Conor Coventry: line-ups 7, Wikipedia 5
 CAPS Jimmy Dunne: line-ups 4, Wikipedia 3
 CAPS John Egan: line-ups 40, Wikipedia 39
+GOALS John Joe Flood: dataset 3, Wikipedia 1
 GOALS Stephen Gleeson: dataset 1, Wikipedia 0
 CAPS Adam Idah: line-ups 43, Wikipedia 42
 CAPS Caoimhín Kelleher: line-ups 35, Wikipedia 34

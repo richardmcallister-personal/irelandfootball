@@ -24,6 +24,7 @@ tools/data/      raw inputs and reconcile.txt (every disagreement between source
 | Live fixtures, tables, squad, match centre | API-Football, team 776, through the Worker | paid plan |
 | Recent scorers and line-ups, about 2017 on | API-Football through the Worker, stored in `tools/data/feed_matches.json` by `tools/build_feed.py` | paid plan |
 | Where to watch | UEFA's Nations League broadcaster list, `tools/data/uefa_nl_broadcasters.txt` into `site/watch.json` by `tools/build_watch.py`; recheck each campaign. Other competitions show nothing until they have an official list | |
+| Named goals in friendlies | Wikipedia's Keane goals list and hat-tricks list, `tools/data/extra_goals.csv` (fills gaps only, no minutes) | CC BY-SA |
 | Club form | Worker route `/api/form`, built a few players at a time into KV | paid plan |
 
 11v11.com and eu-football.info are not sources: 11v11's terms bar publishing its data, and eu-football has not given permission. Don't scrape them.
@@ -32,7 +33,8 @@ Manager of each game (`ms` on match rows): from Wikipedia's match list from 1969
 
 ## Conventions
 
-- Refresh data: `python3 tools/fetch_sources.py`, `python3 tools/build_feed.py`, then `python3 tools/build_archive.py`, review `git diff tools/data/reconcile.txt`, commit.
+- Refresh data: `python3 tools/fetch_sources.py`, `python3 tools/build_feed.py`, then `python3 tools/build_archive.py`, `python3 tools/build_stories.py`, review `git diff tools/data/reconcile.txt`, commit.
+- Big-match and campaign pages: `tools/build_stories.py` writes `site/matches/<slug>/` and `site/campaigns/<slug>/`, and asserts their scores and tables against the archive. Add each to `tools/data/stories.json` so results and search link to it. Corrected match notes go in `tools/data/note_fixes.json`.
 - National teams have no club season. The Worker asks for this year's and last year's feed labels and joins them.
 - Opponents use association crests (`site/assets/crests/`, Richard's files, listed in `HAS` in mu.js). Former countries (Czechoslovakia, Soviet Union, Yugoslavia, West Germany) use one general federation mark, not an era-accurate shirt badge; see `tools/data/asset_sources.csv`. Never use the Ulster Banner on this site.
 - Competition logos: `MU.comp` for feed names, `MU.compRow` for archive rows (the edition the game belonged to). Originals are in `~/Documents/Projects/ireland-assets/` on Richard's Mac; `site/assets` holds resized copies.

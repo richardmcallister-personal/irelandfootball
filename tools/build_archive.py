@@ -162,6 +162,27 @@ def feedwho(n, d):
         if p["debut"] and p["debut"] > d: continue
         out.append(p)
     return sorted(out, key=lambda p: p["last"] or "", reverse=True)[0] if out else None
+# ---- named goals from Wikipedia's lists (tools/data/extra_goals.csv). Never overwrites: fills only goals the row has no name for, with no minute.
+if os.path.exists(D + "extra_goals.csv"):
+    for g in csv.DictReader(open(D + "extra_goals.csv", encoding="utf-8")):
+        r = next((x for x in rows if x["d"] == g["date"] and x["o"] == g["opponent"]), None)
+        if not r: rec.append(f"EXTRA GOALS NO ROW {g['date']} {g['opponent']} {g['scorer']}"); continue
+        sc = r.setdefault("sc", []); need = int(g["goals"]) - sum(1 for s in sc if s[0] == g["scorer"]); room = r["gf"] - len(sc)
+        if need < 0 or need > room: rec.append(f"EXTRA GOALS DO NOT FIT {g['date']} {g['opponent']} {g['scorer']}: {g['goals']} listed, {len(sc)} of {r['gf']} already named")
+        sc.extend([g["scorer"], None] for _ in range(max(0, min(need, room))))
+        if not sc: del r["sc"]
+        if len(sc) >= r["gf"]: r["scf"] = 1
+rec.append("DATE 1924 United States: match lists and US records say 14 June, Wikipedia's hat-tricks list says 16 June. Kept 14 June.")
+rec.append("DATE 1929 Belgium: dataset 30 April, Wikipedia's hat-tricks list 20 April. Same game; kept the dataset date.")
+rec.append("WIKI 2007 and 2012 Keane list: two goals dated 11 Nov 2007 and 9 Sep 2012, no game on those days. They match the archive's 17 Nov 2007 and 7 Sep 2012 goals.")
+for d, t in (json.load(open(D + "note_fixes.json", encoding="utf-8")) if os.path.exists(D + "note_fixes.json") else {}).items():
+    next(x for x in rows if x["d"] == d)["n"] = t
+STORIES = json.load(open(D + "stories.json", encoding="utf-8")) if os.path.exists(D + "stories.json") else {"matches": [], "campaigns": []}
+for s in STORIES["matches"]:
+    x = next(x for x in rows if x["d"] == s["d"]); x["bm"] = s["slug"]; x["bml"] = s["label"]
+for s in STORIES["campaigns"]:
+    for x in rows:
+        if s["from"] <= x["d"] <= s["to"] and x["c"] in s["comps"]: x["camp"] = s["slug"]; x["campn"] = s["name"]
 apps = C.defaultdict(list); lineups = {}; nomatch = C.Counter()
 for r in rows:
     f = r.pop("_f", None)
@@ -297,6 +318,8 @@ for p in players: S.append([p["name"], "player", "/player/?p=" + p["slug"], f"{p
 for o in opps: S.append([o["name"], "club", "/opponent/?o=" + o["slug"], f"{o['p']} games, {o['w']} wins", []])
 for m in {x["slug"]: x for x in mgrs}.values(): S.append([m["name"], "manager", "/manager/?m=" + m["slug"], f"{m['career']} · {m['p']} games", []])
 for k, v in sorted(dec.items()): S.append([k, "season", "/results/?dec=" + k[:4], f"{len(v)} games", []])
+for s in STORIES["matches"]: S.append([s["title"], "match", "/matches/" + s["slug"] + "/", s["desc"], []])
+for s in STORIES["campaigns"]: S.append([s["title"], "match", "/campaigns/" + s["slug"] + "/", s["desc"], []])
 json.dump(S, open("site/search.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
 json.dump({"archive": {"date": DT.date.today().isoformat(), "note": f"{len(rows)} matches to {rows[-1]['d']}"}}, open("site/status.json", "w"), indent=0)
 open(D + "reconcile.txt", "w", encoding="utf-8").write("\n".join(rec) + "\n")
