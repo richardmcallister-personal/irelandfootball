@@ -25,6 +25,8 @@ tools/data/      raw inputs and reconcile.txt (every disagreement between source
 
 11v11.com and eu-football.info are not sources: 11v11's terms bar publishing its data, and eu-football has not given permission. Don't scrape them.
 
+Manager of each game (`ms` on match rows): from Wikipedia's match list from 1969; before that a spell's games are placed only where one unbroken run in its years matches Wikipedia's figures exactly. Anything else goes in reconcile.txt. Article titles are in `tools/data/manager_wiki.json`; check them, as the Wikipedia route falls back to search and can land on the wrong person.
+
 ## Conventions
 
 - Refresh data: `python3 tools/fetch_sources.py` (needs a deployed site for Wikipedia, or set WIKI_BASE), then `python3 tools/build_archive.py`, review `git diff tools/data/reconcile.txt`, commit.

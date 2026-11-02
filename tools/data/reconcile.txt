@@ -36,3 +36,9 @@ WIKI ONLY 2018-05-21 Celtic F.C. 2-2 [Testimonial] Testimonial for Scott Brown.
 WIKI ONLY 2023-09-20 Netherlands 1-2 [Euro 2024 qualifier] 
 GOALS Turlough O'Connor: dataset 1, Wikipedia 0
 SCORER NOT IN CAPS LIST Johnny Gavin (2)
+MANAGER GAMES NOT PLACED Selection Committee 1924–1931: 0 possible runs
+MANAGER FIGURES Liam Tuohy 1971–1973: games {'p': 11, 'w': 3, 'd': 1, 'l': 7, 'gf': 14, 'ga': 24}, Wikipedia P10 W3 D1 L6 GF11 GA20
+MANAGER FIGURES Johnny Giles 1973–1980: games {'p': 37, 'w': 13, 'd': 10, 'l': 14, 'gf': 48, 'ga': 45}, Wikipedia P37 W14 D9 L14 GF49 GA45
+MANAGER FIGURES Eoin Hand 1980–1985: games {'p': 39, 'w': 11, 'd': 9, 'l': 19, 'gf': 47, 'ga': 56}, Wikipedia P40 W11 D9 L20 GF47 GA59
+MANAGER FIGURES Jack Charlton 1986–1996: games {'p': 95, 'w': 47, 'd': 30, 'l': 18, 'gf': 130, 'ga': 67}, Wikipedia P94 W47 D30 L17 GF128 GA63
+MANAGER FIGURES Mick McCarthy 1996–2002: games {'p': 68, 'w': 29, 'd': 20, 'l': 19, 'gf': 112, 'ga': 66}, Wikipedia P68 W29 D20 L19 GF112 GA67

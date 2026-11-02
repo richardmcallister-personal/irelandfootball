@@ -4,7 +4,7 @@ Read CLAUDE.md first.
 
 ## Done
 
-Pages: hub, season, squad, results, players, player, opponents, opponent, records, managers, kits, search, match centre. Real crests, logos, kits and iPhone launch images are in.
+Pages: hub, season, squad, results, players, player, opponents, opponent, records, managers, manager, kits, search, match centre. Real crests, logos, kits and iPhone launch images are in.
 Archive: 639 matches 1924 to 4 Oct 2026, 566 players, 87 opponents, 30 manager spells. Tested locally with mocked standings and squad, and real fixtures and match data read through manutd.wiki.
 
 ## Live

@@ -136,8 +136,9 @@ for n, c in unknown.most_common(): rec.append(f"SCORER NOT IN CAPS LIST {n} ({c}
 players.sort(key=lambda p: (-p["caps"], p["name"]))
 json.dump(players, open(OUT + "players.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
 json.dump(sbl, open(OUT + "player_goals.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
-# ---- managers (Wikipedia table)
+# ---- managers (Wikipedia table: one row per spell; a person with two spells gets one page)
 tt = open(D + "wiki_team.txt", encoding="utf-8").read(); i = tt.find("===Coaching history==="); j = tt.find("\n==Players==", i); mt = tt[i:j]; mgrs = []
+WIKI_FIX = json.load(open(D + "manager_wiki.json", encoding="utf-8"))   # checked article titles; null = no article
 for block in mt.split("\n|-")[2:]:
     cells = [c[1:].strip() if c.startswith("|") else c for c in block.strip().split("\n")]
     if len(cells) < 9: continue
@@ -147,7 +148,38 @@ for block in mt.split("\n|-")[2:]:
     try: p, w, d, l, gf, ga = [int(re.sub(r"[^\d]", "", n)) for n in nums]
     except ValueError: continue
     note = clean(re.sub(r'style="[^"]*"\s*\|?', "", cells[-1])) if len(cells) > 11 else ""
-    mgrs.append({"name": name, "career": clean(cells[1]), "p": p, "w": w, "d": d, "l": l, "gf": gf, "ga": ga, "note": note[:160]})
+    yrs = re.findall(r"\d{4}", clean(cells[1]))
+    mgrs.append({"name": name, "slug": slug(name.replace(", Sr.", "")), "career": clean(cells[1]), "from": int(yrs[0]), "to": int(yrs[-1]) if len(yrs) > 1 or not clean(cells[1]).endswith("–") else 9999, "p": p, "w": w, "d": d, "l": l, "gf": gf, "ga": ga, "note": note[:160]})
+def same(ms, s): return all(tally(ms)[k] == s[k] for k in ("p", "w", "d", "l", "gf", "ga"))
+def spell_for(surname, y):
+    f = [s for s in mgrs if fold(s["name"].replace(", Sr.", "")).split()[-1] == fold(surname).split()[-1] and s["from"] <= y <= s["to"]]
+    return f[0] if f else None
+# 1. Where Wikipedia's match list names a manager, use it; a row with no name takes the previous row's manager if his spell covers that year.
+for r in rows:
+    s = spell_for(r["m"], int(r["d"][:4])) if r.get("m") and r["m"] not in ("OCI", "FAIFS", "FAI") else None
+    if s: r["_s"] = s
+prev = None
+for r in rows:
+    if "_s" in r: prev = r["_s"]
+    elif not r.get("m") and prev and int(r["d"][:4]) <= prev["to"]: r["_s"] = prev
+# 2. Before 1969 the list only says "FAI". Assign a spell's games only where one unbroken run inside its years matches Wikipedia's figures exactly, and only one run does.
+for s in mgrs:
+    if any(r.get("_s") is s for r in rows) or not s["p"]: continue
+    free = [r for r in rows if "_s" not in r and s["from"] <= int(r["d"][:4]) <= s["to"]]
+    hits = [free[a:a + s["p"]] for a in range(len(free) - s["p"] + 1) if same(free[a:a + s["p"]], s)]
+    if len(hits) == 1:
+        for r in hits[0]: r["_s"] = s
+    else: rec.append(f"MANAGER GAMES NOT PLACED {s['name']} {s['career']}: {len(hits)} possible runs")
+for s in mgrs:
+    ms = [r for r in rows if r.get("_s") is s]; s["listed"] = len(ms)
+    if ms and not same(ms, s): rec.append(f"MANAGER FIGURES {s['name']} {s['career']}: games {tally(ms)}, Wikipedia P{s['p']} W{s['w']} D{s['d']} L{s['l']} GF{s['gf']} GA{s['ga']}")
+for r in rows:
+    s = r.pop("_s", None)
+    if s: r["ms"] = s["slug"]; r["mn"] = s["name"]
+    r.pop("m", None)
+for s in mgrs:
+    s["wiki"] = WIKI_FIX.get(s["slug"], s["name"].replace(" ", "_")) if s["slug"] != "selection-committee" else None
+json.dump(rows, open(OUT + "matches.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
 json.dump(mgrs, open(OUT + "managers.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
 # ---- records
 def runs(pred):
@@ -193,7 +225,7 @@ json.dump(R, open(OUT + "records.json", "w", encoding="utf-8"), ensure_ascii=Fal
 S = []
 for p in players: S.append([p["name"], "player", "/player/?p=" + p["slug"], f"{p['pos']} · {(p['debut'] or '')[:4]}–{(p['last'] or '')[:4]} · {p['caps']} caps, {p['goals']} goals", []])
 for o in opps: S.append([o["name"], "club", "/opponent/?o=" + o["slug"], f"{o['p']} games, {o['w']} wins", []])
-for m in mgrs: S.append([m["name"], "manager", "/managers/", f"{m['career']} · {m['p']} games", []])
+for m in {x["slug"]: x for x in mgrs}.values(): S.append([m["name"], "manager", "/manager/?m=" + m["slug"], f"{m['career']} · {m['p']} games", []])
 for k, v in sorted(dec.items()): S.append([k, "season", "/results/?dec=" + k[:4], f"{len(v)} games", []])
 json.dump(S, open("site/search.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
 json.dump({"archive": {"date": DT.date.today().isoformat(), "note": f"{len(rows)} matches to {rows[-1]['d']}"}}, open("site/status.json", "w"), indent=0)

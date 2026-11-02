@@ -69,7 +69,7 @@ function scs(m){var a=(m.sc||[]).map(function(s){return E(s[0])+(s[1]?" "+E(s[1]
 function wl(t){return t.w+"W "+t.d+"D "+t.l+"L"}
 function pct(t){return t.p?Math.round(100*t.w/t.p):0}
 
-fetch("/history/managers.json").then(function(r){return r.json()}).then(function(L){$("list").innerHTML='<table class="mu"><thead><tr><th>Manager</th><th>Years</th><th class="n">P</th><th class="n">W</th><th class="n">D</th><th class="n">L</th><th class="n">GF</th><th class="n">GA</th><th class="n">Win %</th></tr></thead><tbody>'+L.slice().reverse().map(function(m){return '<tr><td>'+E(m.name)+'</td><td>'+E(m.career)+'</td><td class="n">'+m.p+'</td><td class="n">'+m.w+'</td><td class="n">'+m.d+'</td><td class="n">'+m.l+'</td><td class="n">'+m.gf+'</td><td class="n">'+m.ga+'</td><td class="n">'+pct(m)+'</td></tr>'}).join("")+'</tbody></table>'});
+fetch("/history/managers.json").then(function(r){return r.json()}).then(function(L){$("list").innerHTML='<table class="mu"><thead><tr><th>Manager</th><th>Years</th><th class="n">P</th><th class="n">W</th><th class="n">D</th><th class="n">L</th><th class="n">GF</th><th class="n">GA</th><th class="n">Win %</th></tr></thead><tbody>'+L.slice().reverse().map(function(m){return '<tr><td><a href="/manager/?m='+m.slug+'">'+E(m.name.replace(", Sr.",""))+'</a></td><td>'+E(m.career)+'</td><td class="n">'+m.p+'</td><td class="n">'+m.w+'</td><td class="n">'+m.d+'</td><td class="n">'+m.l+'</td><td class="n">'+m.gf+'</td><td class="n">'+m.ga+'</td><td class="n">'+pct(m)+'</td></tr>'}).join("")+'</tbody></table>'});
 
 })();
 </script></body></html>
