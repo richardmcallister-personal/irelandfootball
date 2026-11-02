@@ -3,6 +3,7 @@
   "main": "worker.js",
   "compatibility_date": "2026-09-11",
   "assets": { "directory": "./site", "binding": "ASSETS", "run_worker_first": true },
+  "workers_dev": true,   // keep the workers.dev address working as well as the domain
   "routes": [{ "pattern": "irelandfootball.wiki", "custom_domain": true }, { "pattern": "www.irelandfootball.wiki", "custom_domain": true }],
   "kv_namespaces": [{ "binding": "MU_CACHE", "id": "528c9417ccdd4af29cf1c35adf9d8e79" }],
   "triggers": { "crons": ["7 * * * *"] },
