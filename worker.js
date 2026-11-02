@@ -17,7 +17,8 @@ function seasons(now = new Date()) { const y = now.getUTCFullYear(); return [y -
 const ROUTES = {
   "/api/status":   { ttl: 300,   path: () => `/status` },
   "/api/fixtures": { ttl: 1800,  paths: () => seasons().map((s) => `/fixtures?team=${TEAM}&season=${s}`) },
-  "/api/standings": { ttl: 1800, paths: () => seasons().map((s) => `/standings?team=${TEAM}&season=${s}`) },
+  "/api/standings": { ttl: 1800, custom: standings },
+  "/api/team-season": { ttl: 30 * 86400, path: (u) => `/fixtures?team=${TEAM}&season=${num(u, "season")}` },   // past years, for the archive builders
   "/api/squad":    { ttl: 21600, path: () => `/players/squads?team=${TEAM}` },
   "/api/match":    { ttl: 21600, live: true, path: (u) => `/fixtures?id=${num(u, "fixture")}` },
   "/api/player":   { ttl: 86400, path: (u) => `/players?id=${num(u, "id")}&season=${seasons()[1]}` },
@@ -111,7 +112,32 @@ async function fetchOne(env, path) {
   try { j = JSON.parse(body); clean = !!upstream && upstream.ok && j && (Array.isArray(j.errors) ? j.errors.length === 0 : Object.keys(j.errors || {}).length === 0) && !j.message; } catch (e) {}
   return { clean, j, body };
 }
+// The team filter on /standings returns only Ireland's row, so it is used to find the competition, then the whole
+// competition is fetched and cut down to Ireland's group. The feed letters Nations League groups (League B - Group C);
+// UEFA numbers them, so the label is rewritten to match (League B, Group 3).
+async function standings(env) {
+  const out = [];
+  for (const s of seasons()) {
+    const a = await fetchOne(env, `/standings?team=${TEAM}&season=${s}`);
+    if (!a.clean) return { ok: false, body: a.body };
+    for (const r of a.j.response || []) {
+      const b = await fetchOne(env, `/standings?league=${r.league.id}&season=${r.league.season}`);
+      if (!b.clean) return { ok: false, body: b.body };
+      for (const l of b.j.response || []) {
+        const groups = (l.league.standings || []).filter((g) => g.some((x) => x.team.id === TEAM));
+        groups.forEach((g) => g.forEach((x) => { x.group = String(x.group || "").replace(/League ([A-D]) - Group ([A-D])/, (_, L, G) => `League ${L}, Group ${G.charCodeAt(0) - 64}`); }));
+        out.push({ league: Object.assign({}, l.league, { standings: groups }) });
+      }
+    }
+  }
+  return { ok: true, body: JSON.stringify({ errors: [], results: out.length, response: out }) };
+}
 async function refresh(env, key, route, url) {
+  if (route.custom) {
+    const r = await route.custom(env);
+    if (r.ok) await env.MU_CACHE.put(key, Math.floor(Date.now() / 1000) + "\n" + route.ttl + "\n" + r.body, { expirationTtl: route.ttl + KEEP });
+    return r;
+  }
   const paths = route.paths ? route.paths(url) : [route.path(url)];
   const parts = []; for (const p of paths) parts.push(await fetchOne(env, p));
   const bad = parts.find((x) => !x.clean);
