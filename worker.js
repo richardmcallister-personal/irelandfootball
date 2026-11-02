@@ -35,6 +35,7 @@ export default {
     if (url.pathname.startsWith("/img/player/")) return portrait(url, ctx);
     if (url.pathname === "/wiki") return wiki(url, env, ctx);
     if (url.pathname === "/wiki-raw") return wikiRaw(url, env, ctx);
+    if (url.pathname.startsWith("/push/")) { try { return await push(request, url, env, ctx); } catch (e) { return json({ error: "push: " + (e && e.message || e) }, 500); } }
     if (!url.pathname.startsWith("/api/")) return page(request, env);
 
     if (url.pathname === "/api/form") {
@@ -65,6 +66,7 @@ export default {
 
   // Hourly warm-up. Sequential and spaced, so it never trips the per-minute cap.
   async scheduled(event, env, ctx) {
+    if (event.cron === "* * * * *") { ctx.waitUntil(pushTick(env).catch((e) => console.log("pushTick", e && e.message))); return; }
     ctx.waitUntil(formStep(env).catch((e) => console.log("form", e && e.message)));
     ctx.waitUntil((async () => {
       for (const p of WARM) {
@@ -117,6 +119,124 @@ async function formStep(env) {
   state.updated = now;
   await env.MU_CACHE.put(FORM_KEY, JSON.stringify(state));
 }
+
+// ---- Match alerts: Web Push (subscriptions in KV under push:sub:<sha256(endpoint)>, VAPID keys generated into KV) ----------
+const b64u = { enc: (b) => btoa(String.fromCharCode(...new Uint8Array(b))).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, ""), dec: (s) => { s = s.replace(/-/g, "+").replace(/_/g, "/"); while (s.length % 4) s += "="; return Uint8Array.from(atob(s), (c) => c.charCodeAt(0)); } };
+const cat = (...as) => { const n = as.reduce((t, a) => t + a.length, 0), out = new Uint8Array(n); let o = 0; for (const a of as) { out.set(a, o); o += a.length; } return out; };
+const te = (s) => new TextEncoder().encode(s);
+async function vapidKeys(env) {
+  let j = await env.MU_CACHE.get("push:vapid", "json"); if (j) return j;
+  const kp = await crypto.subtle.generateKey({ name: "ECDSA", namedCurve: "P-256" }, true, ["sign", "verify"]);
+  j = { pub: b64u.enc(await crypto.subtle.exportKey("raw", kp.publicKey)), priv: await crypto.subtle.exportKey("jwk", kp.privateKey) };
+  await env.MU_CACHE.put("push:vapid", JSON.stringify(j)); return j;
+}
+async function vapidHeader(env, endpoint) {
+  const k = await vapidKeys(env), aud = new URL(endpoint).origin;
+  const hdr = b64u.enc(te(JSON.stringify({ typ: "JWT", alg: "ES256" }))), body = b64u.enc(te(JSON.stringify({ aud, exp: Math.floor(Date.now() / 1000) + 12 * 3600, sub: "mailto:richardmcallister@gmail.com" })));
+  const key = await crypto.subtle.importKey("jwk", k.priv, { name: "ECDSA", namedCurve: "P-256" }, false, ["sign"]);
+  const sig = await crypto.subtle.sign({ name: "ECDSA", hash: "SHA-256" }, key, te(hdr + "." + body));
+  return `vapid t=${hdr}.${body}.${b64u.enc(sig)}, k=${k.pub}`;
+}
+async function hkdf(salt, ikm, info, len) { const k = await crypto.subtle.importKey("raw", ikm, "HKDF", false, ["deriveBits"]); return new Uint8Array(await crypto.subtle.deriveBits({ name: "HKDF", hash: "SHA-256", salt, info }, k, len * 8)); }
+async function encryptPayload(sub, payload) {
+  const ua = b64u.dec(sub.keys.p256dh), auth = b64u.dec(sub.keys.auth);
+  const local = await crypto.subtle.generateKey({ name: "ECDH", namedCurve: "P-256" }, true, ["deriveBits"]);
+  const localPub = new Uint8Array(await crypto.subtle.exportKey("raw", local.publicKey));
+  const uaKey = await crypto.subtle.importKey("raw", ua, { name: "ECDH", namedCurve: "P-256" }, false, []);
+  const shared = new Uint8Array(await crypto.subtle.deriveBits({ name: "ECDH", public: uaKey }, local.privateKey, 256));
+  const salt = crypto.getRandomValues(new Uint8Array(16));
+  const ikm = await hkdf(auth, shared, cat(te("WebPush: info\0"), ua, localPub), 32);
+  const cek = await hkdf(salt, ikm, te("Content-Encoding: aes128gcm\0"), 16), nonce = await hkdf(salt, ikm, te("Content-Encoding: nonce\0"), 12);
+  const key = await crypto.subtle.importKey("raw", cek, "AES-GCM", false, ["encrypt"]);
+  const ct = new Uint8Array(await crypto.subtle.encrypt({ name: "AES-GCM", iv: nonce }, key, cat(te(payload), new Uint8Array([2]))));
+  return cat(salt, new Uint8Array([0, 0, 16, 0]), new Uint8Array([65]), localPub, ct);   // header: salt | rs=4096 | idlen=65 | local public key
+}
+async function sendPush(env, rec, msg) {
+  const sub = rec.sub, body = await encryptPayload(sub, JSON.stringify(msg).replace(/&apos;/g, "'"));
+  const r = await fetch(sub.endpoint, { method: "POST", headers: { "content-encoding": "aes128gcm", "content-type": "application/octet-stream", "ttl": String(msg.ttl || 3600), "urgency": "high", "authorization": await vapidHeader(env, sub.endpoint) }, body });
+  if (r.status === 404 || r.status === 410) { await env.MU_CACHE.delete(rec.key); return "gone"; }
+  return r.status;
+}
+async function subKey(endpoint) { const h = await crypto.subtle.digest("SHA-256", te(endpoint)); return "push:sub:" + [...new Uint8Array(h)].map((b) => b.toString(16).padStart(2, "0")).join(""); }
+async function allSubs(env) {
+  const out = []; let cursor;
+  do { const l = await env.MU_CACHE.list({ prefix: "push:sub:", cursor }); for (const k of l.keys) { const v = await env.MU_CACHE.get(k.name, "json"); if (v && v.sub) out.push({ key: k.name, ...v }); } cursor = l.list_complete ? null : l.cursor; } while (cursor);
+  return out;
+}
+async function push(request, url, env, ctx) {
+  const p = url.pathname;
+  if (p === "/push/key") return json({ key: (await vapidKeys(env)).pub });
+  if (request.method !== "POST") return json({ error: "POST" }, 405);
+  const b = await request.json().catch(() => ({}));
+  if (p === "/push/subscribe") {
+    if (!b.sub || !b.sub.endpoint || !b.sub.keys) return json({ error: "subscription required" }, 400);
+    const prefs = Object.assign({ goals: true, lineups: true, kickoff: true, result: true }, b.prefs || {});
+    const key = await subKey(b.sub.endpoint), old = await env.MU_CACHE.get(key, "json");
+    await env.MU_CACHE.put(key, JSON.stringify({ sub: b.sub, prefs, created: old ? old.created : Date.now(), seen: Date.now(), ua: (request.headers.get("user-agent") || "").slice(0, 120) }));
+    return json({ ok: true, prefs });
+  }
+  if (p === "/push/unsubscribe") { if (b.endpoint) await env.MU_CACHE.delete(await subKey(b.endpoint)); return json({ ok: true }); }
+  if (p === "/push/test") {
+    if (!b.endpoint) return json({ error: "endpoint required" }, 400);
+    const rec = await env.MU_CACHE.get(await subKey(b.endpoint), "json"); if (!rec) return json({ error: "not subscribed" }, 404);
+    const st = await sendPush(env, { key: await subKey(b.endpoint), ...rec }, { title: "Match alerts are on", body: "You'll hear about team news, goals and the final score for Ireland. This is a test.", url: "/", tag: "test" });
+    return json({ ok: st === 201 || st === 200, status: st });
+  }
+  return json({ error: "unknown" }, 404);
+}
+
+// A minute cron watches the next fixture from an hour before kick-off to the final whistle. Goal events are reconciled against the
+// official score, so a goal VAR rules out is never announced.
+async function pushTick(env) {
+  const now = Date.now(); let fx = await load(env, "api:v2:/api/fixtures?v=4");
+  if (!fx.body) { const r = await refresh(env, "api:v2:/api/fixtures?v=4", ROUTES["/api/fixtures"], new URL("https://site.local/api/fixtures?v=4")); if (!r.ok) return; fx = { body: r.body }; }
+  const list = JSON.parse(fx.body).response || [], next = list.filter((m) => !/FT|AET|PEN|CANC|PST|ABD|AWD|WO/.test(m.fixture.status.short)).sort((a, b) => a.fixture.timestamp - b.fixture.timestamp)[0];
+  if (!next) return;
+  const ko = next.fixture.timestamp * 1000, id = next.fixture.id;
+  if (now < ko - 65 * 60000 || now > ko + 3.5 * 3600000) return;
+  const subs = await allSubs(env); if (!subs.length) return;
+  const sk = "push:state:" + id, state = (await env.MU_CACHE.get(sk, "json")) || { sent: {} };
+  const home = next.teams.home.id === TEAM, opp = (home ? next.teams.away : next.teams.home).name, name = (h, a) => home ? "Ireland " + h + "–" + a + " " + opp : opp + " " + h + "–" + a + " Ireland";
+  const out = []; const fan = (pref, msg) => out.push({ pref, msg: Object.assign({ url: "/match/?id=" + id, tag: "m" + id, ko: next.fixture.date, opp, home, comp: next.league.name }, msg) });
+  if (state.sent.ft) return;   // the game is over: no more feed calls for it
+  // kick-off reminder, an hour before
+  if (!state.sent.kickoff && now >= ko - 62 * 60000 && now < ko - 45 * 60000) { state.sent.kickoff = 1; fan("kickoff", { title: (home ? "Ireland v " + opp : opp + " v Ireland") + " in an hour", body: next.league.name + " · " + (next.fixture.venue && next.fixture.venue.name || ""), kind: "kickoff" }); }
+  // live detail: one feed call a minute, shared with the match page's cache
+  const key = "api:v2:/api/match?fixture=" + id + "&v=4", route = ROUTES["/api/match"]; let m = await load(env, key);
+  if (!m.body || m.age > 50) { const r = await refresh(env, key, route, new URL("https://site.local/api/match?fixture=" + id + "&v=4")); if (r.ok) m = { body: r.body }; }
+  const f = m.body ? (JSON.parse(m.body).response || [])[0] : null;
+  if (f) {
+    const st = f.fixture.status.short, g = f.goals;
+    if (!state.sent.lineups && (f.lineups || []).length === 2) {
+      state.sent.lineups = 1; const us = f.lineups.find((l) => l.team.id === TEAM);
+      if (us) fan("lineups", { title: "Team news: Ireland XI", body: (us.formation ? us.formation + " · " : "") + us.startXI.map((x) => x.player.name.split(" ").pop()).join(", "), kind: "lineups" });
+    }
+    // Goal events reconciled against the official score: the feed logs a goal as soon as the ball goes in; if VAR rules it
+    // out the event can stay (usually with no scorer) while f.goals never moves. Only goals the score counts are sent,
+    // so a goal is announced on the first tick the score corroborates it, and a disallowed one never is.
+    const GE = (f.events || []).filter((e) => e.type === "Goal" && e.detail !== "Missed Penalty" && e.time && e.time.elapsed != null);
+    for (const [t, allowed] of [[f.teams.home, g.home], [f.teams.away, g.away]]) {
+      const mine = GE.filter((e) => e.team.id === t.id); mine.forEach((e) => { e.ok = true; });
+      const extra = mine.length - (allowed == null ? mine.length : allowed);
+      if (extra > 0) mine.filter((e) => !(e.player && e.player.name)).concat(mine.filter((e) => e.player && e.player.name).reverse()).slice(0, extra).forEach((e) => { e.ok = false; });
+    }
+    for (const e of GE) {
+      if (!e.ok) continue;
+      const eid = "g" + e.team.id + "-" + (e.player && e.player.id) + "-" + e.time.elapsed + "+" + (e.time.extra || 0);
+      if (state.sent[eid]) continue; state.sent[eid] = 1;
+      const us = e.team.id === TEAM, minute = e.time.elapsed + (e.time.extra ? "+" + e.time.extra : "") + "'";
+      // running score after this goal, counted from the events so far
+      const sofar = GE.filter((x) => x.ok && (x.time.elapsed < e.time.elapsed || (x.time.elapsed === e.time.elapsed && (x.time.extra || 0) <= (e.time.extra || 0)))), hg = sofar.filter((x) => x.team.id === f.teams.home.id).length, ag = sofar.length - hg;
+      fan("goals", { title: (us ? "GOAL! " : "") + name(hg, ag), body: (e.player && e.player.name || "") + " " + minute + (e.detail === "Penalty" ? " (pen)" : e.detail === "Own Goal" ? " (og)" : "") + (e.assist && e.assist.name ? " · assist " + e.assist.name : ""), kind: us ? "goal" : "goal-against" });
+    }
+    if (!state.sent.ht && st === "HT") { state.sent.ht = 1; fan("result", { title: "Half-time: " + name(g.home, g.away), body: next.league.name, kind: "ht" }); }
+    if (!state.sent.ft && /FT|AET|PEN/.test(st)) { state.sent.ft = 1; const pen = st === "PEN" && f.score && f.score.penalty ? " · " + f.score.penalty.home + "–" + f.score.penalty.away + " on penalties" : ""; const w = g.home === g.away ? (st === "PEN" ? "" : "Draw") : ((g.home > g.away) === home ? "Ireland win" : "Ireland lose"); fan("result", { title: "Full-time: " + name(g.home, g.away) + (st === "AET" ? " (aet)" : ""), body: (w ? w + pen + " · " : "") + next.league.name, kind: "ft", ttl: 86400 }); }
+  }
+  await env.MU_CACHE.put(sk, JSON.stringify(state), { expirationTtl: 2 * 86400 });
+  for (const o of out) for (const s of subs) { if (s.prefs && s.prefs[o.pref] === false) continue; try { await sendPush(env, s, o.msg); } catch (e) { console.log("push fail", e && e.message); } }
+}
+
+
 
 // Pages and data files. HTML gets the visitor's country for "where to watch" and consent later, so it is never shared from the edge cache.
 async function page(request, env) {

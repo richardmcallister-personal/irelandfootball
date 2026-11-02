@@ -11,6 +11,10 @@ Archive: 639 matches 1924 to 4 Oct 2026, 566 players, 87 opponents, 30 manager s
 
 Deployed from `main` by Workers Builds to irelandfootball.wiki (also irelandfootball.richardmcallister.workers.dev). Fixtures, group table, squad, match centre, Wikipedia and portraits all checked against real data.
 
+## Alerts
+
+Web Push on the hub, minute cron in the Worker. The live logic was replayed offline against the Ireland v Austria feed data, including a ruled-out goal. First live run: Austria v Ireland, 14 Nov 2026.
+
 ## Known gaps
 
 - Scorers: friendlies before about 2017 have none. Line-ups start about 2017.
@@ -20,5 +24,5 @@ Deployed from `main` by Workers Builds to irelandfootball.wiki (also irelandfoot
 
 ## Next, in order
 
-1. Port from manutd.wiki: goal alerts, Ask, trips, calendar, where to watch, timeline, compare. Analytics with consent.
+1. Port from manutd.wiki: Ask, trips, calendar, where to watch, timeline, compare. Analytics with consent.
 2. Ask eu-football.info about older line-ups and friendly scorers.
