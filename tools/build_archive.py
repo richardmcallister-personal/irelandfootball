@@ -146,7 +146,7 @@ for block in mt.split("\n|-")[2:]:
     nums = [clean(c) for c in cells[2:8]]
     try: p, w, d, l, gf, ga = [int(re.sub(r"[^\d]", "", n)) for n in nums]
     except ValueError: continue
-    note = clean(cells[-1]) if len(cells) > 11 else ""
+    note = clean(re.sub(r'style="[^"]*"\s*\|?', "", cells[-1])) if len(cells) > 11 else ""
     mgrs.append({"name": name, "career": clean(cells[1]), "p": p, "w": w, "d": d, "l": l, "gf": gf, "ga": ga, "note": note[:160]})
 json.dump(mgrs, open(OUT + "managers.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
 # ---- records
