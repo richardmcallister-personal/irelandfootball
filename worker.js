@@ -37,6 +37,11 @@ export default {
     if (url.pathname === "/wiki-raw") return wikiRaw(url, env, ctx);
     if (!url.pathname.startsWith("/api/")) return page(request, env);
 
+    if (url.pathname === "/api/form") {
+      const body = (await env.MU_CACHE.get(FORM_KEY)) || '{"players":{}}';
+      if (env.API_FOOTBALL_KEY) ctx.waitUntil(formStep(env).catch((e) => console.log("form", e && e.message)));
+      return new Response(body, { headers: headers("kv-form") });
+    }
     const route = ROUTES[url.pathname];
     if (!route) return json({ error: "unknown route" }, 404);
     if (!env.API_FOOTBALL_KEY) return json({ error: "API_FOOTBALL_KEY secret not set on the Worker" }, 500);
@@ -60,6 +65,7 @@ export default {
 
   // Hourly warm-up. Sequential and spaced, so it never trips the per-minute cap.
   async scheduled(event, env, ctx) {
+    ctx.waitUntil(formStep(env).catch((e) => console.log("form", e && e.message)));
     ctx.waitUntil((async () => {
       for (const p of WARM) {
         const url = new URL("https://site.local" + p + "?v=4");
@@ -72,6 +78,43 @@ export default {
     })());
   },
 };
+
+// ---- Club form: each squad player's club season and latest club game ---------------------------------------------------
+// A player costs 3 API calls. A step does at most FORM_STEP players, so it stays well inside a Worker's subrequest limit, and it
+// only touches players whose entry is older than FORM_AGE. The cron and page visits each trigger a step, guarded by a short lock.
+const FORM_KEY = "form:v1", FORM_STEP = 8, FORM_AGE = 12 * 3600 * 1000;
+function clubSeason(now = new Date()) { return now.getUTCMonth() >= 6 ? now.getUTCFullYear() : now.getUTCFullYear() - 1; }   // 2026/27 is labelled 2026
+async function formPlayer(env, id) {
+  const a = await fetchOne(env, `/players?id=${id}&season=${clubSeason()}`);
+  if (!a.clean) return null;
+  const rows = ((a.j.response || [])[0] || {}).statistics || [], clubs = rows.filter((s) => s.team && s.team.id !== TEAM && s.league && s.league.country !== "World");
+  if (!clubs.length) return { at: Date.now(), none: 1 };
+  const apps = (s) => (s.games && s.games.appearences) || 0;
+  const byTeam = {}; clubs.forEach((s) => { const t = byTeam[s.team.id] = byTeam[s.team.id] || { id: s.team.id, name: s.team.name, logo: s.team.logo, apps: 0, min: 0, goals: 0, assists: 0, saves: 0, conceded: 0 }; t.apps += apps(s); t.min += (s.games && s.games.minutes) || 0; t.goals += (s.goals && s.goals.total) || 0; t.assists += (s.goals && s.goals.assists) || 0; t.saves += (s.goals && s.goals.saves) || 0; t.conceded += (s.goals && s.goals.conceded) || 0; });
+  const club = Object.values(byTeam).sort((x, y) => y.apps - x.apps)[0];
+  const out = { at: Date.now(), club };
+  const b = await fetchOne(env, `/fixtures?team=${club.id}&last=1`), f = b.clean && (b.j.response || [])[0];
+  if (f) {
+    const home = f.teams.home.id === club.id, last = { id: f.fixture.id, d: f.fixture.date, opp: (home ? f.teams.away : f.teams.home).name, gf: home ? f.goals.home : f.goals.away, ga: home ? f.goals.away : f.goals.home, league: f.league.name };
+    const c = await fetchOne(env, `/fixtures/players?fixture=${f.fixture.id}&team=${club.id}`), me = c.clean && (((c.j.response || [])[0] || {}).players || []).find((p) => p.player.id === Number(id));
+    if (me) { const s = (me.statistics || [])[0] || {}; last.min = (s.games && s.games.minutes) || 0; last.goals = (s.goals && s.goals.total) || 0; last.assists = (s.goals && s.goals.assists) || 0; last.rating = s.games && s.games.rating; last.sub = !!(s.games && s.games.substitute); last.inSquad = 1; }
+    out.last = last;
+  }
+  return out;
+}
+async function formStep(env) {
+  if (await env.MU_CACHE.get("form:lock")) return;
+  let sq = await load(env, "api:v2:/api/squad?v=4");
+  if (!sq.body) { const r = await refresh(env, "api:v2:/api/squad?v=4", ROUTES["/api/squad"], new URL("https://site.local/api/squad?v=4")); if (!r.ok) return; sq = { body: r.body }; }
+  const squad = ((JSON.parse(sq.body).response || [])[0] || {}).players || [], state = JSON.parse((await env.MU_CACHE.get(FORM_KEY)) || '{"players":{}}');
+  const now = Date.now(), due = squad.filter((p) => !state.players[p.id] || now - state.players[p.id].at > FORM_AGE).slice(0, FORM_STEP);
+  if (!due.length) return;
+  await env.MU_CACHE.put("form:lock", "1", { expirationTtl: 120 });
+  for (const p of due) { const x = await formPlayer(env, p.id); if (x) state.players[p.id] = x; }
+  const keep = new Set(squad.map((p) => String(p.id))); Object.keys(state.players).forEach((k) => { if (!keep.has(k)) delete state.players[k]; });
+  state.updated = now;
+  await env.MU_CACHE.put(FORM_KEY, JSON.stringify(state));
+}
 
 // Pages and data files. HTML gets the visitor's country for "where to watch" and consent later, so it is never shared from the edge cache.
 async function page(request, env) {

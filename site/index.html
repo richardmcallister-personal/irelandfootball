@@ -59,6 +59,7 @@
  <div>
   <div class="sheet" id="table"><h2>Group table</h2><p class="sub">Loading…</p></div>
   <div class="sheet" id="otd" style="margin-top:12px"><h2>On this day</h2><p class="sub">Loading…</p></div>
+  <div class="sheet" id="clubform" style="margin-top:12px" hidden></div>
  </div>
  <div>
   <div class="sheet" id="alltime"><h2>All-time record</h2><p class="sub">Loading…</p></div>
@@ -99,6 +100,10 @@ fetch("/history/matches.json").then(function(r){return r.json()}).then(function(
   $("otd").innerHTML='<h2>On this day</h2>'+(hit.length?'<ul class="fxlist">'+hit.slice(0,5).map(function(m){return '<li class="'+(m.h===1?"home":"away")+'"><span class="d">'+m.d.slice(0,4)+'</span><span class="o">'+MU.club(m.o,14)+'<small class="sc">'+MU.compRow(m,14)+E(m.t)+'</small></span><span class="r" style="font-size:18px">'+score(m)+'</span></li>'}).join("")+'</ul>':'<p class="sub">Ireland have never played on this date.</p>')});
 fetch("/history/records.json").then(function(r){return r.json()}).then(function(R){var a=R.all;
   $("alltime").innerHTML='<h2>All-time record</h2><div class="h2h"><div><b>'+a.p+'</b><span>Played</span></div><div class="w"><b>'+a.w+'</b><span>Won</span></div><div><b>'+a.d+'</b><span>Drawn</span></div><div class="l"><b>'+a.l+'</b><span>Lost</span></div></div><p class="sub">Since '+dt(R.span[0])+'. '+a.gf+' scored, '+a.ga+' conceded. Top scorer: <a href="/player/?p='+R.scorers[0].slug+'">'+E(R.scorers[0].name)+'</a> ('+R.scorers[0].goals+'). Most caps: <a href="/player/?p='+R.caps[0].slug+'">'+E(R.caps[0].name)+'</a> ('+R.caps[0].caps+').</p>'});
+Promise.all([MU.api("squad"),fetch("/api/form").then(function(r){return r.json()})]).then(function(a){var F=a[1].players||{}, pl=(a[0].response&&a[0].response[0]&&a[0].response[0].players)||[], wk=Date.now()-10*864e5;
+  var R=pl.map(function(p){return {p:p,x:F[p.id]}}).filter(function(r){var l=r.x&&r.x.last; return l&&l.inSquad&&l.min>0&&new Date(l.d)>wk}).sort(function(u,v){var a=u.x.last,b=v.x.last; return (b.goals*3+b.assists*2)-(a.goals*3+a.assists*2)||parseFloat(b.rating||0)-parseFloat(a.rating||0)}).slice(0,6);
+  if(!R.length)return; var e=$("clubform"); e.hidden=false;
+  e.innerHTML='<h2>At their clubs</h2><ul class="fxlist">'+R.map(function(r){var l=r.x.last, s=l.gf>l.ga?"rw":l.gf<l.ga?"rl":"rd"; return '<li style="grid-template-columns:1fr auto"><span class="o">'+E(r.p.name)+'<small class="sc">'+E(r.x.club.name)+' v '+E(l.opp)+' <span class="'+s+'">'+l.gf+'–'+l.ga+'</span></small></span><span style="font-size:13px;text-align:right">'+l.min+'′'+(l.goals?"<br>"+l.goals+(l.goals>1?" goals":" goal"):"")+(l.assists?"<br>"+l.assists+(l.assists>1?" assists":" assist"):"")+'</span></li>'}).join("")+'</ul><p class="sub"><a href="/squad/">The whole squad</a></p>'}).catch(function(){});
 var mh=location.hash==="#more"&&$("more"); if(mh)mh.scrollIntoView();
 
 })();

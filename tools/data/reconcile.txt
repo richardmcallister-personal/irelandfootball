@@ -34,7 +34,20 @@ WIKI ONLY 2012-05-29 Tuscan Select XI 5-0 [Friendly] Unofficial match. Tuscan XI
 WIKI ONLY 2015-06-04 Northern Ireland 0-0 [Training match] Crowd: 50. Training match behind closed doors.
 WIKI ONLY 2018-05-21 Celtic F.C. 2-2 [Testimonial] Testimonial for Scott Brown.
 WIKI ONLY 2023-09-20 Netherlands 1-2 [Euro 2024 qualifier] 
+FEED SCORE 2021-11-14 Luxembourg: archive 3-0, feed 0-3
+CAPS James Abankwah: line-ups 7, Wikipedia 6
+CAPS Conor Coventry: line-ups 7, Wikipedia 5
+CAPS Jimmy Dunne: line-ups 4, Wikipedia 3
+GOALS Stephen Gleeson: dataset 1, Wikipedia 0
+CAPS Liam Kitching: line-ups 2, Wikipedia 1
+CAPS Bosun Lawal: line-ups 2, Wikipedia 1
+CAPS Ryan Manning: line-ups 26, Wikipedia 25
+CAPS Jack Moylan: line-ups 6, Wikipedia 4
+GOALS Alan O'Brien: dataset 1, Wikipedia 0
 GOALS Turlough O'Connor: dataset 1, Wikipedia 0
+GOALS Troy Parrott: dataset 15, Wikipedia 12
+CAPS Troy Parrott: line-ups 40, Wikipedia 39
+CAPS Liam Scales: line-ups 19, Wikipedia 17
 SCORER NOT IN CAPS LIST Johnny Gavin (2)
 MANAGER GAMES NOT PLACED Selection Committee 1924–1931: 0 possible runs
 MANAGER FIGURES Liam Tuohy 1971–1973: games {'p': 11, 'w': 3, 'd': 1, 'l': 7, 'gf': 14, 'ga': 24}, Wikipedia P10 W3 D1 L6 GF11 GA20

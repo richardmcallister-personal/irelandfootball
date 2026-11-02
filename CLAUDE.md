@@ -22,6 +22,8 @@ tools/data/      raw inputs and reconcile.txt (every disagreement between source
 | Two 1924 games the dataset lacks | `tools/data/extra_matches.csv` (Wikipedia + eu-football agree) | |
 | Venue, manager, match notes, caps list, manager table | Wikipedia wikitext | CC BY-SA, credited in the footer |
 | Live fixtures, tables, squad, match centre | API-Football, team 776, through the Worker | paid plan |
+| Recent scorers and line-ups, about 2017 on | API-Football through the Worker, stored in `tools/data/feed_matches.json` by `tools/build_feed.py` | paid plan |
+| Club form | Worker route `/api/form`, built a few players at a time into KV | paid plan |
 
 11v11.com and eu-football.info are not sources: 11v11's terms bar publishing its data, and eu-football has not given permission. Don't scrape them.
 
@@ -29,7 +31,7 @@ Manager of each game (`ms` on match rows): from Wikipedia's match list from 1969
 
 ## Conventions
 
-- Refresh data: `python3 tools/fetch_sources.py` (needs a deployed site for Wikipedia, or set WIKI_BASE), then `python3 tools/build_archive.py`, review `git diff tools/data/reconcile.txt`, commit.
+- Refresh data: `python3 tools/fetch_sources.py`, `python3 tools/build_feed.py`, then `python3 tools/build_archive.py`, review `git diff tools/data/reconcile.txt`, commit.
 - National teams have no club season. The Worker asks for this year's and last year's feed labels and joins them.
 - Opponents use association crests (`site/assets/crests/`, Richard's files, listed in `HAS` in mu.js). Former countries (Czechoslovakia, Soviet Union, Yugoslavia, West Germany) use one general federation mark, not an era-accurate shirt badge; see `tools/data/asset_sources.csv`. Never use the Ulster Banner on this site.
 - Competition logos: `MU.comp` for feed names, `MU.compRow` for archive rows (the edition the game belonged to). Originals are in `~/Documents/Projects/ireland-assets/` on Richard's Mac; `site/assets` holds resized copies.

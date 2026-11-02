@@ -2,7 +2,7 @@
 """Build site/history/*.json from tools/data/. No network. Run from the repo root.
 Results and scorers: martj42/international_results (CC0). Venue, manager, match notes, caps: Wikipedia (CC BY-SA).
 Writes tools/data/reconcile.txt listing every disagreement between the two, for review."""
-import csv, json, re, unicodedata, collections as C, datetime as DT
+import csv, json, os, re, unicodedata, collections as C, datetime as DT
 T = "Republic of Ireland"; OUT = "site/history/"; D = "tools/data/"
 def rd(f): return list(csv.DictReader(open(D + f + ".csv", encoding="utf-8")))
 def fold(s): return re.sub(r"[^a-z0-9 ]", "", unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()).strip()
@@ -79,6 +79,31 @@ for r in rd("results") + EXTRA:
 for d, cs in sorted(wiki.items()):
     for c in cs:
         if (d, c["opp"]) not in used: rec.append(f"WIKI ONLY {d} {c['opp']} {c['gf']}-{c['ga']} [{c['comp']}] {c['note'][:70]}")
+# ---- feed: match-centre ids, games the dataset has not reached yet, scorers where the dataset has none, line-ups
+FEED = json.load(open(D + "feed_matches.json", encoding="utf-8")) if os.path.exists(D + "feed_matches.json") else {}
+FCOMP = [("World Cup - Qualification", "WCQ", "FIFA World Cup qualification"), ("World Cup", "WC", "FIFA World Cup"), ("Euro Championship - Qualification", "ECQ", "UEFA Euro qualification"), ("Euro Championship", "EC", "UEFA Euro"), ("Nations League", "NL", "UEFA Nations League"), ("Friendlies", "FR", "Friendly")]
+FNAME = {"Rep. Of Ireland": T, "FYR Macedonia": "North Macedonia", "Czechia": "Czech Republic", "USA": "United States"}
+byday = {r["d"]: r for r in rows}
+def feedrow(f):
+    day = DT.date.fromisoformat(f["d"])
+    for x in (0, -1, 1):
+        r = byday.get((day + DT.timedelta(days=x)).isoformat())
+        if r: return r
+    return None
+for f in sorted(FEED.values(), key=lambda x: x["d"]):
+    r = feedrow(f)
+    if not r:
+        c, t = next(((c, t) for k, c, t in FCOMP if k in f["league"]), ("FR", f["league"]))
+        r = {"d": f["d"], "c": c, "t": t, "o": FNAME.get(f["opp"], f["opp"]), "h": 1 if f["home"] else -1, "gf": f["gf"], "ga": f["ga"], "city": f.get("city") or "", "ctry": "", "scf": 0}
+        if f.get("venue"): r["v"] = f["venue"]
+        rows.append(r); byday[f["d"]] = r; rec.append(f"FEED ONLY {f['d']} {r['o']} {f['gf']}-{f['ga']}")
+    elif (r["gf"], r["ga"]) != (f["gf"], f["ga"]) and f["st"] == "FT": rec.append(f"FEED SCORE {r['d']} {r['o']}: archive {r['gf']}-{r['ga']}, feed {f['gf']}-{f['ga']}")
+    r["id"] = f["id"]; r["_f"] = f
+    if len(r.get("sc", [])) < r["gf"]:
+        if len(f["goals"]) == r["gf"] and all(g["n"] for g in f["goals"]):
+            r["sc"] = [[g["n"], (str(g["m"]) + ("+" + str(g["x"]) if g["x"] else ""))] + (["p"] if g["d"] == "Penalty" else ["og"] if g["d"] == "Own Goal" else []) for g in sorted(f["goals"], key=lambda g: (g["m"], g["x"] or 0))]
+            r["scf"] = 1; r["_fs"] = 1
+        else: rec.append(f"FEED SCORERS {r['d']} {r['o']}: {len(f['goals'])} goal events for {r['gf']} goals, not used")
 rows.sort(key=lambda r: r["d"])
 for i, r in enumerate(rows): r["i"] = i + 1
 def res(r): return "W" if r["gf"] > r["ga"] else "L" if r["gf"] < r["ga"] else "D"
@@ -108,6 +133,10 @@ for m in re.finditer(r"\{\{sortname\|([^|}]*)\|([^|}]*)((?:\|[^}]*)?)\}\}(.*?)(?
     pos, caps, gl, deb, debo, last, lasto = f.groups()
     ex = extra.strip("|"); link = name + " (" + ex[4:] + ")" if ex.startswith("dab=") else (ex or name)
     players.append({"name": name, "slug": slug(name), "wiki": link.replace(" ", "_"), "pos": pos, "caps": int(caps), "goals": int(gl), "debut": iso(deb), "debo": debo, "last": iso(last), "lasto": lasto})
+# Capped players missing from Wikipedia's list (found through the feed's line-ups). Their caps are counted from those line-ups.
+for x in json.load(open(D + "extra_players.json", encoding="utf-8")):
+    if not any(fold(p["name"]) == fold(x["name"]) for p in players):
+        players.append({"name": x["name"], "slug": slug(x["name"]), "wiki": x["name"].replace(" ", "_"), "pos": x["pos"], "caps": 0, "goals": 0, "debut": None, "debo": "", "last": None, "lasto": "", "fromfeed": 1})
 seen = C.Counter(p["slug"] for p in players)
 if max(seen.values(), default=0) > 1:
     idx = C.Counter()
@@ -122,6 +151,39 @@ def who(name, d):
     for p in c:
         if p["debut"] and p["last"] and p["debut"] <= d <= p["last"]: return p
     return c[0] if len(c) == 1 else None
+def feedwho(n, d):
+    """A feed name, usually 'T. Parrott', to the caps list. The surname must match and the initial if there is one."""
+    n = (n or "").replace("&apos;", "'").replace("’", "'"); n = {"Wesley Hoolahan": "Wes Hoolahan", "Michael Johnston": "Mikey Johnston"}.get(n, n); m = re.match(r"^([A-Z])\. ?(.*)$", n); ini, sn = (m.group(1).lower(), m.group(2)) if m else (None, n)
+    sf = fold(sn); out = []
+    for p in players:
+        pf = fold(p["name"])
+        if not (pf == sf or pf.endswith(" " + sf) or (not ini and sf.split()[-1:] == pf.split()[-1:] and sf.split()[:1] == pf.split()[:1])): continue
+        if ini and not pf.startswith(ini): continue
+        if p["debut"] and p["debut"] > d: continue
+        out.append(p)
+    return sorted(out, key=lambda p: p["last"] or "", reverse=True)[0] if out else None
+apps = C.defaultdict(list); lineups = {}; nomatch = C.Counter()
+for r in rows:
+    f = r.pop("_f", None)
+    if r.pop("_fs", None):
+        for s in r["sc"]:
+            p = feedwho(s[0], r["d"]) if "og" not in s else None
+            if p: s[0] = p["name"]
+            elif "og" not in s: nomatch[s[0]] += 1
+    if not f or not f["xi"]: continue
+    onfield = set(f["subs"]); L = {"form": f.get("form"), "coach": f.get("coach"), "xi": [], "bench": []}
+    for key, names in (("xi", f["xi"]), ("bench", f["bench"])):
+        for n in names:
+            p = feedwho(n, r["d"]); e = {"n": p["name"] if p else n.replace("&apos;", "'")}
+            if p: e["s"] = p["slug"]
+            elif key == "xi": nomatch[n] += 1
+            if key == "bench" and n in onfield: e["on"] = 1
+            L[key].append(e)
+            if p and (key == "xi" or n in onfield): apps[p["slug"]].append({"i": r["d"], "o": r["o"], "st": 1 if key == "xi" else 0, "id": r.get("id")})
+    lineups[r["d"]] = L
+for n, c in nomatch.most_common(): rec.append(f"FEED NAME NOT IN CAPS LIST {n} ({c})")
+json.dump(lineups, open(OUT + "lineups.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
+json.dump(apps, open(OUT + "player_apps.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
 sbl = C.defaultdict(list); unknown = C.Counter()
 for r in rows:
     for s in r.get("sc", []):
@@ -131,7 +193,15 @@ for r in rows:
         else: unknown[s[0]] += 1
 for p in players:
     n = len(sbl.get(p["slug"], [])); p["known"] = n
-    if n > p["goals"]: rec.append(f"GOALS {p['name']}: dataset {n}, Wikipedia {p['goals']}")
+    if n > p["goals"]:
+        if not p.get("fromfeed"): rec.append(f"GOALS {p['name']}: dataset {n}, Wikipedia {p['goals']}")
+        p["goals"] = n   # Wikipedia's list lags the latest games
+    A = apps.get(p["slug"], [])
+    if len(A) > p["caps"]:
+        if not p.get("fromfeed"): rec.append(f"CAPS {p['name']}: line-ups {len(A)}, Wikipedia {p['caps']}")
+        p["caps"] = len(A)
+    if A and (not p["last"] or A[-1]["i"] > p["last"]): p["last"], p["lasto"] = A[-1]["i"], A[-1]["o"]
+    if A and not p["debut"]: p["debut"], p["debo"] = A[0]["i"], A[0]["o"]
 for n, c in unknown.most_common(): rec.append(f"SCORER NOT IN CAPS LIST {n} ({c})")
 players.sort(key=lambda p: (-p["caps"], p["name"]))
 json.dump(players, open(OUT + "players.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))

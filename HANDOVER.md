@@ -13,15 +13,12 @@ Deployed from `main` by Workers Builds to irelandfootball.wiki (also irelandfoot
 
 ## Known gaps
 
-- Scorers: 442 of 870 goals. None for friendlies; 6 of 23 Nations League goals missing.
+- Scorers: friendlies before about 2017 have none. Line-ups start about 2017.
 - Feed history for team 776 (`/api/team-season?season=Y`): see the year-by-year result below. Next data job: fill recent friendly scorers and line-ups from it.
 - Totals differ slightly from eu-football (639 games, 246 W against 247, 181 D against 180, 870 GF against 867, 775 GA against 772). See tools/data/reconcile.txt. Which early and unofficial games count is still Richard's call.
-- The results archive only updates when the builders are re-run. There is no scheduled refresh yet.
+- Results update through the weekly scheduled task, so a game can take up to a week to reach the archive.
 
 ## Next, in order
 
-1. Fill recent scorers and line-ups from the feed.
-2. Club form: how each squad player is doing at his club. Needed before launch, as Ireland only play about 10 games a year.
-3. Port from manutd.wiki: goal alerts, Ask, trips, calendar, where to watch, timeline, compare, Analytics with consent.
-4. Weekly data refresh as a scheduled task.
-5. Ask eu-football.info about older line-ups and friendly scorers.
+1. Port from manutd.wiki: goal alerts, Ask, trips, calendar, where to watch, timeline, compare. Analytics with consent.
+2. Ask eu-football.info about older line-ups and friendly scorers.
