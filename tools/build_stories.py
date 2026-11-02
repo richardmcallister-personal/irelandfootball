@@ -68,19 +68,18 @@ WC = [x for x in M if x["c"] == "WC" and x["d"].startswith("1990")]
 assert [(x["o"], x["gf"], x["ga"]) for x in WC] == [("England", 1, 1), ("Egypt", 0, 0), ("Netherlands", 1, 1), ("Romania", 0, 0), ("Italy", 0, 1)]
 assert not [x for x in M if x["c"] == "WC" and x["d"] < "1990"]
 KICKS = [("Romania", "Gheorghe Hagi", 1), ("Ireland", "Kevin Sheedy", 1), ("Romania", "Dănuț Lupu", 1), ("Ireland", "Ray Houghton", 1), ("Romania", "Iosif Rotariu", 1), ("Ireland", "Andy Townsend", 1), ("Romania", "Ioan Lupescu", 1), ("Ireland", "Tony Cascarino", 1), ("Romania", "Daniel Timofte", 0), ("Ireland", "David O'Leary", 1)]
-H = [("Kick", 1), ("Team", 0), ("Taker", 0), ("Result", 0), ("Ireland–Romania", 1)]
+H = [("Kick", 1), ("Taker", 0), ("Result", 0), ("Ire–Rom", 1)]
 ie = ro = 0; rows = []
 for i, (t, n, ok) in enumerate(KICKS, 1):
     if t == "Ireland": ie += ok
     else: ro += ok
-    res = "Scored" if ok else "Saved by " + who("Packie Bonner")
+    res = "Scored" if ok else "Saved by " + who("Packie Bonner", "Bonner")
     shown = who(n, n.replace("'", "’")) if t == "Ireland" else E(n)
-    if i == 10: res = "Scored. Ireland are through"
-    rows.append(tr([i, team(t), shown, res, f"{ie}–{ro}"], H, "key" if i >= 9 else ""))
+    rows.append(tr([i, shown + f'<span class="tagn">{t}</span>', res, f"{ie}–{ro}"], H, "key" if i >= 9 else ""))
 assert (ie, ro) == (5, 4)
-H2 = [("Date", 0), ("Round", 0), ("Game", 0), ("Where", 0), ("Scorers", 0)]
+H2 = [("Date", 0), ("Game", 0)]
 RND = ["Group", "Group", "Group", "Last 16", "Quarter-final"]
-gm = "".join(tr([dt(x["d"]), RND[i], ire(x) + (" (5–4 on penalties)" if x.get("pw") == 1 else ""), E(x["city"]), E(names(x)) or ("Salvatore Schillaci for Italy" if x["o"] == "Italy" else "None")], H2, "key" if x["d"] == r["d"] else "") for i, x in enumerate(WC))
+gm = "".join(tr([dt(x["d"]) + f'<span class="tagn">{RND[i]}</span>', ire(x) + (" (5–4 on penalties)" if x.get("pw") == 1 else "") + f'<span class="tagn">{E(x["city"])}. ' + (E(names(x)) or ("Salvatore Schillaci for Italy" if x["o"] == "Italy" else "No goals")) + "</span>"], H2, "key" if x["d"] == r["d"] else "") for i, x in enumerate(WC))
 body = f'''<div class="sheet story">
   <h2>World Cup 1990, last 16</h2>
   <div class="big">{team("Ireland")} 0–0 {team("Romania")}</div>
@@ -129,21 +128,21 @@ for x in M:   # Ireland's games in the list above must agree with the archive
 def stable(S, hl="Ireland"):
     H = [("Team", 0), ("P", 1), ("W", 1), ("D", 1), ("L", 1), ("F", 1), ("A", 1), ("Pts", 1)]
     return table(H, [tr([team(t["n"]), t["p"], t["w"], t["d"], t["l"], t["f"], t["a"], t["pts"]], H, "key" if t["n"] == hl else "") for t in S])
-HQ = [("Date", 0), ("Game", 0), ("", 0)]
+HQ = [("Date", 0), ("Game", 0)]
 WHY = {("14 Oct 1987", "Ireland"): "Ireland’s last game. Second-half goals from McGrath and Moran, then a month’s wait.", ("11 Nov 1987", "Bulgaria"): "Mackay, 86′. Scotland could not qualify; their win sent Ireland through.", ("1 Apr 1987", "Bulgaria"): "Ireland’s only defeat, two Tanev goals, the second a late penalty.", ("18 Feb 1987", "Scotland"): "Lawrenson’s early goal won it at Hampden.", ("23 Sep 1987", "Bulgaria"): "Belgium, the group favourites, fell away. They did not beat Ireland or Bulgaria."}
 gq = []
 for g in G7:
     us = "Ireland" in (g[1], g[4]); k = (g[0], g[1]); note = WHY.get(k, "")
-    if not us: note = '<span class="tagn">Not an Ireland game</span>' + note
-    gq.append(tr([g[0], f"{team(g[1])} {g[2]}–{g[3]} {team(g[4])}", note], HQ, "key" if k in (("14 Oct 1987", "Ireland"), ("11 Nov 1987", "Bulgaria")) else "" if us else "not"))
+    if not us: note = "Not an Ireland game" + (". " + note if note else "")
+    gq.append(tr([g[0], f"{team(g[1])} {g[2]}–{g[3]} {team(g[4])}" + (f'<span class="tagn">{note}</span>' if note else ""), ], HQ, "key" if k in (("14 Oct 1987", "Ireland"), ("11 Nov 1987", "Bulgaria")) else "" if us else "not"))
 F2 = [("12 Jun 1988", "England", 0, 1, "Ireland"), ("12 Jun 1988", "Soviet Union", 1, 0, "Netherlands"), ("15 Jun 1988", "Ireland", 1, 1, "Soviet Union"), ("15 Jun 1988", "England", 1, 3, "Netherlands"), ("18 Jun 1988", "England", 1, 3, "Soviet Union"), ("18 Jun 1988", "Ireland", 0, 1, "Netherlands")]
 S2 = standings(F2)
 assert [(t["n"], t["pts"], t["f"], t["a"]) for t in S2] == [("Soviet Union", 5, 5, 2), ("Netherlands", 4, 4, 2), ("Ireland", 3, 2, 2), ("England", 0, 2, 7)]
 dr = standings(F2[:-1] + [("18 Jun 1988", "Ireland", 0, 0, "Netherlands")])
 assert (dr[1]["n"], dr[1]["pts"], dr[2]["n"], dr[2]["pts"]) == ("Ireland", 4, "Netherlands", 3)
 for d, o in (("1988-06-12", "England"), ("1988-06-15", "Soviet Union"), ("1988-06-18", "Netherlands")): assert ROW[d]["o"] == o and ROW[d]["c"] == "EC"
-HF = [("Date", 0), ("Game", 0), ("Where", 0), ("Ireland’s scorer", 0), ("", 0)]
-fin = "".join(tr([dt(d), ire(ROW[d]), E(ROW[d]["city"]), E(names(ROW[d])) or "None", n], HF, "key" if d == "1988-06-12" else "") for d, n in (("1988-06-12", "Houghton scored the winner in the sixth minute. Ireland’s first game at a major finals."), ("1988-06-15", "Whelan’s goal, Protasov levelled after 74 minutes."), ("1988-06-18", "A draw would have sent Ireland to the semi-finals. Kieft scored after 82 minutes.")))
+HF = [("Date", 0), ("Game", 0)]
+fin = "".join(tr([dt(d), ire(ROW[d]) + f'<span class="tagn">{E(ROW[d]["city"])}. {n}</span>'], HF, "key" if d == "1988-06-12" else "") for d, n in (("1988-06-12", "Houghton scored the winner in the sixth minute. Ireland’s first game at a major finals."), ("1988-06-15", "Whelan’s goal, Protasov levelled after 74 minutes."), ("1988-06-18", "A draw would have sent Ireland to the semi-finals. Kieft scored after 82 minutes.")))
 SQ = [(1, "GK", "Packie Bonner", "Celtic", 23), (2, "DF", "Chris Morris", "Celtic", 5), (3, "DF", "Chris Hughton", "Tottenham Hotspur", 36), (4, "DF", "Mick McCarthy", "Celtic", 27), (5, "DF", "Kevin Moran", "Manchester United", 36), (6, "MF", "Ronnie Whelan", "Liverpool", 26), (7, "MF", "Paul McGrath", "Manchester United", 23), (8, "MF", "Ray Houghton", "Liverpool", 15), (9, "FW", "John Aldridge", "Liverpool", 15), (10, "FW", "Frank Stapleton", "Derby County", 63), (11, "MF", "Tony Galvin", "Sheffield Wednesday", 24), (12, "FW", "Tony Cascarino", "Millwall", 5), (13, "MF", "Liam O'Brien", "Manchester United", 6), (14, "FW", "David Kelly", "Walsall", 3), (15, "MF", "Kevin Sheedy", "Everton", 13), (16, "GK", "Gerry Peyton", "Bournemouth", 24), (17, "FW", "John Byrne", "Le Havre", 14), (18, "MF", "John Sheridan", "Leeds United", 4), (19, "DF", "John Anderson", "Newcastle United", 15), (20, "FW", "Niall Quinn", "Arsenal", 9)]
 HS = [("No.", 1), ("Pos", 0), ("Player", 0), ("Club", 0), ("Caps before", 1)]
 squad = [tr([n, pos, who(name, name.replace("'", "’")) + (" (captain)" if name == "Frank Stapleton" else ""), E(c), caps], HS) for n, pos, name, c, caps in SQ]
