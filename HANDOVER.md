@@ -9,7 +9,7 @@ Archive: 639 matches 1924 to 4 Oct 2026, 566 players, 87 opponents, 30 manager s
 
 ## Live
 
-Deployed from `main` by Workers Builds to irelandfootball.richardmcallister.workers.dev. Fixtures, group table, squad, match centre, Wikipedia and portraits all checked against real data.
+Deployed from `main` by Workers Builds to irelandfootball.wiki (also irelandfootball.richardmcallister.workers.dev). Fixtures, group table, squad, match centre, Wikipedia and portraits all checked against real data.
 
 ## Known gaps
 
@@ -20,9 +20,8 @@ Deployed from `main` by Workers Builds to irelandfootball.richardmcallister.work
 
 ## Next, in order
 
-1. Richard: buy the domain, then add the routes in wrangler.jsonc.
-2. Fill recent scorers and line-ups from the feed.
-3. Club form: how each squad player is doing at his club. Needed before launch, as Ireland only play about 10 games a year.
-4. Port from manutd.wiki: goal alerts, Ask, trips, calendar, where to watch, timeline, compare, Analytics with consent.
-5. Weekly data refresh as a scheduled task.
-6. Ask eu-football.info about older line-ups and friendly scorers.
+1. Fill recent scorers and line-ups from the feed.
+2. Club form: how each squad player is doing at his club. Needed before launch, as Ireland only play about 10 games a year.
+3. Port from manutd.wiki: goal alerts, Ask, trips, calendar, where to watch, timeline, compare, Analytics with consent.
+4. Weekly data refresh as a scheduled task.
+5. Ask eu-football.info about older line-ups and friendly scorers.
