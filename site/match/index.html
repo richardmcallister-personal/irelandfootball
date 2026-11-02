@@ -89,7 +89,7 @@ a.pl{color:var(--ink);text-decoration:none;border-bottom:1px solid #c9c9c9} a.pl
 </main>
 <footer class="mu">Live data from API-Football. Kick-offs are shown in your own time zone, with UK time beneath. An independent fan site, not connected with the FAI.</footer>
 </div>
-<script src="/mu.js"></script>
+<script src="/mu.js"></script><script src="/watch.js"></script>
 <script>
 (function(){
   MU.nav("Season"); 
@@ -116,6 +116,7 @@ a.pl{color:var(--ink);text-decoration:none;border-bottom:1px solid #c9c9c9} a.pl
       '<div><div class="team r"><span>'+MU.esc(a.name)+'</span>'+MU.crest(a.name,56)+'</div><div class="goals" style="text-align:right">'+goals(a)+'</div></div>';
     var day=ko.slice(0,10), FXE=OURS&&!/FT|AET|PEN/.test(f.fixture.status.short)?MU.fixFor(isUs(h)?a.name:h.name,isUs(h),f.fixture.date):null, acts='<a class="btn" href="/season/">Season</a><a class="btn" href="/squad/">Squad</a>';
         if(!OURS&&!DONE.test(f.fixture.status.short)) $("note").textContent="Not an Ireland game: the score here updates around half-time and full-time, not minute by minute.";
+    if(OURS&&!/FT|AET|PEN|CANC|ABD|AWD|WO/.test(f.fixture.status.short))acts+=MU.calLink(f.fixture.id);
     $("actions").innerHTML=acts;
     if(OURS&&!DONE.test(f.fixture.status.short)&&window.MUMiles&&!render.miles){render.miles=1; MUMiles.render($("miles"),f,{hideEmpty:true})} else if(!OURS||DONE.test(f.fixture.status.short))$("miles").hidden=true;
     if(window.MUWatch&&!/FT|AET|PEN|CANC|ABD|AWD|WO/.test(f.fixture.status.short))MUWatch.render($("watch"),{comp:f.league.name,ko:ko}); else $("watch").hidden=true;

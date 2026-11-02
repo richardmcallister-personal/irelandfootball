@@ -35,6 +35,7 @@ export default {
     if (url.pathname.startsWith("/img/player/")) return portrait(url, ctx);
     if (url.pathname === "/wiki") return wiki(url, env, ctx);
     if (url.pathname === "/wiki-raw") return wikiRaw(url, env, ctx);
+    if (url.pathname === "/calendar.ics") { try { return await calendar(url, env); } catch (e) { return json({ error: "calendar: " + (e && e.message || e) }, 500); } }
     if (url.pathname.startsWith("/push/")) { try { return await push(request, url, env, ctx); } catch (e) { return json({ error: "push: " + (e && e.message || e) }, 500); } }
     if (!url.pathname.startsWith("/api/")) return page(request, env);
 
@@ -237,6 +238,30 @@ async function pushTick(env) {
 }
 
 
+
+// ---- Fixture calendar: every game in the fixtures feed, one event per fixture id, so a subscribed calendar follows a moved kick-off
+function icsEsc(t) { return String(t).replace(/\\/g, "\\\\").replace(/;/g, "\\;").replace(/,/g, "\\,").replace(/\r?\n/g, "\\n"); }
+function icsFold(line) { const enc = new TextEncoder(); if (enc.encode(line).length <= 74) return line; let out = "", cur = ""; for (const ch of line) { if (enc.encode(cur + ch).length > 73) { out += (out ? "\r\n " : "") + cur; cur = ch; } else cur += ch; } return out + "\r\n " + cur; }
+const icsTime = (iso) => new Date(iso).toISOString().replace(/[-:]/g, "").replace(/\.\d{3}/, "");
+async function calendar(url, env) {
+  let fx = await load(env, "api:v2:/api/fixtures?v=4");
+  if (!fx.body) { const r = await refresh(env, "api:v2:/api/fixtures?v=4", ROUTES["/api/fixtures"], new URL("https://site.local/api/fixtures?v=4")); if (!r.ok) return json({ error: "fixtures unavailable" }, 503); fx = { body: r.body }; }   // never an empty feed: a subscribed calendar would drop its events
+  const one = url.searchParams.get("m"), name = (t) => (t.id === TEAM ? "Ireland" : t.name).replace(/&apos;/g, "'"), origin = "https://irelandfootball.wiki", now = icsTime(new Date().toISOString());
+  const list = (JSON.parse(fx.body).response || []).filter((f) => !/CANC|ABD|AWD|WO/.test(f.fixture.status.short) && (!one || String(f.fixture.id) === one)).sort((a, b) => a.fixture.timestamp - b.fixture.timestamp);
+  if (one && !list.length) return new Response("No such fixture", { status: 404 });
+  const L = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//irelandfootball.wiki//Fixtures//EN", "CALSCALE:GREGORIAN", "METHOD:PUBLISH"];
+  if (!one) L.push("X-WR-CALNAME:Ireland football", "X-WR-CALDESC:" + icsEsc("Republic of Ireland men's fixtures from irelandfootball.wiki."), "X-WR-TIMEZONE:Europe/Dublin", "REFRESH-INTERVAL;VALUE=DURATION:PT6H", "X-PUBLISHED-TTL:PT6H");
+  for (const f of list) {
+    const st = f.fixture.status.short, done = /FT|AET|PEN/.test(st), unsure = /TBD|PST/.test(st), v = f.fixture.venue || {}, where = [v.name, v.city].filter(Boolean).join(", ");
+    const title = done ? name(f.teams.home) + " " + f.goals.home + "–" + f.goals.away + " " + name(f.teams.away) : name(f.teams.home) + " v " + name(f.teams.away) + (st === "PST" ? " (postponed)" : unsure ? " (time to be confirmed)" : "");
+    const start = new Date(f.fixture.date), desc = f.league.name + (f.league.round ? " · " + f.league.round : "") + "\n" + origin + "/match/?id=" + f.fixture.id;
+    L.push("BEGIN:VEVENT", "UID:fixture-" + f.fixture.id + "@irelandfootball.wiki", "DTSTAMP:" + now, "DTSTART:" + icsTime(start.toISOString()), "DTEND:" + icsTime(new Date(start.getTime() + 115 * 60000).toISOString()), "SUMMARY:" + icsEsc(title), "STATUS:" + (unsure ? "TENTATIVE" : "CONFIRMED"));
+    if (where) L.push("LOCATION:" + icsEsc(where));
+    L.push("DESCRIPTION:" + icsEsc(desc), "CATEGORIES:" + icsEsc(f.league.name), "URL:" + origin + "/match/?id=" + f.fixture.id, "TRANSP:OPAQUE", "END:VEVENT");
+  }
+  L.push("END:VCALENDAR");
+  return new Response(L.map(icsFold).join("\r\n") + "\r\n", { headers: { "content-type": "text/calendar; charset=utf-8", "cache-control": "public, max-age=1800", "content-disposition": (one ? "attachment" : "inline") + '; filename="' + (one ? "ireland-" + one : "ireland-fixtures") + '.ics"', "access-control-allow-origin": "*" } });
+}
 
 // Pages and data files. HTML gets the visitor's country for "where to watch" and consent later, so it is never shared from the edge cache.
 async function page(request, env) {

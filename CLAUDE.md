@@ -23,6 +23,7 @@ tools/data/      raw inputs and reconcile.txt (every disagreement between source
 | Venue, manager, match notes, caps list, manager table | Wikipedia wikitext | CC BY-SA, credited in the footer |
 | Live fixtures, tables, squad, match centre | API-Football, team 776, through the Worker | paid plan |
 | Recent scorers and line-ups, about 2017 on | API-Football through the Worker, stored in `tools/data/feed_matches.json` by `tools/build_feed.py` | paid plan |
+| Where to watch | UEFA's Nations League broadcaster list, `tools/data/uefa_nl_broadcasters.txt` into `site/watch.json` by `tools/build_watch.py`; recheck each campaign. Other competitions show nothing until they have an official list | |
 | Club form | Worker route `/api/form`, built a few players at a time into KV | paid plan |
 
 11v11.com and eu-football.info are not sources: 11v11's terms bar publishing its data, and eu-football has not given permission. Don't scrape them.

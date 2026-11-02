@@ -15,6 +15,10 @@ Deployed from `main` by Workers Builds to irelandfootball.wiki (also irelandfoot
 
 Web Push on the hub, minute cron in the Worker. The live logic was replayed offline against the Ireland v Austria feed data, including a ruled-out goal. First live run: Austria v Ireland, 14 Nov 2026.
 
+## Calendar and where to watch
+
+`/calendar.ics` (all games, or `?m=<fixture id>` for one) is built from the fixtures feed, one event per fixture id, so a subscribed calendar follows a moved kick-off. Where to watch is on the hub and match pages, Nations League only.
+
 ## Known gaps
 
 - Scorers: friendlies before about 2017 have none. Line-ups start about 2017.
@@ -24,5 +28,5 @@ Web Push on the hub, minute cron in the Worker. The live logic was replayed offl
 
 ## Next, in order
 
-1. Port from manutd.wiki: Ask, trips, calendar, where to watch, timeline, compare. Analytics with consent.
+1. Port from manutd.wiki: timeline, compare, trips, Ask. Analytics with consent.
 2. Ask eu-football.info about older line-ups and friendly scorers.

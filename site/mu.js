@@ -150,8 +150,8 @@ window.MU=(function(){
   // Calendar: the same stable id the Worker's /calendar.ics uses (season-comp-opponent-h/a), so a downloaded match and the subscription are one event.
   function fxSlug(t){return String(t||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"")}
   function fxUid(f){var d=new Date(f.ko), y=d.getUTCMonth()>=6?d.getUTCFullYear():d.getUTCFullYear()-1; return [y+"-"+String(y+1).slice(2),fxSlug(f.comp),fxSlug(f.opp),f.home?"h":"a"].join("-")}
-  function calLink(f){return f?'<a class="calbtn" href="/calendar.ics?m='+fxUid(f)+'" download title="Add this match to your calendar'+(f.conf?'':' (provisional — a downloaded copy will not update; subscribe for that)')+'">+ Calendar</a>':''}
-  function calFeed(q){var h=location.host||"manutd.wiki", path=(/manutd\.wiki$/.test(h)?"":"/manutd")+"/calendar.ics"+(q||""); return {webcal:"webcal://"+h+path, https:location.protocol+"//"+h+path, google:"https://calendar.google.com/calendar/r?cid="+encodeURIComponent("webcal://"+h+path)}}
+  function calLink(id){return id?'<a class="calbtn" href="/calendar.ics?m='+id+'" download title="Add this game to your calendar. A downloaded copy will not update if the kick-off moves; subscribe on the Season page for that.">+ Calendar</a>':''}
+  function calFeed(){var h=location.host||"irelandfootball.wiki", path="/calendar.ics"; return {webcal:"webcal://"+h+path, https:location.protocol+"//"+h+path, google:"https://calendar.google.com/calendar/r?cid="+encodeURIComponent("webcal://"+h+path)}}
   function confTag(x){return x&&x.conf?'<span class="conftag" title="Kick-off confirmed">Confirmed</span>':''}
   function prov(x){var c=x&&typeof x==="object"?x.conf:x; return c?"":'<span class="prov" title="Kick-off time not confirmed yet">Provisional</span>'}
   // "Last checked" stamps from status.json, written by the build scripts and the weekly scheduled task.

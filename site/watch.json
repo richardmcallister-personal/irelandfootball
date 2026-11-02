@@ -1,0 +1,1515 @@
+{
+"checked": "2026-11-02",
+"countries": {
+"AD": {
+"n": "Andorra",
+"nl": [
+"TF1+",
+"la chaine L'Équipe",
+"RTVE PLAY"
+]
+},
+"AE": {
+"n": "United Arab Emirates",
+"nl": [
+"bein connect"
+]
+},
+"AF": {
+"n": "Afghanistan",
+"nl": [
+"Sony Sports Network"
+]
+},
+"AG": {
+"n": "Antigua & Barbuda",
+"nl": [
+"Bluu"
+]
+},
+"AI": {
+"n": "Anguilla",
+"nl": [
+"Bluu"
+]
+},
+"AL": {
+"n": "Albania",
+"nl": [
+"Digitalb",
+"TV Klan"
+]
+},
+"AM": {
+"n": "Armenia",
+"nl": [
+"Fast TV",
+"First Channel of Public TV Company of Armenia"
+]
+},
+"AO": {
+"n": "Angola",
+"nl": [
+"DStv Stream"
+]
+},
+"AR": {
+"n": "Argentina",
+"nl": [
+"Disney+"
+]
+},
+"AS": {
+"n": "American Samoa",
+"nl": [
+"Fox Sports",
+"FuboTV",
+"ViX"
+]
+},
+"AT": {
+"n": "Austria",
+"nl": [
+"ORF ON",
+"PULS 4",
+"DAZN"
+]
+},
+"AU": {
+"n": "Australia",
+"nl": [
+"beIN SPORTS"
+]
+},
+"AW": {
+"n": "Aruba",
+"nl": [
+"Bluu",
+"NOS"
+]
+},
+"AZ": {
+"n": "Azerbaijan",
+"nl": [
+"CBC Sport"
+]
+},
+"BA": {
+"n": "Bosnia and Herzegovina",
+"nl": [
+"MY TV",
+"Radio and Television of Bosnia and Herzegovina - BHRT",
+"Arena Sport"
+]
+},
+"BB": {
+"n": "Barbados",
+"nl": [
+"Bluu"
+]
+},
+"BD": {
+"n": "Bangladesh",
+"nl": [
+"Sony Sports Network"
+]
+},
+"BE": {
+"n": "Belgium",
+"nl": [
+"VTM GO",
+"RTL Play & RTL Tvi",
+"DAZN"
+]
+},
+"BF": {
+"n": "Burkina Faso",
+"nl": [
+"New World TV",
+"DStv Stream"
+]
+},
+"BG": {
+"n": "Bulgaria",
+"nl": [
+"gong.bg",
+"MAX One"
+]
+},
+"BH": {
+"n": "Bahrain",
+"nl": [
+"bein connect"
+]
+},
+"BI": {
+"n": "Burundi",
+"nl": [
+"New World TV",
+"DStv Stream"
+]
+},
+"BJ": {
+"n": "Benin",
+"nl": [
+"New World TV",
+"DStv Stream"
+]
+},
+"BL": {
+"n": "St. Barts",
+"nl": [
+"Bluu",
+"la chaine L'Équipe",
+"TF1+"
+]
+},
+"BM": {
+"n": "Bermuda",
+"nl": [
+"Bluu"
+]
+},
+"BO": {
+"n": "Bolivia",
+"nl": [
+"Disney+"
+]
+},
+"BQ": {
+"n": "Bonaire",
+"nl": [
+"Bluu",
+"NOS"
+]
+},
+"BR": {
+"n": "Brazil",
+"nl": [
+"Disney+",
+"sportv | Ao Vivo"
+]
+},
+"BS": {
+"n": "Bahamas",
+"nl": [
+"Bluu"
+]
+},
+"BT": {
+"n": "Bhutan",
+"nl": [
+"Sony Sports Network"
+]
+},
+"BW": {
+"n": "Botswana",
+"nl": [
+"DStv Stream"
+]
+},
+"BY": {
+"n": "Belarus",
+"nl": [
+"CTV"
+]
+},
+"BZ": {
+"n": "Belize",
+"nl": [
+"Bluu",
+"Disney+"
+]
+},
+"CA": {
+"n": "Canada",
+"nl": [
+"DAZN Canada OTT"
+]
+},
+"CD": {
+"n": "Democratic Republic of Congo",
+"nl": [
+"New World TV",
+"DStv Stream"
+]
+},
+"CF": {
+"n": "Central African Republic",
+"nl": [
+"New World TV",
+"DStv Stream"
+]
+},
+"CG": {
+"n": "Congo Republic",
+"nl": [
+"New World TV",
+"DStv Stream"
+]
+},
+"CH": {
+"n": "Switzerland",
+"nl": [
+"Play RSI - Sport in diretta",
+"Play RTS - Sport-Livestreams",
+"Play SRF - Sport-Livestreams",
+"DAZN"
+]
+},
+"CI": {
+"n": "Ivory Coast",
+"nl": [
+"New World TV",
+"DStv Stream"
+]
+},
+"CK": {
+"n": "Cook Islands",
+"nl": [
+"Digicel TV"
+]
+},
+"CL": {
+"n": "Chile",
+"nl": [
+"Disney+"
+]
+},
+"CM": {
+"n": "Cameroon",
+"nl": [
+"New World TV",
+"DStv Stream"
+]
+},
+"CN": {
+"n": "China PR",
+"nl": [
+"iQIYI Sports"
+]
+},
+"CO": {
+"n": "Colombia",
+"nl": [
+"Disney+"
+]
+},
+"CR": {
+"n": "Costa Rica",
+"nl": [
+"Disney+"
+]
+},
+"CU": {
+"n": "Cuba",
+"nl": [
+"Bluu"
+]
+},
+"CV": {
+"n": "Cape Verde",
+"nl": [
+"DStv Stream"
+]
+},
+"CW": {
+"n": "Curaçao",
+"nl": [
+"Bluu",
+"NOS"
+]
+},
+"CY": {
+"n": "Cyprus",
+"nl": [
+"CyBC",
+"Cytavision"
+]
+},
+"CZ": {
+"n": "Czechia",
+"nl": [
+"CT Sport",
+"Sport1 TV"
+]
+},
+"DE": {
+"n": "Germany",
+"nl": [
+"DAZN",
+"DasErste",
+"RTL+",
+"ZDF sportstudio"
+]
+},
+"DJ": {
+"n": "Djibouti",
+"nl": [
+"bein connect",
+"New World TV"
+]
+},
+"DK": {
+"n": "Denmark",
+"nl": [
+"TV2 PLAY"
+]
+},
+"DM": {
+"n": "Dominica",
+"nl": [
+"Bluu"
+]
+},
+"DO": {
+"n": "Dominican Republic",
+"nl": [
+"Bluu",
+"Disney+"
+]
+},
+"DZ": {
+"n": "Algeria",
+"nl": [
+"bein connect"
+]
+},
+"EC": {
+"n": "Ecuador",
+"nl": [
+"Disney+"
+]
+},
+"EE": {
+"n": "Estonia",
+"nl": [
+"Go3",
+"ERR"
+]
+},
+"EG": {
+"n": "Egypt",
+"nl": [
+"bein connect"
+]
+},
+"ER": {
+"n": "Eritrea",
+"nl": [
+"DStv Stream"
+]
+},
+"ES": {
+"n": "Spain",
+"nl": [
+"RTVE PLAY",
+"DAZN Spain"
+]
+},
+"ET": {
+"n": "Ethiopia",
+"nl": [
+"DStv Stream"
+]
+},
+"FI": {
+"n": "Finland",
+"nl": [
+"MTV Katsomo",
+"Yle A"
+]
+},
+"FJ": {
+"n": "Fiji",
+"nl": [
+"Digicel TV"
+]
+},
+"FK": {
+"n": "Falkland Islands",
+"nl": [
+"UEFA.tv"
+]
+},
+"FM": {
+"n": "Micronesia",
+"nl": [
+"Digicel TV"
+]
+},
+"FO": {
+"n": "Faroe Islands",
+"nl": [
+"TV2 PLAY",
+"KVF"
+]
+},
+"FR": {
+"n": "France",
+"nl": [
+"la chaine L'Équipe",
+"TF1+"
+]
+},
+"GA": {
+"n": "Gabon",
+"nl": [
+"New World TV",
+"DStv Stream"
+]
+},
+"GB": {
+"n": "United Kingdom",
+"nl": [
+"Prime Video"
+],
+"nlNote": "Prime Video has the games not involving the UK's own teams. ESPN reported the Ireland v Austria game in October as pay per view."
+},
+"GD": {
+"n": "Grenada",
+"nl": [
+"Bluu"
+]
+},
+"GE": {
+"n": "Georgia",
+"nl": [
+"Channel1",
+"SILK GO"
+]
+},
+"GF": {
+"n": "French Guyana",
+"nl": [
+"Disney+",
+"la chaine L'Équipe",
+"TF1+"
+]
+},
+"GH": {
+"n": "Ghana",
+"nl": [
+"DStv Stream"
+]
+},
+"GI": {
+"n": "Gibraltar",
+"nl": [
+"Gibraltar Broadcasting Corporation",
+"UEFA.tv"
+]
+},
+"GL": {
+"n": "Greenland",
+"nl": [
+"TV2 PLAY"
+]
+},
+"GM": {
+"n": "Gambia",
+"nl": [
+"DStv Stream"
+]
+},
+"GN": {
+"n": "Guinea",
+"nl": [
+"New World TV",
+"DStv Stream"
+]
+},
+"GP": {
+"n": "Guadeloupe",
+"nl": [
+"Bluu",
+"la chaine L'Équipe"
+]
+},
+"GQ": {
+"n": "Equatorial Guinea",
+"nl": [
+"DStv Stream"
+]
+},
+"GR": {
+"n": "Greece",
+"nl": [
+"NOVA Greece",
+"Alpha TV"
+]
+},
+"GT": {
+"n": "Guatemala",
+"nl": [
+"Disney+"
+]
+},
+"GU": {
+"n": "Guam",
+"nl": [
+"FOX Sports",
+"FuboTV",
+"ViX"
+]
+},
+"GW": {
+"n": "Guinea-Bissau",
+"nl": [
+"DStv Stream"
+]
+},
+"GY": {
+"n": "Guyana",
+"nl": [
+"Disney+",
+"la chaine L'Équipe",
+"TF1+"
+]
+},
+"HK": {
+"n": "Hong Kong SAR",
+"nl": [
+"UEFA.tv"
+]
+},
+"HN": {
+"n": "Honduras",
+"nl": [
+"Disney+"
+]
+},
+"HR": {
+"n": "Croatia",
+"nl": [
+"gol"
+]
+},
+"HT": {
+"n": "Haiti",
+"nl": [
+"Bluu"
+]
+},
+"HU": {
+"n": "Hungary",
+"nl": [
+"M4 Sport Online",
+"TV2 Play",
+"NET4+"
+]
+},
+"ID": {
+"n": "Indonesia",
+"nl": [
+"Vision+"
+]
+},
+"IE": {
+"n": "Ireland",
+"nl": [
+"RTÉ",
+"Virgin Media Ireland"
+]
+},
+"IL": {
+"n": "Israel",
+"nl": [
+"sport1",
+"THE SPORTS CHANNEL"
+]
+},
+"IN": {
+"n": "India",
+"nl": [
+"Sony Sports Network"
+]
+},
+"IQ": {
+"n": "Iraq",
+"nl": [
+"bein connect"
+]
+},
+"IR": {
+"n": "Iran",
+"nl": [
+"bein connect"
+]
+},
+"IS": {
+"n": "Iceland",
+"nl": [
+"Viaplay",
+"Vefsjónvarp Sýnar"
+]
+},
+"IT": {
+"n": "Italy",
+"nl": [
+"RAI PLAY",
+"Mediaset",
+"Sky Italia"
+]
+},
+"JM": {
+"n": "Jamaica",
+"nl": [
+"Bluu"
+]
+},
+"JO": {
+"n": "Jordan",
+"nl": [
+"bein connect"
+]
+},
+"JP": {
+"n": "Japan",
+"nl": [
+"DAZN"
+]
+},
+"KE": {
+"n": "Kenya",
+"nl": [
+"DStv Stream"
+]
+},
+"KG": {
+"n": "Kyrgyzstan",
+"nl": [
+"UEFA.tv"
+]
+},
+"KH": {
+"n": "Cambodia",
+"nl": [
+"Hang Meas HDTV"
+]
+},
+"KI": {
+"n": "Kiribati",
+"nl": [
+"Digicel TV"
+]
+},
+"KM": {
+"n": "Comoros",
+"nl": [
+"New World TV",
+"DStv Stream"
+]
+},
+"KN": {
+"n": "St. Kitts and Nevis",
+"nl": [
+"Bluu"
+]
+},
+"KP": {
+"n": "North Korea",
+"nl": [
+"UEFA.tv"
+]
+},
+"KR": {
+"n": "South Korea",
+"nl": [
+"SPOTV NOW"
+]
+},
+"KW": {
+"n": "Kuwait",
+"nl": [
+"bein connect"
+]
+},
+"KY": {
+"n": "Cayman Islands",
+"nl": [
+"Bluu"
+]
+},
+"KZ": {
+"n": "Kazakhstan",
+"nl": [
+"QAZSPORT"
+]
+},
+"LA": {
+"n": "Laos",
+"nl": [
+"UEFA.tv"
+]
+},
+"LB": {
+"n": "Lebanon",
+"nl": [
+"bein connect"
+]
+},
+"LC": {
+"n": "St. Lucia",
+"nl": [
+"Bluu"
+]
+},
+"LI": {
+"n": "Liechtenstein",
+"nl": [
+"Liechtensteiner Landeskanal",
+"DAZN"
+]
+},
+"LK": {
+"n": "Sri Lanka",
+"nl": [
+"Sony Sports Network"
+]
+},
+"LR": {
+"n": "Liberia",
+"nl": [
+"DStv Stream"
+]
+},
+"LS": {
+"n": "Lesotho",
+"nl": [
+"DStv Stream"
+]
+},
+"LT": {
+"n": "Lithuania",
+"nl": [
+"Go3",
+"LRT"
+]
+},
+"LU": {
+"n": "Luxembourg",
+"nl": [
+"RTL Luxemburg",
+"UEFA.tv"
+]
+},
+"LV": {
+"n": "Latvia",
+"nl": [
+"Go3",
+"LTV7"
+]
+},
+"LY": {
+"n": "Libya",
+"nl": [
+"bein connect"
+]
+},
+"MA": {
+"n": "Morocco",
+"nl": [
+"bein connect"
+]
+},
+"MC": {
+"n": "Monaco",
+"nl": [
+"la chaine L'Équipe",
+"TF1+"
+]
+},
+"MD": {
+"n": "Moldova",
+"nl": [
+"TRM"
+]
+},
+"ME": {
+"n": "Montenegro",
+"nl": [
+"Radio and Television of Montenegro",
+"Arena Sport"
+]
+},
+"MF": {
+"n": "St. Martin",
+"nl": [
+"TF1+"
+]
+},
+"MG": {
+"n": "Madagascar",
+"nl": [
+"New World TV",
+"DStv Stream"
+]
+},
+"MH": {
+"n": "Marshall Islands",
+"nl": [
+"Digicel TV"
+]
+},
+"MK": {
+"n": "North Macedonia",
+"nl": [
+"play.mrt.com.mk",
+"Arena Sport"
+]
+},
+"ML": {
+"n": "Mali",
+"nl": [
+"New World TV",
+"DStv Stream"
+]
+},
+"MM": {
+"n": "Myanmar",
+"nl": [
+"UEFA.tv"
+]
+},
+"MN": {
+"n": "Mongolia",
+"nl": [
+"looktv"
+]
+},
+"MO": {
+"n": "Macau SAR",
+"nl": [
+"iQIYI Sports"
+]
+},
+"MP": {
+"n": "Mariana Islands",
+"nl": [
+"FOX Sports",
+"FuboTV",
+"ViX"
+]
+},
+"MQ": {
+"n": "Martinique",
+"nl": [
+"Bluu"
+]
+},
+"MR": {
+"n": "Mauritania",
+"nl": [
+"bein connect",
+"New World TV",
+"DStv Stream"
+]
+},
+"MS": {
+"n": "Montserrat",
+"nl": [
+"Bluu"
+]
+},
+"MT": {
+"n": "Malta",
+"nl": [
+"TVMSPORT",
+"UEFA.tv"
+]
+},
+"MU": {
+"n": "Mauritius",
+"nl": [
+"New World TV",
+"DStv Stream",
+"la chaine L'Équipe"
+]
+},
+"MV": {
+"n": "Maldives",
+"nl": [
+"Sony Sports Network"
+]
+},
+"MW": {
+"n": "Malawi",
+"nl": [
+"DStv Stream"
+]
+},
+"MX": {
+"n": "Mexico",
+"nl": [
+"Sky Mexico"
+]
+},
+"MY": {
+"n": "Malaysia",
+"nl": [
+"UEFA.tv"
+]
+},
+"MZ": {
+"n": "Mozambique",
+"nl": [
+"DStv Stream"
+]
+},
+"NA": {
+"n": "Namibia",
+"nl": [
+"DStv Stream"
+]
+},
+"NC": {
+"n": "New Caledonia",
+"nl": [
+"la chaine L'Équipe",
+"TF1+"
+]
+},
+"NE": {
+"n": "Niger",
+"nl": [
+"New World TV",
+"DStv Stream"
+]
+},
+"NG": {
+"n": "Nigeria",
+"nl": [
+"DStv Stream"
+]
+},
+"NI": {
+"n": "Nicaragua",
+"nl": [
+"Disney+"
+]
+},
+"NL": {
+"n": "Netherlands",
+"nl": [
+"Ziggo Sport",
+"NOS"
+]
+},
+"NO": {
+"n": "Norway",
+"nl": [
+"TV 2 Play"
+]
+},
+"NP": {
+"n": "Nepal",
+"nl": [
+"Sony Sports Network"
+]
+},
+"NR": {
+"n": "Nauru",
+"nl": [
+"Digicel TV"
+]
+},
+"NU": {
+"n": "Niue",
+"nl": [
+"Digicel TV"
+]
+},
+"NZ": {
+"n": "New Zealand",
+"nl": [
+"beIN SPORTS"
+]
+},
+"OM": {
+"n": "Oman",
+"nl": [
+"bein connect"
+]
+},
+"PA": {
+"n": "Panama",
+"nl": [
+"Disney+"
+]
+},
+"PE": {
+"n": "Peru",
+"nl": [
+"Disney+"
+]
+},
+"PF": {
+"n": "French Polynesia",
+"nl": [
+"Disney+",
+"la chaine L'Équipe",
+"TF1+"
+]
+},
+"PG": {
+"n": "Papua New Guinea",
+"nl": [
+"EMTV"
+]
+},
+"PH": {
+"n": "Philippines",
+"nl": [
+"UEFA.tv"
+]
+},
+"PK": {
+"n": "Pakistan",
+"nl": [
+"Sony Sports Network"
+]
+},
+"PL": {
+"n": "Poland",
+"nl": [
+"Polsat Box Go",
+"TVP Sport"
+]
+},
+"PM": {
+"n": "St. Pierre & Miquelon",
+"nl": [
+"Bluu",
+"la chaine L'Équipe",
+"TF1+"
+]
+},
+"PR": {
+"n": "Puerto Rico",
+"nl": [
+"FOX Sports",
+"FuboTV",
+"ViX"
+]
+},
+"PS": {
+"n": "Palestine (Gaza strip & West Bank)",
+"nl": [
+"bein connect"
+]
+},
+"PT": {
+"n": "Portugal",
+"nl": [
+"RÁDIO E TELEVISÃO DE PORTUGAL",
+"Sport TV Portugal"
+]
+},
+"PW": {
+"n": "Palau",
+"nl": [
+"Digicel TV"
+]
+},
+"PY": {
+"n": "Paraguay",
+"nl": [
+"Disney+"
+]
+},
+"QA": {
+"n": "Qatar",
+"nl": [
+"bein connect"
+]
+},
+"RE": {
+"n": "Réunion",
+"nl": [
+"la chaine L'Équipe",
+"TF1+"
+]
+},
+"RO": {
+"n": "Romania",
+"nl": [
+"Antena 1",
+"Digi Sport",
+"Clever Media"
+]
+},
+"RS": {
+"n": "Serbia",
+"nl": [
+"RTS Serbia",
+"Arena Sport"
+]
+},
+"RU": {
+"n": "Russia",
+"nl": [
+"Okko"
+]
+},
+"RW": {
+"n": "Rwanda",
+"nl": [
+"New World TV",
+"DStv Stream"
+]
+},
+"SA": {
+"n": "Saudi Arabia",
+"nl": [
+"bein connect"
+]
+},
+"SB": {
+"n": "Solomon Islands",
+"nl": [
+"Digicel TV"
+]
+},
+"SC": {
+"n": "Seychelles",
+"nl": [
+"New World TV",
+"DStv Stream"
+]
+},
+"SD": {
+"n": "Sudan",
+"nl": [
+"bein connect",
+"DStv Stream"
+]
+},
+"SE": {
+"n": "Sweden",
+"nl": [
+"Viaplay"
+]
+},
+"SG": {
+"n": "Singapore",
+"nl": [
+"UEFA.tv"
+]
+},
+"SH": {
+"n": "St. Helena and Ascension",
+"nl": [
+"DStv Stream"
+]
+},
+"SI": {
+"n": "Slovenia",
+"nl": [
+"Sportklub"
+]
+},
+"SK": {
+"n": "Slovakia",
+"nl": [
+"STVR Sport online",
+"Sport1 TV"
+]
+},
+"SL": {
+"n": "Sierra Leone",
+"nl": [
+"DStv Stream"
+]
+},
+"SM": {
+"n": "San Marino",
+"nl": [
+"RAI PLAY",
+"RTV San Marino",
+"Mediaset"
+]
+},
+"SN": {
+"n": "Senegal",
+"nl": [
+"New World TV",
+"DStv Stream"
+]
+},
+"SO": {
+"n": "Somalia",
+"nl": [
+"bein connect",
+"DStv Stream"
+]
+},
+"SR": {
+"n": "Suriname",
+"nl": [
+"Bluu"
+]
+},
+"SS": {
+"n": "South Sudan",
+"nl": [
+"bein connect",
+"DStv Stream"
+]
+},
+"ST": {
+"n": "São Tomé and Príncipe",
+"nl": [
+"DStv Stream"
+]
+},
+"SV": {
+"n": "El Salvador",
+"nl": [
+"Disney+"
+]
+},
+"SY": {
+"n": "Syria",
+"nl": [
+"bein connect"
+]
+},
+"SZ": {
+"n": "Eswatini",
+"nl": [
+"DStv Stream"
+]
+},
+"TC": {
+"n": "Turks & Caicos Islands",
+"nl": [
+"Bluu"
+]
+},
+"TD": {
+"n": "Chad",
+"nl": [
+"bein connect",
+"New World TV",
+"DStv Stream"
+]
+},
+"TF": {
+"n": "French Southern and Antarctic Lands",
+"nl": [
+"la chaine L'Équipe",
+"TF1+"
+]
+},
+"TG": {
+"n": "Togo",
+"nl": [
+"New World TV",
+"DStv Stream"
+]
+},
+"TJ": {
+"n": "Tajikistan",
+"nl": [
+"UEFA.tv"
+]
+},
+"TK": {
+"n": "Tokelau",
+"nl": [
+"Digicel TV"
+]
+},
+"TL": {
+"n": "Timor-Leste",
+"nl": [
+"Vision+"
+]
+},
+"TM": {
+"n": "Turkmenistan",
+"nl": [
+"UEFA.tv"
+]
+},
+"TN": {
+"n": "Tunisia",
+"nl": [
+"bein connect"
+]
+},
+"TO": {
+"n": "Tonga",
+"nl": [
+"Digicel TV"
+]
+},
+"TR": {
+"n": "Türkiye",
+"nl": [
+"S Sport TV",
+"ATV"
+]
+},
+"TT": {
+"n": "Trinidad & Tobago",
+"nl": [
+"Bluu"
+]
+},
+"TV": {
+"n": "Tuvalu",
+"nl": [
+"Digicel TV"
+]
+},
+"TW": {
+"n": "Taiwan/Chinese Taipei",
+"nl": [
+"ELTA.tv"
+]
+},
+"TZ": {
+"n": "Tanzania",
+"nl": [
+"DStv Stream"
+]
+},
+"UA": {
+"n": "Ukraine",
+"nl": [
+"Megogo"
+]
+},
+"UG": {
+"n": "Uganda",
+"nl": [
+"DStv Stream"
+]
+},
+"US": {
+"n": "United States",
+"nl": [
+"FOX Sports",
+"FuboTV",
+"ViX"
+]
+},
+"UY": {
+"n": "Uruguay",
+"nl": [
+"Disney+"
+]
+},
+"UZ": {
+"n": "Uzbekistan",
+"nl": [
+"UEFA.tv"
+]
+},
+"VA": {
+"n": "Vatican City",
+"nl": [
+"RAI PLAY",
+"RTV San Marino",
+"Mediaset\n\n### Non-Europe"
+]
+},
+"VC": {
+"n": "St. Vincent & the Grenadines",
+"nl": [
+"Bluu"
+]
+},
+"VE": {
+"n": "Venezuela",
+"nl": [
+"Disney+"
+]
+},
+"VG": {
+"n": "British Virgin Islands",
+"nl": [
+"Bluu"
+]
+},
+"VI": {
+"n": "U.S. Virgin Islands",
+"nl": [
+"FOX Sports",
+"FuboTV",
+"ViX"
+]
+},
+"VN": {
+"n": "Vietnam",
+"nl": [
+"TV360"
+]
+},
+"VU": {
+"n": "Vanuatu",
+"nl": [
+"Digicel TV"
+]
+},
+"WF": {
+"n": "Wallis & Futuna",
+"nl": [
+"Digicel TV",
+"la chaine L'Équipe",
+"TF1+"
+]
+},
+"WS": {
+"n": "Samoa",
+"nl": [
+"Digicel TV"
+]
+},
+"XK": {
+"n": "Kosovo",
+"nl": [
+"Artmotion"
+]
+},
+"YE": {
+"n": "Yemen",
+"nl": [
+"bein connect"
+]
+},
+"YT": {
+"n": "Mayotte",
+"nl": [
+"la chaine L'Équipe",
+"TF1+"
+]
+},
+"ZA": {
+"n": "South Africa",
+"nl": [
+"DStv Stream"
+]
+},
+"ZM": {
+"n": "Zambia",
+"nl": [
+"DStv Stream"
+]
+},
+"ZW": {
+"n": "Zimbabwe",
+"nl": [
+"DStv Stream"
+]
+}
+},
+"sources": {
+"nl": {
+"t": "UEFA: where to watch the 2026/27 Nations League",
+"u": "https://www.uefa.com/uefanationsleague/news/02a9-219ae5c877f5-740390ccb3e5-1000--where-to-watch-the-nations-league-tv-broadcast-partners-li/"
+}
+}
+}

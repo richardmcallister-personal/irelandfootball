@@ -82,7 +82,7 @@
 </main>
 <footer class="mu"><span id="stamp"></span> Results and competitive scorers: <a href="https://github.com/martj42/international_results">martj42 international results</a> (CC0). Venues, managers, notes and caps: Wikipedia (CC BY-SA). Live data: API-Football. An independent fan site, not connected with the FAI.</footer>
 </div>
-<script src="/mu.js"></script>
+<script src="/mu.js"></script><script src="/watch.js"></script>
 <script>
 // Match alerts: service worker + Web Push. Needs the site installed to the Home Screen on iPhone (Safari rule); works straight away in Chrome/Edge/Firefox.
 (function(){
@@ -128,7 +128,7 @@ var DONE=/FT|AET|PEN/, DEAD=/CANC|PST|ABD|AWD|WO/;
 function line(f){var us=f.teams.home.id===MU.TEAM, o=us?f.teams.away:f.teams.home; return {o:o,us:us}}
 MU.api("fixtures").then(function(j){var L=(j.response||[]).slice().sort(function(a,b){return a.fixture.timestamp-b.fixture.timestamp});
   var nx=L.filter(function(f){return !DONE.test(f.fixture.status.short)&&!DEAD.test(f.fixture.status.short)})[0], ls=L.filter(function(f){return DONE.test(f.fixture.status.short)}).pop();
-  if(nx){var x=line(nx), ko=nx.fixture.date; $("next").innerHTML='<h2>Next match</h2><div class="vs">'+(x.us?"Ireland v "+MU.club(x.o.name,20):MU.club(x.o.name,20)+" v Ireland")+'</div><div class="when">'+MU.comp(nx.league.name,20)+E(nx.league.name)+(nx.league.round?" · "+E(nx.league.round):"")+'<br>'+MU.fmtDate(ko,{year:"numeric"})+" · "+MU.fmtKO(ko,true)+(nx.fixture.venue&&nx.fixture.venue.name?"<br>"+E(nx.fixture.venue.name):"")+'</div><p><a class="btn" href="/match/?id='+nx.fixture.id+'">Match centre</a></p>'}
+  if(nx){var x=line(nx), ko=nx.fixture.date; $("next").innerHTML='<h2>Next match</h2><div class="vs">'+(x.us?"Ireland v "+MU.club(x.o.name,20):MU.club(x.o.name,20)+" v Ireland")+'</div><div class="when">'+MU.comp(nx.league.name,20)+E(nx.league.name)+(nx.league.round?" · "+E(nx.league.round):"")+'<br>'+MU.fmtDate(ko,{year:"numeric"})+" · "+MU.fmtKO(ko,true)+(nx.fixture.venue&&nx.fixture.venue.name?"<br>"+E(nx.fixture.venue.name):"")+'</div><p><a class="btn" href="/match/?id='+nx.fixture.id+'">Match centre</a> '+MU.calLink(nx.fixture.id)+'</p><div class="watch" id="nextWatch" hidden></div>'; if(window.MUWatch)MUWatch.render($("nextWatch"),{comp:nx.league.name,ko:ko})}
   else $("next").innerHTML='<h2>Next match</h2><p class="sub">No fixture announced yet.</p>';
   if(ls){var y=line(ls), g=ls.goals; $("last").innerHTML='<h2>Latest result</h2><div class="vs">'+E(ls.teams.home.name.replace("Rep. Of Ireland","Ireland"))+" "+g.home+"–"+g.away+" "+E(ls.teams.away.name.replace("Rep. Of Ireland","Ireland"))+'</div><div class="when">'+MU.comp(ls.league.name,20)+E(ls.league.name)+" · "+MU.fmtDate(ls.fixture.date,{year:"numeric"})+'</div><p><a class="btn" href="/match/?id='+ls.fixture.id+'">Report</a> <a class="btn" href="/season/">Season</a></p>'}
 }).catch(function(e){MU.apiDown($("next"),e); $("last").innerHTML='<h2>Latest result</h2><p class="sub">See <a href="/results/">every result</a>.</p>'});
