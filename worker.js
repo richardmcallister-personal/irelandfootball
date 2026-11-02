@@ -110,7 +110,9 @@ async function formStep(env) {
   const now = Date.now(), due = squad.filter((p) => !state.players[p.id] || now - state.players[p.id].at > FORM_AGE).slice(0, FORM_STEP);
   if (!due.length) return;
   await env.MU_CACHE.put("form:lock", "1", { expirationTtl: 120 });
-  for (const p of due) { const x = await formPlayer(env, p.id); if (x) state.players[p.id] = x; }
+  // In parallel: work after a response only gets about 30 seconds, and 24 calls in a row can take longer than that.
+  const got = await Promise.all(due.map((p) => formPlayer(env, p.id).catch(() => null)));
+  got.forEach((x, i) => { if (x) state.players[due[i].id] = x; });
   const keep = new Set(squad.map((p) => String(p.id))); Object.keys(state.players).forEach((k) => { if (!keep.has(k)) delete state.players[k]; });
   state.updated = now;
   await env.MU_CACHE.put(FORM_KEY, JSON.stringify(state));

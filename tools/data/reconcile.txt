@@ -38,15 +38,21 @@ FEED SCORE 2021-11-14 Luxembourg: archive 3-0, feed 0-3
 CAPS James Abankwah: line-ups 7, Wikipedia 6
 CAPS Conor Coventry: line-ups 7, Wikipedia 5
 CAPS Jimmy Dunne: line-ups 4, Wikipedia 3
+CAPS John Egan: line-ups 40, Wikipedia 39
 GOALS Stephen Gleeson: dataset 1, Wikipedia 0
+CAPS Adam Idah: line-ups 43, Wikipedia 42
+CAPS Caoimhín Kelleher: line-ups 35, Wikipedia 34
 CAPS Liam Kitching: line-ups 2, Wikipedia 1
 CAPS Bosun Lawal: line-ups 2, Wikipedia 1
 CAPS Ryan Manning: line-ups 26, Wikipedia 25
+CAPS Jayson Molumby: line-ups 40, Wikipedia 38
 CAPS Jack Moylan: line-ups 6, Wikipedia 4
+CAPS Chiedozie Ogbene: line-ups 37, Wikipedia 36
 GOALS Alan O'Brien: dataset 1, Wikipedia 0
+CAPS Jake O'Brien: line-ups 20, Wikipedia 19
 GOALS Turlough O'Connor: dataset 1, Wikipedia 0
 GOALS Troy Parrott: dataset 15, Wikipedia 12
-CAPS Troy Parrott: line-ups 40, Wikipedia 39
+CAPS Troy Parrott: line-ups 41, Wikipedia 39
 CAPS Liam Scales: line-ups 19, Wikipedia 17
 SCORER NOT IN CAPS LIST Johnny Gavin (2)
 MANAGER GAMES NOT PLACED Selection Committee 1924–1931: 0 possible runs

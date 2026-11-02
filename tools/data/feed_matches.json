@@ -305,6 +305,60 @@
 "S. Szmodics"
 ]
 },
+"1172896": {
+"bench": [
+"J. O'Brien",
+"J. Knight",
+"K. McAteer",
+"A. Browne",
+"E. Ferguson",
+"M. Travers",
+"L. Scales",
+"A. Omobamidele",
+"C. Robinson",
+"C. O'Dowda",
+"M. O’Leary",
+"T. Parrott"
+],
+"city": "Dublin",
+"coach": "H. Hallgrímsson",
+"d": "2024-09-07",
+"form": "3-4-2-1",
+"ga": 2,
+"gf": 0,
+"goals": [],
+"home": true,
+"id": 1172896,
+"league": "UEFA Nations League",
+"opp": "England",
+"st": "FT",
+"subs": [
+"S. Coleman",
+"J. O'Brien",
+"M. Doherty",
+"J. Knight",
+"A. Idah",
+"K. McAteer",
+"W. Smallbone",
+"A. Browne",
+"R. Brady",
+"E. Ferguson"
+],
+"venue": "Aviva Stadium",
+"xi": [
+"C. Kelleher",
+"S. Coleman",
+"N. Collins",
+"D. O'Shea",
+"M. Doherty",
+"J. Molumby",
+"W. Smallbone",
+"R. Brady",
+"C. Ogbene",
+"S. Szmodics",
+"A. Idah"
+]
+},
 "1172906": {
 "bench": [
 "E. Ferguson",
@@ -5993,6 +6047,67 @@
 "M. Doherty",
 "C. Ogbene",
 "J. Knight",
+"E. Ferguson"
+]
+},
+"980504": {
+"bench": [
+"M. Johnston",
+"J. McClean",
+"J. Knight",
+"M. Obafemi",
+"T. Parrott",
+"C. Kelleher",
+"M. Sykes",
+"D. O'Shea",
+"A. Browne",
+"M. Travers",
+"J. Hendrick",
+"J. McGrath"
+],
+"city": "Athens",
+"coach": "S. Kenny",
+"d": "2023-06-16",
+"form": "3-4-1-2",
+"ga": 2,
+"gf": 1,
+"goals": [
+{
+"d": "Normal Goal",
+"m": 27,
+"n": "N. Collins",
+"x": null
+}
+],
+"home": false,
+"id": 980504,
+"league": "Euro Championship - Qualification",
+"opp": "Greece",
+"st": "FT",
+"subs": [
+"A. Idah",
+"M. Johnston",
+"C. ODowda",
+"J. McClean",
+"W. Smallbone",
+"J. Knight",
+"J. Molumby",
+"M. Obafemi",
+"D. Lenihan",
+"T. Parrott"
+],
+"venue": "OPAP Arena",
+"xi": [
+"G. Bazunu",
+"N. Collins",
+"J. Egan",
+"D. Lenihan",
+"M. Doherty",
+"J. Cullen",
+"J. Molumby",
+"C. O'Dowda",
+"W. Smallbone",
+"A. Idah",
 "E. Ferguson"
 ]
 },
