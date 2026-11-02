@@ -89,7 +89,6 @@
   var $=function(i){return document.getElementById(i)}, btn=$("alertBtn"), test=$("alertTest"), st=$("alertStatus"), prefsBox=$("alertPrefs"), hint=$("alertHint");
   var ios=/iP(hone|ad|od)/.test(navigator.userAgent), standalone=window.navigator.standalone===true||matchMedia("(display-mode: standalone)").matches;
   var ok="serviceWorker" in navigator&&"PushManager" in window&&"Notification" in window;
-  if(!/(^|\.)manutd\.wiki$/.test(location.hostname)){ btn.disabled=true; hint.hidden=false; hint.innerHTML='Alerts are set up from <a href="https://manutd.wiki/">manutd.wiki</a>.'; return }
   function say(t){st.textContent=t}
   function prefs(){var o={}; prefsBox.querySelectorAll("input").forEach(function(c){o[c.dataset.p]=c.checked}); return o}
   function b64(s){s=s.replace(/-/g,"+").replace(/_/g,"/"); while(s.length%4)s+="="; var r=atob(s), a=new Uint8Array(r.length); for(var i=0;i<r.length;i++)a[i]=r.charCodeAt(i); return a}
