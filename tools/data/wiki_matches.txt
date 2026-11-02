@@ -1,0 +1,1494 @@
+{{Short description|Irish association football international matches since 1924}}
+{{Use Irish English|date=June 2022}}
+{{Use dmy dates|date=June 2022}}
+{{Republic of Ireland national football team results}}
+[[File:Aviva Stadium(Dublin Arena).JPG|thumb|250px|Home ground of the Irish football team at Lansdowne Road in Dublin]]
+
+This is a sortable list of all [[association football]] '''matches played by the [[Republic of Ireland national football team]]''' since 1924.
+
+Following the [[Irish War of Independence]] from the [[United Kingdom]], the [[Football Association of Ireland]] (FAI) was founded in September 1921.  Ireland joined world football governing body [[FIFA]] in August 1923 as the '''Football Association of the Irish Free State''' (FAIFS).  Ireland's first post-Independence internationals were played at the [[1924 Summer Olympics]] in Paris. The team played as '''Irish Free State''' between 1924 and 1935. The name '''Football Association of Ireland''' was re-adopted in 1936, and from then until 1954, they played as '''Ireland'''; since 1954 they have been '''Republic of Ireland''' following the renaming of the team by FIFA, to distinguish them from [[Northern Ireland national football team|Northern Ireland]].
+
+Ireland competed every four years in the [[FIFA World Cup qualification|qualification phases]] of the [[FIFA World Cup|World Cups]] and, from 1960, in the [[UEFA Euro qualification|qualification phases]] of the '''European Nations' Cup''', later known as the [[UEFA European Football Championship|European Football Championships]].
+
+It was not until 1988 that the team succeeded in qualifying for the finals of a major tournament when they went to [[West Germany]] to play in the [[UEFA Euro 1988|1988 European Championships]]. Two years later, Ireland competed for the first time in a World Cup Finals, at [[1990 FIFA World Cup|Italia '90]].
+
+With the exception of [[Bill Lacey (footballer)|Bill Lacey]], who was team manager on four occasions during the 1930s, the team was managed and chosen by a committee of selectors of the FAIFS or FAI for more than four decades, until 1969. The team has been managed since then by individuals rather than committees.
+
+==List of matches==
+
+* '''Score format:''' &nbsp; Irish scores appear first, ''to the left'', irrespective of whether the game was played at home or away.
+* '''Colour codes:''' &nbsp; {{legend2|#CCFFCC|Win|border=1px solid #666666}} &nbsp; {{legend2|#FFFFCC|Draw|border=1px solid #666666}} &nbsp; {{legend2|#FFCCCC|Loss|border=1px solid #666666}} &nbsp; {{legend2|#FFFFFF|Forthcoming match|border=1px solid #666666}} &nbsp; {{legend2|#EEEEFF|Not counted in official team statistics<ref>e.g. unofficial friendly, abandoned match, opponent was a club rather than a nation</ref>|border=1px solid #666666}}
+<!-- Decades menu -->
+{|class=wikitable style="margin: 1em auto 1em auto; width:750px; height:45px;"
+|-
+| align=center|&nbsp; '''Go to:'''&nbsp; &nbsp; [[#1930s|1930s]] &nbsp; | &nbsp; [[#1940s|1940s]] &nbsp; | &nbsp; [[#1950s|1950s]] &nbsp; | &nbsp; [[#1960s|1960s]] &nbsp; | &nbsp; [[#1970s|1970s]] &nbsp; | &nbsp; [[#1980s|1980s]] &nbsp; | &nbsp; [[#1990s|1990s]] &nbsp; | &nbsp; [[#2000s|2000s]] &nbsp; | &nbsp; [[#2010s|2010s]] &nbsp; | &nbsp; [[#2020s|2020s]] &nbsp; | '''[[#2026|2026]]''' &nbsp;
+|}
+{{Clear}}
+{| class="wikitable sortable outercollapse" style="border:1px; background:white; margin:1em auto 1em auto; padding-left:5px; font-size:85%;"
+|- style="background:#f0f0f0;"
+! Date
+! Match
+! Venue (city, stadium)
+! Opponent
+! class="unsortable"|Score
+! Manager
+! class="unsortable"|Notes
+|- style="background:#cfc;"
+| style="width:62px;" | 1924-05-28||[[1924 Summer Olympics]]||[[Paris]], [[Stade Olympique Yves-du-Manoir|Stade Olympique]]||[[Bulgaria national football team|Bulgaria]]|| style="text-align:center;"|1–0||[[Olympic Council of Ireland|OCI]]||Manager: [[Olympic Council of Ireland]]. [[Paddy Duncan]] scored first goal for Irish Free State. Crowd: 1,659.<ref>[https://www.fifa.com/tournaments/archive/tournament=512/edition=197020/matches/match=32300/report.html Bulgaria - Irish Free State] {{webarchive|url=https://web.archive.org/web/20100614224928/http://www.fifa.com/tournaments/archive/tournament%3D512/edition%3D197020/matches/match%3D32300/report.html |date=14 June 2010 }} FIFA. Retrieved: 4 December 2013.</ref><ref name="historyireland">[http://www.historyireland.com/20th-century-contemporary-history/irelands-footballers-at-the-paris-olympics-1924/ Ireland’s footballers at the Paris Olympics, 1924] History Ireland, Issue 4 (July/August 2012), Volume 20. Retrieved: 4 December 2013.</ref>
+|- style="background:#fcc;"
+| 1924-06-02||1924 Summer Olympics, quarter final||[[Paris]], [[Stade de Paris]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|1–2||OCI||Crowd: 1,506.<ref name="historyireland" /><ref>[https://www.fifa.com/tournaments/archive/tournament=512/edition=197020/matches/match=32309/report.html Netherlands - Irish Free State] {{webarchive|url=https://web.archive.org/web/20091022110741/http://www.fifa.com/tournaments/archive/tournament%3D512/edition%3D197020/matches/match%3D32309/report.html |date=22 October 2009 }} FIFA. Retrieved: 4 December 2013.</ref>
+|- style="background:#cfc;"
+| 1924-06-03||Friendly||[[Paris]], [[Stade Olympique Yves-du-Manoir|Stade Olympique]]||[[Estonia national football team|Estonia]]|| style="text-align:center;"|3–1||[[Football Association of Ireland|FAIFS]]||Manager: [[Football Association of Ireland|Football Association of the Irish Free State]] (FAIFS).<ref name="historyireland" /><ref name="rsssf-ier">[https://www.rsssf.org/tablesi/ier-intres.html Ireland – International Results] Jostein Nygård and Damian Byrne at Rec.Sport.Soccer Statistics Foundation. Retrieved: 11 September 2011.</ref>
+|- style="background:#cfc;"
+| 1924-06-14||Friendly||[[Dublin]], [[Dalymount Park]]||[[United States men's national soccer team|United States]]|| style="text-align:center;"|3–1||FAIFS||[[Ed Brookes]] hat-trick.<ref name="historyireland" /><ref name="rsssf-ier" />
+|- style="background:#fcc;"
+| 1926-03-21||Friendly||[[Turin]], [[Velodrome Humbert I|Motovelodromo]]||[[Italy national football team|Italy]]|| style="text-align:center;"|0–3||FAIFS||Professional players introduced. Crowd: 12,000.
+|- style="background:#eef;"
+| 1926-03-03||Friendly||[[Dublin]], [[Dalymount Park]]||[[Irish League representative team|IFA League]]|| style="text-align:center;"|3–1||FAIFS||Unofficial match. [[Football Association of Ireland|FAIFS]] ([[Irish Free State|Free State]])  v  [[Irish Football Association|IFA]] ([[Northern Ireland]]).<ref>[https://web.archive.org/web/20160304224242/http://wget.net/soccerhistory.txt The History of Soccer in Ireland] archived at WebCite on 25 June 2012. URL: http://www.kiltimagh.net/soccerhistory.html (accessed 2011-09-11).</ref><ref>Quinn, J. (2023). ''No Foreign Game''. Ireland: Irish Academic Press.</ref>
+|- style="background:#eef;"
+| 1927-04-23||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Italy national football team|Italy B team]]|| style="text-align:center;"|1–2||FAIFS||Unofficial match. [[Bill Lacey (footballer)|Bill Lacey]] oldest player to debut for FAI aged 37. Crowd: 20,000.<ref name="fai.intl">[http://www.fai.ie/index.php?option=com_content&view=article&id=100709&Itemid=376 Ireland's International Matches 1926–1981], Football Association of Ireland. Retrieved: 11 September 2011.</ref>
+|- style="background:#cfc;"
+| 1928-02-12||Friendly||[[Liège]], [[Standard Liège|Standard Liège Stadium]]||[[Belgium national football team|Belgium]]|| style="text-align:center;"|4–2||FAIFS||
+|- style="background:#cfc;"
+| 1929-04-30||Friendly||[[Dublin]], [[Dalymount Park]]||[[Belgium national football team|Belgium]]|| style="text-align:center;"|4–0||FAIFS||[[John Joe Flood]] hat-trick.
+|- style="background:#cfc;" id="1930s"
+| 1930-05-11||Friendly||[[Brussels]], [[Astrid Park|Parc du Meir]]||[[Belgium national football team|Belgium]]|| style="text-align:center;"|3–1||FAIFS||[[Bill Lacey (footballer)|Bill Lacey]] aged 41 oldest to play for FAI XI.
+|- style="background:#ffc;"
+| 1931-04-26||Friendly||[[Barcelona]], [[Estadi Olímpic Lluís Companys|Montjuïc Stadium]]||[[Spain national football team|Spain]]|| style="text-align:center;"|1–1||FAIFS||
+|- style="background:#fcc;"
+| 1931-12-13||Friendly||[[Dublin]], [[Dalymount Park]]||[[Spain national football team|Spain]]|| style="text-align:center;"|0–5||[[Bill Lacey (footballer)|Lacey]]||[[Patsy Gallacher]] (40) becomes oldest debutant<ref>{{cite news|url=http://www.soccerscene.ie/ss_gen/player.php?id=262&level=sssenior|title=Ireland player Patsy Gallacher|work=SoccerScene.ie|access-date=27 February 2017}}</ref><br>Manager: Bill Lacey
+|- style="background:#cfc;"
+| 1932-05-08||Friendly||[[Amsterdam]], [[De Meer Stadion]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|2–0||FAIFS||
+|- style="background:#ffc;"
+| 1934-02-25||[[1934 FIFA World Cup|World Cup 1934]] [[1934 FIFA World Cup qualification|qualifier]]||[[Dublin]], [[Dalymount Park]]||[[Belgium national football team|Belgium]]|| style="text-align:center;"|4–4||Lacey||Four goals by [[Paddy Moore]].
+|- style="background:#fcc;"
+| 1934-04-08||World Cup 1934 qualifier||[[Amsterdam]], [[De Meer Stadion]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|2–5||FAIFS||
+|- style="background:#fcc;"
+| 1934-12-15||Friendly||[[Dublin]], [[Dalymount Park]]||[[Hungary national football team|Hungary]]|| style="text-align:center;"|2–4||FAIFS||
+|- style="background:#fcc;"
+| 1935-05-05||Friendly||[[Basel]], [[St. Jakob-Park|St. Jakob Park]]||[[Switzerland national football team|Switzerland]]|| style="text-align:center;"|0–1||FAIFS||
+|- style="background:#fcc;"
+| 1935-05-08||Friendly||[[Dortmund]], [[Stadion Rote Erde|Kampfbahn Rote Erde]]||[[Germany national football team|Germany]]|| style="text-align:center;"|1–3||FAIFS||
+|- style="background:#fcc;"
+| 1935-12-08||Friendly||[[Dublin]], [[Dalymount Park]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|3–5||Lacey||
+|- style="background:#cfc;"
+| 1936-03-17||Friendly||[[Dublin]], [[Dalymount Park]]||[[Switzerland national football team|Switzerland]]|| style="text-align:center;"|1–0||FAIFS||Team name changed from "Irish Free State" to "Ireland".
+|- style="background:#ffc;"
+| 1936-05-03||Friendly||[[Budapest]], [[Szusza Ferenc Stadium|Hungaria Uti Stadium]]||[[Hungary national football team|Hungary]]|| style="text-align:center;"|3–3||[[Football Association of Ireland|FAI]]||Manager: [[Football Association of Ireland]]. FAI name re-adopted in 1936.
+|- style="background:#eef;"
+| 1936-05-06||Friendly||[[Cologne|Köln]]||[[Rhineland]] XI|| style="text-align:center;"|1–4||FAI||Unofficial match.<ref>[http://www.11v11.com/matches/rhineland-v-irish-free-state-06-may-1936-269764/ Rhineland v Irish Free State, 06 May 1936] Association of Football Statisticians. Retrieved: 4 November 2013.</ref>
+|- style="background:#cfc;"
+| 1936-05-09||Friendly||[[Luxembourg (city)|Luxembourg]], [[Stade Josy Barthel|Stade Municipal]]||[[Luxembourg national football team|Luxembourg]]|| style="text-align:center;"|5–1||FAI||
+|- style="background:#cfc;"
+| 1936-10-17||Friendly||[[Dublin]], [[Dalymount Park]]||[[Germany national football team|Germany]]|| style="text-align:center;"|5–2||Lacey||Crowd: 28,000. The German team performed [[Nazi salute]]s during the playing of their national anthem.<ref>[http://www.independent.ie/irish-news/swastika-match-programme-on-sale-29874540.html 'Swastika' match programme on sale] Irish Independent, 30 December 2013.</ref>
+|- style="background:#fcc;"
+| 1936-12-06||Friendly||[[Dublin]], [[Dalymount Park]]||[[Hungary national football team|Hungary]]|| style="text-align:center;"|2–3||FAI||
+|- style="background:#cfc;"
+| 1937-05-17||Friendly||[[Bern]], [[Wankdorf Stadium|Wankdorfstadion]]||[[Switzerland national football team|Switzerland]]|| style="text-align:center;"|1–0||FAI||
+|- style="background:#cfc;"
+| 1937-05-23||Friendly||[[Paris]], [[Stade Olympique Yves-du-Manoir|Stade Colombes]]||[[France national football team|France]]|| style="text-align:center;"|2–0||FAI||
+|- style="background:#fcc;"
+| 1937-10-10||[[1934 FIFA World Cup qualification|World Cup 1938 qualifier]]||[[Oslo]], [[Ullevaal Stadion]]||[[Norway national football team|Norway]]|| style="text-align:center;"|2–3||FAI||
+|- style="background:#ffc;"
+| 1937-11-07||World Cup 1938 qualifier||[[Dublin]], [[Dalymount Park]]||[[Norway national football team|Norway]]|| style="text-align:center;"|3–3||FAI||
+|- style="background:#ffc;"
+| 1938-05-18||Friendly||[[Prague]], [[Generali Arena|Sparta Stadium]]||[[Czechoslovakia national football team|Czechoslovakia]]|| style="text-align:center;"|2–2||FAI||
+|- style="background:#fcc;"
+| 1938-05-22||Friendly||[[Warsaw]], [[Polish Army Stadium]]||[[Poland national football team|Poland]]|| style="text-align:center;"|0–6||FAI||
+|- style="background:#cfc;"
+| 1938-09-18||Friendly||[[Dublin]], [[Dalymount Park]]||[[Switzerland national football team|Switzerland]]|| style="text-align:center;"|4–0||FAI||
+|- style="background:#cfc;"
+| 1938-11-13||Friendly||[[Dublin]], [[Dalymount Park]]||[[Poland national football team|Poland]]|| style="text-align:center;"|3–2||FAI||
+|- style="background:#ffc;"
+| 1939-03-19||Friendly||[[Cork (city)|Cork]], [[Mardyke (UCC)|The Mardyke]]||[[Hungary national football team|Hungary]]|| style="text-align:center;"|2–2||FAI||First international match held in Cork.
+|- style="background:#ffc;"
+| 1939-05-18||Friendly||[[Budapest]], [[Hidegkuti Nándor Stadium|MTK Stadium]]||[[Hungary national football team|Hungary]]|| style="text-align:center;"|2–2||FAI||
+|- style="background:#ffc;"
+| 1939-05-23||Friendly||[[Bremen]], [[Weserstadion]]||[[Germany national football team|Germany]]|| style="text-align:center;"|1–1||FAI||Final pre-war match.
+|- style="background:#eef;"
+| 1940-04-28||Friendly||[[Dublin]], [[Dalymount Park]]||[[Scotland national football team|Scotland XI]]|| style="text-align:center;"|2–3||FAI||Unofficial wartime match.<ref name=pathe40>[https://www.youtube.com/watch?v=SurhmWYS2uo International Football In Dublin], [[Pathé News]], 1940 (via [[YouTube]])</ref><ref name=11v1140>[https://www.11v11.com/matches/irish-xi-v-scottish-xi-28-april-1940-269767/ Irish XI v Scottish XI, 28 April 1940], 11v11.com</ref>
+|- style="background:#fcc;" id="1940s"
+| 1946-06-16||Friendly||[[Lisbon]], [[Estádio da Luz]]||[[Portugal national football team|Portugal]]|| style="text-align:center;"|1–3||FAI||First post-war match.
+|- style="background:#cfc;"
+| 1946-06-23||Friendly||[[Madrid]], [[Estadio Metropolitano de Madrid|Estadio Metropolitano]]||[[Spain national football team|Spain]]|| style="text-align:center;"|1–0||FAI||
+|- style="background:#fcc;"
+| 1946-09-30||Friendly||[[Dublin]], [[Dalymount Park]]||[[England national football team|England]]|| style="text-align:center;"|0–1||FAI||
+|- style="background:#cfc;"
+| 1947-03-02||Friendly||[[Dublin]], [[Dalymount Park]]||[[Spain national football team|Spain]]|| style="text-align:center;"|3–2||FAI||Crowd: 42,102.
+|- style="background:#fcc;"
+| 1947-05-04||Friendly||[[Dublin]], [[Dalymount Park]]||[[Portugal national football team|Portugal]]|| style="text-align:center;"|0–2||FAI||
+|- style="background:#fcc;"
+| 1948-05-23||Friendly||[[Lisbon]], [[Estádio da Luz]]||[[Portugal national football team|Portugal]]|| style="text-align:center;"|0–2||FAI||
+|- style="background:#fcc;"
+| 1948-05-30||Friendly||[[Barcelona]], [[Estadi Olímpic Lluís Companys|Montjuïc Stadium]]||[[Spain national football team|Spain]]|| style="text-align:center;"|1–2||FAI||
+|- style="background:#fcc;"
+| 1948-07-26||[[1948 Summer Olympics]]||[[Portsmouth]], [[Fratton Park]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|1–3||FAI||
+|- style="background:#fcc;"
+| 1948-12-05||Friendly||[[Dublin]], [[Dalymount Park]]||[[Switzerland national football team|Switzerland]]|| style="text-align:center;"|0–1||FAI||
+|- style="background:#fcc;"
+| 1949-04-24||Friendly||[[Dublin]], [[Dalymount Park]]||[[Belgium national football team|Belgium]]|| style="text-align:center;"|0–2||FAI||
+|- style="background:#cfc;"
+| 1949-05-22||Friendly||[[Dublin]], [[Dalymount Park]]||[[Portugal national football team|Portugal]]|| style="text-align:center;"|1–0||FAI||
+|- style="background:#fcc;"
+| 1949-06-02||[[1950 FIFA World Cup qualification|World Cup 1950 qualifier]]||[[Solna Municipality|Solna]], [[Råsunda Stadium]]||[[Sweden men's national football team|Sweden]]|| style="text-align:center;"|1–3||FAI||
+|- style="background:#fcc;"
+| 1949-06-12||Friendly||[[Dublin]], [[Dalymount Park]]||[[Spain national football team|Spain]]|| style="text-align:center;"|1–4||FAI||
+|- style="background:#cfc;"
+| 1949-09-08||World Cup 1950 qualifier||[[Dublin]], [[Dalymount Park]]||[[Finland national football team|Finland]]|| style="text-align:center;"|3–0||FAI||
+|- style="background:#cfc;"
+| 1949-09-21||Friendly||[[Liverpool]], [[Goodison Park]]||[[England national football team|England]]|| style="text-align:center;"|2–0||FAI||England's first home defeat by non-British side. Crowd: 51,047.
+|- style="background:#ffc;"
+| 1949-10-09||World Cup 1950 qualifier||[[Helsinki]], [[Helsinki Olympic Stadium|Olympiastadion]]||[[Finland national football team|Finland]]|| style="text-align:center;"|1–1||FAI||
+|- style="background:#fcc;"
+| 1949-11-13||World Cup 1950 qualifier||[[Dublin]], [[Dalymount Park]]||[[Sweden men's national football team|Sweden]]|| style="text-align:center;"|1–3||FAI||
+|- style="background:#fcc;" id="1950s"
+| 1950-05-10||Friendly||[[Brussels]], [[King Baudouin Stadium|Century Stadium]]||[[Belgium national football team|Belgium]]|| style="text-align:center;"|1–5||FAI||
+|- style="background:#ffc;"
+| 1950-11-26||Friendly||[[Dublin]], [[Dalymount Park]]||[[Norway national football team|Norway]]|| style="text-align:center;"|2–2||FAI||
+|- style="background:#fcc;"
+| 1951-05-13||Friendly||[[Dublin]], [[Dalymount Park]]||[[Argentina national football team|Argentina]]|| style="text-align:center;"|0–1||FAI||
+|- style="background:#cfc;"
+| 1951-05-30||Friendly||[[Oslo]], [[Ullevaal Stadion]]||[[Norway national football team|Norway]]|| style="text-align:center;"|3–2||FAI||
+|- style="background:#cfc;"
+| 1951-10-17||Friendly||[[Dublin]], [[Dalymount Park]]||[[Germany national football team|West Germany]]|| style="text-align:center;"|3–2||FAI||
+|- style="background:#fcc;"
+| 1952-05-04||Friendly||[[Köln]], [[RheinEnergieStadion|Müngersdorfer Stadion]]||[[Germany national football team|West Germany]]|| style="text-align:center;"|0–3||FAI||
+|- style="background:#fcc;"
+| 1952-05-07||Friendly||[[Vienna]], [[Ernst-Happel-Stadion|Praeter Park]]||[[Austria national football team|Austria]]|| style="text-align:center;"|0–6||FAI||
+|- style="background:#fcc;"
+| 1952-06-01||Friendly||[[Madrid]], [[Estadio Chamartín]]||[[Spain national football team|Spain]]|| style="text-align:center;"|0–6||FAI||
+|- style="background:#ffc;"
+| 1952-11-16||Friendly||[[Dublin]], [[Dalymount Park]]||[[France national football team|France]]|| style="text-align:center;"|1–1||FAI||
+|- style="background:#cfc;"
+| 1953-03-25||Friendly||[[Dublin]], [[Dalymount Park]]||[[Austria national football team|Austria]]|| style="text-align:center;"|4–0||FAI||
+|- style="background:#fcc;"
+| 1953-10-04||[[1954 FIFA World Cup qualification|World Cup 1954 qualifier]]||[[Dublin]], [[Dalymount Park]]||[[France national football team|France]]|| style="text-align:center;"|3–5||FAI||FIFA renamed team from "Ireland" to "Republic of Ireland".
+|- style="background:#cfc;"
+| 1953-10-28||World Cup 1954 qualifier||[[Dublin]], [[Dalymount Park]]||[[Luxembourg national football team|Luxembourg]]|| style="text-align:center;"|4–0||FAI||
+|- style="background:#fcc;"
+| 1953-11-25||World Cup 1954 qualifier||[[Paris]], [[Parc des Princes]]||[[France national football team|France]]|| style="text-align:center;"|0–1||FAI||
+|- style="background:#cfc;"
+| 1954-03-07||World Cup 1954 qualifier||[[Luxembourg (city)|Luxembourg]], [[Stade Josy Barthel|Stade Municipal]]||[[Luxembourg national football team|Luxembourg]]|| style="text-align:center;"|1–0||FAI||
+|- style="background:#cfc;"
+| 1954-11-07||Friendly||[[Dublin]], [[Dalymount Park]]||[[Norway national football team|Norway]]|| style="text-align:center;"|2–1||FAI||
+|- style="background:#cfc;"
+| 1955-05-01||Friendly||[[Dublin]], [[Dalymount Park]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|1–0||FAI||
+|- style="background:#cfc;"
+| 1955-05-25||Friendly||[[Oslo]], [[Bislett Stadion]]||[[Norway national football team|Norway]]|| style="text-align:center;"|3–1||FAI||
+|- style="background:#fcc;"
+| 1955-05-28||Friendly||[[Hamburg]], [[Volksparkstadion]]||[[Germany national football team|West Germany]]|| style="text-align:center;"|1–2||FAI||
+|- style="background:#fcc;"
+| 1955-10-19||Friendly||[[Dublin]], [[Dalymount Park]]||[[Yugoslavia national football team|Yugoslavia]]|| style="text-align:center;"|1–4||FAI||[[Liam Tuohy (footballer)|Liam Tuohy]] debut. [[John Charles McQuaid|Archbishop McQuaid]] called for a boycott of the match with communists, but the stadium was filled.<ref>[http://www.historyireland.com/20th-century-contemporary-history/two-bishops-and-a-football-ireland-and-the-balkans-in-the-1940s-and-50s/ Two bishops and a football: Ireland and the Balkans in the 1940s and ’50s] History Ireland, Issue 5 (Sep/Oct 2007), Volume 15.</ref>
+|- style="background:#ffc;"
+| 1955-11-27||Friendly||[[Dublin]], [[Dalymount Park]]||[[Spain national football team|Spain]]|| style="text-align:center;"|2–2||FAI||
+|- style="background:#cfc;"
+| 1956-05-10||Friendly||[[Rotterdam]], [[De Kuip|Feijenoord Stadion]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|4–1||FAI||
+|- style="background:#cfc;"
+| 1956-10-03||[[1958 FIFA World Cup qualification|World Cup 1958 qualifier]]||[[Dublin]], [[Dalymount Park]]||[[Denmark national football team|Denmark]]|| style="text-align:center;"|2–1||FAI||
+|- style="background:#cfc;"
+| 1956-11-25||Friendly||[[Dublin]], [[Dalymount Park]]||[[Germany national football team|West Germany]]|| style="text-align:center;"|3–0||FAI||Ireland defeated the world champions.
+|- style="background:#fcc;"
+| 1957-05-08||World Cup 1958 qualifier||[[London]], [[Wembley Stadium]]||[[England national football team|England]]|| style="text-align:center;"|1–5||FAI||
+|- style="background:#ffc;"
+| 1957-05-19||World Cup 1958 qualifier||[[Dublin]], [[Dalymount Park]]||[[England national football team|England]]|| style="text-align:center;"|1–1||FAI||Record Dalymount Park crowd: 47,600. Gate: .
+|- style="background:#cfc;"
+| 1957-10-02||World Cup 1958 qualifier||[[Copenhagen]], [[Idrætsparken]]||[[Denmark national football team|Denmark]]|| style="text-align:center;"|2–0||FAI||
+|- style="background:#ffc;"
+| 1958-05-11||Friendly||[[Chorzów]], [[Silesian Stadium|Stadion Slaski]]||[[Poland national football team|Poland]]|| style="text-align:center;"|2–2||FAI||Crowd: 100,000.
+|- style="background:#fcc;"
+| 1958-05-14||Friendly||[[Vienna]], [[Ernst-Happel-Stadion|Praeter Park]]||[[Austria national football team|Austria]]|| style="text-align:center;"|1–3||FAI||
+|- style="background:#ffc;"
+| 1958-10-05||Friendly||[[Dublin]], [[Dalymount Park]]||[[Poland national football team|Poland]]|| style="text-align:center;"|2–2||FAI||
+|- style="background:#cfc;"
+| 1959-04-05||[[1960 European Nations' Cup|European Nations' Cup 1960]] [[UEFA Euro qualification|qualifier]]||[[Dublin]], [[Dalymount Park]]||[[Czechoslovakia national football team|Czechoslovakia]]|| style="text-align:center;"|2–0||FAI||[[Liam Tuohy (footballer)|Liam Tuohy]] scored his first goal for Ireland. Crowd: 37,500.
+|- style="background:#fcc;"
+| 1959-05-10||European Nations' Cup 1960 qualifier||[[Bratislava]], [[Tehelné pole|Tehelné Pole Štadión]]||[[Czechoslovakia national football team|Czechoslovakia]]|| style="text-align:center;"|0–4||FAI||Crowd: 41,691.
+|- style="background:#cfc;"
+| 1959-11-01||Friendly||[[Dublin]], [[Dalymount Park]]||[[Sweden men's national football team|Sweden]]|| style="text-align:center;"|3–2||FAI||[[Johnny Giles|John Giles]] debut aged 18.
+|- style="background:#cfc;" id="1960s"
+| 1960-03-30||Friendly||[[Dublin]], [[Dalymount Park]]||[[Chile national football team|Chile]]|| style="text-align:center;"|2–0||FAI||
+|- style="background:#cfc;"
+| 1960-05-11||Friendly||[[Düsseldorf]], [[Rheinstadion]]||[[Germany national football team|West Germany]]|| style="text-align:center;"|1–0||FAI||
+|- style="background:#fcc;"
+| 1960-05-18||Friendly||[[Malmö]], [[Malmö Stadion]]||[[Sweden men's national football team|Sweden]]|| style="text-align:center;"|1–4||FAI||
+|- style="background:#fcc;"
+| 1960-09-28||Friendly||[[Dublin]], [[Dalymount Park]]||[[Wales national football team|Wales]]|| style="text-align:center;"|2–3||FAI||
+|- style="background:#cfc;"
+| 1960-11-06||Friendly||[[Dublin]], [[Dalymount Park]]||[[Norway national football team|Norway]]|| style="text-align:center;"|3–1||FAI||
+|- style="background:#fcc;"
+| 1961-05-03||[[1962 FIFA World Cup qualification|World Cup 1962 qualifier]]||[[Glasgow]], [[Hampden Park]]||[[Scotland national football team|Scotland]]|| style="text-align:center;"|1–4||FAI||[[Mick Meagan]] debut.
+|- style="background:#fcc;"
+| 1961-05-07||World Cup 1962 qualifier||[[Dublin]], [[Dalymount Park]]||[[Scotland national football team|Scotland]]|| style="text-align:center;"|0–3||FAI||
+|- style="background:#fcc;"
+| 1961-10-08||World Cup 1962 qualifier||[[Dublin]], [[Dalymount Park]]||[[Czechoslovakia national football team|Czechoslovakia]]|| style="text-align:center;"|1–3||FAI||
+|- style="background:#fcc;"
+| 1961-10-29||World Cup 1962 qualifier||[[Prague]], [[Strahov Stadium]]||[[Czechoslovakia national football team|Czechoslovakia]]|| style="text-align:center;"|1–7||FAI||No qualifying points earned.
+|- style="background:#fcc;"
+| 1962-04-08||Friendly||[[Dublin]], [[Dalymount Park]]||[[Austria national football team|Austria]]|| style="text-align:center;"|2–3||FAI||
+|- style="background:#cfc;"
+| 1962-08-12||[[1964 European Nations' Cup qualifying|European Nations' Cup 1964 qualifier]]||[[Dublin]], [[Dalymount Park]]||[[Iceland national football team|Iceland]]|| style="text-align:center;"|4–2||FAI||
+|- style="background:#ffc;"
+| 1962-09-02||European Nations' Cup 1964 qualifier||[[Reykjavík]], [[Laugardalsvöllur]]||[[Iceland national football team|Iceland]]|| style="text-align:center;"|1–1||FAI||
+|- style="background:#cfc;"
+| 1963-06-09||Friendly||[[Dublin]], [[Dalymount Park]]||[[Scotland national football team|Scotland]]|| style="text-align:center;"|1–0||FAI||
+|- style="background:#ffc;"
+| 1963-09-25||European Nations' Cup 1964 qualifier||[[Vienna]], [[Ernst-Happel-Stadion|Praterstadion]]||[[Austria national football team|Austria]]|| style="text-align:center;"|0–0||FAI||
+|- style="background:#cfc;"
+| 1963-10-13||European Nations' Cup 1964 qualifier||[[Dublin]], [[Dalymount Park]]||[[Austria national football team|Austria]]|| style="text-align:center;"|3–2||FAI||
+|- style="background:#fcc;"
+| 1964-03-11||European Nations' Cup 1964 qualifier||[[Seville]], [[Ramón Sánchez Pizjuán Stadium|Estadio Ramón Sánchez Pizjuán]]||[[Spain national football team|Spain]]|| style="text-align:center;"|1–5||FAI||
+|- style="background:#fcc;"
+| 1964-04-08||European Nations' Cup 1964 qualifier||[[Dublin]], [[Dalymount Park]]||[[Spain national football team|Spain]]|| style="text-align:center;"|0–2||FAI||
+|- style="background:#fcc;"
+| 1964-05-10||Friendly||[[Kraków]], [[Stadion Miejski in Kraków|Stadion Wisly]]||[[Poland national football team|Poland]]|| style="text-align:center;"|1–3||FAI||
+|- style="background:#cfc;"
+| 1964-05-13||Friendly||[[Oslo]], [[Ullevaal Stadion]]||[[Norway national football team|Norway]]|| style="text-align:center;"|4–1||FAI||
+|- style="background:#fcc;"
+| 1964-05-24||Friendly||[[Dublin]], [[Dalymount Park]]||[[England national football team|England]]|| style="text-align:center;"|1–3||FAI||
+|- style="background:#cfc;"
+| 1964-10-25||Friendly||[[Dublin]], [[Dalymount Park]]||[[Poland national football team|Poland]]|| style="text-align:center;"|3–2||FAI||
+|- style="background:#fcc;"
+| 1965-03-24||Friendly||[[Dublin]], [[Dalymount Park]]||[[Belgium national football team|Belgium]]|| style="text-align:center;"|0–2||FAI||[[Liam Tuohy (footballer)|Liam Tuohy]]'s final appearance.
+|- style="background:#cfc;"
+| 1965-05-05||[[1966 FIFA World Cup qualification|World Cup 1966 qualifier]]||[[Dublin]], [[Dalymount Park]]||[[Spain national football team|Spain]]|| style="text-align:center;"|1–0||FAI||
+|- style="background:#fcc;"
+| 1965-10-27||World Cup 1966 qualifier||[[Seville]], [[Ramón Sánchez Pizjuán Stadium|Estadio Ramón Sánchez Pizjuán]]||[[Spain national football team|Spain]]|| style="text-align:center;"|1–4||FAI||
+|- style="background:#fcc;"
+| 1965-11-10||World Cup 1966 play-off||[[Paris]], [[Stade Olympique Yves-du-Manoir|Stade Colombes]]||[[Spain national football team|Spain]]|| style="text-align:center;"|0–1||FAI||Ireland eliminated.
+|- style="background:#fcc;"
+| 1966-05-04||Friendly||[[Dublin]], [[Dalymount Park]]||[[Germany national football team|West Germany]]|| style="text-align:center;"|0–4||FAI||
+|- style="background:#fcc;"
+| 1966-05-22||Friendly||[[Vienna]], [[Ernst-Happel-Stadion|Praterstadion]]||[[Austria national football team|Austria]]|| style="text-align:center;"|0–1||FAI||
+|- style="background:#cfc;"
+| 1966-05-25||Friendly||[[Liège]], [[Stade Maurice Dufrasne]]||[[Belgium national football team|Belgium]]|| style="text-align:center;"|3–2||FAI||
+|- style="background:#ffc;"
+| 1966-10-23||[[UEFA Euro 1968 qualifying|European Championship 1968 qualifier]]||[[Dublin]], [[Dalymount Park]]||[[Spain national football team|Spain]]|| style="text-align:center;"|0–0||FAI||European Nations' Cup name changed to European Football Championship.
+|- style="background:#cfc;"
+| 1966-11-16||European&nbsp;Championship&nbsp;1968&nbsp;qualifier||[[Dublin]], [[Dalymount Park]]||[[Turkey national football team|Turkey]]|| style="text-align:center;"|2–1||FAI||
+|- style="background:#fcc;"
+| 1966-12-07||European Championship 1968 qualifier||[[Valencia]], [[Mestalla Stadium|Estadio Mestalla]]||[[Spain national football team|Spain]]|| style="text-align:center;"|0–2||FAI||
+|- style="background:#fcc;"
+| 1967-02-22||European Championship 1968 qualifier||[[Ankara]], [[Ankara 19 Mayıs Stadium|19 Mayıs Stadium]]||[[Turkey national football team|Turkey]]|| style="text-align:center;"|1–2||FAI||
+|- style="background:#fcc;"
+| 1967-05-21||European Championship 1968 qualifier||[[Dublin]], [[Dalymount Park]]||[[Czechoslovakia national football team|Czechoslovakia]]|| style="text-align:center;"|0–2||FAI||
+|- style="background:#cfc;"
+| 1967-11-22||European Championship 1968 qualifier||[[Prague]], [[Ovcha Kupel Stadium|Slavia Stadium]]||[[Czechoslovakia national football team|Czechoslovakia]]|| style="text-align:center;"|2–1||FAI||
+|- style="background:#ffc;"
+| 1968-05-15||Friendly||[[Dublin]], [[Dalymount Park]]||[[Poland national football team|Poland]]|| style="text-align:center;"|2–2||FAI||
+|- style="background:#fcc;"
+| 1968-10-30||Friendly||[[Chorzów]], [[Silesian Stadium|Stadion Slaski]]||[[Poland national football team|Poland]]|| style="text-align:center;"|0–1||FAI||
+|- style="background:#ffc;"
+| 1968-11-10||Friendly||[[Dublin]], [[Dalymount Park]]||[[Austria national football team|Austria]]|| style="text-align:center;"|2–2||FAI||
+|- style="background:#eef;"
+| 1968-12-04||[[1970 FIFA World Cup qualification|World Cup 1970 qualifier]]||[[Dublin]], [[Dalymount Park]]||[[Denmark national football team|Denmark]]|| style="text-align:center;"|1–1||FAI||Abandoned at 51 minutes because of [[fog]]. Replayed 1969-10-15.<ref name="rsssf-ier" /><ref>[http://www.11v11.com/matches/republic-of-ireland-v-denmark-04-december-1968-230474/ Republic of Ireland v Denmark, 04 December 1968] Association of Football Statisticians. Retrieved: 4 November 2013. Quote: "abd 51".</ref><ref>[https://int.soccerway.com/matches/1968/12/04/world/friendlies/ireland-republic/denmark/1288772/ Republic of Ireland vs. Denmark  1 - 1] Soccerway, 2013.</ref>
+|- style="background:#fcc;"
+| 1969-05-04||World Cup 1970 qualifier||[[Dublin]], [[Dalymount Park]]||[[Czechoslovakia national football team|Czechoslovakia]]|| style="text-align:center;"|1–2||FAI||
+|- style="background:#fcc;"
+| 1969-05-27||World Cup 1970 qualifier||[[Copenhagen]], [[Idrætsparken]]||[[Denmark national football team|Denmark]]|| style="text-align:center;"|0–2||FAI||[[Don Givens]] debut.
+|- style="background:#fcc;"
+| 1969-06-08||World Cup 1970 qualifier||[[Dublin]], [[Dalymount Park]]||[[Hungary national football team|Hungary]]|| style="text-align:center;"|1–2||FAI||
+|- style="background:#ffc;"
+| 1969-09-21||Friendly||[[Dublin]], [[Dalymount Park]]||[[Scotland national football team|Scotland]]|| style="text-align:center;"|1–1||[[Mick Meagan|Meagan]]||New manager: Mick Meagan.
+|- style="background:#fcc;"
+| 1969-10-07||World Cup 1970 qualifier||[[Prague]], [[Generali Arena|Sparta Stadium]]||[[Czechoslovakia national football team|Czechoslovakia]]|| style="text-align:center;"|0–3||Meagan||
+|- style="background:#ffc;"
+| 1969-10-15||World Cup 1970 qualifier||[[Dublin]], [[Dalymount Park]]||[[Denmark national football team|Denmark]]|| style="text-align:center;"|1–1||Meagan||Replay of 1968-12-04 Denmark match.<ref>[http://www.11v11.com/matches/republic-of-ireland-v-denmark-15-october-1969-230760/ Republic of Ireland v Denmark, 15 October 1969] Association of Football Statisticians. Retrieved: 4 November 2013.</ref>
+|- style="background:#fcc;"
+| 1969-11-05||World Cup 1970 qualifier||[[Budapest]], [[Ferenc Puskás Stadium (1953)|Népstadion]]||[[Hungary national football team|Hungary]]|| style="text-align:center;"|0–4||Meagan||[[John Dempsey (footballer, born 1946)|John Dempsey]], red card. First Irish player ever to be sent off.
+|- style="background:#fcc;" id="1970s"
+| 1970-05-06||Friendly||[[Poznań]], [[Warta Poznań|Warta Stadion]]||[[Poland national football team|Poland]]|| style="text-align:center;"|1–2||Meagan||
+|- style="background:#fcc;"
+| 1970-05-09||Friendly||[[West Berlin]], [[Olympic Stadium (Berlin)|Olympiastadion]]||[[Germany national football team|West Germany]]|| style="text-align:center;"|1–2||Meagan||
+|- style="background:#fcc;"
+| 1970-09-23||Friendly||[[Dublin]], [[Dalymount Park]]||[[Poland national football team|Poland]]|| style="text-align:center;"|0–2||Meagan||[[Steve Heighway]] debut.
+|- style="background:#ffc;"
+| 1970-10-14||[[UEFA Euro 1972 qualifying|European Championship 1972 qualifier]]||[[Dublin]], [[Dalymount Park]]||[[Sweden men's national football team|Sweden]]|| style="text-align:center;"|1–1||Meagan||
+|- style="background:#fcc;"
+| 1970-10-28||European Championship 1972 qualifier||[[Solna Municipality|Solna]], [[Råsunda Stadium]]||[[Sweden men's national football team|Sweden]]|| style="text-align:center;"|0–1||Meagan||
+|- style="background:#fcc;"
+| 1970-12-08||European Championship 1972 qualifier||[[Florence]], [[Stadio Artemio Franchi]]||[[Italy national football team|Italy]]|| style="text-align:center;"|0–3||Meagan||
+|- style="background:#fcc;"
+| 1971-05-10||European Championship 1972 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Italy national football team|Italy]]|| style="text-align:center;"|1–2||Meagan||
+|- style="background:#eef;"
+| 1971-05-24||Friendly||[[Dublin]], [[Lansdowne Road]]||[[England national football team|England XI]]|| style="text-align:center;"|1–1||Meagan||Unofficial match to celebrate the [[Golden Jubilee]] of the [[Football Association of Ireland]].<ref>{{Cite web |url=http://www.englandfootballonline.com/MatchRsl/MatchRslUnoffpg2.html|title=England's Matches: Unofficial 1946 onwards|website=England Football Online|access-date=9 June 2019 }}</ref><ref>[https://stillslibrary.rte.ie/indexplus/image/2112/038.html Ireland v England XI (1971)], [[RTÉ]] Archives</ref>
+|- style="background:#fcc;"
+| 1971-05-30||European Championship 1972 qualifier||[[Dublin]], [[Dalymount Park]]||[[Austria national football team|Austria]]|| style="text-align:center;"|1–4||Meagan||[[Jimmy Holmes (footballer born 1953)|Jimmy Holmes]] debut.
+|- style="background:#fcc;"
+| 1971-10-10||European Championship 1972 qualifier||[[Linz]], [[Linzer Stadion]]||style="font-weightChampionship:bold;"|[[Austria national football team|Austria]]|| style="text-align:center;"|0–6||[[Liam Tuohy (footballer)|Tuohy]]||New manager: Liam Tuohy.
+|- style="background:#eef;"
+| 1972-01-04||Friendly||[[Dublin]], [[Dalymount Park]]||[[Germany national football team|West German Olympic XI]]|| style="text-align:center;"|3–0||Tuohy||Unofficial match. First win since 1967 (four years).<ref>[http://www.11v11.com/matches/fa-of-ireland-xi-v-west-germany-05-january-1972-259793/ FA of Ireland XI v West Germany, 05 January 1972] Association of Football Statisticians. Retrieved: 4 November 2013.</ref>
+
+|- style="background:#cfc;"
+| 1972-06-11||[[Brazil Independence Cup]]||[[Recife]], [[Estádio do Arruda|Santa Crux Stadium]]||[[Iran national football team|Iran]]|| style="text-align:center;"|2–1||Tuohy||Tournament to mark the 150th anniversary of [[Independence of Brazil|Brazilian independence]].<ref name="bic1972">[https://www.rsssf.org/tablesb/braz-indep72.html Brazil Independence Cup 1972] Macario Reyes at Rec.Sport.Soccer Statistics Foundation. Retrieved: 25 June 2012.</ref><ref name="bic1972det">[https://www.rsssf.org/tablesb/braz-indep72det.html Brazil Independence Cup 1972 - Additional Details] Eliézer Sebastián Pérez Pérez at Rec.Sport.Soccer Statistics Foundation. Retrieved: 25 June 2012.</ref>
+|- style="background:#cfc;"
+| 1972-06-18||Brazil Independence Cup||[[Natal, Rio Grande do Norte|Natal]], [[Machadão]]||[[Ecuador national football team|Ecuador]]|| style="text-align:center;"|3–2||Tuohy||Friendly.<ref name="bic1972" /><ref name="bic1972det" /><ref>[http://eu-football.info/_match.php?id=11872 Football MATCH: 18.06.1972 Ecuador v Rep. of Ireland] EU Football.info. Retrieved: 4 November 2013.</ref>
+|- style="background:#fcc;"
+| 1972-06-21||Brazil Independence Cup||[[Recife]], [[Estádio Ilha do Retiro]]||[[Chile national football team|Chile]]|| style="text-align:center;"|1–2||Tuohy||Friendly.<ref name="bic1972" /><ref name="bic1972det" />
+|- style="background:#fcc;"
+| 1972-06-25||Brazil Independence Cup||[[Recife]], [[Estádio Ilha do Retiro]]||[[Portugal national football team|Portugal]]|| style="text-align:center;"|1–2||Tuohy||Friendly.<ref name="bic1972" /><ref name="bic1972det" />
+|- style="background:#fcc;"
+| 1972-10-18||[[1974 FIFA World Cup qualification|World Cup 1974 qualifier]]||[[Dublin]], [[Lansdowne Road]]||[[Soviet Union national football team|Soviet Union]]|| style="text-align:center;"|1–2||Tuohy||[[Alan Kelly, Sr.]] first goalkeeper to captain Ireland.
+|- style="background:#cfc;"
+| 1972-11-15||World Cup 1974 qualifier||[[Dublin]], [[Dalymount Park]]||[[France national football team|France]]|| style="text-align:center;"|2–1||Tuohy||
+|- style="background:#fcc;"
+| 1973-05-13||World Cup 1974 qualifier||[[Moscow]], [[Luzhniki Stadium|Lenin Stadium]]||[[Soviet Union national football team|Soviet Union]]|| style="text-align:center;"|0–1||Tuohy||
+|- style="background:#fcc;"
+| 1973-05-16||Friendly||[[Wrocław]], [[Olympic Stadium (Wrocław)|Olympic Stadium]]||[[Poland national football team|Poland]]|| style="text-align:center;"|0–2||Tuohy||
+|- style="background:#ffc;"
+| 1973-05-19||World Cup 1974 qualifier||[[Paris]], [[Parc des Princes]]||[[France national football team|France]]|| style="text-align:center;"|1–1||Tuohy||
+|- style="background:#ffc;"
+| 1973-06-06||Friendly||[[Oslo]], [[Ullevaal Stadion]]||[[Norway national football team|Norway]]|| style="text-align:center;"|1–1||[[Seán Thomas|Thomas]]||Manager: Seán Thomas.
+|- style="background:#eef;"
+| 1973-07-03||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Brazil national football team|Brazil]]|| style="text-align:center;"|3–4||Tuohy||Unofficial match. See: [[Shamrock Rovers XI vs Brazil]]. Crowd: 34,000.<ref>[http://www.historyireland.com/20th-century-contemporary-history/all-ireland-samba-shamrock-rovers-all-ireland-xi-3-4-brazil-lansdowne-road-tuesday-3-july-1973/ All-Ireland Samba Shamrock Rovers All-Ireland XI 3 – 4 Brazil Lansdowne Road, Tuesday 3 July 1973] History Ireland, Issue 4 (Jul/Aug 2008), Volume 16.
+* [http://www.dundalkfc.com/history/irish-football-time-capsule/all-ireland-xi-v-brazil-1973/shamrock-rovers-xi-v-brazil-friendly-international-1973/ Shamrock Rovers XI v Brazil – Friendly International 1973] Dundalk Football Club, 13 February 2011.
+* [http://www.rte.ie/sport/soccer/mns/features/shamrockroversav.html Jimmy Magee reports on the Shamrock Rovers XI v Brazil game 35 years on] {{webarchive|url=https://web.archive.org/web/20081218101715/http://www.rte.ie/sport/soccer/mns/features/shamrockroversav.html |date=18 December 2008 }} RTÉ Sport: "Monday Night Soccer", 2008-04-07.
+* [http://www.goal.com/en-ie/news/3942/ireland/2012/04/04/3013130/fai-abandons-plans-for-minute-silence-in-memory-of-louis FAI abandons plans for minute silence in memory of Louis Kilcoyne due to fears of Shamrock Rovers fan protest] Goal Ireland. Retrieved: 2013-11-04.</ref>
+|- style="background:#cfc;"
+| 1973-10-21||Friendly||[[Dublin]], [[Dalymount Park]]||[[Poland national football team|Poland]]|| style="text-align:center;"|1–0||[[Johnny Giles|Giles]]||New manager: John Giles.
+|- style="background:#fcc;"
+| 1974-05-05||Friendly||[[Rio de Janeiro]], [[Estádio do Maracanã]]||[[Brazil national football team|Brazil]]|| style="text-align:center;"|1–2||Giles||
+|- style="background:#fcc;"
+| 1974-05-08||Friendly||[[Montevideo]], [[Estadio Centenario]]||[[Uruguay national football team|Uruguay]]|| style="text-align:center;"|0–2||Giles||
+|- style="background:#cfc;"
+| 1974-05-12||Friendly||[[Santiago, Chile|Santiago]], [[Estadio Nacional Julio Martínez Prádanos|Estadio Nacional]]||[[Chile national football team|Chile]]|| style="text-align:center;"|2–1||Giles||
+|- style="background:#cfc;"
+| 1974-10-30||[[UEFA Euro 1976 qualifying|European Championship 1976 qualifier]]||[[Dublin]], [[Dalymount Park]]||[[Soviet Union national football team|Soviet Union]]|| style="text-align:center;"|3–0||Giles||[[Don Givens]] hat-trick.
+|- style="background:#ffc;"
+| 1974-11-20||European Championship 1976 qualifier||[[İzmir]], [[İzmir Atatürk Stadium|Atatürk Olympic Stadium]]||[[Turkey national football team|Turkey]]|| style="text-align:center;"|1–1||Giles||
+|- style="background:#eef;"
+| 1975-03-11||Friendly||[[Dublin]], [[Dalymount Park]]||[[Germany national football team|West Germany B team]]|| style="text-align:center;"|1–0||Giles||Unofficial match.<ref name="rsssf-ier" /><ref name="fai.intl" /><ref>[http://www.11v11.com/matches/republic-of-ireland-v-west-germany-11-march-1975-233123/ Republic of Ireland v West Germany, 11 March 1975] Association of Football Statisticians (11v11.com). Retrieved: 25 June 2012.</ref>
+|- style="background:#cfc;"
+| 1975-05-11||European Championship 1976 qualifier||[[Dublin]], [[Dalymount Park]]||[[Switzerland national football team|Switzerland]]|| style="text-align:center;"|2–1||Giles||
+|- style="background:#fcc;"
+| 1975-05-18||European Championship 1976 qualifier||[[Kiev]], [[Olimpiyskiy National Sports Complex|Central Stadium]]||[[Soviet Union national football team|Soviet Union]]|| style="text-align:center;"|1–2||Giles||Crowd: 100,000.
+|- style="background:#fcc;"
+| 1975-05-21||European Championship 1976 qualifier||[[Bern]], [[Wankdorf Stadium|Wankdorfstadion]]||[[Switzerland national football team|Switzerland]]|| style="text-align:center;"|0–1||Giles||
+|- style="background:#cfc;"
+| 1975-10-29||European Championship 1976 qualifier||[[Dublin]], [[Dalymount Park]]||[[Turkey national football team|Turkey]]|| style="text-align:center;"|4–0||Giles||Four goals by [[Don Givens]].
+|- style="background:#cfc;"
+| 1976-03-24||Friendly||[[Dublin]], [[Dalymount Park]]||[[Norway national football team|Norway]]|| style="text-align:center;"|3–0||Giles||
+|- style="background:#cfc;"
+| 1976-05-26||Friendly||[[Poznań]], [[Warta Poznań|Warta Stadion]]||[[Poland national football team|Poland]]|| style="text-align:center;"|2–0||Giles||
+|- style="background:#ffc;"
+| 1976-09-08||Friendly||[[London]], [[Wembley Stadium]]||[[England national football team|England]]|| style="text-align:center;"|1–1||Giles||[[David O'Leary]] debut aged 18.
+|- style="background:#ffc;"
+| 1976-10-13||Friendly||[[Ankara]], [[Ankara 19 Mayıs Stadium|19 Mayıs Stadium]]||[[Turkey national football team|Turkey]]|| style="text-align:center;"|3–3||Giles||[[Frank Stapleton]] debut aged 20.
+|- style="background:#fcc;"
+| 1976-11-17||[[1978 FIFA World Cup qualification|World Cup 1978 qualifier]]||[[Paris]], [[Parc des Princes]]||[[France national football team|France]]|| style="text-align:center;"|0–2||Giles||
+|- style="background:#fcc;"
+| 1977-02-09||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Spain national football team|Spain]]|| style="text-align:center;"|0–1||Giles||
+|- style="background:#cfc;"
+| 1977-03-30||World Cup 1978 qualifier||[[Dublin]], [[Lansdowne Road]]||[[France national football team|France]]|| style="text-align:center;"|1–0||Giles||
+|- style="background:#ffc;"
+| 1977-04-24||Friendly||[[Dublin]], [[Dalymount Park]]||[[Poland national football team|Poland]]|| style="text-align:center;"|0–0||Giles||
+|- style="background:#fcc;"
+| 1977-06-01||World Cup 1978 qualifier||[[Sofia]], [[Vasil Levski National Stadium]]||[[Bulgaria national football team|Bulgaria]]|| style="text-align:center;"|1–2||Giles||
+|- style="background:#ffc;"
+| 1977-10-12||World Cup 1978 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Bulgaria national football team|Bulgaria]]|| style="text-align:center;"|0–0||Giles||
+|- style="background:#cfc;"
+| 1978-04-05||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Turkey national football team|Turkey]]|| style="text-align:center;"|4–2||Giles||
+|- style="background:#fcc;"
+| 1978-04-12||Friendly||[[Łódź]], [[Stadion ŁKS]]||[[Poland national football team|Poland]]|| style="text-align:center;"|0–3||Giles||
+|- style="background:#ffc;"
+| 1978-05-21||Friendly||[[Oslo]], [[Ullevaal Stadion]]||[[Norway national football team|Norway]]|| style="text-align:center;"|0–0||Giles||
+|- style="background:#ffc;"
+| 1978-05-24||[[UEFA Euro 1980 qualifying|European Championship 1980 qualifier]]||[[Copenhagen]], [[Idrætsparken]]||[[Denmark national football team|Denmark]]|| style="text-align:center;"|3–3||Giles||
+|- style="background:#ffc;"
+| 1978-09-20||European Championship 1980 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Northern Ireland national football team|Northern Ireland]]|| style="text-align:center;"|0–0||Giles||First official international match against Northern Ireland.<ref name=roini>[http://greenscene.me/2011/05/republic-of-ireland-v-northern-ireland-match-history/ Republic of Ireland v Northern Ireland Match History], GreenScene</ref>
+|- style="background:#ffc;"
+| 1978-10-25||European Championship 1980 qualifier||[[Dublin]], [[Lansdowne Road]]||[[England national football team|England]]|| style="text-align:center;"|1–1||Giles||
+|- style="background:#cfc;"
+| 1979-05-02||European Championship 1980 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Denmark national football team|Denmark]]|| style="text-align:center;"|2–0||Giles||
+|- style="background:#fcc;"
+| 1979-05-19||European Championship 1980 qualifier||[[Sofia]], [[Vasil Levski National Stadium]]||[[Bulgaria national football team|Bulgaria]]|| style="text-align:center;"|0–1||Giles||
+|- style="background:#fcc;"
+| 1979-05-22||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Germany national football team|West Germany]]|| style="text-align:center;"|1–3||Giles||
+|- style="background:#eef;"
+| 1979-05-29||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Argentina national football team|Argentina]]|| style="text-align:center;"|0–0||Giles||Unofficial match. [[UNICEF]] charity match.<ref name="rsssf-ier" /><ref>[http://www.11v11.com/matches/republic-of-ireland-v-argentina-29-may-1979-235259/ Republic of Ireland v Argentina, 29 May 1979] 11v11.com. Retrieved: 16 November 2012.</ref>
+|- style="background:#eef;"
+| 1979-08-16||Friendly||[[Bilbao]], [[San Mamés Stadium (1913)|San Mamés Stadium]]||[[Basque Country national football team|Basque Country]]|| style="text-align:center;"|1–4||Giles||Unofficial match. First Basque international since 1939, owing to [[Francoist Spain]].<ref>[https://www.rsssf.org/tablesb/bask-intres.html Basque Country (Euskadi) Autonomous Team Matches] Mark Cruickshank and Neil Morrison at Rec.Sport.Soccer Statistics Foundation. Retrieved: 25 June 2012.</ref>
+|- style="background:#fcc;"
+| 1979-09-11||Friendly||[[Swansea]], [[Vetch Field]]||[[Wales national football team|Wales]]|| style="text-align:center;"|1–2||Giles||
+|- style="background:#fcc;"
+| 1979-09-26||Friendly||[[Prague]], [[Stadion Evžena Rošického]]||[[Czechoslovakia national football team|Czechoslovakia]]|| style="text-align:center;"|1–4||Giles||
+|- style="background:#cfc;"
+| 1979-10-17||European Championship 1980 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Bulgaria national football team|Bulgaria]]|| style="text-align:center;"|3–0||Giles||
+|- style="background:#cfc;"
+| 1979-10-29||Friendly||[[Dublin]], [[Dalymount Park]]||[[United States men's national soccer team|United States]]|| style="text-align:center;"|3–2||Giles||[[Chris Hughton]] became first mixed-race player for Ireland.
+|- style="background:#fcc;"
+| 1979-11-21||European Championship 1980 qualifier||[[Belfast]], [[Windsor Park]]||[[Northern Ireland national football team|Northern Ireland]]|| style="text-align:center;"|0–1||Giles||<ref name=roini/>
+|- style="background:#fcc;" id="1980s"
+| 1980-02-06||European Championship 1980 qualifier||[[London]], [[Wembley Stadium]]||[[England national football team|England]]|| style="text-align:center;"|0–2||Giles||
+|- style="background:#cfc;"
+| 1980-03-26||[[1982 FIFA World Cup qualification|World Cup 1982 qualifier]]||[[Nicosia]], [[Makario Stadium]]||[[Cyprus national football team|Cyprus]]|| style="text-align:center;"|3–2||Giles||
+|- style="background:#cfc;"
+| 1980-04-30||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Switzerland national football team|Switzerland]]|| style="text-align:center;"|2–0||[[Alan Kelly, Sr.|Kelly]]||Manager: Alan Kelly, Sr.
+|- style="background:#fcc;"
+| 1980-05-16||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Argentina national football team|Argentina]]|| style="text-align:center;"|0–1||[[Eoin Hand|Hand]]||New manager: Eoin Hand.
+|- style="background:#cfc;"
+| 1980-09-10||World Cup 1982 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|2–1||Hand||
+|- style="background:#ffc;"
+| 1980-10-15||World Cup 1982 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Belgium national football team|Belgium]]|| style="text-align:center;"|1–1||Hand||
+|- style="background:#fcc;"
+| 1980-10-28||World Cup 1982 qualifier||[[Paris]], [[Parc des Princes]]||[[France national football team|France]]|| style="text-align:center;"|0–2||Hand||
+|- style="background:#cfc;"
+| 1980-11-19||World Cup 1982 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Cyprus national football team|Cyprus]]|| style="text-align:center;"|6–0||Hand||
+|- style="background:#fcc;"
+| 1981-02-24||Friendly||[[Dublin]], [[Tolka Park]]||[[Wales national football team|Wales]]|| style="text-align:center;"|1–3||Hand||
+|- style="background:#fcc;"
+| 1981-03-25||World Cup 1982 qualifier||[[Brussels]], [[King Baudouin Stadium|Stade du Heysel]]||[[Belgium national football team|Belgium]]|| style="text-align:center;"|0–1||Hand||Ireland eliminated by France on goal difference.
+|- style="background:#cfc;"
+| 1981-04-29||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Czechoslovakia national football team|Czechoslovakia]]|| style="text-align:center;"|3–1||Hand||[[Ronnie Whelan]] debut aged 19.
+|- style="background:#eef;"
+| 1981-05-21||Friendly||[[Bremen]], [[Weserstadion]]||[[Germany national football team|West Germany B team]]|| style="text-align:center;"|0–3||Hand||Unofficial match.<ref name="rsssf-ier" /><ref>[http://www.11v11.com/matches/west-germany-v-republic-of-ireland-21-may-1981-236535/ West Germany v Republic of Ireland, 21 May 1981] Association of Football Statisticians (11v11.com). Retrieved: 25 June 2012.</ref>
+|- style="background:#fcc;"
+| 1981-05-24||Friendly||[[Bydgoszcz]], [[Zdzisław Krzyszkowiak Stadium]]||[[Poland national football team|Poland]]|| style="text-align:center;"|0–3||Hand||[[Packie Bonner]] debut.
+|- style="background:#ffc;"
+| 1981-09-09||World Cup 1982 qualifier||[[Rotterdam]], [[De Kuip|Feijenoord Stadion]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|2–2||Hand||
+|- style="background:#cfc;"
+| 1981-10-14||World Cup 1982 qualifier||[[Dublin]], [[Lansdowne Road]]||[[France national football team|France]]|| style="text-align:center;"|3–2||Hand||
+|- style="background:#fcc;"
+| 1982-04-28||Friendly||[[Algiers]], [[Stade 5 Juillet 1962|Olympic Stadium]]||[[Algeria national football team|Algeria]]|| style="text-align:center;"|0–2||Hand||Crowd: 60,000.<ref>[http://www.11v11.com/matches/algeria-v-republic-of-ireland-28-april-1982-237108/ Algeria v Republic of Ireland, 28 April 1982] Association of Football Statisticians. Retrieved: 4 November 2013.</ref>
+|- style="background:#fcc;"
+| 1982-05-22||Friendly||[[Santiago, Chile|Santiago]], [[Estadio Nacional Julio Martínez Prádanos|Estadio Nacional]]||[[Chile national football team|Chile]]|| style="text-align:center;"|0–1||Hand||
+|- style="background:#fcc;"
+| 1982-05-27||Friendly||[[Uberlândia]], [[Estádio Parque do Sabiá]]||[[Brazil national football team|Brazil]]|| style="text-align:center;"|0–7||Hand||Worst defeat.
+|- style="background:#fcc;"
+| 1982-05-30||Friendly||[[Port of Spain]], [[Larry Gomes Stadium|Arima Stadium]]||[[Trinidad and Tobago national football team|Trinidad and Tobago]]|| style="text-align:center;"|1–2||Hand||
+|- style="background:#fcc;"
+| 1982-09-22||[[UEFA Euro 1984 qualifying|European Championship 1984 qualifier]]||[[Rotterdam]], [[De Kuip|Feijenoord Stadion]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|1–2||Hand||
+|- style="background:#cfc;"
+| 1982-10-13||European Championship 1984 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Iceland national football team|Iceland]]|| style="text-align:center;"|2–0||Hand||
+|- style="background:#ffc;"
+| 1982-11-17||European Championship 1984 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Spain national football team|Spain]]|| style="text-align:center;"|3–3||Hand||
+|- style="background:#cfc;"
+| 1983-03-30||European Championship 1984 qualifier||[[Valletta]], [[Ta' Qali National Stadium|Ta'Qali Stadium]]||[[Malta national football team|Malta]]|| style="text-align:center;"|1–0||Hand||
+|- style="background:#fcc;"
+| 1983-04-27||European Championship 1984 qualifier||[[Zaragoza]], [[La Romareda|Estadio La Romareda]]||[[Spain national football team|Spain]]|| style="text-align:center;"|0–2||Hand||
+|- style="background:#cfc;"
+| 1983-09-21||European Championship 1984 qualifier||[[Reykjavík]], [[Laugardalsvöllur]]||[[Iceland national football team|Iceland]]|| style="text-align:center;"|3–0||Hand||
+|- style="background:#fcc;"
+| 1983-10-12||European Championship 1984 qualifier||[[Dublin]], [[Dalymount Park]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|2–3||Hand||
+|- style="background:#cfc;"
+| 1983-11-16||European Championship 1984 qualifier||[[Dublin]], [[Dalymount Park]]||[[Malta national football team|Malta]]|| style="text-align:center;"|8–0||Hand||Best win.
+|- style="background:#fcc;"
+| 1984-04-04||Friendly||[[Tel Aviv]], [[Bloomfield Stadium]]||[[Israel national football team|Israel]]|| style="text-align:center;"|0–3||Hand||
+|- style="background:#ffc;"
+| 1984-05-23||Friendly||[[Dublin]], [[Dalymount Park]]||[[Poland national football team|Poland]]|| style="text-align:center;"|0–0||Hand||
+|- style="background:#eef;"
+| 1984-05-27||[[Kirin Cup]] / Friendly||[[Japan]]||Japan Universiade XI|| style="text-align:center;"|0–0||Hand||Unofficial match.<ref name="kirin1984">[https://www.rsssf.org/tablesk/kirin84.html Kirin Cup 1984] Bojan Jovanovic at Rec.Sport.Soccer Statistics Foundation. Retrieved: 25 June 2012.</ref>
+|- style="background:#eef;"
+| 1984-06-01||Kirin Cup / Friendly||[[Japan]]||[[Sport Club Internacional|Internacional]]|| style="text-align:center;"|0–0||Hand||Unofficial match.<ref name="kirin1984" />
+|- style="background:#cfc;"
+| 1984-06-03||Kirin Cup / Friendly||[[Japan]], [[Sapporo]]<!-- Maruyama Stadium? -->||[[China PR national football team|China]]|| style="text-align:center;"|1–0||Hand||This match recognised as an official international match.<ref name="kirin1984" /><ref>[https://web.archive.org/web/20070626203321/http://www.fifa.com/associations/association=irl/fixturesresults/gender=m/index.html Republic of Ireland: Fixtures and Results], FIFA. Retrieved: 11 September 2011.
+* [http://www.11v11.com/matches/china-pr-v-republic-of-ireland-03-june-1984-238470/ China PR v Republic of Ireland, 03 June 1984] Association of Football Statisticians. Retrieved: 2013-11-04.
+* [http://www.soccer-db.info/index.php?option=com_joomsport&task=view_match&id=15908 Kirin Cup 1984 semi-final] Soccer-DB.info. Retrieved: 2013-11-04.</ref>
+|- style="background:#eef;"
+| 1984-06-05||Kirin Cup / Friendly||[[Japan]]||Internacional|| style="text-align:center;"|1–2||Hand||Unofficial match. Ireland's first appearance in the final of an international football competition.<ref name="kirin1984" />
+|- style="background:#ffc;"
+| 1984-08-08||Friendly||[[Dublin]], [[Dalymount Park]]||[[Mexico national football team|Mexico]]|| style="text-align:center;"|0–0||Hand||
+|- style="background:#cfc;"
+| 1984-09-12||[[1986 FIFA World Cup qualification|World Cup 1986 qualifier]]||[[Dublin]], [[Lansdowne Road]]||[[Soviet Union national football team|Soviet Union]]|| style="text-align:center;"|1–0||Hand||
+|- style="background:#fcc;"
+| 1984-10-17||World Cup 1986 qualifier||[[Oslo]], [[Ullevaal Stadion]]||[[Norway national football team|Norway]]|| style="text-align:center;"|0–1||Hand||
+|- style="background:#fcc;"
+| 1984-11-14||World Cup 1986 qualifier||[[Copenhagen]], [[Idrætsparken]]||[[Denmark national football team|Denmark]]|| style="text-align:center;"|0–3||Hand||
+|- style="background:#fcc;"
+| 1985-02-05||Friendly||[[Dublin]], [[Dalymount Park]]||[[Italy national football team|Italy]]|| style="text-align:center;"|1–2||Hand||
+|- style="background:#ffc;"
+| 1985-02-27||Friendly||[[Ramat Gan]], [[Ramat Gan Stadium]]||[[Israel national football team|Israel]]|| style="text-align:center;"|0–0||Hand||
+|- style="background:#fcc;"
+| 1985-03-26||Friendly||[[London]], [[Wembley Stadium]]||[[England national football team|England]]|| style="text-align:center;"|1–2||Hand||
+|- style="background:#ffc;"
+| 1985-05-01||World Cup 1986 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Norway national football team|Norway]]|| style="text-align:center;"|0–0||Hand||
+|- style="background:#ffc;"
+| 1985-05-26||Friendly||[[Cork (city)|Cork]], [[Páirc Uí Rinn|Flower Lodge]]||[[Spain national football team|Spain]]|| style="text-align:center;"|0–0||Hand||
+|- style="background:#cfc;"
+| 1985-06-02||World Cup 1986 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Switzerland national football team|Switzerland]]|| style="text-align:center;"|3–0||Hand||
+|- style="background:#ffc;"
+| 1985-09-11||World Cup 1986 qualifier||[[Bern]], [[Wankdorf Stadium|Wankdorfstadion]]||[[Switzerland national football team|Switzerland]]|| style="text-align:center;"|0–0||Hand||
+|- style="background:#fcc;"
+| 1985-10-16||World Cup 1986 qualifier||[[Moscow]], [[Luzhniki Stadium|Lenin Stadium]]||[[Soviet Union national football team|Soviet Union]]|| style="text-align:center;"|0–2||Hand||Crowd: 103,000 (largest crowd).
+|- style="background:#fcc;"
+| 1985-11-13||World Cup 1986 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Denmark national football team|Denmark]]|| style="text-align:center;"|1–4||Hand||
+|- style="background:#fcc;"
+| 1986-03-26||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Wales national football team|Wales]]|| style="text-align:center;"|0–1||[[Jack Charlton|Charlton]]||New manager: Jack Charlton.
+|- style="background:#ffc;"
+| 1986-04-23||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Uruguay national football team|Uruguay]]|| style="text-align:center;"|1–1||Charlton||
+|- style="background:#cfc;"
+| 1986-05-25||[[Iceland Triangular Tournament]]||[[Reykjavík]], [[Laugardalsvöllur]]||[[Iceland national football team|Iceland]]|| style="text-align:center;"|2–1||Charlton|| [[Niall Quinn]] debut.<ref name="triangle">[https://www.rsssf.org/tablesi/ijs-tri86.html Iceland Triangular Tournament 1986] Sean DeLoughry at Rec.Sport.Soccer Statistics Foundation. Retrieved: 25 June 2012.</ref>
+|- style="background:#cfc;"
+| 1986-05-27||Iceland Triangular Tournament||[[Reykjavík]], [[Laugardalsvöllur]]||[[Czechoslovakia national football team|Czechoslovakia]]|| style="text-align:center;"|1–0||Charlton||Ireland won their first international tournament. Crowd: 1,000.<ref name="triangle" />
+|- style="background:#ffc;"
+| 1986-09-10||[[UEFA Euro 1988 qualifying|European Championship 1988 qualifier]]||[[Brussels]], [[Constant Vanden Stock Stadium]]||[[Belgium national football team|Belgium]]|| style="text-align:center;"|2–2||Charlton||
+|- style="background:#ffc;"
+| 1986-10-15||European Championship 1988 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Scotland national football team|Scotland]]|| style="text-align:center;"|0–0||Charlton||
+|- style="background:#fcc;"
+| 1986-11-12||Friendly||[[Warsaw]], [[Polish Army Stadium|Stadion Wojska Polskiego]]||[[Poland national football team|Poland]]|| style="text-align:center;"|0–1||Charlton||
+|- style="background:#cfc;"
+| 1987-02-18||European Championship 1988 qualifier||[[Glasgow]], [[Hampden Park]]||[[Scotland national football team|Scotland]]|| style="text-align:center;"|1–0||Charlton||
+|- style="background:#fcc;"
+| 1987-04-01||European Championship 1988 qualifier||[[Sofia]], [[Vasil Levski National Stadium]]||[[Bulgaria national football team|Bulgaria]]|| style="text-align:center;"|1–2||Charlton||
+|- style="background:#ffc;"
+| 1987-04-29||European Championship 1988 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Belgium national football team|Belgium]]|| style="text-align:center;"|0–0||Charlton||
+|- style="background:#cfc;"
+| 1987-05-23||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Brazil national football team|Brazil]]|| style="text-align:center;"|1–0||Charlton||Crowd: 17,000. Scorer: [[Liam Brady]].<ref>[https://www.youtube.com/watch?v=cOuj71PrRoA Republic of Ireland v Brazil 1987 Lansdowne Road] RTÉ Sport.</ref>
+|- style="background:#cfc;"
+| 1987-05-28||European Championship 1988 qualifier||[[Luxembourg (city)|Luxembourg]], [[Stade Josy Barthel|Stade Municipal]]||[[Luxembourg national football team|Luxembourg]]|| style="text-align:center;"|2–0||Charlton||
+|- style="background:#cfc;"
+| 1987-09-09||European Championship 1988 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Luxembourg national football team|Luxembourg]]|| style="text-align:center;"|2–1||Charlton||
+|- style="background:#cfc;"
+| 1987-10-14||European Championship 1988 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Bulgaria national football team|Bulgaria]]|| style="text-align:center;"|2–0||Charlton||
+|- style="background:#cfc;"
+| 1987-11-10||Friendly||[[Dublin]], [[Dalymount Park]]||[[Israel national football team|Israel]]|| style="text-align:center;"|5–0||Charlton||
+|- style="background:#cfc;"
+| 1988-03-23||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Romania national football team|Romania]]|| style="text-align:center;"|2–0||Charlton||
+|- style="background:#cfc;"
+| 1988-04-27||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Serbia national football team|Yugoslavia]]|| style="text-align:center;"|2–0||Charlton||
+|- style="background:#cfc;"
+| 1988-05-22||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Poland national football team|Poland]]|| style="text-align:center;"|3–1||Charlton||
+|- style="background:#ffc;"
+| 1988-06-01||Friendly||[[Oslo]], [[Ullevaal Stadion]]||[[Norway national football team|Norway]]|| style="text-align:center;"|0–0||Charlton||
+|- style="background:#cfc;"
+| 1988-06-12||[[UEFA Euro 1988|European Championship 1988]]||[[Stuttgart]], [[MHPArena|Neckarstadion]]||[[England national football team|England]]|| style="text-align:center;"|1–0||Charlton||First Irish appearance at European Championship tournament. Crowd: 51,573.
+|- style="background:#ffc;"
+| 1988-06-15||European Championship 1988||[[Hanover]], [[HDI-Arena|Niedersachsenstadion]]||[[Soviet Union national football team|Soviet Union]]|| style="text-align:center;"|1–1||Charlton||Crowd: 38,308.
+|- style="background:#fcc;"
+| 1988-06-18||European Championship 1988||[[Gelsenkirchen]], [[Parkstadion]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|0–1||Charlton||Crowd: 60,800. Eliminated team welcomed home by 200,000 people.
+<!--   Probably a FIFA error; match may not have occurred.
+|- bgcolor=CCFFCC
+| 1988-08-07||align="center"|Los Angeles||[[El Salvador national football team|El Salvador]]||align="center"|0–1||Charlton||   -->
+|- style="background:#ffc;"
+| 1988-09-14||[[1990 FIFA World Cup qualification|World Cup 1990 qualifier]]||[[Belfast]], [[Windsor Park]]||[[Northern Ireland national football team|Northern Ireland]]|| style="text-align:center;"|0–0||Charlton||<ref name=roini/>
+|- style="background:#cfc;"
+| 1988-10-19||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Tunisia national football team|Tunisia]]|| style="text-align:center;"|4–0||Charlton|| [[Steve Staunton]] debut.
+|- style="background:#fcc;"
+| 1988-11-16||World Cup 1990 qualifier||[[Seville]], [[Estadio Benito Villamarín]]||[[Spain national football team|Spain]]|| style="text-align:center;"|0–2||Charlton||
+|- style="background:#ffc;"
+| 1989-02-07||Friendly||[[Dublin]], [[Dalymount Park]]||[[France national football team|France]]|| style="text-align:center;"|0–0||Charlton||
+|- style="background:#ffc;"
+| 1989-03-08||World Cup 1990 qualifier||[[Budapest]], [[Ferenc Puskás Stadium (1953)|Népstadion]]||[[Hungary national football team|Hungary]]|| style="text-align:center;"|0–0||Charlton||
+|- style="background:#cfc;"
+| 1989-04-26||World Cup 1990 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Spain national football team|Spain]]|| style="text-align:center;"|1–0||Charlton||
+|- style="background:#cfc;"
+| 1989-05-28||World Cup 1990 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Malta national football team|Malta]]|| style="text-align:center;"|2–0||Charlton||
+|- style="background:#cfc;"
+| 1989-06-04||World Cup 1990 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Hungary national football team|Hungary]]|| style="text-align:center;"|2–0||Charlton||
+<!--   Probably a FIFA error; match may not have occurred.
+|- bgcolor=CCFFCC
+| 1989-06-20||align="center"|[[Port of Spain]]||[[Trinidad and Tobago national football team|Trinidad and Tobago]]||align="center"|0–1||Charlton||Probably a FIFA error; match may not have occurred.   -->
+|- style="background:#ffc;"
+| 1989-09-06||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Germany national football team|West Germany]]|| style="text-align:center;"|1–1||Charlton||
+|- style="background:#cfc;"
+| 1989-10-11||World Cup 1990 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Northern Ireland national football team|Northern Ireland]]|| style="text-align:center;"|3–0||Charlton||<ref name=roini/>
+|- style="background:#cfc;"
+| 1989-11-15||World Cup 1990 qualifier||[[Valletta]], [[Ta' Qali National Stadium|Ta'Qali Stadium]]||[[Malta national football team|Malta]]|| style="text-align:center;"|2–0||Charlton||[[John Aldridge]]'s two goals gained Ireland their first World Cup qualification.
+|- style="background:#cfc;" id="1990s"
+| 1990-03-28||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Wales national football team|Wales]]|| style="text-align:center;"|1–0||Charlton||
+|- style="background:#cfc;"
+| 1990-04-25||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Soviet Union national football team|Soviet Union]]|| style="text-align:center;"|1–0||Charlton||
+|- style="background:#ffc;"
+| 1990-05-16||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Finland national football team|Finland]]|| style="text-align:center;"|1–1||Charlton||[[Liam Brady]] testimonial match.
+|- style="background:#ffc;"
+| 1990-05-27||Friendly||[[İzmir]], [[İzmir Atatürk Stadium|Atatürk Olympic Stadium]]||[[Turkey national football team|Turkey]]|| style="text-align:center;"|0–0||Charlton||
+|- style="background:#cfc;"
+| 1990-06-02||Friendly||[[Valletta]], [[Ta' Qali National Stadium|Ta'Qali Stadium]]||[[Malta national football team|Malta]]|| style="text-align:center;"|3–0||Charlton||
+|- style="background:#ffc;"
+| 1990-06-11||[[1990 FIFA World Cup|World Cup 1990]]||[[Cagliari]], [[Stadio Sant'Elia]]||[[England national football team|England]]|| style="text-align:center;"|1–1||Charlton||First Irish appearance at World Cup finals tournament.
+|- style="background:#ffc;"
+| 1990-06-17||World Cup 1990||[[Palermo]], [[Stadio Renzo Barbera|Stadio La Favorita]]||[[Egypt national football team|Egypt]]|| style="text-align:center;"|0–0||Charlton||
+|- style="background:#ffc;"
+| 1990-06-21||World Cup 1990||[[Palermo]], [[Stadio Renzo Barbera|Stadio La Favorita]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|1–1||Charlton||Promoted to second round via 3 draws, 2 goals.
+|- style="background:#cfc;"
+| 1990-06-25||World Cup 1990 round of 16||[[Genoa]], [[Stadio Luigi Ferraris]]||[[Romania national football team|Romania]]|| style="text-align:center;"|5–4||Charlton||{{abbr|AET|After extra time}}: 0–0. {{abbr|PSO|Penalty shoot out}}: Ireland 5–4 Romania. [[Packie Bonner|Bonner]] saved 9th penalty. Unbeaten in 17 matches (record).
+|- style="background:#fcc;"
+| 1990-06-30||World Cup 1990 quarter final||[[Rome]], [[Stadio Olimpico]]||[[Italy national football team|Italy]]|| style="text-align:center;"|0–1||Charlton||Goal by [[Salvatore Schillaci|Toto Schillaci]]. Eliminated team welcomed home by 500,000 people.
+|- style="background:#cfc;"
+| 1990-09-12||Friendly||[[Dublin]], [[Dalymount Park]]||[[Morocco national football team|Morocco]]|| style="text-align:center;"|1–0||Charlton||Final international match at Dalymount Park.
+|- style="background:#cfc;"
+| 1990-10-17||[[UEFA Euro 1992 qualifying|European Championship 1992 qualifier]]||[[Dublin]], [[Lansdowne Road]]||[[Turkey national football team|Turkey]]|| style="text-align:center;"|5–0||Charlton||
+|- style="background:#ffc;"
+| 1990-11-14||European Championship 1992 qualifier||[[Dublin]], [[Lansdowne Road]]||[[England national football team|England]]|| style="text-align:center;"|1–1||Charlton||
+|- style="background:#cfc;"
+| 1991-02-06||Friendly||[[Wrexham]], [[Racecourse Ground]]||[[Wales national football team|Wales]]|| style="text-align:center;"|3–0||Charlton||
+|- style="background:#ffc;"
+| 1991-03-27||European Championship 1992 qualifier||[[London]], [[Wembley Stadium]]||[[England national football team|England]]|| style="text-align:center;"|1–1||Charlton||
+|- style="background:#ffc;"
+| 1991-05-01||European Championship 1992 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Poland national football team|Poland]]|| style="text-align:center;"|0–0||Charlton||
+|- style="background:#ffc;"
+| 1991-05-22||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Chile national football team|Chile]]|| style="text-align:center;"|1–1||Charlton||[[Roy Keane]] debut.
+|- style="background:#ffc;"
+| 1991-06-01||Friendly||[[Foxborough, Massachusetts|Foxborough MA]], [[Foxboro Stadium]]||[[United States men's national soccer team|United States]]|| style="text-align:center;"|1–1||Charlton||
+|- style="background:#cfc;"
+| 1991-09-11||Friendly||[[Győr]], [[Stadion ETO]]||[[Hungary national football team|Hungary]]|| style="text-align:center;"|2–1||Charlton||
+|- style="background:#ffc;"
+| 1991-10-16||European Championship 1992 qualifier||[[Poznań]], [[Stadion Miejski (Poznań)|Stadion Lecha]]||[[Poland national football team|Poland]]|| style="text-align:center;"|3–3||Charlton||
+|- style="background:#cfc;"
+| 1991-11-13||European Championship 1992 qualifier||[[Istanbul]], [[BJK İnönü Stadium|İnönü Stadium]]||[[Turkey national football team|Turkey]]|| style="text-align:center;"|3–1||Charlton||Unbeaten, yet failed to qualify for Euro 1992.
+|- style="background:#fcc;"
+| 1992-02-19||Friendly||[[Dublin]], [[RDS Arena]]||[[Wales national football team|Wales]]|| style="text-align:center;"|0–1||Charlton||
+|- style="background:#cfc;"
+| 1992-03-25||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Switzerland national football team|Switzerland]]|| style="text-align:center;"|2–1||Charlton||
+|- style="background:#cfc;"
+| 1992-04-29||Friendly||[[Dublin]], [[Lansdowne Road]]||[[United States men's national soccer team|United States]]|| style="text-align:center;"|4–1||Charlton||
+|- style="background:#cfc;"
+| 1992-05-26||[[1994 FIFA World Cup qualification|World Cup 1994 qualifier]]||[[Dublin]], [[Lansdowne Road]]||[[Albania national football team|Albania]]|| style="text-align:center;"|2–0||Charlton||
+|- style="background:#fcc;"
+| 1992-05-30||[[1992 U.S. Cup|1992 US Cup]]||[[Washington, D.C.]], [[Robert F. Kennedy Memorial Stadium|RFK Stadium]]||[[United States men's national soccer team|United States]]|| style="text-align:center;"|1–3||Charlton||Friendly.<ref name="us1992">[https://www.rsssf.org/tablesu/uscup92.html USA Cup 1992] Josef Bobrowsky at Rec.Sport.Soccer Statistics Foundation. Retrieved: 25 June 2012.</ref>
+|- style="background:#fcc;"
+| 1992-06-04||1992 US Cup||[[Foxborough, Massachusetts|Foxborough MA]], [[Foxboro Stadium]]||[[Italy national football team|Italy]]|| style="text-align:center;"|0–2||Charlton||Goalkeeper [[Packie Bonner]]: red card after 64 minutes.<ref name="us1992" />
+|- style="background:#cfc;"
+| 1992-06-07||1992 US Cup||[[Foxborough, Massachusetts|Foxborough MA]], [[Foxboro Stadium]]||[[Portugal national football team|Portugal]]|| style="text-align:center;"|2–0||Charlton||Friendly.<ref name="us1992" />
+|- style="background:#cfc;"
+| 1992-09-09||World Cup 1994 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Latvia national football team|Latvia]]|| style="text-align:center;"|4–0||Charlton||
+|- style="background:#ffc;"
+| 1992-10-14||World Cup 1994 qualifier||[[Copenhagen]], [[Parken Stadium]]||[[Denmark national football team|Denmark]]|| style="text-align:center;"|0–0||Charlton||
+|- style="background:#ffc;"
+| 1992-11-18||World Cup 1994 qualifier||[[Seville]], [[Ramón Sánchez Pizjuán Stadium|Estadio Ramón Sánchez Pizjuán]]||[[Spain national football team|Spain]]|| style="text-align:center;"|0–0||Charlton||
+|- style="background:#cfc;"
+| 1993-02-17||Friendly||[[Dublin]], [[Tolka Park]]||[[Wales national football team|Wales]]|| style="text-align:center;"|2–1||Charlton||
+|- style="background:#cfc;"
+| 1993-03-31||World Cup 1994 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Northern Ireland national football team|Northern Ireland]]|| style="text-align:center;"|3–0||Charlton||<ref name=roini/>
+|- style="background:#ffc;"
+| 1993-04-28||World Cup 1994 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Denmark national football team|Denmark]]|| style="text-align:center;"|1–1||Charlton||
+|- style="background:#cfc;"
+| 1993-05-26||World Cup 1994 qualifier||[[Tirana]], [[Qemal Stafa]]||[[Albania national football team|Albania]]|| style="text-align:center;"|2–1||Charlton||
+<!-- 
+|- bgcolor=CCFFCC
+| 1993-05-29||align="center"|Dublin, [[Lansdowne Road]]||[[Hungary national football team|Hungary]]||align="center"|2–4||Charlton||  -->
+|- style="background:#cfc;"
+| 1993-06-09||World Cup 1994 qualifier||[[Riga]], [[Daugava Stadium (Riga)|Daugava Stadium]]||[[Latvia national football team|Latvia]]|| style="text-align:center;"|2–0||Charlton||
+|- style="background:#cfc;"
+| 1993-06-16||World Cup 1994 qualifier||[[Vilnius]], [[Žalgiris Stadium]]||[[Lithuania national football team|Lithuania]]|| style="text-align:center;"|1–0||Charlton||
+|- style="background:#cfc;"
+| 1993-09-08||World Cup 1994 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Lithuania national football team|Lithuania]]|| style="text-align:center;"|2–0||Charlton||
+|- style="background:#fcc;"
+| 1993-10-13||World Cup 1994 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Spain national football team|Spain]]|| style="text-align:center;"|1–3||Charlton||First competitive home defeat in eight years, at "[[Lansdowne Road|Fortress Lansdowne]]". Crowd: 50,000.
+|- style="background:#ffc;"
+| 1993-11-17||World Cup 1994 qualifier||[[Belfast]], [[Windsor Park]]||[[Northern Ireland national football team|Northern Ireland]]|| style="text-align:center;"|1–1||Charlton||Second World Cup qualification secured by [[Alan McLoughlin]]'s goal.<ref name=roini/><ref>[https://www.irishtimes.com/sport/soccer/international/there-was-poison-in-the-air-25-years-on-from-that-night-in-windsor-park-1.3690897 'There was poison in the air': 25 years on from that night in Windsor Park], ''[[Irish Times]]'', 10 November 2018</ref>
+|- style="background:#ffc;"
+| 1994-03-23||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Russia national football team|Russia]]|| style="text-align:center;"|0–0||Charlton||
+|- style="background:#cfc;"
+| 1994-04-20||Friendly||[[Tilburg]], [[Koning Willem II Stadion|Willem II Stadion]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|1–0||Charlton||
+|- style="background:#cfc;"
+| 1994-05-24||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Bolivia national football team|Bolivia]]|| style="text-align:center;"|1–0||Charlton||
+|- style="background:#cfc;"
+| 1994-05-29||Friendly||[[Hanover]], [[HDI-Arena|Niedersachsenstadion]]||[[Germany national football team|Germany]]|| style="text-align:center;"|2–0||Charlton||
+|- style="background:#fcc;"
+| 1994-06-05||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Czech Republic national football team|Czech Republic]]|| style="text-align:center;"|1–3||Charlton||
+|- style="background:#cfc;"
+| 1994-06-18||[[1994 FIFA World Cup|World Cup 1994]]||[[East Rutherford, New Jersey|East Rutherford NJ]], [[Giants Stadium]]||[[Italy national football team|Italy]]|| style="text-align:center;"|1–0||Charlton||First Irish World Cup match win in normal time scored by [[Ray Houghton]].
+|- style="background:#fcc;"
+| 1994-06-24||World Cup 1994||[[Orlando, Florida|Orlando]], [[Florida Citrus Bowl Stadium|Citrus Bowl]]||[[Mexico national football team|Mexico]]|| style="text-align:center;"|1–2||Charlton||
+|- style="background:#ffc;"
+| 1994-06-28||World Cup 1994||[[East Rutherford, New Jersey|East Rutherford NJ]], [[Giants Stadium]]||[[Norway national football team|Norway]]|| style="text-align:center;"|0–0||Charlton||
+|- style="background:#fcc;"
+| 1994-07-04||World Cup 1994 round of 16||[[Orlando, Florida|Orlando]], [[Florida Citrus Bowl Stadium|Citrus Bowl]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|0–2||Charlton||
+|- style="background:#cfc;"
+| 1994-09-07||[[UEFA Euro 1996 qualifying|Euro 1996 qualifier]]||[[Riga]], [[Daugava Stadium (Riga)|Daugava Stadium]]||[[Latvia national football team|Latvia]]|| style="text-align:center;"|3–0||Charlton||European Championship became known as Euro.
+|- style="background:#cfc;"
+| 1994-10-12||Euro 1996 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Liechtenstein national football team|Liechtenstein]]|| style="text-align:center;"|4–0||Charlton||
+|- style="background:#cfc;"
+| 1994-11-16||Euro 1996 qualifier||[[Belfast]], [[Windsor Park]]||[[Northern Ireland national football team|Northern Ireland]]|| style="text-align:center;"|4–0||Charlton||<ref name=roini/>
+|- style="background:#eef;"
+| 1995-02-15||Friendly||[[Dublin]], [[Lansdowne Road]]||[[England national football team|England]]|| style="text-align:center;"|1–0||Charlton||Match abandoned after 27 minutes due to [[Lansdowne Road football riot]] by English neo-Nazis.<ref>[http://www.irishtimes.com/newspaper/sport/2010/0203/1224263658507.html 'We knew this s*** would happen'] {{Webarchive|url=https://web.archive.org/web/20121023212436/http://www.irishtimes.com/newspaper/sport/2010/0203/1224263658507.html |date=23 October 2012 }} ''Irish Times'', 16 February 1995.
+* [https://www.independent.co.uk/news/england-fans-in-football-riot-1573238.html England fans in football riot] ''The Independent'', 1995-02-16.
+* [http://www.rte.ie/tv/scannal/scannallandsdowne.html More than a Game] RTÉ One. Retrieved: 2012-06-25.
+* [https://www.theguardian.com/football/2013/may/25/england-ireland-1995-rioting-international Rioting, violence and shame – memories of Ireland v England in 1995] ''The Observer'', 2013-05-25.</ref>
+|- style="background:#ffc;"
+| 1995-03-29||Euro 1996 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Northern Ireland national football team|Northern Ireland]]|| style="text-align:center;"|1–1||Charlton||<ref name=roini/>
+|- style="background:#cfc;"
+| 1995-04-26||Euro 1996 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Portugal national football team|Portugal]]|| style="text-align:center;"|1–0||Charlton||
+|- style="background:#ffc;"
+| 1995-06-03||Euro 1996 qualifier||[[Eschen]], [[Sportpark Eschen-Mauren]]||[[Liechtenstein national football team|Liechtenstein]]|| style="text-align:center;"|0–0||Charlton||
+|- style="background:#fcc;"
+| 1995-06-11||Euro 1996 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Austria national football team|Austria]]|| style="text-align:center;"|1–3||Charlton||
+|- style="background:#fcc;"
+| 1995-09-06||Euro 1996 qualifier||[[Vienna]], [[Ernst-Happel-Stadion]]||[[Austria national football team|Austria]]|| style="text-align:center;"|1–3||Charlton||
+|- style="background:#cfc;"
+| 1995-10-11||Euro 1996 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Latvia national football team|Latvia]]|| style="text-align:center;"|2–1||Charlton||
+|- style="background:#fcc;"
+| 1995-11-15||Euro 1996 qualifier||[[Lisbon]], [[Estádio da Luz]]||[[Portugal national football team|Portugal]]|| style="text-align:center;"|0–3||Charlton||
+|- style="background:#fcc;"
+| 1995-12-13||Euro 1996 play-off||[[Liverpool]], [[Anfield]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|0–2||Charlton||
+|- style="background:#fcc;"
+| 1996-03-27||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Russia national football team|Russia]]|| style="text-align:center;"|0–2||[[Mick McCarthy|McCarthy]]||New manager: Mick McCarthy. [[Shay Given]] debut.
+|- style="background:#fcc;"
+| 1996-04-24||Friendly||[[Prague]], [[Strahov Stadium]]||[[Czech Republic national football team|Czech Republic]]|| style="text-align:center;"|0–2||McCarthy||
+|- style="background:#fcc;"
+| 1996-05-29||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Portugal national football team|Portugal]]|| style="text-align:center;"|0–1||McCarthy||
+|- style="background:#ffc;"
+| 1996-06-02||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Croatia national football team|Croatia]]|| style="text-align:center;"|2–2||McCarthy||
+|- style="background:#fcc;"
+| 1996-06-04||Friendly||[[Rotterdam]], [[De Kuip|Feijenoord Stadion]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|1–3||McCarthy||
+|- style="background:#fcc;"
+| 1996-06-09||[[1996 U.S. Cup|1996 US Cup]]||[[Foxborough, Massachusetts|Foxborough MA]], [[Foxboro Stadium]]||[[United States men's national soccer team|United States]]|| style="text-align:center;"|1–2||McCarthy||Friendly.<ref name="us1996">[https://www.rsssf.org/tablesu/uscup96.html USA Cup 1996] Barrie Courtney and Héctor Villa Martínez at Rec.Sport.Soccer Statistics Foundation. Retrieved: 25 June 2012.</ref>
+|- style="background:#ffc;"
+| 1996-06-12||1996 US Cup||[[East Rutherford, New Jersey|East Rutherford NJ]], [[Giants Stadium]]||[[Mexico national football team|Mexico]]|| style="text-align:center;"|2–2||McCarthy||Friendly.<ref name="us1996" />
+|- style="background:#cfc;"
+| 1996-06-15||1996 US Cup||[[East Rutherford, New Jersey|East Rutherford NJ]], [[Giants Stadium]]||[[Bolivia national football team|Bolivia]]|| style="text-align:center;"|3–0||McCarthy||Friendly.<ref name="us1996" />
+|- style="background:#cfc;"
+| 1996-08-31||[[1998 FIFA World Cup qualification|World Cup 1998 qualifier]]||[[Eschen]], [[Sportpark Eschen-Mauren]]||[[Liechtenstein national football team|Liechtenstein]]|| style="text-align:center;"|5–0||McCarthy||Best away win.
+|- style="background:#cfc;"
+| 1996-10-09||World Cup 1998 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Macedonia national football team|Macedonia]]|| style="text-align:center;"|3–0||McCarthy||
+|- style="background:#ffc;"
+| 1996-11-10||World Cup 1998 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Iceland national football team|Iceland]]|| style="text-align:center;"|0–0||McCarthy||
+|- style="background:#ffc;"
+| 1997-02-11||Friendly||[[Cardiff]], [[Ninian Park]]||[[Wales national football team|Wales]]|| style="text-align:center;"|0–0||McCarthy||
+|- style="background:#fcc;"
+| 1997-04-02||World Cup 1998 qualifier||[[Skopje]], [[Philip II Arena|City Stadium]]||[[Macedonia national football team|Macedonia]]|| style="text-align:center;"|2–3||McCarthy||
+|- style="background:#fcc;"
+| 1997-04-30||World Cup 1998 qualifier||[[Bucharest]], [[Arena Națională|Steaua Stadium]]||[[Romania national football team|Romania]]|| style="text-align:center;"|0–1||McCarthy||
+|- style="background:#cfc;"
+| 1997-05-21||World Cup 1998 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Liechtenstein national football team|Liechtenstein]]|| style="text-align:center;"|5–0||McCarthy||[[David Connolly]] hat-trick.
+|- style="background:#ffc;"
+| 1997-08-20||World Cup 1998 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Lithuania national football team|Lithuania]]|| style="text-align:center;"|0–0||McCarthy||
+|- style="background:#cfc;"
+| 1997-09-06||World Cup 1998 qualifier||[[Reykjavík]], [[Laugardalsvöllur]]||[[Iceland national football team|Iceland]]|| style="text-align:center;"|4–2||McCarthy||[[Kevin Kilbane]] debut.
+|- style="background:#cfc;"
+| 1997-09-10||World Cup 1998 qualifier||[[Vilnius]], [[Žalgiris Stadium]]||[[Lithuania national football team|Lithuania]]|| style="text-align:center;"|2–1||McCarthy||
+|- style="background:#ffc;"
+| 1997-10-11||World Cup 1998 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Romania national football team|Romania]]|| style="text-align:center;"|1–1||McCarthy||
+|- style="background:#ffc;"
+| 1997-10-29||World Cup 1998 play-off||[[Dublin]], [[Lansdowne Road]]||[[Belgium national football team|Belgium]]|| style="text-align:center;"|1–1||McCarthy||
+|- style="background:#fcc;"
+| 1997-11-15||World Cup 1998 play-off||[[Brussels]], [[King Baudouin Stadium|Stade Roi Baudouin]]||[[Belgium national football team|Belgium]]|| style="text-align:center;"|1–2||McCarthy||
+|- style="background:#fcc;"
+| 1998-03-25||Friendly||[[Olomouc]], [[Andrův stadion]]||[[Czech Republic national football team|Czech Republic]]|| style="text-align:center;"|1–2||McCarthy||[[Robbie Keane]] and [[Damien Duff]] debuts.
+|- style="background:#fcc;"
+| 1998-04-22||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Argentina national football team|Argentina]]|| style="text-align:center;"|0–2||McCarthy||
+|- style="background:#ffc;"
+| 1998-05-23||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Mexico national football team|Mexico]]|| style="text-align:center;"|0–0||McCarthy||
+|- style="background:#cfc;"
+| 1998-09-05||[[UEFA Euro 2000 qualifying|Euro 2000 qualifier]]||[[Dublin]], [[Lansdowne Road]]||[[Croatia national football team|Croatia]]|| style="text-align:center;"|2–0||McCarthy||
+|- style="background:#cfc;"
+| 1998-10-14||Euro 2000 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Malta national football team|Malta]]|| style="text-align:center;"|5–0||McCarthy||[[Robbie Keane]] scored two goals and became youngest player to score for Ireland, aged 18.
+|- style="background:#fcc;"
+| 1998-11-18||Euro 2000 qualifier||[[Belgrade]], [[Red Star Stadium|Stadion Crvene Zvezde]]||[[Serbia national football team|Yugoslavia]]|| style="text-align:center;"|0–1||McCarthy||
+|- style="background:#cfc;"
+| 1999-02-10||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Paraguay national football team|Paraguay]]|| style="text-align:center;"|2–0||McCarthy||
+|- style="background:#cfc;"
+| 1999-04-28||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Sweden men's national football team|Sweden]]|| style="text-align:center;"|2–0||McCarthy||
+|- style="background:#fcc;"
+| 1999-05-29||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Northern Ireland national football team|Northern Ireland]]|| style="text-align:center;"|0–1||McCarthy||<ref name=roini/>
+|- style="background:#cfc;"
+| 1999-06-09||Euro 2000 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Macedonia national football team|Macedonia]]|| style="text-align:center;"|1–0||McCarthy||
+|- style="background:#cfc;"
+| 1999-09-01||Euro 2000 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Serbia national football team|Yugoslavia]]|| style="text-align:center;"|2–1||McCarthy||
+|- style="background:#fcc;"
+| 1999-09-04||Euro 2000 qualifier||[[Zagreb]], [[Stadion Maksimir]]||[[Croatia national football team|Croatia]]|| style="text-align:center;"|0–1||McCarthy||
+|- style="background:#cfc;"
+| 1999-09-08||Euro 2000 qualifier||[[Valletta]], [[Ta' Qali National Stadium|Ta'Qali Stadium]]||[[Malta national football team|Malta]]|| style="text-align:center;"|3–2||McCarthy||
+|- style="background:#ffc;"
+| 1999-10-09||Euro 2000 qualifier||[[Skopje]], [[Philip II Arena|City Stadium]]||[[Macedonia national football team|Macedonia]]|| style="text-align:center;"|1–1||McCarthy||
+|- style="background:#ffc;"
+| 1999-11-13||Euro 2000 play-off||[[Dublin]], [[Lansdowne Road]]||[[Turkey national football team|Turkey]]|| style="text-align:center;"|1–1||McCarthy||
+|- style="background:#ffc;"
+| 1999-11-17||Euro 2000 play-off||[[Bursa]], [[Atatürk Olympic Stadium]]||[[Turkey national football team|Turkey]]|| style="text-align:center;"|0–0||McCarthy||
+|- style="background:#cfc;" id="2000s"
+| 2000-02-23||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Czech Republic national football team|Czech Republic]]|| style="text-align:center;"|3–2||McCarthy||
+|- style="background:#fcc;"
+| 2000-04-26||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Greece national football team|Greece]]|| style="text-align:center;"|0–1||McCarthy||
+|- style="background:#fcc;"
+| 2000-05-30||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Scotland national football team|Scotland]]|| style="text-align:center;"|1–2||McCarthy||
+|- style="background:#ffc;"
+| 2000-06-04||[[2000 U.S. Cup|2000 US Cup]]||[[Chicago]], [[Soldier Field]]||[[Mexico national football team|Mexico]]|| style="text-align:center;"|2–2||McCarthy||Friendly.<ref name="us2000">[https://www.rsssf.org/tablesu/uscup92.html USA Cup 2000] Rec.Sport.Soccer Statistics Foundation. Retrieved: 25 June 2012.</ref>
+|- style="background:#ffc;"
+| 2000-06-06||2000 US Cup||[[Foxborough, Massachusetts|Foxborough MA]], [[Foxboro Stadium]]||[[United States men's national soccer team|United States]]|| style="text-align:center;"|1–1||McCarthy||Friendly.<ref name="us2000" />
+|- style="background:#cfc;"
+| 2000-06-11||2000 US Cup||[[East Rutherford, New Jersey|East Rutherford NJ]], [[Giants Stadium]]||[[South Africa national football team|South Africa]]|| style="text-align:center;"|2–1||McCarthy||Friendly.<ref name="us2000" />
+|- style="background:#ffc;"
+| 2000-09-02||[[2002 FIFA World Cup qualification|World Cup 2002 qualifier]]||[[Amsterdam Arena]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|2–2||McCarthy||
+|- style="background:#ffc;"
+| 2000-10-07||World Cup 2002 qualifier||[[Lisbon]], [[Estádio da Luz]]||[[Portugal national football team|Portugal]]|| style="text-align:center;"|1–1||McCarthy||
+|- style="background:#cfc;"
+| 2000-10-11||World Cup 2002 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Estonia national football team|Estonia]]|| style="text-align:center;"|2–0||McCarthy||
+|- style="background:#cfc;"
+| 2000-11-15||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Finland national football team|Finland]]|| style="text-align:center;"|3–0||McCarthy||
+|- style="background:#cfc;"
+| 2001-03-24||World Cup 2002 qualifier||[[Nicosia]], [[GSP Stadium]]||[[Cyprus national football team|Cyprus]]|| style="text-align:center;"|4–0||McCarthy||
+|- style="background:#cfc;"
+| 2001-03-28||World Cup 2002 qualifier||[[Barcelona]], [[Mini Estadi]]||[[Andorra national football team|Andorra]]|| style="text-align:center;"|3–0||McCarthy||
+|- style="background:#cfc;"
+| 2001-04-25||World Cup 2002 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Andorra national football team|Andorra]]|| style="text-align:center;"|3–1||McCarthy||
+|- style="background:#ffc;"
+| 2001-06-02||World Cup 2002 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Portugal national football team|Portugal]]|| style="text-align:center;"|1–1||McCarthy||
+|- style="background:#cfc;"
+| 2001-06-06||World Cup 2002 qualifier||[[Tallinn]], [[A. Le Coq Arena|Lilleküla Stadium]]||[[Estonia national football team|Estonia]]|| style="text-align:center;"|2–0||McCarthy||
+|- style="background:#ffc;"
+| 2001-08-15||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Croatia national football team|Croatia]]|| style="text-align:center;"|2–2||McCarthy||[[John O'Shea]] debut.
+|- style="background:#cfc;"
+| 2001-09-01||World Cup 2002 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|1–0||McCarthy||
+|- style="background:#cfc;"
+| 2001-10-06||World Cup 2002 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Cyprus national football team|Cyprus]]|| style="text-align:center;"|4–0||McCarthy||
+|- style="background:#cfc;"
+| 2001-11-10||World Cup 2002 play-off||[[Dublin]], [[Lansdowne Road]]||[[Iran national football team|Iran]]|| style="text-align:center;"|2–0||McCarthy||Unbeaten in 16 matches.
+|- style="background:#fcc;"
+| 2001-11-15||World Cup 2002 play-off||[[Tehran]], [[Azadi Stadium]]||[[Iran national football team|Iran]]|| style="text-align:center;"|0–1||McCarthy||Crowd: 100,000.
+|- style="background:#cfc;"
+| 2002-02-13||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Russia national football team|Russia]]|| style="text-align:center;"|2–0||McCarthy||
+|- style="background:#cfc;"
+| 2002-03-27||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Denmark national football team|Denmark]]|| style="text-align:center;"|3–0||McCarthy||
+|- style="background:#cfc;"
+| 2002-04-17||Friendly||[[Dublin]], [[Lansdowne Road]]||[[United States men's national soccer team|United States]]|| style="text-align:center;"|2–1||McCarthy||
+|- style="background:#fcc;"
+| 2002-05-16||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Nigeria national football team|Nigeria]]|| style="text-align:center;"|1–2||McCarthy||
+|- style="background:#ffc;"
+| 2002-06-01||[[2002 FIFA World Cup|World Cup 2002]]||[[Niigata, Niigata|Niigata]], [[Tohoku Electric Power Big Swan Stadium|Niigata Stadium]]||[[Cameroon national football team|Cameroon]]|| style="text-align:center;"|1–1||McCarthy||Ireland's third World Cup preceded by [[Saipan incident|Saipan Incident]] drama.
+|- style="background:#ffc;"
+| 2002-06-05||World Cup 2002|||[[Kashima, Ibaraki|Ibaraki]], [[Kashima Soccer Stadium|Kashima Stadium]]||[[Germany national football team|Germany]]|| style="text-align:center;"|1–1||McCarthy|| [[Steve Staunton]] became the first Irish player to reach 100 caps.
+|- style="background:#cfc;"
+| 2002-06-11||World Cup 2002||[[Yokohama]], [[International Stadium Yokohama|International Stadium]]||[[Saudi Arabia national football team|Saudi Arabia]]|| style="text-align:center;"|3–0||McCarthy||First World Cup match where Ireland scored more than one goal.
+|- style="background:#fcc;"
+| 2002-06-16||World Cup 2002 round of 16||[[Suwon]], [[Suwon World Cup Stadium]]||[[Spain national football team|Spain]]|| style="text-align:center;"|2–3||McCarthy||After extra time: 1–1. Penalty shoot out: Ireland 2–3 Spain.
+|- style="background:#cfc;"
+| 2002-08-21||Friendly||[[Helsinki]], [[Helsinki Olympic Stadium|Olympiastadion]]||[[Finland national football team|Finland]]|| style="text-align:center;"|3–0||McCarthy||
+|- style="background:#fcc;"
+| 2002-09-07||[[UEFA Euro 2004 qualifying|Euro 2004 qualifier]]||[[Moscow]], [[Dynamo Stadium (Moscow)|Dynamo Stadium]]||[[Russia national football team|Russia]]|| style="text-align:center;"|2–4||McCarthy||
+|- style="background:#fcc;"
+| 2002-10-16||Euro 2004 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Switzerland national football team|Switzerland]]|| style="text-align:center;"|1–2||McCarthy||
+|- style="background:#ffc;"
+| 2002-11-20||Friendly||[[Athens]], [[Leoforos Alexandras Stadium]]||[[Greece national football team|Greece]]|| style="text-align:center;"|0–0||[[Don Givens|Givens]]||Manager: Don Givens.
+|- style="background:#cfc;"
+| 2003-02-12||Friendly||[[Glasgow]], [[Hampden Park]]||[[Scotland national football team|Scotland]]|| style="text-align:center;"|2–0||[[Brian Kerr (Irish football manager)|Kerr]]||New manager: Brian Kerr.
+|- style="background:#cfc;"
+| 2003-03-29||Euro 2004 qualifier||[[Tbilisi]], [[Mikheil Meskhi Stadium]]||[[Georgia national football team|Georgia]]|| style="text-align:center;"|2–1||Kerr||
+|- style="background:#ffc;"
+| 2003-04-02||Euro 2004 qualifier||[[Tirana]], [[Qemal Stafa]]||[[Albania national football team|Albania]]|| style="text-align:center;"|0–0||Kerr||
+|- style="background:#cfc;"
+| 2003-04-30||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Norway national football team|Norway]]|| style="text-align:center;"|1–0||Kerr||
+|- style="background:#cfc;"
+| 2003-06-07||Euro 2004 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Albania national football team|Albania]]|| style="text-align:center;"|2–1||Kerr||
+|- style="background:#cfc;"
+| 2003-06-11||Euro 2004 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Georgia national football team|Georgia]]|| style="text-align:center;"|2–0||Kerr||
+|- style="background:#cfc;"
+| 2003-08-19||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Australia men's national soccer team|Australia]]|| style="text-align:center;"|2–1||Kerr||
+|- style="background:#ffc;"
+| 2003-09-06||Euro 2004 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Russia national football team|Russia]]|| style="text-align:center;"|1–1||Kerr||
+|- style="background:#ffc;"
+| 2003-09-09||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Turkey national football team|Turkey]]|| style="text-align:center;"|2–2||Kerr||
+|- style="background:#fcc;"
+| 2003-10-11||Euro 2004 qualifier||[[Basel]], [[St. Jakob-Park|St. Jakob Park]]	||[[Switzerland national football team|Switzerland]]|| style="text-align:center;"|0–2||Kerr||
+|- style="background:#cfc;"
+| 2003-11-18||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Canada men's national soccer team|Canada]]|| style="text-align:center;"|3–0||Kerr||
+|- style="background:#ffc;"
+| 2004-02-18||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Brazil national football team|Brazil]]|| style="text-align:center;"|0–0||Kerr||
+|- style="background:#cfc;"
+| 2004-03-31||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Czech Republic national football team|Czech Republic]]|| style="text-align:center;"|2–1||Kerr||
+|- style="background:#ffc;"
+| 2004-04-28||Friendly||[[Bydgoszcz]], [[Zdzisław Krzyszkowiak Stadium]]||[[Poland national football team|Poland]]|| style="text-align:center;"|0–0||Kerr||
+|- style="background:#cfc;"
+| 2004-05-27||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Romania national football team|Romania]]|| style="text-align:center;"|1–0||Kerr||
+|- style="background:#fcc;"
+| 2004-05-29||[[Unity Cup]]||[[Charlton, London|Charlton]], [[The Valley (London)|The Valley Stadium]]||[[Nigeria national football team|Nigeria]]|| style="text-align:center;"|0–3||Kerr||Competition between {{abbr|three countries|Ireland, Jamaica, Nigeria}} with large communities in London. Crowd: 7,438.<ref name="unity2004">[https://www.rsssf.org/tablesl/london-3nat04.html Unity Cup (London) 2004] Hamdan Saaid at Rec.Sport.Soccer Statistics Foundation. Retrieved: 25 June 2012.</ref>
+|- style="background:#cfc;"
+| 2004-06-02||Unity Cup||[[Charlton, London|Charlton]], [[The Valley (London)|The Valley Stadium]]||[[Jamaica national football team|Jamaica]]|| style="text-align:center;"|1–0||Kerr||Crowd: 6,155.<ref name="unity2004" />
+|- style="background:#cfc;"
+| 2004-06-05||Friendly||[[Amsterdam Arena]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|1–0||Kerr||
+|- style="background:#ffc;"
+| 2004-08-18||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Bulgaria national football team|Bulgaria]]|| style="text-align:center;"|1–1||Kerr||
+|- style="background:#cfc;"
+| 2004-09-04||[[2006 FIFA World Cup qualification|World Cup 2006 qualifier]]||[[Dublin]], [[Lansdowne Road]]||[[Cyprus national football team|Cyprus]]|| style="text-align:center;"|3–0||Kerr||
+|- style="background:#ffc;"
+| 2004-09-08||World Cup 2006 qualifier||[[Basel]], [[St. Jakob-Park|St. Jakob Park]]||[[Switzerland national football team|Switzerland]]|| style="text-align:center;"|1–1||Kerr||
+|- style="background:#ffc;"
+| 2004-10-09||World Cup 2006 qualifier||[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], [[Stade de France]]||[[France national football team|France]]|| style="text-align:center;"|0–0||Kerr||
+|- style="background:#cfc;"
+| 2004-10-13||World Cup 2006 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Faroe Islands national football team|Faroe Islands]]|| style="text-align:center;"|2–0||Kerr||[[Robbie Keane]] broke the Irish goal-scoring record with his 22nd national goal, the first of two he scored in this match.<ref>[https://www.theguardian.com/football/2004/oct/14/match.sport1 Robbie Keane beats record and Faroes] ''The Guardian'', 13 October 2004.</ref>
+|- style="background:#cfc;"
+| 2004-11-16||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Croatia national football team|Croatia]]|| style="text-align:center;"|1–0||Kerr||
+|- style="background:#cfc;"
+| 2005-02-09||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Portugal national football team|Portugal]]|| style="text-align:center;"|1–0||Kerr||
+|- style="background:#ffc;"
+| 2005-03-26||World Cup 2006 qualifier||[[Ramat Gan]], [[Ramat Gan Stadium]]||[[Israel national football team|Israel]]|| style="text-align:center;"|1–1||Kerr||
+|- style="background:#cfc;"
+| 2005-03-29||Friendly||[[Dublin]], [[Lansdowne Road]]||[[China PR national football team|China]]|| style="text-align:center;"|1–0||Kerr||Crowd: 35,222.
+|- style="background:#eef;"
+| 2005-05-29||Friendly||[[Glasgow]], [[Celtic Park]]||[[Celtic F.C.]]|| style="text-align:center;"|1–0||Kerr||Unofficial match. [[Jackie McNamara]] testimonial. Crowd: 50,000.<ref>[http://www.independent.ie/sport/soccer/keanes-come-and-get-me-hint-to-celtic-261537.html Keane's 'come and get me' hint to Celtic] ''Irish Independent'', 30 May 2005.</ref><ref>[http://www.celticprogrammesonline.com/programme%20covers/0405/mcnamara/ireland0405.htm Jackie Mcnamara Testimonial] Celtic Programmes Online, 10 July 2007.</ref>
+|- style="background:#ffc;"
+| 2005-06-04||World Cup 2006 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Israel national football team|Israel]]|| style="text-align:center;"|2–2||Kerr||
+|- style="background:#cfc;"
+| 2005-06-08||World Cup 2006 qualifier||[[Tórshavn]], [[Tórsvøllur]]||[[Faroe Islands national football team|Faroe Islands]]|| style="text-align:center;"|2–0||Kerr||
+|- style="background:#fcc;"
+| 2005-08-17||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Italy national football team|Italy]]|| style="text-align:center;"|1–2||Kerr||
+|- style="background:#fcc;"
+| 2005-09-07||World Cup 2006 qualifier||[[Dublin]], [[Lansdowne Road]]||[[France national football team|France]]|| style="text-align:center;"|0–1||Kerr||[[Roy Keane]]'s final match for Ireland.
+|- style="background:#cfc;"
+| 2005-10-08||World Cup 2006 qualifier||[[Nicosia]], [[GSP Stadium]]||[[Cyprus national football team|Cyprus]]|| style="text-align:center;"|1–0||Kerr||
+|- style="background:#ffc;"
+| 2005-10-12||World Cup 2006 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Switzerland national football team|Switzerland]]|| style="text-align:center;"|0–0||Kerr||
+|- style="background:#cfc;"
+| 2006-03-01||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Sweden men's national football team|Sweden]]|| style="text-align:center;"|3–0||[[Steve Staunton|Staunton]]||New manager: Steve Staunton.
+|- style="background:#fcc;"
+| 2006-05-24||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Chile national football team|Chile]]|| style="text-align:center;"|0–1||Staunton||
+|- style="background:#fcc;"
+| 2006-08-16||Friendly||[[Dublin]], [[Lansdowne Road]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|0–4||Staunton||Worst home result since May 1966 (40 years).
+|- style="background:#fcc;"
+| 2006-09-02||[[UEFA Euro 2008 qualifying|Euro 2008 qualifier]]||[[Stuttgart]], [[MHPArena|Gottlieb-Daimler-Stadion]]||[[Germany national football team|Germany]]|| style="text-align:center;"|0–1||Staunton||
+|- style="background:#fcc;"
+| 2006-10-07||Euro 2008 qualifier||[[Nicosia]], [[GSP Stadium]]||[[Cyprus national football team|Cyprus]]|| style="text-align:center;"|2–5||Staunton||
+|- style="background:#ffc;"
+| 2006-10-11||Euro 2008 qualifier||[[Dublin]], [[Lansdowne Road]]||[[Czech Republic national football team|Czech Republic]]|| style="text-align:center;"|1–1||Staunton||
+|- style="background:#cfc;"
+| 2006-11-15||Euro 2008 qualifier||[[Dublin]], [[Lansdowne Road]]||[[San Marino national football team|San Marino]]|| style="text-align:center;"|5–0||Staunton||[[Robbie Keane]] hat-trick.
+|- style="background:#cfc;"
+| 2007-02-07||Euro 2008 qualifier||[[Serravalle (San Marino)|Serravalle]], [[Stadio Olimpico (San Marino)|Stadio Olimpico]]||[[San Marino national football team|San Marino]]|| style="text-align:center;"|2–1||Staunton||
+|- style="background:#cfc;"
+| 2007-03-24||Euro 2008 qualifier||[[Dublin]], [[Croke Park]]||[[Wales national football team|Wales]]|| style="text-align:center;"|1–0||Staunton||First match in Croke Park. Crowd: 72,539.
+|- style="background:#cfc;"
+| 2007-03-28||Euro 2008 qualifier||[[Dublin]], [[Croke Park]]||[[Slovakia national football team|Slovakia]]|| style="text-align:center;"|1–0||Staunton||[[Shay Given]] captained team and equalled [[Packie Bonner]]'s record of 80 caps.
+|- style="background:#ffc;"
+| 2007-05-23||Friendly||[[East Rutherford, New Jersey|East Rutherford NJ]], [[Giants Stadium]]||[[Ecuador national football team|Ecuador]]|| style="text-align:center;"|1–1||Staunton||
+|- style="background:#ffc;"
+| 2007-05-26||Friendly||[[Foxborough, Massachusetts|Foxborough MA]], [[Gillette Stadium]]||[[Bolivia national football team|Bolivia]]|| style="text-align:center;"|1–1||Staunton||
+|- style="background:#cfc;"
+| 2007-08-22||Friendly||[[Aarhus]], [[Atletion|NRGi Park]]||[[Denmark national football team|Denmark]]|| style="text-align:center;"|4–0||Staunton||
+|- style="background:#ffc;"
+| 2007-09-08||Euro 2008 qualifier||[[Bratislava]], [[Tehelné pole|Tehelné Pole Štadión]]||[[Slovakia national football team|Slovakia]]|| style="text-align:center;"|2–2||Staunton||
+|- style="background:#fcc;"
+| 2007-09-12||Euro 2008 qualifier||[[Prague]], [[Generali Arena|AXA Arena]]||[[Czech Republic national football team|Czech Republic]]|| style="text-align:center;"|0–1||Staunton||
+|- style="background:#ffc;"
+| 2007-10-13||Euro 2008 qualifier||[[Dublin]], [[Croke Park]]||[[Germany national football team|Germany]]|| style="text-align:center;"|0–0||Staunton||
+|- style="background:#ffc;"
+| 2007-10-17||Euro 2008 qualifier||[[Dublin]], [[Croke Park]]||[[Cyprus national football team|Cyprus]]|| style="text-align:center;"|1–1||Staunton||
+|- style="background:#ffc;"
+| 2007-11-17||Euro 2008 qualifier||[[Cardiff]], [[Millennium Stadium]]||[[Wales national football team|Wales]]|| style="text-align:center;"|2–2||[[Don Givens|Givens]]||Manager: Don Givens. Crowd: 24,619. Millennium Stadium one-third full.
+|- style="background:#fcc;"
+| 2008-02-06||Friendly||[[Dublin]], [[Croke Park]]||[[Brazil national football team|Brazil]]|| style="text-align:center;"|0–1||Givens||
+|- style="background:#eef;"
+| 2008-05-18||Training match||[[Portimão]]||[[Portimonense S.C. (football team)|Portimonense]]|| style="text-align:center;"|1–1||[[Giovanni Trapattoni|Trapattoni]]||New manager: Giovanni Trapattoni. Unofficial match. Training match only.<ref>[http://www.independent.ie/sport/soccer/overnight-miracle-not-evident-for-trap-debut-1379486.html Overnight miracle not evident for Trap debut] ''Irish Independent'', 19 May 2008.</ref><ref>[http://www.irishtimes.com/newspaper/sport/2008/0519/1211123048993.html Trapattoni's passion is plain for all to see] ''Irish Times'', 19 May 2008.</ref>
+|- style="background:#eef;"
+| 2008-05-19||Training match||[[Lagos, Portugal|Lagos]]||[[Terceira Divisão|Esperança de Lagos]]|| style="text-align:center;"|3–1||Trapattoni||Unofficial match. Training match only.<ref>[http://www.independent.ie/sport/soccer/trap-sees-side-stroll-to-win-in-lowkey-contest-1380593.html Trap sees side stroll to win in low-key 'contest'] ''Irish Independent'', 20 May 2008.</ref><ref>[http://www.irishtimes.com/newspaper/sport/2008/0520/1211232308677.html Trapattoni upbeat] ''Irish Times'', 20 May 2008.</ref>
+|- style="background:#ffc;"
+| 2008-05-24||Friendly||[[Dublin]], [[Croke Park]]||[[Serbia national football team|Serbia]]|| style="text-align:center;"|1–1||Trapattoni||
+|- style="background:#cfc;"
+| 2008-05-29||Friendly||[[Fulham]], [[Craven Cottage]]||[[Colombia national football team|Colombia]]|| style="text-align:center;"|1–0||Trapattoni||
+|- style="background:#ffc;"
+| 2008-08-20||Friendly||[[Oslo]], [[Ullevaal Stadion]]||[[Norway national football team|Norway]]|| style="text-align:center;"|1–1||Trapattoni||
+|- style="background:#cfc;"
+| 2008-09-06||[[2010 FIFA World Cup qualification|World Cup 2010 qualifier]]||[[Mainz]], [[Stadion am Bruchweg]]||[[Georgia national football team|Georgia]]|| style="text-align:center;"|2–1||Trapattoni||Neutral venue in Germany owing to [[2008 South Ossetia war|Russian invasion of Georgia]]. Crowd: 4,500.
+|- style="background:#ffc;"
+| 2008-09-10||World Cup 2010 qualifier||[[Podgorica]], [[Podgorica City Stadium]]||[[Montenegro national football team|Montenegro]]|| style="text-align:center;"|0–0||Trapattoni||[[Kevin Kilbane]]'s 50th consecutive competitive game for Ireland. Crowd: 12,000.
+|- style="background:#eef;"
+| 2008-10-09||Friendly||[[Dublin]], [[Dalymount Park]]||[[Nottingham Forest F.C.|Nottingham Forest]]|| style="text-align:center;"|2–0||Trapattoni||Unofficial match. Republic of Ireland XI. Crowd: 4,040.<ref>[http://www.rte.ie/sport/soccer/international/2008/1009/239342-ireland_forest/ Rep of Ireland XI 2-0 Nottingham Forest] RTÉ Sport, 9 October 2008.</ref><ref>[http://www.independent.ie/sport/soccer/foley-shines-bright-for-traps-reserves-1494919.html Foley shines bright for Trap's reserves] ''Irish Independent'', 10 October 2008.</ref>
+|- style="background:#cfc;"
+| 2008-10-15||World Cup 2010 qualifier||[[Dublin]], [[Croke Park]]||[[Cyprus national football team|Cyprus]]|| style="text-align:center;"|1–0||Trapattoni||Crowd: 55,833.
+|- style="background:#fcc;"
+| 2008-11-19||Friendly||[[Dublin]], [[Croke Park]]||[[Poland national football team|Poland]]|| style="text-align:center;"|2–3||Trapattoni||Crowd: 61,000.
+|- style="background:#cfc;"
+| 2009-02-11||World Cup 2010 qualifier||[[Dublin]], [[Croke Park]]||[[Georgia national football team|Georgia]]|| style="text-align:center;"|2–1||Trapattoni||Crowd: 45,000.
+|- style="background:#ffc;"
+| 2009-03-28||World Cup 2010 qualifier||[[Dublin]], [[Croke Park]]||[[Bulgaria national football team|Bulgaria]]|| style="text-align:center;"|1–1||Trapattoni||Crowd: 61,002.
+|- style="background:#ffc;"
+| 2009-04-01||World Cup 2010 qualifier||[[Bari]], [[Stadio San Nicola]]||[[Italy national football team|Italy]]|| style="text-align:center;"|1–1||Trapattoni||Crowd: 48,000.
+|- style="background:#ffc;"
+| 2009-05-29||Friendly||[[Fulham]], [[Craven Cottage]]||[[Nigeria national football team|Nigeria]]|| style="text-align:center;"|1–1||Trapattoni||Crowd: 11,263.
+|- style="background:#ffc;"
+| 2009-06-06||World Cup 2010 qualifier||[[Sofia]], [[Vasil Levski National Stadium]]||[[Bulgaria national football team|Bulgaria]]|| style="text-align:center;"|1–1||Trapattoni||Crowd: 42,000.
+|- style="background:#fcc;"
+| 2009-08-12||Friendly||[[Limerick]], [[Thomond Park]]||[[Australia men's national soccer team|Australia]]|| style="text-align:center;"|0–3||Trapattoni||Re-built Thomond Park has a capacity of 26,000. Crowd: 19,428.
+|- style="background:#cfc;"
+| 2009-09-05||World Cup 2010 qualifier||[[Nicosia]], [[GSP Stadium]]||[[Cyprus national football team|Cyprus]]|| style="text-align:center;"|2–1||Trapattoni||
+|- style="background:#cfc;"
+| 2009-09-08||Friendly||[[Limerick]], [[Thomond Park]]||[[South Africa national football team|South Africa]]|| style="text-align:center;"|1–0||Trapattoni||[[Darren O'Dea]] debut. Crowd: 11,300.
+|- style="background:#ffc;"
+| 2009-10-10||World Cup 2010 qualifier||[[Dublin]], [[Croke Park]]||[[Italy national football team|Italy]]|| style="text-align:center;"|2–2||Trapattoni||Crowd: 70,640.
+|- style="background:#ffc;"
+| 2009-10-14||World Cup 2010 qualifier||[[Dublin]], [[Croke Park]]||[[Montenegro national football team|Montenegro]]|| style="text-align:center;"|0–0||Trapattoni||
+|- style="background:#fcc;"
+| 2009-11-14||World Cup 2010 play-off||[[Dublin]], [[Croke Park]]||[[France national football team|France]]|| style="text-align:center;"|0–1||Trapattoni||Final match played at Croke Park. Highest domestic attendance: 74,103.
+|- style="background:#ffc;"
+| 2009-11-18||World Cup 2010 play-off||[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], [[Stade de France]]||[[France national football team|France]]|| style="text-align:center;"|1–1||Trapattoni||Match featured [[France vs Republic of Ireland 2010 FIFA World Cup play-off#Handball incident|Thierry Henry handball incident]]. Crowd: 79,145.
+|- style="background:#fcc;" id="2010s"
+| 2010-03-02||Friendly||[[Holloway, London|Holloway]], [[Emirates Stadium]]||[[Brazil national football team|Brazil]]|| style="text-align:center;"|0–2||Trapattoni||
+|- style="background:#cfc;"
+| 2010-05-25||Friendly||[[Dublin]], [[RDS Arena]]||[[Paraguay national football team|Paraguay]]|| style="text-align:center;"|2–1||Trapattoni||Crowd 16,722.
+|- style="background:#cfc;"
+| 2010-05-29||Friendly||[[Dublin]], [[RDS Arena]]||[[Algeria national football team|Algeria]]|| style="text-align:center;"|3–0||Trapattoni||
+|- style="background:#fcc;"
+| 2010-08-11||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Argentina national football team|Argentina]]|| style="text-align:center;"|0–1||Trapattoni||Crowd: 45,200.
+|- style="background:#cfc;"
+| 2010-09-03||[[UEFA Euro 2012 qualifying|Euro 2012 qualifier]]||[[Yerevan]], [[Republican Stadium, Yerevan|Hanrapetakan Stadium]]||[[Armenia national football team|Armenia]]|| style="text-align:center;"|1–0||Trapattoni||Crowd: 8,862.
+|- style="background:#cfc;"
+| 2010-09-07||Euro 2012 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Andorra national football team|Andorra]]|| style="text-align:center;"|3–1||Trapattoni||Crowd: 40,283.
+|- style="background:#fcc;"
+| 2010-10-08||Euro 2012 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Russia national football team|Russia]]|| style="text-align:center;"|2–3||Trapattoni||Crowd: 50,411.
+|- style="background:#ffc;"
+| 2010-10-12||Euro 2012 qualifier||[[Žilina]], [[Štadión pod Dubňom]]||[[Slovakia national football team|Slovakia]]|| style="text-align:center;"|1–1||Trapattoni||Crowd: 10,892.
+|- style="background:#fcc;"
+| 2010-11-17||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Norway national football team|Norway]]|| style="text-align:center;"|1–2||Trapattoni||Crowd: 25,000.
+|- style="background:#cfc;"
+| 2011-02-08||[[Nations Cup (football)|Nations Cup]]||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Wales national football team|Wales]]|| style="text-align:center;"|3–0||Trapattoni||Friendly. Ireland hosted and won the tournament. Crowd: 19,783.
+|- style="background:#cfc;"
+| 2011-03-26||Euro 2012 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Macedonia national football team|Macedonia]]|| style="text-align:center;"|2–1||Trapattoni||Crowd: 32,000.
+|- style="background:#fcc;"
+| 2011-03-29||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Uruguay national football team|Uruguay]]|| style="text-align:center;"|2–3||Trapattoni||Crowd: 25,611.
+|- style="background:#cfc;"
+| 2011-05-24||Nations Cup||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Northern Ireland national football team|Northern Ireland]]|| style="text-align:center;"|5–0||Trapattoni||Friendly. Crowd: 15,083.
+|- style="background:#cfc;"
+| 2011-05-29||Nations Cup||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Scotland national football team|Scotland]]|| style="text-align:center;"|1–0||Trapattoni||Friendly. Crowd: 17,694.
+|- style="background:#cfc;"
+| 2011-06-04||Euro 2012 qualifier||[[Skopje]], [[Philip II Arena]]||[[Macedonia national football team|Macedonia]]|| style="text-align:center;"|2–0||Trapattoni||[[Robbie Keane]]'s 50th and 51st international goals. Crowd: 30,000.
+|- style="background:#cfc;"
+| 2011-06-07||Friendly||[[Liège]], [[Stade Maurice Dufrasne]]||[[Italy national football team|Italy]]|| style="text-align:center;"|2–0||Trapattoni||World Champions defeated by Irish B team. Crowd: 21,516.
+|- style="background:#ffc;"
+| 2011-08-10||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Croatia national football team|Croatia]]|| style="text-align:center;"|0–0||Trapattoni||
+|- style="background:#ffc;"
+| 2011-09-02||Euro 2012 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Slovakia national football team|Slovakia]]|| style="text-align:center;"|0–0||Trapattoni||Crowd: 38,000.
+|- style="background:#ffc;"
+| 2011-09-06||Euro 2012 qualifier||[[Moscow]], [[Luzhniki Stadium]]||[[Russia national football team|Russia]]|| style="text-align:center;"|0–0||Trapattoni||Crowd: 48,717.
+|- style="background:#cfc;"
+| 2011-10-07||Euro 2012 qualifier||[[Andorra la Vella]], <!-- PLEASE DO NOT "CORRECT" THE SPELLING OF "COMUNAL". IT IS SPELLED WITH ONE 'M' IN CATALAN. --> [[Estadi Comunal d'Andorra la Vella|Estadi Comunal]] <!-- PLEASE DO NOT "CORRECT" THE SPELLING OF "COMUNAL". IT IS SPELLED WITH ONE 'M' IN CATALAN. --> ||[[Andorra national football team|Andorra]]|| style="text-align:center;"|2–0||Trapattoni||Eighth consecutive [[Shutout|clean sheet]], a national record.
+|- style="background:#cfc;"
+| 2011-10-11||Euro 2012 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Armenia national football team|Armenia]]|| style="text-align:center;"|2–1||Trapattoni||Sent off: Armenian goalkeeper [[Roman Berezovsky]] and Irish striker [[Kevin Doyle (footballer)|Kevin Doyle]].
+|- style="background:#cfc;"
+| 2011-11-11||[[UEFA Euro 2012 qualifying play-offs|Euro 2012 play-off]]||[[Tallinn]], [[A. Le Coq Arena|Lilleküla Stadium]]||[[Estonia national football team|Estonia]]|| style="text-align:center;"|4–0||Trapattoni||Two Estonians sent off. Two goals by [[Robbie Keane]].
+|- style="background:#ffc;"
+| 2011-11-15||Euro 2012 play-off||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Estonia national football team|Estonia]]|| style="text-align:center;"|1–1||Trapattoni||Ireland qualified for Euro 2012 tournament. Crowd: 51,151.<ref>[http://www.independent.ie/sport/soccer/ireland-seal-qualification-for-euro-2012-on-historic-night-2935581.html Ireland seal qualification for Euro 2012 on historic night] ''Irish Independent'', 15 November 2011.</ref>
+|- style="background:#ffc;"
+| 2012-02-29||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Czech Republic national football team|Czech Republic]]|| style="text-align:center;"|1–1||Trapattoni||Crowd: 37,741.
+|- style="background:#cfc;"
+| 2012-05-26||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]]|| style="text-align:center;"|1–0||Trapattoni||Crowd: 37,100.<ref>[http://www.rte.ie/sport/soccer/international/2012/0526/322499-long-goal-gives-ireland-the-victory/ Republic of Ireland 1-0 Bosnia-Herzegovina] RTÉ Sport, 26 May 2012.</ref>
+|- style="background:#eef;"
+| 2012-05-29||Friendly||[[Pistoia]], [[:it:Stadio Marcello Melani|Stadio Marcello Melani]]||Tuscan Select XI|| style="text-align:center;"|5–0||Trapattoni||Unofficial match. Tuscan XI was a [[Lega Pro|Serie C]] and [[Serie D|D]] side assembled by [[:it:Ennio Pellegrini|E. Pellegrini]] and [[:it:Aldo Firicano|A. Firicano]].<ref>[https://www.bbc.co.uk/sport/football/18257292 Republic of Ireland beat Tuscan Select XI 5-0] BBC News, 29 May 2012.</ref>
+|- style="background:#ffc;"
+| 2012-06-04||Friendly||[[Budapest]], [[Ferenc Puskás Stadium (1953)|Puskás Ferenc Stadion]]||[[Hungary national football team|Hungary]]|| style="text-align:center;"|0–0||Trapattoni||Ireland unbeaten in 14 matches. Match delayed 20 minutes by thunderstorm.<ref>[http://www.rte.ie/sport/soccer/euro-2012/2012/0604/323531-republic-extend-their-unbeaten-run Hungary 0-0 Republic of Ireland] RTÉ Sport, 4 June 2012.</ref><ref>[https://www.bbc.co.uk/sport/football/18325468 Hungary 0-0 Republic of Ireland] BBC Sport, 4 June 2012.</ref>
+|- style="background:#fcc;"
+| 2012-06-10||[[UEFA Euro 2012|Euro 2012]]||[[Poznań]], [[Stadion Miejski (Poznań)|Stadion Miejski]]||[[Croatia national football team|Croatia]]|| style="text-align:center;"|1–3||Trapattoni||Ireland's first match at a major tournament since World Cup 2002. Croatia was the first team ever to score in the first five minutes of each half at the European Championships.<ref name="five">[http://www.independent.ie/sport/soccer/euro-2012/irish-news/euro-2012-ireland-players-and-philosophy-ruthlessly-exposed-3139194.html Ireland players and philosophy ruthlessly exposed] ''Irish Independent'', 15 June 2012.</ref> Crowd: 39,550.<ref>[https://web.archive.org/web/20120803025219/http://www.uefa.com/newsfiles/euro/2012/2003324_fr.pdf Full-time report Republic of Ireland 1–3 Croatia] UEFA, 10 June 2012.</ref>
+|- style="background:#fcc;"
+| 2012-06-14||Euro 2012||[[Gdańsk]], [[PGE Arena Gdańsk|PGE Arena]]||[[Spain national football team|Spain]]|| style="text-align:center;"|0–4||Trapattoni||Ireland were the first team to be eliminated from Euro 2012. Spain was the second team ever to score in the first five minutes of each half at the European Championships.<ref name="five" /> Spain performed 859 passes, a Euro match record (previously 778).<ref>{{usurped|1={{Deprecated archive|url=https://archive.today/20130122122822/http://www.espnstar.com/editorial/news/detail/item815808/Yap:-It-isn't-all-good-for-La-Furia-Roja/|title=Life isn't all rosy for La Furia Roja}}}} ESPN STAR Sports, 15 June 2012.</ref> [[Xavi (footballer, born 1980)|Xavi]] and [[Xabi Alonso]] each performed more passes by half-time than the whole Irish team.<ref>[http://eurosport.yahoo.com/news/match-facts-spain-v-republic-015353140.html Torres at the double as Ireland crash out] Eurosport, 14 June 2012.</ref> Crowd: 39,150.<ref>[https://web.archive.org/web/20120803025230/http://www.uefa.com/newsfiles/euro/2012/2003332_fr.pdf Full-time report Spain-Republic of Ireland], UEFA, 14 June 2012.</ref>
+|- style="background:#fcc;"
+| 2012-06-18||Euro 2012||[[Poznań]], [[Stadion Miejski (Poznań)|Stadion Miejski]]||[[Italy national football team|Italy]]|| style="text-align:center;"|0–2||Trapattoni||[[Damien Duff]] captained the team for his 100th and final international match.
+|- style="background:#ffc;"
+| 2012-08-15||Friendly||[[Belgrade]], [[Red Star Stadium]]||[[Serbia national football team|Serbia]]|| style="text-align:center;"|0–0||Trapattoni||[[Keiren Westwood]] in goal. Crowd: 7,800.<ref>[http://www.irishtimes.com/newspaper/sport/2012/0816/1224322258910.html Encouraging display gives Trapattoni cause for optimism] Irish Times, 16 August 2012.
+* [http://www.rte.ie/sport/soccer/international/2012/0815/333762-ireland-show-solid-effort-to-draw-with-serbia/ Serbia 0-0 Republic of Ireland] RTÉ Sport, 2012-05-15.</ref>
+|- style="background:#cfc;"
+| 2012-09-07||[[2014 FIFA World Cup qualification – UEFA Group C|World Cup 2014 qualifier]]||[[Astana]], [[Astana Arena]]||[[Kazakhstan national football team|Kazakhstan]]|| style="text-align:center;"|2–1||Trapattoni||Crowd: 9,500.{{citation needed|date=June 2020}} First match against Kazakhstan.
+|- style="background:#cfc;"
+| 2012-09-11||Friendly||[[Fulham]], [[Craven Cottage]]||[[Oman national football team|Oman]]|| style="text-align:center;"|4–1||Trapattoni||Crowd: 6,420.{{citation needed|date=June 2020}} First match against Oman.
+|- style="background:#fcc;"
+| 2012-10-12||World Cup 2014 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Germany national football team|Germany]]|| style="text-align:center;"|1–6||Trapattoni||Ireland's worst home defeat.<ref>[https://www.theguardian.com/football/2012/oct/12/world-cup-qualifiers-ireland-germany-live Republic of Ireland 1-6 Germany – live!] ''The Guardian'', 12 October 2012.</ref><ref>[http://www.irishtimes.com/sports/soccer/2012/1012/1224325221895.html Germany tear Ireland to shreds] ''Irish Times'', 12 October 2012.</ref> Crowd: 51,700.<ref>[https://www.bbc.co.uk/sport/football/19922447 Republic of Ireland 1-6 Germany ] BBC Sport, 12 October 2012.</ref>
+|- style="background:#cfc;"
+| 2012-10-16||World Cup 2014 qualifier||[[Tórshavn]], [[Tórsvøllur]]||[[Faroe Islands national football team|Faroe Islands]]|| style="text-align:center;"|4–1||Trapattoni||Crowd: 4,400.{{citation needed|date=June 2020}}
+|- style="background:#fcc;"
+| 2012-11-14||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Greece national football team|Greece]]|| style="text-align:center;"|0–1||Trapattoni||Crowd: 16,256.{{citation needed|date=June 2020}} [[David Forde (footballer)|David Forde]] in goal.<ref>[http://www.rte.ie/sport/soccer/international/2012/1114/345694-greece-defeat-ireland-in-dour-aviva-encounter/ Ireland 0-1 Greece] RTÉ Sport, 14 November 2012.</ref><ref>[http://www.itv.com/sport/football/article/2012-11-14/match-report-republic-of-ireland-0-1-greece/ Match report: Republic of Ireland 0-1 Greece] {{webarchive|url=https://web.archive.org/web/20140915120521/http://www.itv.com/sport/football/article/2012-11-14/match-report-republic-of-ireland-0-1-greece/ |date=15 September 2014 }} ITV Sport, 14 November 2012.</ref>
+|- style="background:#cfc;"
+| 2013-02-06||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Poland national football team|Poland]]|| style="text-align:center;"|2–0||Trapattoni||Crowd: 43,112.<ref>[http://www.independent.ie/sport/trapattoni-delighted-with-attacking-duo-29054096.html Trapattoni delighted with attacking duo] Irish Independent, 7 February 2013.</ref><ref>[http://www.irishtimes.com/newspaper/sport/2013/0207/1224329745660.html Ireland find a way to spoil the party for Poland] ''Irish Times'', 7 February 2013.</ref>{{citation needed|date=June 2020}}
+|- style="background:#ffc;"
+| 2013-03-22||World Cup 2014 qualifier||[[Solna Municipality|Solna]], [[Friends Arena]]||[[Sweden men's national football team|Sweden]]|| style="text-align:center;"|0–0||Trapattoni||Crowd: 49,436.{{citation needed|date=June 2020}}
+|- style="background:#ffc;"
+| 2013-03-26||World Cup 2014 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Austria national football team|Austria]]|| style="text-align:center;"|2–2||Trapattoni||Crowd: 50,000.{{citation needed|date=June 2020}}
+|- style="background:#ffc;"
+| 2013-05-29||Friendly||[[London]], [[Wembley Stadium]]||[[England national football team|England]]|| style="text-align:center;"|1–1||Trapattoni||Crowd: 80,126.{{citation needed|date=June 2020}} Part of the English FA's 150th anniversary celebrations.<ref name="confirm">[http://www.independent.ie/breaking-news/sport/ireland-confirm-dublin-england-friendly-3227969.html Ireland confirm Dublin England friendly] ''Irish Independent'', 12 September 2012.</ref>
+|- style="background:#cfc;"
+| 2013-06-02||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Georgia national football team|Georgia]]|| style="text-align:center;"|4–0||Trapattoni||Georgian goalkeeper [[Giorgi Loria]] sent off (20').<ref>[https://www.theguardian.com/football/2013/jun/02/republic-ireland-georgia-friendly-report Robbie Keane double eases Republic of Ireland past 10-man Georgia] ''The Guardian'', 2 June 2013.</ref>
+|- style="background:#cfc;"
+| 2013-06-07||World Cup 2014 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Faroe Islands national football team|Faroe Islands]]|| style="text-align:center;"|3–0||Trapattoni||[[Robbie Keane]] won his 126th cap, an Irish record, and scored a hat trick. Crowd: 19,000.{{citation needed|date=June 2020}}
+|- style="background:#fcc;"
+| 2013-06-11||Friendly||[[New York City|New York]], [[Yankee Stadium]]||[[Spain national football team|Spain]]|| style="text-align:center;"|0–2||Trapattoni||Crowd: 39,368.<ref>[http://www.irishtimes.com/sport/soccer/spain-s-dominance-pays-off-in-the-end-at-yankee-stadium-1.1425682 Spain's dominance pays off in the end at Yankee Stadium] ''Irish Times'', 12 March 2013.</ref>
+|- style="background:#ffc;"
+| 2013-08-14||Friendly||[[Cardiff]], [[Cardiff City Stadium]]||[[Wales national football team|Wales]]|| style="text-align:center;"|0–0||Trapattoni||Crowd: 20,000.<ref>[http://www.irishtimes.com/sport/soccer/ireland-unable-to-expose-poor-wales-side-1.1494537 Ireland unable to expose poor Wales side] ''Irish Times'', 14 August 2013.</ref>
+|- style="background:#fcc;"
+| 2013-09-06||World Cup 2014 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Sweden men's national football team|Sweden]]|| style="text-align:center;"|1–2||Trapattoni||Crowd: 49,500.{{citation needed|date=June 2020}}
+|- style="background:#fcc;"
+| 2013-09-10||World Cup 2014 qualifier||[[Vienna]], [[Ernst-Happel-Stadion]]||[[Austria national football team|Austria]]|| style="text-align:center;"|0–1||Trapattoni||Crowd: 48,545.{{citation needed|date=June 2020}}
+|- style="background:#fcc;"
+| 2013-10-11||World Cup 2014 qualifier||[[Cologne]], [[RheinEnergieStadion]]||[[Germany national football team|Germany]]|| style="text-align:center;"|0–3||[[Noel King (footballer)|King]]||500th official match.<ref>[http://www.fai.ie/international/senior-men/103609-germany-v-republic-of-ireland.html Ireland lose as Germany reach finals] Football Association of Ireland, 11 October 2013. Quote: "Germany qualified for next summer's FIFA World Cup finals in Brazil with a three goal win in Cologne what was [sic] Ireland 500th senior international match."</ref> Manager: Noel King. Crowd: 46,237.<ref>[http://espnfc.com/us/en/report/334792/report.html Germany cruise to reach Brazil] ESPN FC, 11 October 2013.</ref>
+|- style="background:#cfc;"
+| 2013-10-15||World Cup 2014 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Kazakhstan national football team|Kazakhstan]]|| style="text-align:center;"|3–1||King||Crowd: 15,000.<ref>[http://www.setanta.com/ie/ireland-kazakhstan/ Ireland beat Kazakhstan in final Group C game] {{webarchive|url=https://web.archive.org/web/20131104085948/http://www.setanta.com/ie/ireland-kazakhstan/ |date=4 November 2013 }} Setanta Sports, 15 October 2013.</ref>
+|- style="background:#cfc;"
+| 2013-11-15||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Latvia national football team|Latvia]]|| style="text-align:center;"|3–0||[[Martin O'Neill|O'Neill]]||New manager: Martin O'Neill.<ref>[http://www.fai.ie/international/senior-men/103659-new-senior-international-management-team-confirmed.html New Senior international management team confirmed] Football Association of Ireland, 5 November 2013.
+* [http://www.independent.ie/sport/great-start-for-republic-pair-29758768.html Great start for Republic pair] Irish Indeopendent, 2013-11-15.
+* [https://www.theguardian.com/football/2013/nov/15/republic-of-ireland-latvia-international-friendly Republic of Ireland's Martin O'Neill and Roy Keane oversee win over Latvia] The Guardian, 2013-11-15.</ref> Crowd: 37,100.<ref>[http://www.fai.ie/international/senior-men/103675-republic-of-ireland-v-latvia.html O'Neill off to a winning start] {{webarchive|url=https://web.archive.org/web/20131118080704/http://www.fai.ie/international/senior-men/103675-republic-of-ireland-v-latvia.html |date=18 November 2013 }} Football Association of Ireland, 15 November 2013.</ref>
+|- style="background:#ffc;"
+| 2013-11-19||Friendly||[[Poznań]], [[Stadion Miejski (Poznań)|Stadion Miejski]]||[[Poland national football team|Poland]]|| style="text-align:center;"|0–0||O'Neill||Crowd: 3,500.{{citation needed|date=June 2020}}
+|- style="background:#fcc;"
+| 2014-03-05||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Serbia national football team|Serbia]]|| style="text-align:center;"|1–2||O'Neill||Crowd: 37,595.<ref>[http://www.fai.ie/international/senior-men/103806-ireland-suffer-narrow-defeat-to-serbia.html Ireland suffer narrow defeat to Serbia] Football Association of Ireland, 5 March 2014.</ref>
+|- style="background:#fcc;"
+| 2014-05-25||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Turkey national football team|Turkey]]|| style="text-align:center;"|1–2||O'Neill||Crowd: 25,191.<ref>[http://www.rte.ie/sport/soccer/irish/2014/0525/619577-ireland-v-turkey/ Republic of Ireland 1-2 Turkey] RTÉ Sport, 25 May 2014.</ref><ref>[http://www.irishtimes.com/sport/soccer/martin-o-neill-sees-bright-side-of-defeat-1.1808770 Martin O’Neill sees bright side of defeat] Irish Times, 26 May 2014.</ref>
+|- style="background:#ffc;"
+| 2014-05-31||Friendly||[[Fulham]], [[Craven Cottage]]||[[Italy national football team|Italy]]|| style="text-align:center;"|0–0||O'Neill||Crowd: 22,879.<ref>[http://www.rte.ie/sport/soccer/international/2014/0531/620852-republic-of-ireland-v-italy/ Republic of Ireland 0-0 Italy] RTÉ News, 1 June 2014.</ref>
+|- style="background:#ffc;"
+| 2014-06-07||Friendly||[[Chester, Pennsylvania|Chester, PA]], [[PPL Park]]||[[Costa Rica national football team|Costa Rica]]|| style="text-align:center;"|1–1||O'Neill||Crowd: 6,000.<ref>[http://www.irishtimes.com/sport/soccer/international/ireland-pegged-back-by-10-man-costa-rica-1.1824736 Ireland pegged back by 10-man Costa Rica] ''Irish Times'', 0214-06-07.</ref> [[Giancarlo González]] sent off at 41 minutes after injuring [[Kevin Doyle (footballer)|Kevin Doyle]].<ref>[http://www.rte.ie/sport/soccer/international/2014/0607/622203-doyle-on-the-mark-in-fiery-draw/ Republic of Ireland 1-1 Costa Rica] RTÉ Sports, 7 June 2014.</ref>
+|- style="background:#fcc;"
+| 2014-06-10||Friendly||[[East Rutherford, New Jersey|East Rutherford NJ]], [[MetLife Stadium]]||[[Portugal national football team|Portugal]]|| style="text-align:center;"|1–5||O'Neill||Crowd: 46,063.<ref>[http://www.independent.ie/sport/soccer/other-soccer/video-reality-check-for-martin-oneill-as-ireland-are-well-beaten-by-portugal-30345115.html Reality check for Martin O'Neill as Ireland are well beaten by Portugal] ''Irish Independent'', 11 June 2014.</ref> [[Portugal Day]], the national day in Portugal.
+|- style="background:#cfc;"
+| 2014-09-03||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Oman national football team|Oman]]|| style="text-align:center;"|2–0||O'Neill||Crowd: 14,376.<ref>[http://www.rte.ie/sport/soccer/international/2014/0903/641286-ireland-v-oman-report/ Ireland cruise to win over Oman] RTÉ Sport, 3 September 2014.</ref><ref>[http://www.irishtimes.com/sport/soccer/international/martin-o-neill-keeps-cards-close-to-his-chest-as-oman-are-dealt-with-1.1917026 Martin O’Neill keeps cards close to his chest as Oman are dealt with] ''Irish Times'', 3 September 2014.</ref>
+|- style="background:#cfc;"
+| 2014-09-07||[[UEFA Euro 2016 qualifying Group D|Euro 2016 qualifier]]||[[Tbilisi]], [[Boris Paichadze Dinamo Arena]]||[[Georgia national football team|Georgia]]|| style="text-align:center;"|2–1||O'Neill||[[Brace (sports)|Brace]] by [[Aiden McGeady]].<ref>[http://www.rte.ie/sport/soccer/international/2014/0907/642037-georgia-v-republic-of-ireland/ Aiden McGeady hands Ireland opening win with brilliant double] RTÉ Sport, 7 September 2014.</ref>
+|- style="background:#cfc;"
+| 2014-10-11||Euro 2016 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Gibraltar national football team|Gibraltar]]|| style="text-align:center;"|7–0||O'Neill||First match against Gibraltar. Hat trick by [[Robbie Keane]]; brace by [[James McClean]].<ref>[https://www.uefa.com/european-qualifiers/news/0253-0d7f74bbbd0c-dcc164bb5bd2-1000--keane-leads-the-way-as-ireland-thump-gibraltar/ Keane leads the way as Ireland thump Gibraltar] UEFA, 11 October 2014.</ref><ref>[http://www.rte.ie/sport/soccer/international/2014/1011/651656-keane-shines-as-ireland-see-off-gibraltar/ Robbie Keane shines as Ireland see off Gibraltar] RTÉ Sport, 11 October 2014.</ref>
+|- style="background:#ffc;"
+| 2014-10-14||Euro 2016 qualifier||[[Gelsenkirchen]], [[Veltins-Arena]]||[[Germany national football team|Germany]]|| style="text-align:center;"|1–1||O'Neill||Ireland equalized in the last minute of injury time.<ref>[https://www.uefa.com/uefaeuro/match/2013883--germany-vs-republic-of-ireland/ Germany–Republic of Ireland] UEFA, 24 February 2014.</ref>
+|- style="background:#fcc;"
+| 2014-11-14||Euro 2016 qualifier||[[Glasgow]], [[Celtic Park]]||[[Scotland national football team|Scotland]]|| style="text-align:center;"|0–1||O'Neill||<ref>[https://www.uefa.com/uefaeuro/match/2013894--scotland-vs-republic-of-ireland/ Scotland–Republic of Ireland] UEFA, 24 February 2014.</ref><ref>[http://www.rte.ie/sport/soccer/international/2014/1114/659603-maloney-strike-secures-scotland-win-in-glasgow/ Maloney strike gives Scotland victory in Glasgow] RTÉ Sport, 14 November 2014.</ref>
+|- style="background:#cfc;"
+| 2014-11-18||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[United States men's national soccer team|United States]]|| style="text-align:center;"|4–1||O'Neill||<ref>[http://www.rte.ie/sport/soccer/international/2014/1118/660591-ireland-smash-four-past-usa/ Ireland smash four past USA] RTÉ Sport, 19 November 2014.</ref>
+|- style="background:#ffc;"
+| 2015-03-29||Euro 2016 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Poland national football team|Poland]]|| style="text-align:center;"|1–1||O'Neill||Crowd: 50,000.<ref>[http://www.rte.ie/sport/soccer/international/2015/0329/690703-ireland-strike-late-to-claim-draw-against-poland/ Super-sub Shane Long's stoppage-time goal earns Ireland a draw against Poland] RTÉ Sport, 30 March 2013.</ref><ref>[http://www.irishtimes.com/sport/soccer/international/ireland-s-endeavour-pays-off-as-long-earns-point-late-on-1.2157959 Ireland’s endeavour pays off as Long earns point late on] ''Irish Times'', 29 March 2013.</ref>
+|- style="background:#eef;"
+| 2015-06-04||Training match||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Northern Ireland national football team|Northern Ireland]]|| style="text-align:center;"|0–0||O'Neill||Crowd: 50. Training match behind closed doors.<ref>[http://www.fai.ie/ireland/news/republic-of-ireland-to-join-northern-ireland-in-training-game Republic of Ireland to join Northern Ireland in training game] Football Association of Ireland, 27 April 2015.</ref><ref>[http://www.rte.ie/sport/soccer/2015/0604/705905-all-ireland-friendly-finishes-scoreless/ All-Ireland friendly finishes scoreless] RTÉ Sport, 4 June 2015.</ref><ref>[http://www.independent.ie/sport/soccer/international-soccer/fifty-supporters-witness-behind-closed-doors-goalless-draw-at-aviva-31278559.html Fifty supporters witness 'behind closed doors' goalless draw at Aviva] ''Irish Independent'', 4 June 2015.</ref>
+|- style="background:#ffc;"
+| 2015-06-07||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[England national football team|England]]|| style="text-align:center;"|0–0||O'Neill||First home match against England since the [[Lansdowne Road football riot]] 20 years before.<ref>[http://www.independent.ie/irish-news/state-visits/england-team-to-make-return-to-lansdowne-30168145.html England team to make return to Lansdowne] ''Irish Independent'', 9 April 2014.</ref><ref>[http://www.rte.ie/sport/soccer/2015/0607/706478-ireland-v-england/ Ireland and England play out stalemate in Dublin] RTÉ Sport, 7 June 2015.</ref>
+|- style="background:#ffc;"
+| 2015-06-13||Euro 2016 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Scotland national football team|Scotland]]|| style="text-align:center;"|1–1||O'Neill||<ref>[http://www.rte.ie/sport/soccer/2015/0613/707928-ireland-scotland-report/ Ireland's Euro 2016 hopes fade after draw against Scotland] RTÉ Sport, 13 June 2015.</ref>
+|- style="background:#cfc;"
+| 2015-09-04||Euro 2016 qualifier||[[Faro, Portugal|Faro]], [[Estádio Algarve]]||[[Gibraltar national football team|Gibraltar]]|| style="text-align:center;"|4–0||O'Neill||<ref>[http://www.rte.ie/sport/soccer/international/2015/0904/725745-gibraltar-v-republic-of-ireland/ Ireland on the rise after brushing aside Gibraltar] RTÉ Sport, 4 September 2015.</ref>
+|- style="background:#cfc;"
+| 2015-09-07||Euro 2016 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Georgia national football team|Georgia]]|| style="text-align:center;"|1–0||O'Neill||Crowd: 27,000.<ref>[https://www.uefa.com/european-qualifiers/news/0253-0d805e35297a-dd6c89d27e48-1000--ireland-edge-past-georgia-to-stay-in-contention/ Ireland edge past Georgia to stay in contention]</ref><ref>[http://www.rte.ie/sport/soccer/international/2015/0907/726331-r/ Jon Walters on target in priceless Irish victory] RTÉ Sport, 8 September 2015.</ref><ref>[http://www.irishtimes.com/sport/soccer/international/relieved-o-neill-looks-to-future-tests-after-georgia-victory-1.2343730 Relieved O’Neill looks to future tests after Georgia victory] ''Irish Times'', 7 September 2015.</ref>
+|- style="background:#cfc;"
+| 2015-10-08||Euro 2016 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Germany national football team|Germany]]|| style="text-align:center;"|1–0||O'Neill||First competitive victory over the reigning World Champions. Crowd: 50,064.<ref>[http://liveblog.irishtimes.com/208a94dd73/LIVE-Euro-2016%3A-Ireland-v-Germany/ Euro 2016: Ireland v Germany] ''Irish Times'', 8 October 2015.</ref><ref>[https://www.uefa.com/uefaeuro/match/2014023--republic-of-ireland-vs-germany/ Republic of Ireland–Germany] UEFA, 24 February 2014.</ref>
+|- style="background:#fcc;"
+| 2015-10-11||Euro 2016 qualifier||[[Warsaw]], [[National Stadium, Warsaw|National Stadium]]||[[Poland national football team|Poland]]|| style="text-align:center;"|1–2||O'Neill||<ref>[https://www.uefa.com/uefaeuro/match/2014050--poland-vs-republic-of-ireland/ Poland–Republic of Ireland] UEFA, 24 February 2014.</ref><ref>[http://www.rte.ie/sport/soccer/2015/1011/734041-ireland-short-report-dydy/ Ireland in Euro 2016 play-off after loss to Poland] RTÉ Sport, 11 October 2015.</ref>
+|- style="background:#ffc;"
+| 2015-11-13||[[UEFA Euro 2016 qualifying play-offs|Euro 2016 play-off]]||[[Zenica]], [[Bilino Polje Stadium]]||[[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]]|| style="text-align:center;"|1–1||O'Neill||<ref>[http://www.rte.ie/sport/soccer/2015/1113/741806-ireland-bosnia-herzegovina/ Ireland dream of qualification after foggy draw] RTÉ Sport, 14 November 2015.</ref><ref>[https://www.uefa.com/uefaeuro/match/2018078--bosnia-and-herzegovina-vs-republic-of-ireland/ European Qualifiers 2016 - Bosnia and Herzegovina-Republic of Ireland Head-to-head] UEFA, 18 October 2015.</ref>
+|- style="background:#cfc;"
+| 2015-11-16||Euro 2016 play-off||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]]|| style="text-align:center;"|2–0||O'Neill||Brace by [[Jonathan Walters]].<ref>[http://liveblog.irishtimes.com/bd824ab2fc/LIVE-Ireland-v-Bosnia-%26-Herzegovina/ Euro 2016 play-off: Ireland v Bosnia] ''Irish Times'', 16 November 2015.</ref><ref>[http://www.rte.ie/sport/soccer/2015/1018/735626-euro-2016-play-off-draw/ Ireland face Bosnia and Herzegovina in play-off] RTÉ Sport, 18 October 2015.</ref><ref>[https://www.uefa.com/uefaeuro/match/2018082--republic-of-ireland-vs-bosnia-and-herzegovina/ European Qualifiers 2016 - Republic of Ireland-Bosnia and Herzegovina Head-to-head] UEFA, 18 October 2015.</ref>
+|- style="background:#cfc;"
+| 2016-03-25||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Switzerland national football team|Switzerland]]|| style="text-align:center;"| 1–0 ||O'Neill||
+|- style="background:#ffc;"
+| 2016-03-29||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Slovakia national football team|Slovakia]]|| style="text-align:center;"| 2–2 ||O'Neill||
+|- style="background:#ffc;"
+| 2016-05-27||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"| 1–1 ||O'Neill||
+|- style="background:#fcc;"
+| 2016-05-31||Friendly||[[Cork (city)|Cork]], [[Turners Cross (stadium)|Turners Cross]]||[[Belarus national football team|Belarus]]|| style="text-align:center;"| 1–2 ||O'Neill||
+|- style="background:#ffc;"
+| 2016-06-13||[[UEFA Euro 2016|Euro 2016]]||[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], [[Stade de France]]||[[Sweden men's national football team|Sweden]]|| style="text-align:center;"|1–1||O'Neill||
+|- style="background:#fcc;"
+| 2016-06-18||Euro 2016||[[Bordeaux]], [[Nouveau Stade de Bordeaux]]||[[Belgium national football team|Belgium]]|| style="text-align:center;"|0–3||O'Neill||
+|- style="background:#cfc;"
+| 2016-06-22||Euro 2016||[[Lille]], [[Stade Pierre-Mauroy]]||[[Italy national football team|Italy]]|| style="text-align:center;"|1–0||O'Neill||
+|- style="background:#fcc;"
+| 2016-06-26||Euro 2016||[[Lyon]], [[Parc Olympique Lyonnais]]||[[France national football team|France]]|| style="text-align:center;"|1–2||O'Neill||
+|- style="background:#cfc;" id="2016"
+| 2016-08-31||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Oman national football team|Oman]]|| style="text-align:center;"| 4–0 ||O'Neill||
+|- style="background:#ffc;"
+| 2016-09-05||[[2018 FIFA World Cup qualification – UEFA Group D|World Cup 2018 qualifier]]||[[Belgrade]], [[Rajko Mitić Stadium]] ||[[Serbia national football team|Serbia]]|| style="text-align:center;"|2–2||O'Neill||
+|- style="background:#cfc;"
+| 2016-10-06||World Cup 2018 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Georgia national football team|Georgia]]|| style="text-align:center;"|1–0||O'Neill||
+|- style="background:#cfc;"
+| 2016-10-09||World Cup 2018 qualifier||[[Chișinău]], [[Zimbru Stadium]]||[[Moldova national football team|Moldova]]|| style="text-align:center;"|3–1||O'Neill||
+|- style="background:#cfc;"
+| 2016-11-12||World Cup 2018 qualifier||[[Vienna]], [[Ernst-Happel-Stadion]]||[[Austria national football team|Austria]]|| style="text-align:center;"|1–0||O'Neill||<ref name="wcq-2018-fixtures" /><ref>[http://www.uefa.com/worldcup/season=2018/matches/round=2000717/match=2017774/index.html Austria-Republic of Ireland]{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}} UEFA, 26 July 2015.</ref>
+|- style="background:#ffc;" id="2017"
+| 2017-03-24||World Cup 2018 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Wales national football team|Wales]]|| style="text-align:center;"|0–0||O'Neill||<ref name="wcq-2018-fixtures" /><ref>[http://www.uefa.com/worldcup/season=2018/matches/round=2000717/match=2017782/index.html Republic of Ireland-Wales]{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}} UEFA, 26 July 2015.</ref>
+|- style="background:#fcc;"
+| 2017-03-28||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Iceland national football team|Iceland]]|| style="text-align:center;"| 0–1 ||O'Neill||<ref>[https://www.rte.ie/sport/soccer/2017/0328/863300-republic-of-ireland-v-iceland/ Iceland take the spoils in Aviva friendly] RTÉ, 29 March 2017.</ref>
+|- style="background:#fcc;"
+| 2017-06-01||Friendly||[[East Rutherford, New Jersey|East Rutherford NJ]], [[MetLife Stadium]]||[[Mexico national football team|Mexico]]|| style="text-align:center;"|1–3||O'Neill||<ref>[https://www.rte.ie/sport/soccer/2017/0602/879753-shambolic-ireland-outclassed-by-mexico-in-new-jersey/ Ineffective Ireland outclassed by Mexico in New Jersey] RTÉ Sport, 1 June 2017.</ref>
+|- style="background:#cfc;"
+| 2017-06-04||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Uruguay national football team|Uruguay]]|| style="text-align:center;"|3–1||O'Neill||<ref>[https://www.rte.ie/sport/soccer/2017/0604/880201-ireland-v-uruguay/ Ireland banish Mexico memories with convincing win] RTÉ Sport, 4 June 2017.</ref>
+|- style="background:#ffc;"
+| 2017-06-11||World Cup 2018 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Austria national football team|Austria]]|| style="text-align:center;"|1–1||O'Neill||<ref>[https://www.rte.ie/sport/soccer/2017/0611/881882-ireland-austria/ Jonathan Walters the Ireland saviour as crucial point is rescued] RTÉ Sport, 12 June 2017.</ref>
+|- style="background:#ffc;"
+| 2017-09-02||World Cup 2018 qualifier||[[Tbilisi]], [[Boris Paichadze Dinamo Arena]]||[[Georgia national football team|Georgia]]|| style="text-align:center;"|1–1||O'Neill||<ref>[https://www.rte.ie/sport/soccer/2017/0902/901783-disappointing-draw-georgia/ Disappointing draw leaves Ireland playing catch-up] RTÉ Sport, 2 September 2017.</ref>
+|- style="background:#fbb;"
+| 2017-09-05||World Cup 2018 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Serbia national football team|Serbia]]|| style="text-align:center;"|0–1||O'Neill||<ref>[https://www.rte.ie/sport/soccer/2017/0905/902576-narrow-defeat-a-bitter-blow-for-ireland/ Narrow Serbia defeat a bitter blow for Ireland's World Cup hopes] RTÉ Sport, 5 September 2017.</ref>
+|- style="background:#cfc;"
+| 2017-10-06||World Cup 2018 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Moldova national football team|Moldova]]|| style="text-align:center;"|2–0||O'Neill||<ref>[https://www.rte.ie/sport/soccer/2017/1006/910329-republic-of-ireland-v-moldova/ Daryl Murphy on the double as Ireland win ahead of Wales showdown] RTÉ Sport, 6 October 2017.</ref>
+|- style="background:#cfc;"
+| 2017-10-09||World Cup 2018 qualifier||[[Cardiff]], [[Cardiff City Stadium]]||[[Wales national football team|Wales]]|| style="text-align:center;"|1–0||O'Neill||<ref name="wcq-2018-fixtures">[https://www.uefa.com//MultimediaFiles/Download/competitions/Draws/02/26/73/73/2267373_DOWNLOAD.pdf European Qualifiers, Fixture List, 2018 FIFA World Cup Preliminary Competition] UEFA, 26 July 2015.</ref><ref>[https://www.rte.ie/sport/soccer/2017/1009/911041-wales-ireland-match-report/ James McClean secures play-off spot in famous away win] RTÉ Sport, 9 October 2017.</ref>
+|- style="background:#ffc;"
+| 2017-11-11||[[2018 FIFA World Cup qualification – UEFA second round|World Cup 2018 play-off]]||[[Copenhagen]], [[Parken Stadium|Telia Parken]]||[[Denmark national football team|Denmark]]|| style="text-align:center;"|0–0||O'Neill||<ref>[https://www.rte.ie/sport/soccer/2017/1111/919297-denmark-v-ireland-build-up/ Denmark v Ireland - As it happened] RTÉ Sport, 11 November 2017.</ref>
+|- style="background:#fbb;"
+| 2017-11-14||World Cup 2018 play-off||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Denmark national football team|Denmark]]|| style="text-align:center;"|1–5||O'Neill||<ref>[https://www.rte.ie/sport/soccer/2017/1114/920088-ireland-match-report/ Eriksen-inspired Denmark demolish Irish World Cup dreams] RTÉ Sport, 14 November 2017.</ref><ref>[https://www.theguardian.com/football/live/2017/nov/14/republic-of-ireland-v-denmark-world-cup-play-off-second-leg-live Rep of Ireland 1–5 Denmark] The Guardian, 14 November 2017.</ref>
+|- style="background:#fbb;" id="2018"
+| 2018-03-23||Friendly||[[Antalya]], [[New Antalya Stadium]]||[[Turkey national football team|Turkey]]|| style="text-align:center;"|0–1||O'Neill||<ref>[http://www.fai.ie/ireland/match/19/2018/999944346 Turkey vs Republic of Ireland] FAI.ie. Retrieved 24 December 2017.</ref> [[Matt Doherty (footballer, born 1992)|Matt Doherty]] and [[Scott Hogan]] debut.
+|- style="background:#eef;"
+| 2018-05-21||Testimonial||[[Glasgow]], [[Celtic Park]]||[[Celtic F.C.]]|| style="text-align:center;"|2–2||O'Neill||Testimonial for [[Scott Brown (footballer, born June 1985)|Scott Brown]].<ref>[https://www.independent.ie/sport/soccer/international-soccer/proud-ireland-newcomers-get-taste-of-life-at-top-table-at-celtic-park-36928497.html Proud Ireland newcomers get taste of life at top table at Celtic Park], ''Irish Independent'', 21 May 2018</ref>
+|- style="background:#fbb;"
+| 2018-05-28||Friendly||[[Saint-Denis, Seine-Saint-Denis|St Denis]], [[Stade de France]]||[[France national football team|France]]|| style="text-align:center;"|0–2||O'Neill||<ref>[http://www.fai.ie/ireland/match/19/2018/2023916 France vs Republic of Ireland] FAI.ie. Retrieved 24 December 2017.</ref>
+|- style="background:#cfc;"
+| 2018-06-02||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[United States men's national soccer team|United States]]|| style="text-align:center;" 2|2–1||O'Neill||<ref>[http://www.fai.ie/ireland/news/republic-of-ireland-to-host-usa-in-friendly Republic of Ireland to host USA in friendly] FAI.ie, 9 February 2018.</ref><ref>[http://www.fai.ie/ireland/match/19/2018/999944433 Republic of Ireland vs USA] FAI.ie, 9 February 2018.</ref>
+|- style="background:#fbb;"
+| 2018-09-06||[[UEFA Nations League]]||[[Cardiff]], [[Cardiff City Stadium]]||[[Wales national football team|Wales]]|| style="text-align:center;"|1–4||O'Neill||
+|- style="background:#ffc;"
+| 2018-09-11||Friendly||[[Wrocław]], [[Stadion Miejski (Wrocław)|Stadion Miejski]]||[[Poland national football team|Poland]]|| style="text-align:center;" 1|1–1||O'Neill||<ref>[http://www.fai.ie/ireland/match/19/2018/999944413 Poland vs Republic of Ireland] FAI.ie, 5 February 2018.</ref>
+|- style="background:#ffc;"
+| 2018-10-13||UEFA Nations League||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Denmark national football team|Denmark]]|| style="text-align:center;"|0–0||O'Neill||<ref name="uefa2018" />
+|- style="background:#fbb;"
+| 2018-10-16||UEFA Nations League||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Wales national football team|Wales]]|| style="text-align:center;"|0–1||O'Neill||<ref name="uefa2018" />
+|- style="background:#ffc;"
+| 2018-11-15||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Northern Ireland national football team|Northern Ireland]]|| style="text-align:center;"|0–0||O'Neill||<ref name="holders">[http://www.fai.ie/ireland/news/friendly-games-confirmed-for-201718-st-holders Friendly games confirmed for 2017/18 ST Holders] FAI.ie, 5 February 2018.</ref><ref>[http://www.fai.ie/ireland/match/19/2018/999944414 Republic of Ireland vs Northern Ireland] FAI.ie, 5 February 2018.</ref>
+|- style="background:#ffc;"
+| 2018-11-19||UEFA Nations League||[[Aarhus]], [[Ceres Park]]||[[Denmark national football team|Denmark]]|| style="text-align:center;"|0–0||O'Neill||<ref name="uefa2018">[http://www.fai.ie/ireland/news/uefa-nations-league-fixture-dates-and-times-confirmed UEFA Nations League fixture dates and times confirmed] Football Association of Ireland, 24 January 2018.</ref>
+|- style="background:#cfc;" id="2019"
+| 2019-03-23||Euro 2020 Qualifier||[[Gibraltar]], [[Victoria Stadium (Gibraltar)|Victoria Stadium]]||[[Gibraltar national football team|Gibraltar]]|| style="text-align:center;"|1–0||McCarthy||<ref>[https://www.fai.ie/ireland/match/3/2020/2026034?tab=report] FAI.ie, 23 February 2018.</ref> First game of Mick McCarthy's second term as Ireland manager
+|- style="background:#cfc;"
+| 2019-03-26||Euro 2020 Qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Georgia national football team|Georgia]]|| style="text-align:center;"|1–0||McCarthy||<ref>[https://www.fai.ie/ireland/match/3/2020/2026059?tab=report] FAI.ie, 26 March 2019.</ref>
+|- style="background:#ffc;" id="2019"
+| 2019-06-07||Euro 2020 Qualifier||[[Copenhagen]], [[Parken Stadium|Telia Parken]]||[[Denmark national football team|Denmark]]|| style="text-align:center;"|1–1||McCarthy||
+|- style="background:#cfc;"
+| 2019-06-10||Euro 2020 Qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Gibraltar national football team|Gibraltar]]|| style="text-align:center;"|2–0||McCarthy||
+|- style="background:#ffc;"
+| 2019-09-05||Euro 2020 Qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Switzerland national football team|Switzerland]]|| style="text-align:center;"|1–1||McCarthy||
+|- style="background:#cfc;"
+| 2019-09-10||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Bulgaria national football team|Bulgaria]]|| style="text-align:center;"|3–1||McCarthy||
+|- style="background:#ffc;"
+| 2019-10-12||Euro 2020 Qualifier||[[Tbilisi]], [[Boris Paichadze Dinamo Arena]]||[[Georgia national football team|Georgia]]|| style="text-align:center;"|0–0||McCarthy||
+|- style="background:#fbb;"
+| 2019-10-15||Euro 2020 Qualifier||[[Geneva]], [[Stade de Genève]]||[[Switzerland national football team|Switzerland]]|| style="text-align:center;"|0–2||McCarthy||
+|- style="background:#cfc;"
+| 2019-11-14||Friendly||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[New Zealand men's national football team|New Zealand]]|| style="text-align:center;"|3–1||McCarthy||First ever senior international between Ireland and New Zealand
+|- style="background:#ffc;"
+| 2019-11-18||Euro 2020 Qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Denmark national football team|Denmark]]|| style="text-align:center;"|1–1||McCarthy||
+|- style="background:#ffc;" id="2020s"
+| 2020-09-03||UEFA Nations League||[[Sofia]], [[Vasil Levski National Stadium]]||[[Bulgaria national football team|Bulgaria]]|| style="text-align:center;"|1–1||[[Stephen Kenny (football manager)|Kenny]]||First game with Stephen Kenny as manager
+|- style="background:#fbb;"
+| 2020-09-06||UEFA Nations League||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Finland national football team|Finland]]|| style="text-align:center;"|0–1||Kenny||
+|- style="background:#fbb;"
+| 2020-10-08||Euro 2020 Qualifier||[[Bratislava]], [[Tehelné pole]]||[[Slovakia national football team|Slovakia]]|| style="text-align:center;"|2–4||Kenny||AET:0-0 PSO:Ireland 2-4 Slovakia
+|- style="background:#ffc;"
+| 2020-10-11||UEFA Nations League||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Wales national football team|Wales]]|| style="text-align:center;"|0–0||Kenny||
+|- style="background:#fbb;"
+| 2020-10-14||UEFA Nations League||[[Helsinki]], [[Helsinki Olympic Stadium]]||[[Finland national football team|Finland]]|| style="text-align:center;"|0–1||Kenny||
+|- style="background:#fbb;"
+| 2020-11-12||Friendly||[[London]], [[Wembley Stadium]]||[[England national football team|England]]|| style="text-align:center;"|0–3||Kenny||
+|- style="background:#fbb;"
+| 2020-11-15||UEFA Nations League||[[Cardiff]], [[Cardiff City Stadium]]||[[Wales national football team|Wales]]|| style="text-align:center;"|0–1||Kenny||
+|- style="background:#ffc;"
+| 2020-11-18||UEFA Nations League||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Bulgaria national football team|Bulgaria]]|| style="text-align:center;"|0–0||Kenny||
+|- style="background:#fbb;"
+| 2021-03-24||World Cup 2022 qualifier||[[Belgrade]], [[Red Star Stadium]]||[[Serbia national football team|Serbia]]|| style="text-align:center;"|2–3||Kenny||
+|- style="background:#fbb;"
+| 2021-03-27||World Cup 2022 qualifier||[[Dublin]], [[Aviva Stadium|Lansdowne Road]]||[[Luxembourg national football team|Luxembourg]]|| style="text-align:center;"|0–1||Kenny||Second lowest fifa ranked team that Ireland have lost to
+|- style="background:#ffc;"
+| 2021-03-30||Friendly|| [[Debrecen]], [[Nagyerdei Stadion]]||[[Qatar national football team|Qatar]]|| style="text-align:center;"|1–1||Kenny||
+|- style="background:#cfc;"
+| 2021-06-03||Friendly||[[Andorra la Vella]], [[Estadi Nacional]] || [[Andorra national football team|Andorra]]|| style="text-align:center;"|4–1||Kenny||<ref>[https://www.rte.ie/sport/soccer/2021/0603/1225910-parrott-saves-irish-blushes-as-kenny-finally-wins-match/ Parrott saves Irish blushes in Andorra as Kenny finally records a win as Ireland manager] RTÉ Sport, 2021-06-03.</ref>
+|- style="background:#ffc;"
+| 2021-06-08||Friendly||[[Budapest]], [[Ferenc Szusza Stadium]] || [[Hungary national football team|Hungary]]|| style="text-align:center;"|0–0||Kenny||
+|- style="background:#fbb;"
+| 2021-09-01||World Cup 2022 qualifier||[[Algarve]], [[Estádio Algarve]]||[[Portugal national football team|Portugal]]|| style="text-align:center;"|1–2||Kenny||<ref>[https://www.rte.ie/sport/soccer/2021/0901/1244218-record-breaker-ronaldo-denies-ireland-at-the-death/ Record-breaker Ronaldo denies Ireland at the death with brace to secure Portugal comeback win] RTÉ Sport, 2021-09-02.</ref>
+|- style="background:#ffc;"
+| 2021-09-04||World Cup 2022 qualifier||[[Dublin]], [[Aviva Stadium]]||[[Azerbaijan national football team|Azerbaijan]]|| style="text-align:center;"|1–1||Kenny||<ref>[https://www.rte.ie/sport/soccer/2021/0904/1244729-duffy-spares-ireland-blushes-as-late-goal-earns-point/ Duffy spares Ireland blushes as late goal earns point] RTÉ Sport, 2021-09-04.</ref>
+|- style="background:#ffc;"
+| 2021-09-07||World Cup 2022 qualifier||[[Dublin]], [[Aviva Stadium]]||[[Serbia national football team|Serbia]]|| style="text-align:center;"|1–1||Kenny||
+|- style="background:#cfc;"
+| 2021-10-09||World Cup 2022 qualifier||[[Baku]], [[Baku Olympic Stadium]]||[[Azerbaijan national football team|Azerbaijan]]|| style="text-align:center;"|3–0||Kenny||<ref>[https://www.rte.ie/sport/soccer/worldcup/2021/1009/1252724-azerbaijan-v-ireland-updates/ Azerbaijan 0-3 Ireland - recap] RTÉ Sport, 2021-09-09.</ref>
+|- style="background:#cfc;"
+| 2021-10-12||Friendly||[[Dublin]], [[Aviva Stadium]]||[[Qatar national football team|Qatar]]|| style="text-align:center;"|4–0||Kenny|| Hat-trick by Callum Robinson, first by Ireland (Robbie Keane) since 2014.<ref>{{Cite news|url=https://www.irishtimes.com/sport/soccer/international/goal-machine-callum-robinson-nets-hat-trick-as-ireland-run-rings-around-qatar-1.4698773|title=Goal machine Callum Robinson nets hat-trick as Ireland run rings around Qatar|newspaper=[[The Irish Times]] }}</ref>
+|- style="background:#ffc;"
+| 2021-11-11||World Cup 2022 qualifier||[[Dublin]], [[Aviva Stadium]]||[[Portugal national football team|Portugal]]|| style="text-align:center;"|0–0||Kenny||
+|- style="background:#cfc;"
+| 2021-11-14||World Cup 2022 qualifier||[[Luxembourg]], [[Stade de Luxembourg]]||[[Luxembourg national football team|Luxembourg]]|| style="text-align:center;"|3–0||Kenny||
+<ref>[https://www.rte.ie/sport/soccer/2021/1114/1259867-ireland-score-three-to-win-in-luxembourg-and-take-third/ Ireland score three to win in Luxembourg and take third] RTÉ Sport, 2021-11-14.</ref>
+|- style="background:#ffc;
+| 2022-03-26||Friendly||[[Dublin]], [[Aviva Stadium]]||[[Belgium national football team|Belgium]]|| style="text-align:center;"|2–2||Kenny||
+|- style="background:#cfc;"
+| 2022-03-29||Friendly||[[Dublin]], [[Aviva Stadium]]||[[Lithuania national football team|Lithuania]]|| style="text-align:center;"|1–0||Kenny||
+|- style="background:#fcc;"
+| 2022-06-04||[[2022–23 UEFA Nations League]]||[[Yerevan]], [[Vazgen Sargsyan Republican Stadium|Sargsyan Stadium]]||[[Armenia national football team|Armenia]]|| style="text-align:center;"|0–1||Kenny||Goal: [[Eduard Spertsyan]]<ref>[https://www.rte.ie/sport/soccer/2022/0604/1303042-ireland-shocked-in-armenia-as-spertsyan-hits-winner/ Ireland shocked in Armenia as Spertsyan hits winner] RTÉ News, 2022-06-04.</ref>
+|- style="background:#fcc;"
+| 2022-06-08||2022–23 UEFA Nations League||[[Dublin]], [[Aviva Stadium]]||[[Ukraine national football team|Ukraine]]|| style="text-align:center;"|0–1||Kenny||Goal: [[Viktor Tsyhankov]] (47')<ref>[https://www.rte.ie/sport/soccer/2022/0608/1303717-nations-league-woes-continue-as-ukraine-beat-ireland/ Nations League woes continue for Kenny as Ukraine beat Ireland] RTÉ News, 2022-06-08.</ref>
+|- style="background:#cfc;"
+| 2022-06-11||2022–23 UEFA Nations League||[[Dublin]], [[Aviva Stadium]]||[[Scotland national football team|Scotland]]|| style="text-align:center;"|3–0||Kenny||<ref>[https://www.rte.ie/sport/soccer/2022/0611/1304221-republic-of-ireland-3-0-scotland/ Obafemi lights up Lansdowne as Ireland secured first ever Nations League win beating Scotland] RTÉ News, 2022-06-11.</ref>
+|- style="background:#ffc;"
+| 2022-06-14||2022–23 UEFA Nations League||[[Łódź]], [[Stadion Miejski im. Władysława Króla|Stadion Miejski]]||[[Ukraine national football team|Ukraine]]|| style="text-align:center;"|1–1||Kenny||<ref>[https://www.rte.ie/sport/soccer/2022/0614/1304892-ireland-secure-hard-fought-point-against-ukraine/ Nathan Collins on target as Ireland secure hard-fought point against Ukraine] RTÉ News, 2022-06-14.</ref>
+|- style="background:#fcc;"
+| 2022-09-24||2022–23 UEFA Nations League||[[Glasgow]], [[Hampden Park]]||[[Scotland national football team|Scotland]]|| style="text-align:center;"|1–2||Kenny||<ref name="SCO IRL 2022">{{cite web |title=Ireland made to regret missed chances in Nations League loss to Scotland |url=https://www.the42.ie/ireland-scotland-9-5875597-Sep2022/ |website=the42 |date=24 September 2022 |access-date=25 September 2022}}</ref>
+|- style="background:#cfc;"
+| 2022-09-27||2022–23 UEFA Nations League||[[Dublin]], [[Aviva Stadium]]||[[Armenia national football team|Armenia]]|| style="text-align:center;"|3–2||Kenny||<ref name="IRL ARM 2022">{{cite web |title=Robbie Brady's late penalty saves Ireland's blushes against Armenia |url=https://www.irishtimes.com/sport/soccer/2022/09/27/robbie-bradys-late-penalty-gives-ireland-victory-over-armenia/ |website=Irish Times |access-date=27 September 2022}}</ref>
+|- style="background:#fcc;"
+| 2022-11-17||Friendly||[[Dublin]], [[Aviva Stadium]]||[[Norway national football team|Norway]]|| style="text-align:center;"|1–2||Kenny||<ref name="ROI NOR 2022">{{cite web |title=Late goal condemns Ireland to friendly defeat against Norway |url=https://www.the42.ie/ireland-norway-2-5922942-Nov2022/ |website=the42 |date=17 November 2022 |access-date=19 November 2022}}</ref>
+|- style="background:#cfc;"
+| 2022-11-20||Friendly||[[Ta' Qali]], [[National Stadium, Ta' Qali]]||[[Malta national football team|Malta]]|| style="text-align:center;"|1–0||Kenny||<ref name="MLT IRL">{{cite web |title=Underwhelming end to Ireland's 2022 as Callum Robinson secures victory over Malta |url=https://www.the42.ie/ireland-malta-result-5925210-Nov2022/ |website=the42 |date=20 November 2022 |access-date=20 November 2022}}</ref>
+|- style="background:#cfc;"
+| 2023-03-22||Friendly||[[Dublin]], [[Aviva Stadium]]||[[Latvia national football team|Latvia]]|| style="text-align:center;"|3–2||Kenny||<ref name="IRL LAT 2023">{{cite web |title=LIVE Ireland 3-2 Latvia: Evan Ferguson scores first international goal as Latvia battle back at Aviva Stadium |url=https://www.independent.ie/sport/soccer/international-soccer/ireland-3-2-latvia-evan-ferguson-scores-first-international-goal-as-latvia-battle-back-at-aviva-stadium-42400108.html |website=Irish Independent |date=22 March 2023 |access-date=22 March 2023}}</ref>
+|- style="background:#fcc;"
+| 2023-03-27||[[UEFA Euro 2024 qualifying Group B|Euro 2024 qualifier]]||[[Dublin]], [[Aviva Stadium]]||[[France national football team|France]]|| style="text-align:center;"|0–1||Kenny||<ref>[https://www.rte.ie/sport/soccer/2023/0327/1366513-pavard-screamer-sees-france-edge-ireland-in-euro-opener/ Pavard screamer sees France edge Ireland in Euro opener] RTÉ Sport, 2023-03-27.</ref>
+|- style="background:#fcc;"
+| 2023-06-16||Euro 2024 qualifier|| [[Agia Sophia Stadium]], [[Athens]] ||[[Greece national football team|Greece]]|| style="text-align:center;"|1–2||Kenny||<ref>{{cite web |title=Greece 2-1 Republic of Ireland: Stephen Kenny's side lose in Athens to sound alarm bells early in Euro 2024 qualification |url=https://www.skysports.com/football/news/19692/12902331/greece-2-1-republic-of-ireland-stephen-kennys-side-lose-in-athens-to-sound-alarm-bells-early-on-in-euro-2024-qualification |website=Sky Sports |access-date=18 June 2023}}</ref><ref>[https://www.uefa.com/european-qualifiers/match/2036338/ Fixture listing] UEFA. Retrieved: 2023-03-24.</ref>
+|- style="background:#cfc;" "id="2023"
+| 2023-06-19||Euro 2024 qualifier||[[Dublin]], [[Aviva Stadium]]||[[Gibraltar national football team|Gibraltar]]|| style="text-align:center;"|3–0||Kenny||<ref>{{cite web |title=Kenny's half-time switch key as Ireland eventually beat Gibraltar |url=https://www.the42.ie/ireland-gibraltar-3-6097434-Jun2023/ |website=the42 |date=19 June 2023 |access-date=19 June 2023}}</ref>
+|- style="background:#fcc;"
+| 2023-09-07||Euro 2024 qualifier||[[Paris]], [[Parc des Princes]]||[[France national football team|France]]|| style="text-align:center;"|0–2||Kenny||<ref>[https://www.uefa.com/european-qualifiers/match/2036384/ Fixture listing] UEFA. Retrieved: 2023-03-24.</ref>
+|- style="background:#fcc;"
+| 2023-09-20||Euro 2024 qualifier||[[Dublin]], [[Aviva Stadium]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|1–2||Kenny||<ref>[https://www.uefa.com/european-qualifiers/match/2036407/ Fixture listing] UEFA. Retrieved: 2023-03-24.</ref>
+|- style="background:#fcc;"
+| 2023-10-13||Euro 2024 qualifier||[[Dublin]], [[Aviva Stadium]]||[[Greece national football team|Greece]]|| style="text-align:center;"|0–2||Kenny||<ref>[https://www.rte.ie/sport/soccer/2023/1013/1410727-ireland-fail-to-fire-as-greece-ease-to-comfortable-win/ Ireland fail to fire as Greece ease to comfortable win in Euro 2024 qualifier] RTÉ Sport, 2023-10-13.</ref>
+|- style="background:#cfc;"
+| 2023-10-16||Euro 2024 qualifier||[[Algarve]], [[Estádio Algarve]]||[[Gibraltar national football team|Gibraltar]]|| style="text-align:center;"|4–0||Kenny||<ref>[https://www.rte.ie/sport/soccer/2023/1016/1411096-ireland-ease-to-four-goal-win-in-gibraltar/ Ireland ease to four-goal win against Gibraltar] RTÉ Sport, 2023-10-16.</ref>
+|- style="background:#fcc;"
+| 2023-11-18||Euro 2024 qualifier||[[Amsterdam]], [[Johan Cruyff Arena]]||[[Netherlands national football team|Netherlands]]|| style="text-align:center;"|0–1||Kenny||<ref>{{cite web
+	| url = https://www.rte.ie/sport/soccer/2023/1118/1417218-ireland-end-campaign-with-limp-defeat-to-netherlands/
+	| title = Ireland end campaign with limp defeat to Dutch
+	| date = 2023-11-18
+	| publisher = RTÉ Sport 
+}}</ref>
+|- style="background:#ffc;"
+| 2023-11-21||Friendly||[[Dublin]], [[Aviva Stadium]]||[[New Zealand men's national football team|New Zealand]]|| style="text-align:center;"|1–1||Kenny||<ref>[https://www.rte.ie/sport/soccer/2023/1121/1417658-kennys-contract-ends-with-stalemate-against-nz/ Stephen Kenny's contract ends with stalemate against New Zealand] RTÉ Sport, 2023-11-21.</ref>
+|- style="background:#ffc;"
+| 2024-03-23||Friendly||[[Dublin]], [[Aviva Stadium]]||[[Belgium men's national football team|Belgium]]|| style="text-align:center;"|0–0||[[John O'Shea|O'Shea]]||First game with John O'Shea as interim manager <ref>{{cite web |title=International friendly report: Republic of Ireland 0 - 0 Belgium |url=https://www.extratime.com/articles/33198/international-friendly-report-republic-of-ireland-0---0-belgium/ |website=Extra Time |access-date=23 March 2024}}</ref>
+|- style="background:#fcc;"
+| 2024-03-26||Friendly||[[Dublin]], [[Aviva Stadium]]||[[Switzerland men's national football team|Switzerland]]|| style="text-align:center;"|0–1||O'Shea||<ref>{{cite web |last1=McMahon |first1=James |title=Recap: Republic of Ireland 0-1 Switzerland |url=https://www.rte.ie/sport/soccer/2024/0326/1440087-republic-of-ireland-v-switzerland-updates/ |website=RTE |date=26 March 2024 |access-date=27 March 2024}}</ref>
+|- style="background:#cfc;"
+| 2024-06-04||Friendly||[[Dublin]], [[Aviva Stadium]]||[[Hungary men's national football team|Hungary]]|| style="text-align:center;"|2–1||O'Shea||<ref>{{cite web |title=Ireland 2 Hungary 1 (FT) - as it happened |url=https://www.irishtimes.com/sport/soccer/2024/06/04/ireland-vs-hungary-live-updates/ |website=Irish Times |access-date=5 June 2024}}</ref>
+|- style="background:#fcc;"
+| 2024-06-11||Friendly||[[Aveiro, Portugal|Aveiro]], [[Estádio Municipal de Aveiro]]||[[Portugal men's national football team|Portugal]]|| style="text-align:center;"|0–3||O'Shea||<ref>{{cite web |title=Ronaldo brace helps Portugal to Euro warm-up win over Ireland |url=https://www.espn.com/soccer/report/_/gameId/698536 |website=ESPN |access-date=27 June 2024}}</ref>
+|- style="background:#fcc;"
+| 2024-09-07||[[2024–25 UEFA Nations League]]||[[Dublin]], [[Aviva Stadium]]||[[England men's national football team|England]]|| style="text-align:center;"|0–2||[[Heimir Hallgrímsson|Hallgrímsson]]||First game with Heimir Hallgrímsson as manager <ref>{{cite web
+	| title = Heimir Hallgrimsson's new era spoiled by couple of old friends
+	| first = Ed
+	| last = Leahy
+	| date = 2024-09-07
+	| website = RTÉ Sports
+	| url = https://www.rte.ie/sport/soccer/2024/0907/1468878-hallgrimssons-new-era-spoiled-by-couple-of-old-friends/
+}}</ref>
+|- style="background:#fcc;"
+| 2024-09-10 || 2024–25 UEFA Nations League || [[Dublin]], [[Aviva Stadium]] || [[Greece men's national football team|Greece]] || style="text-align:center;" | 0–2 || Hallgrímsson || <ref>{{cite web |title=Ireland's promising opening act undone by old failings as Greece take advantage |url=https://www.irishtimes.com/sport/soccer/2024/09/10/irelands-promising-opening-act-undone-by-old-failings-as-greece-take-advantage/ |website=Irish Times |access-date=11 September 2024}}</ref>
+|- style="background:#cfc;"
+| 2024-10-10 || 2024–25 UEFA Nations League || [[Helsinki]], [[Helsinki Olympic Stadium]] || [[Finland men's national football team |Finland]] || style="text-align:center;" | 2–1 || Hallgrímsson ||<ref>{{cite web |last1=Leahy |first1=Ed |title=Battling Ireland find a way against Finland in Helsinki |url=https://www.rte.ie/sport/soccer/2024/1010/1474740-battling-ireland-find-a-way-against-finns-in-helsinki/ |website=RTE |date=10 October 2024 |access-date=10 October 2024}}</ref>
+|- style="background:#fcc;"
+| 2024-10-13 || 2024–25 UEFA Nations League || [[Piraeus]], [[Karaiskakis Stadium]] || Greece || style="text-align:center;" | 0–2 || Hallgrímsson || <ref>{{cite web
+	| title = Irish efforts come to nought as Greece double up
+	| first = Ed 
+	| last = Leahy
+	| date = 2024-10-13
+	| website = RTÉ Sport
+	| url = https://www.rte.ie/sport/soccer/2024/1013/1475255-irish-efforts-come-to-nought-as-greece-double-up/
+}}</ref>
+|- style="background:#cfc;"
+| 2024-11-14 || 2024–25 UEFA Nations League ||[[Dublin]], [[Aviva Stadium]] || Finland || style="text-align:center;" | 1–0 || Hallgrímsson ||<ref>{{cite web |last1=Whooley |first1=Declan |title=UEFA Nations League recap: Republic of Ireland 1-0 Finland |url=https://www.rte.ie/sport/soccer/2024/1114/1480998-nations-league-republic-of-ireland-v-finland-updates/ |website=RTE |date=14 November 2024 |access-date=16 November 2024}}</ref>
+|- style="background:#fcc;"
+| 2024-11-17 || 2024–25 UEFA Nations League || [[London]], [[Wembley Stadium]] || England || style="text-align:center;" | 0–5 || Hallgrímsson || <ref>{{cite web
+	| title = 
+Red card tips scales as ruthless England run riot
+	| first = Ed
+	| last = Leahy
+	| date = 2024-11-17
+	| website = RTÉ Sport
+	| url = https://www.rte.ie/sport/soccer/2024/1117/1481385-red-card-tips-scales-as-ruthless-england-run-riot/
+}}</ref>
+|- style="background:#cfc;"
+| 2025-03-20 || 2024–25 UEFA Nations League || [[Plovdiv]], Stadion Hristo Botev || [[Bulgaria national football team|Bulgaria]] || style="text-align:center;" | 2–1 || Hallgrímsson || Play-off match.<ref>{{cite web
+	| title = Finn Azaz and Matt Doherty earn Ireland deserved win in Bulgaria
+	| first = Ed
+	| last = Leahy
+	| date = 2025-03-20
+	| website = RTÉ Sport
+	| url = https://www.rte.ie/sport/soccer/2025/0320/1503181-azaz-and-doherty-earn-ireland-deserved-win-in-bulgaria/
+}}</ref>
+|- style="background:#cfc;"
+| 2025-03-23 || 2024–25 UEFA Nations League || Dublin, Aviva Stadium || Bulgaria || style="text-align:center;" | 2–1 || Hallgrímsson || Play-off match.<ref>{{cite web
+	| title = Evan Ferguson and Adam Idah strike to secure Nations League play-off survival success
+	| first = Ed
+	| last = Leahy
+	| date = 2025-03-23
+	| website = RTÉ Sport
+	| url = https://www.rte.ie/sport/soccer/2025/0323/1503637-ferguson-and-idah-strike-to-secure-play-off-success/
+}}</ref>
+|- style="background:#ffc;"
+| 2025-06-06 || Friendly || Dublin, Aviva Stadium || [[Senegal national football team|Senegal]] || style="text-align:center;" | 1–1 || Hallgrímsson || <ref>{{cite web
+	| title = Impressive McAteer on target as Ireland held by Senegal
+	| first = Ed
+	| last = Leahy
+	| date = 2025-06-06
+	| website = RTÉ Sport
+	| url = https://www.rte.ie/sport/soccer/2025/0606/1516997-impressive-mcateer-on-target-as-ireland-held-by-senegal/
+}}</ref>
+|- style="background:#ffc;"
+| 2025-06-10 || Friendly || Luxembourg City, Stade de Luxembourg ||[[Luxembourg national football team|Luxembourg]] || style="text-align:center;" | 0–0 || Hallgrímsson || <ref>{{cite web
+	| title = Ireland sign off season with low-key draw in Luxembourg
+	| date = 2025-06-10
+	| website = RTÉ Sport
+	| url = https://www.rte.ie/sport/soccer/2025/0610/1517604-ireland-sign-off-season-with-low-key-draw-in-luxembourg/
+}}</ref>
+|- style="background:#ffc;"
+| 2025-09-06 || [[2026 FIFA World Cup qualification – UEFA Group F|2026 World Cup qualifier]] || Dublin, Aviva Stadium || [[Hungary national football team|Hungary]] || style="text-align:center;" | 2–2 || Hallgrímsson || <ref>{{cite web
+	| title = Late drama as Adam Idah ensures Ireland avoid opening defeat against Hungary
+	| first = Ed 
+	| last = Leahy 
+	| date = 2025-09-06
+	| website = RTÉ Sport
+	| url = https://www.rte.ie/sport/soccer/2025/0906/1532135-late-drama-as-idah-ensures-ireland-avoid-opening-defeat/
+}}</ref>
+|- style="background:#fcc;"
+| 2025-09-09 || 2026 World Cup qualifier || [[Yerevan]], [[Vazgen Sargsyan Republican Stadium]] || [[Armenia national football team|Armenia]] || style="text-align:center;" | 1–2 || Hallgrímsson || <ref>{{cite web
+	| title = World Cup hopes shattered as Ireland shocked by Armenia
+	| first = Ed 
+	| last = Leahy 
+	| date = 2025-09-09
+	| website = RTÉ Sport
+	| url = https://www.rte.ie/sport/soccer/2025/0909/1532528-world-cup-hopes-shattered-as-ireland-shocked-by-armenia/
+}}</ref>
+|- style="background:#fcc;"
+| 2025-10-11 || 2026 World Cup qualifier || Lisbon, Estádio José Alvalade || [[Portugal national football team|Portugal]] || style="text-align:center;" | 0–1 || Hallgrímsson || <ref>{{cite web
+	| title = Heartbreak in Lisbon as Ireland edged by last-gasp Portugal goal 
+	| first = Ed 
+	| last = Leahy 
+	| date = 2025-10-11
+	| website = RTÉ Sport
+	| url = https://www.rte.ie/sport/soccer/2025/1011/1538012-heartbreak-in-lisbon-as-ireland-edged-by-last-gasp-goal/
+}}</ref>
+|- style="background:#cfc;"
+| 2025-10-14 || 2026 World Cup qualifier || Dublin, Aviva Stadium || [[Armenia national football team|Armenia]] || style="text-align:center;" | 1–0 || Hallgrímsson || <ref>{{cite web
+	| title = Ireland beat 10-man Armenia to keep World Cup play-off hopes alive
+	| first = Ed 
+	| last = Leahy 
+	| date = 2025-10-14
+	| website = RTÉ Sport
+	| url = https://www.rte.ie/sport/soccer/2025/1014/1538421-ireland-beat-10-man-armenia-to-maintain-play-off-hopes/
+}}</ref>
+|- style="background:#cfc;"
+| 2025-11-13 || 2026 World Cup qualifier || Dublin, Aviva Stadium || [[Portugal national football team|Portugal]] || style="text-align:center;" | 2–0 || Hallgrímsson || [[Troy Parrott]] scored a [[Hat-trick#Football codes|brace]].<ref>{{cite web
+	| title = World Cup dream alive as brave Ireland shock Portugal
+	| first = Ed 
+	| last = Leahy 
+	| date = 2025-11-13
+	| website = RTÉ Sport
+	| url = https://www.rte.ie/sport/soccer/2025/1113/1543883-world-cup-dream-alive-as-brave-ireland-shock-portugal/
+}}</ref>
+|- style="background:#cfc;"
+| 2025-11-16 || 2026 World Cup qualifier || Budapest, Puskás Aréna || [[Hungary national football team|Hungary]] || style="text-align:center;" | 3–2 || Hallgrímsson || Troy Parrott scored a [[Hat-trick#Football codes|hat-trick]].<ref>{{cite web
+	| title = Remarkable Troy Parrott hat-trick secures World Cup play-off on magical night in Budapest
+	| first = Ed
+	| last = Leahy
+	| date = 2025-11-16
+	| website = RTÉ Sport
+	| url = https://www.rte.ie/sport/soccer/2025/1116/1544242-remarkable-parrott-hat-trick-earns-world-cup-play-off/
+}}</ref>
+|- style="background:#fcc;" id="2026"
+| 2026-03-26 || 2026 World Cup play-off || [[Fortuna Arena]], Prague || [[Czech Republic national football team|Czechia]] || style="text-align:center;" |3 – 4 || Hallgrímsson || After extra time: 2–2;  Czechia won 4–3 on penalties <ref>{{cite web
+	| title = Prague penalties put a pin in Ireland's World Cup dream
+	| first = Raf
+	| last = Diallo
+    | date = 2026-03-27
+	| website = RTÉ Sport
+	| url = https://www.rte.ie/sport/soccer/2026/0326/1565041-prague-penalties-put-a-pin-in-irelands-world-cup-dream/
+}}</ref>
+|- style="background:#ffc;" id="2026"
+| 2026-03-31 || International Friendly || Aviva Stadium, Dublin || North Macedonia || style="text-align:center;" | 0 – 0 || Hallgrímsson || <ref>{{cite web
+	| title = Friendly frustration as Ireland held by North Macedonia
+	| first = Raf
+	| last = Diallo
+	| date = 2026-04-01
+	| website = RTÉ Sport
+	| url = https://www.rte.ie/sport/soccer/2026/0331/1566028-friendly-frustration-as-ireland-held-by-north-macedonia/
+}}</ref>
+|}
+
+==References==
+# [https://www.rsssf.org/tablesi/ier-intres.html Ireland - International Results] Jostein Nygård and Damian Byrne at Rec.Sport.Soccer Statistics Foundation. Retrieved: 2011-09-11.
+# [https://www.rsssf.org/miscellaneous/ier-recintlp.html Ireland - Record International Players, Appearances for Ireland National Team] Roberto Mamrud at Rec.Sport.Soccer Statistics Foundation. Retrieved: 2011-09-11.
+# [https://web.archive.org/web/20131011154410/http://www.fai.ie/index.php?option=com_content&view=article&id=100709&Itemid=376 Ireland's International Matches 1926–1981], Football Association of Ireland. Retrieved: 2024-11-21. Archived: 2013-10-11.
+# [https://web.archive.org/web/20120910164901/http://www.fai.ie/index.php?option=com_content&view=article&id=100710&Itemid=375 Ireland's International Matches 1982–2011], Football Association of Ireland. Retrieved 21 November 2024, archived 10-09-2012 
+# [http://www.fai.ie/index.php?option=com_content&view=article&id=222&Itemid=226 FAI History: The Early Years], Football Association of Ireland. Retrieved: 2011-09-11.
+# [http://www.fai.ie/index.php?option=com_content&view=article&id=225&Itemid=227 FAI History: 1930 - 1959], Football Association of Ireland. Retrieved: 2011-09-11.
+# [http://www.fai.ie/index.php?option=com_content&view=article&id=231&Itemid=228 FAI History: 1960 - 1986], Football Association of Ireland. Retrieved: 2011-09-11.
+# [http://www.fai.ie/index.php?option=com_content&view=article&id=237&Itemid=230 FAI History: McCarthy and Kerr], Football Association of Ireland. Retrieved: 2011-09-11.
+# [http://www.fai.ie/index.php?option=com_content&view=article&id=238&Itemid=231 FAI History: The Present Day], Football Association of Ireland. Retrieved: 2011-09-11.
+# [https://web.archive.org/web/20070626203321/http://www.fifa.com/associations/association=irl/fixturesresults/gender=m/index.html  Republic of Ireland: Fixtures and Results], FIFA. Retrieved: 2011-09-11.
+# [http://wget.net/soccerhistory.txt <!-- formerly at http://www.kiltimagh.net/soccerhistory.html --> The History of Soccer in Ireland] {{Webarchive|url=https://web.archive.org/web/20160304224242/http://wget.net/soccerhistory.txt |date=4 March 2016 }}, Kiltimagh Online. Retrieved: 2011-09-11.
+# {{Deprecated archive|url=https://archive.today/20130103121744/http://soccernet.espn.go.com/team/fixtures/_/id/476/season/2011/ireland?cc=5901|title=Ireland Fixtures & Results - 2011}} Soccernet. Retrieved: 2011-10-07.
+# [http://www.11v11.com/teams/republic-of-ireland Republic of Ireland] Association of Football Statisticians. Retrieved: 2013-11-04.
+# [https://web.archive.org/web/20240119104346/https://www.fai.ie/ireland/senior-men/matches Ireland Senior Men's Matches] Football Association of Ireland. Retrieved: 2024-11-07. Archived 2024-01-19
+
+==Citations==
+{{Reflist}}
+
+{{Republic of Ireland national football team}}
+{{Football results UEFA}}
+
+[[Category:Republic of Ireland national football team results]]
+[[Category:Republic of Ireland national football team matches| ]]

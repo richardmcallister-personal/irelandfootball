@@ -1,0 +1,41 @@
+<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Ireland · Squad</title>
+<link rel="icon" href="/assets/favicon-32.png" type="image/png"><link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"><link rel="manifest" href="/manifest.webmanifest"><meta name="theme-color" content="#0b6e4f"><meta name="apple-mobile-web-app-title" content="Ireland">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@300;400;500;600;700&display=swap">
+<link rel="stylesheet" href="/mu.css">
+<style></style>
+</head><body><a class="skip" href="#main-content">Skip to main content</a><div class="wrap">
+<header class="mu">
+  <a class="brand" href="/"><img src="/assets/crest-88.png" alt="" width="44" height="44" decoding="async"><h1><small>Republic of Ireland</small>Ireland Football</h1></a>
+  <div class="from" id="from">Squad<span>Current list</span></div>
+</header>
+<nav class="munav" aria-label="Sections"></nav>
+<main id="main-content" tabindex="-1">
+
+<div class="sheet"><h2>Squad</h2><p class="sub" style="margin:0 0 10px">The feed's latest list, with career caps and goals from the archive. Caps can lag behind the most recent games.</p><div id="sq"><p class="sub">Loading…</p></div></div>
+
+</main>
+<footer class="mu"><span id="stamp"></span> Results and competitive scorers: <a href="https://github.com/martj42/international_results">martj42 international results</a> (CC0). Venues, managers, notes and caps: Wikipedia (CC BY-SA). Live data: API-Football. An independent fan site, not connected with the FAI.</footer>
+</div>
+<script src="/mu.js"></script>
+<script>
+(function(){
+MU.nav('Squad'); MU.checked("archive",document.getElementById("stamp"),"Archive built");
+var $=function(i){return document.getElementById(i)}, E=MU.esc;
+function dt(d,o){return new Date(d+"T12:00:00Z").toLocaleDateString("en-GB",o||{day:"numeric",month:"short",year:"numeric",timeZone:"UTC"})}
+function rc(m){return m.gf>m.ga?"rw":m.gf<m.ga?"rl":"rd"}
+function score(m){return '<span class="'+rc(m)+'">'+m.gf+'–'+m.ga+'</span>'+(m.pw!=null?' <small>'+(m.pw?"won":"lost")+' on pens</small>':'')}
+function ven(h){return h===1?"H":h===-1?"A":"N"}
+function scs(m){var a=(m.sc||[]).map(function(s){return E(s[0])+(s[1]?" "+E(s[1])+"′":"")+(s[2]==="p"?" (pen)":s[2]==="og"?" (og)":"")}); return a.join(", ")}
+function wl(t){return t.w+"W "+t.d+"D "+t.l+"L"}
+function pct(t){return t.p?Math.round(100*t.w/t.p):0}
+
+var ORDER=["Goalkeeper","Defender","Midfielder","Attacker"];
+Promise.all([MU.api("squad"),fetch("/history/players.json").then(function(r){return r.json()})]).then(function(a){var pl=(a[0].response&&a[0].response[0]&&a[0].response[0].players)||[], H=a[1];
+  function arch(n){var sn=MU.slug(n.split(" ").pop()), ini=/^[A-Z]\./.test(n)?n[0].toLowerCase():null, c=H.filter(function(h){return MU.slug(h.name.split(" ").pop())===sn&&(!ini||h.name[0].toLowerCase()===ini)&&h.last>="2020"}); return c.sort(function(x,y){return y.caps-x.caps})[0]}
+  $("sq").innerHTML=ORDER.map(function(pos){var r=pl.filter(function(p){return p.position===pos}); if(!r.length)return ""; return '<h2 style="margin-top:14px">'+pos+'s</h2><table class="mu"><thead><tr><th>Player</th><th class="n">Age</th><th class="n">Caps</th><th class="n">Goals</th></tr></thead><tbody>'+r.map(function(p){var h=arch(p.name); return '<tr><td><img class="face" src="/img/player/'+p.id+'.png" alt="" loading="lazy" onerror="this.style.visibility=\'hidden\'">'+(h?'<a href="/player/?p='+h.slug+'">'+E(h.name)+'</a>':E(p.name))+'</td><td class="n">'+(p.age||"")+'</td><td class="n">'+(h?h.caps:"–")+'</td><td class="n">'+(h?h.goals:"–")+'</td></tr>'}).join("")+'</tbody></table>'}).join("")||'<p class="sub">No squad list in the feed yet.</p>'
+}).catch(function(e){MU.apiDown($("sq"),e)});
+
+})();
+</script></body></html>

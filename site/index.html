@@ -1,0 +1,67 @@
+<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Ireland Football</title>
+<link rel="icon" href="/assets/favicon-32.png" type="image/png"><link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"><link rel="manifest" href="/manifest.webmanifest"><meta name="theme-color" content="#0b6e4f"><meta name="apple-mobile-web-app-title" content="Ireland">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@300;400;500;600;700&display=swap">
+<link rel="stylesheet" href="/mu.css">
+<style></style>
+</head><body><a class="skip" href="#main-content">Skip to main content</a><div class="wrap">
+<header class="mu">
+  <a class="brand" href="/"><img src="/assets/crest-88.png" alt="" width="44" height="44" decoding="async"><h1><small>Republic of Ireland</small>Ireland Football</h1></a>
+  <div class="from" id="from">Ireland<span>Men's senior team</span></div>
+</header>
+<nav class="munav" aria-label="Sections"></nav>
+<main id="main-content" tabindex="-1">
+
+<div class="hubg">
+ <div>
+  <div class="sheet nextm" id="next"><h2>Next match</h2><p class="sub">Loading…</p></div>
+  <div class="sheet" id="last" style="margin-top:12px"><h2>Latest result</h2><p class="sub">Loading…</p></div>
+ </div>
+ <div>
+  <div class="sheet" id="table"><h2>Group table</h2><p class="sub">Loading…</p></div>
+  <div class="sheet" id="otd" style="margin-top:12px"><h2>On this day</h2><p class="sub">Loading…</p></div>
+ </div>
+ <div>
+  <div class="sheet" id="alltime"><h2>All-time record</h2><p class="sub">Loading…</p></div>
+  <div class="sheet" id="more" style="margin-top:12px"><h2>More</h2><div class="morelinks"><a href="/results/">Every result</a><a href="/players/">Every player</a><a href="/opponents/">Opponents</a><a href="/records/">Records</a><a href="/managers/">Managers</a><a href="/squad/">Squad</a></div></div>
+ </div>
+</div>
+
+</main>
+<footer class="mu"><span id="stamp"></span> Results and competitive scorers: <a href="https://github.com/martj42/international_results">martj42 international results</a> (CC0). Venues, managers, notes and caps: Wikipedia (CC BY-SA). Live data: API-Football. An independent fan site, not connected with the FAI.</footer>
+</div>
+<script src="/mu.js"></script>
+<script>
+(function(){
+MU.nav('Hub'); MU.checked("archive",document.getElementById("stamp"),"Archive built");
+var $=function(i){return document.getElementById(i)}, E=MU.esc;
+function dt(d,o){return new Date(d+"T12:00:00Z").toLocaleDateString("en-GB",o||{day:"numeric",month:"short",year:"numeric",timeZone:"UTC"})}
+function rc(m){return m.gf>m.ga?"rw":m.gf<m.ga?"rl":"rd"}
+function score(m){return '<span class="'+rc(m)+'">'+m.gf+'–'+m.ga+'</span>'+(m.pw!=null?' <small>'+(m.pw?"won":"lost")+' on pens</small>':'')}
+function ven(h){return h===1?"H":h===-1?"A":"N"}
+function scs(m){var a=(m.sc||[]).map(function(s){return E(s[0])+(s[1]?" "+E(s[1])+"′":"")+(s[2]==="p"?" (pen)":s[2]==="og"?" (og)":"")}); return a.join(", ")}
+function wl(t){return t.w+"W "+t.d+"D "+t.l+"L"}
+function pct(t){return t.p?Math.round(100*t.w/t.p):0}
+
+var DONE=/FT|AET|PEN/, DEAD=/CANC|PST|ABD|AWD|WO/;
+function line(f){var us=f.teams.home.id===MU.TEAM, o=us?f.teams.away:f.teams.home; return {o:o,us:us}}
+MU.api("fixtures").then(function(j){var L=(j.response||[]).slice().sort(function(a,b){return a.fixture.timestamp-b.fixture.timestamp});
+  var nx=L.filter(function(f){return !DONE.test(f.fixture.status.short)&&!DEAD.test(f.fixture.status.short)})[0], ls=L.filter(function(f){return DONE.test(f.fixture.status.short)}).pop();
+  if(nx){var x=line(nx), ko=nx.fixture.date; $("next").innerHTML='<h2>Next match</h2><div class="vs">'+(x.us?"Ireland v "+MU.club(x.o.name,20):MU.club(x.o.name,20)+" v Ireland")+'</div><div class="when">'+E(nx.league.name)+(nx.league.round?" · "+E(nx.league.round):"")+'<br>'+MU.fmtDate(ko,{year:"numeric"})+" · "+MU.fmtKO(ko,true)+(nx.fixture.venue&&nx.fixture.venue.name?"<br>"+E(nx.fixture.venue.name):"")+'</div><p><a class="btn" href="/match/?id='+nx.fixture.id+'">Match centre</a></p>'}
+  else $("next").innerHTML='<h2>Next match</h2><p class="sub">No fixture announced yet.</p>';
+  if(ls){var y=line(ls), g=ls.goals; $("last").innerHTML='<h2>Latest result</h2><div class="vs">'+E(ls.teams.home.name.replace("Rep. Of Ireland","Ireland"))+" "+g.home+"–"+g.away+" "+E(ls.teams.away.name.replace("Rep. Of Ireland","Ireland"))+'</div><div class="when">'+E(ls.league.name)+" · "+MU.fmtDate(ls.fixture.date,{year:"numeric"})+'</div><p><a class="btn" href="/match/?id='+ls.fixture.id+'">Report</a> <a class="btn" href="/season/">Season</a></p>'}
+}).catch(function(e){MU.apiDown($("next"),e); $("last").innerHTML='<h2>Latest result</h2><p class="sub">See <a href="/results/">every result</a>.</p>'});
+MU.api("standings").then(function(j){var rs=(j.response||[]).slice().reverse(), g=null, lg=null;
+  rs.forEach(function(r){if(g)return; (r.league.standings||[]).forEach(function(s){if(!g&&s.some(function(t){return t.team.id===MU.TEAM})){g=s; lg=r.league}})});
+  if(!g){$("table").innerHTML='<h2>Group table</h2><p class="sub">No table at the moment.</p>';return}
+  $("table").innerHTML='<h2>'+E(lg.name)+'</h2><p class="sub" style="margin:0 0 8px">'+E(g[0].group||"")+'</p><table class="mu"><thead><tr><th></th><th>Team</th><th class="n">P</th><th class="n">GD</th><th class="n">Pts</th></tr></thead><tbody>'+g.map(function(t){var us=t.team.id===MU.TEAM; return '<tr'+(us?' style="background:var(--us);font-weight:600"':'')+'><td>'+t.rank+'</td><td>'+MU.club(t.team.name,14)+'</td><td class="n">'+t.all.played+'</td><td class="n">'+t.goalsDiff+'</td><td class="n"><b>'+t.points+'</b></td></tr>'}).join("")+'</tbody></table>'
+}).catch(function(e){MU.apiDown($("table"),e)});
+fetch("/history/matches.json").then(function(r){return r.json()}).then(function(L){var t=new Date(), md=String(t.getMonth()+1).padStart(2,"0")+"-"+String(t.getDate()).padStart(2,"0"), hit=L.filter(function(m){return m.d.slice(5)===md}).reverse();
+  $("otd").innerHTML='<h2>On this day</h2>'+(hit.length?'<ul class="fxlist">'+hit.slice(0,5).map(function(m){return '<li class="'+(m.h===1?"home":"away")+'"><span class="d">'+m.d.slice(0,4)+'</span><span class="o">'+MU.club(m.o,14)+'<small class="sc">'+E(m.t)+'</small></span><span class="r" style="font-size:18px">'+score(m)+'</span></li>'}).join("")+'</ul>':'<p class="sub">Ireland have never played on this date.</p>')});
+fetch("/history/records.json").then(function(r){return r.json()}).then(function(R){var a=R.all;
+  $("alltime").innerHTML='<h2>All-time record</h2><div class="h2h"><div><b>'+a.p+'</b><span>Played</span></div><div class="w"><b>'+a.w+'</b><span>Won</span></div><div><b>'+a.d+'</b><span>Drawn</span></div><div class="l"><b>'+a.l+'</b><span>Lost</span></div></div><p class="sub">Since '+dt(R.span[0])+'. '+a.gf+' scored, '+a.ga+' conceded. Top scorer: <a href="/player/?p='+R.scorers[0].slug+'">'+E(R.scorers[0].name)+'</a> ('+R.scorers[0].goals+'). Most caps: <a href="/player/?p='+R.caps[0].slug+'">'+E(R.caps[0].name)+'</a> ('+R.caps[0].caps+').</p>'});
+var mh=location.hash==="#more"&&$("more"); if(mh)mh.scrollIntoView();
+
+})();
+</script></body></html>

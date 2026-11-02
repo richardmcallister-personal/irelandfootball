@@ -1,0 +1,41 @@
+<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Ireland · Opponents</title>
+<link rel="icon" href="/assets/favicon-32.png" type="image/png"><link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"><link rel="manifest" href="/manifest.webmanifest"><meta name="theme-color" content="#0b6e4f"><meta name="apple-mobile-web-app-title" content="Ireland">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@300;400;500;600;700&display=swap">
+<link rel="stylesheet" href="/mu.css">
+<style></style>
+</head><body><a class="skip" href="#main-content">Skip to main content</a><div class="wrap">
+<header class="mu">
+  <a class="brand" href="/"><img src="/assets/crest-88.png" alt="" width="44" height="44" decoding="async"><h1><small>Republic of Ireland</small>Ireland Football</h1></a>
+  <div class="from" id="from">History<span>Opponents</span></div>
+</header>
+<nav class="munav" aria-label="Sections"></nav>
+<main id="main-content" tabindex="-1">
+
+<div class="sheet"><h2>Every opponent</h2><p class="sub" style="margin:0 0 10px">Most-played first. West Germany and the Soviet Union are shown separately from Germany and Russia.</p>
+<div class="filters"><input id="q" placeholder="Find a country…" aria-label="Find a country"></div><div id="list"><p class="sub">Loading…</p></div></div>
+
+</main>
+<footer class="mu"><span id="stamp"></span> Results and competitive scorers: <a href="https://github.com/martj42/international_results">martj42 international results</a> (CC0). Venues, managers, notes and caps: Wikipedia (CC BY-SA). Live data: API-Football. An independent fan site, not connected with the FAI.</footer>
+</div>
+<script src="/mu.js"></script>
+<script>
+(function(){
+MU.nav('Opponents'); MU.checked("archive",document.getElementById("stamp"),"Archive built");
+var $=function(i){return document.getElementById(i)}, E=MU.esc;
+function dt(d,o){return new Date(d+"T12:00:00Z").toLocaleDateString("en-GB",o||{day:"numeric",month:"short",year:"numeric",timeZone:"UTC"})}
+function rc(m){return m.gf>m.ga?"rw":m.gf<m.ga?"rl":"rd"}
+function score(m){return '<span class="'+rc(m)+'">'+m.gf+'–'+m.ga+'</span>'+(m.pw!=null?' <small>'+(m.pw?"won":"lost")+' on pens</small>':'')}
+function ven(h){return h===1?"H":h===-1?"A":"N"}
+function scs(m){var a=(m.sc||[]).map(function(s){return E(s[0])+(s[1]?" "+E(s[1])+"′":"")+(s[2]==="p"?" (pen)":s[2]==="og"?" (og)":"")}); return a.join(", ")}
+function wl(t){return t.w+"W "+t.d+"D "+t.l+"L"}
+function pct(t){return t.p?Math.round(100*t.w/t.p):0}
+
+var ROWS=[];
+function render(){var q=MU.slug($("q").value), r=ROWS.filter(function(c){return c.slug.indexOf(q)>=0});
+  $("list").innerHTML='<table class="mu"><thead><tr><th>Opponent</th><th class="n">P</th><th class="n">W</th><th class="n">D</th><th class="n">L</th><th class="n">GF</th><th class="n">GA</th><th class="n">Win %</th><th>First</th><th>Latest</th></tr></thead><tbody>'+r.map(function(c){return '<tr><td>'+MU.club(c.name,14)+'</td><td class="n">'+c.p+'</td><td class="n">'+c.w+'</td><td class="n">'+c.d+'</td><td class="n">'+c.l+'</td><td class="n">'+c.gf+'</td><td class="n">'+c.ga+'</td><td class="n">'+pct(c)+'</td><td>'+c.first.slice(0,4)+'</td><td>'+c.last.slice(0,4)+'</td></tr>'}).join("")+'</tbody></table>'}
+$("q").addEventListener("input",render); fetch("/history/opponents.json").then(function(r){return r.json()}).then(function(j){ROWS=j; render()});
+
+})();
+</script></body></html>

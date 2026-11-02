@@ -1,0 +1,11 @@
+{
+  "name": "irelandfootball",
+  "main": "worker.js",
+  "compatibility_date": "2026-09-11",
+  "assets": { "directory": "./site", "binding": "ASSETS", "run_worker_first": true },
+  // Add once the domain is bought:
+  // "routes": [{ "pattern": "irelandfootball.wiki", "custom_domain": true }, { "pattern": "www.irelandfootball.wiki", "custom_domain": true }],
+  "kv_namespaces": [{ "binding": "MU_CACHE" }],   // no id: Cloudflare creates it on first deploy and keeps it linked
+  "triggers": { "crons": ["7 * * * *"] },
+  "observability": { "enabled": true }
+}

@@ -1,0 +1,44 @@
+<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Ireland · Players</title>
+<link rel="icon" href="/assets/favicon-32.png" type="image/png"><link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"><link rel="manifest" href="/manifest.webmanifest"><meta name="theme-color" content="#0b6e4f"><meta name="apple-mobile-web-app-title" content="Ireland">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@300;400;500;600;700&display=swap">
+<link rel="stylesheet" href="/mu.css">
+<style></style>
+</head><body><a class="skip" href="#main-content">Skip to main content</a><div class="wrap">
+<header class="mu">
+  <a class="brand" href="/"><img src="/assets/crest-88.png" alt="" width="44" height="44" decoding="async"><h1><small>Republic of Ireland</small>Ireland Football</h1></a>
+  <div class="from" id="from">History<span>Every player</span></div>
+</header>
+<nav class="munav" aria-label="Sections"></nav>
+<main id="main-content" tabindex="-1">
+
+<div class="sheet"><h2>Every player capped</h2><p class="sub" style="margin:0 0 10px">Career caps and goals from Wikipedia's list, which cites eu-football.info.</p>
+<div class="filters"><input id="q" placeholder="Find a player…" aria-label="Find a player"><select id="pos" aria-label="Position"><option value="">All positions</option><option>GK</option><option>DF</option><option>MF</option><option>FW</option></select><select id="sort" aria-label="Sort"><option value="caps">Most caps</option><option value="goals">Most goals</option><option value="debut">Newest debut</option><option value="old">Oldest debut</option></select></div>
+<div id="list"><p class="sub">Loading…</p></div></div>
+
+</main>
+<footer class="mu"><span id="stamp"></span> Results and competitive scorers: <a href="https://github.com/martj42/international_results">martj42 international results</a> (CC0). Venues, managers, notes and caps: Wikipedia (CC BY-SA). Live data: API-Football. An independent fan site, not connected with the FAI.</footer>
+</div>
+<script src="/mu.js"></script>
+<script>
+(function(){
+MU.nav('Players'); MU.checked("archive",document.getElementById("stamp"),"Archive built");
+var $=function(i){return document.getElementById(i)}, E=MU.esc;
+function dt(d,o){return new Date(d+"T12:00:00Z").toLocaleDateString("en-GB",o||{day:"numeric",month:"short",year:"numeric",timeZone:"UTC"})}
+function rc(m){return m.gf>m.ga?"rw":m.gf<m.ga?"rl":"rd"}
+function score(m){return '<span class="'+rc(m)+'">'+m.gf+'–'+m.ga+'</span>'+(m.pw!=null?' <small>'+(m.pw?"won":"lost")+' on pens</small>':'')}
+function ven(h){return h===1?"H":h===-1?"A":"N"}
+function scs(m){var a=(m.sc||[]).map(function(s){return E(s[0])+(s[1]?" "+E(s[1])+"′":"")+(s[2]==="p"?" (pen)":s[2]==="og"?" (og)":"")}); return a.join(", ")}
+function wl(t){return t.w+"W "+t.d+"D "+t.l+"L"}
+function pct(t){return t.p?Math.round(100*t.w/t.p):0}
+
+var ALL=[];
+function render(){var q=MU.slug($("q").value), p=$("pos").value, s=$("sort").value, L=ALL.filter(function(x){return (!p||x.pos===p)&&(!q||x.slug.indexOf(q)>=0)});
+  L.sort(function(a,b){return s==="goals"?b.goals-a.goals||b.caps-a.caps:s==="debut"?(b.debut||"").localeCompare(a.debut||""):s==="old"?(a.debut||"").localeCompare(b.debut||""):b.caps-a.caps||b.goals-a.goals});
+  $("list").innerHTML='<table class="mu"><thead><tr><th>Player</th><th>Pos</th><th class="n">Caps</th><th class="n">Goals</th><th>Debut</th><th>Latest</th></tr></thead><tbody>'+L.map(function(x){return '<tr><td><a href="/player/?p='+x.slug+'">'+E(x.name)+'</a></td><td>'+x.pos+'</td><td class="n">'+x.caps+'</td><td class="n">'+x.goals+'</td><td>'+(x.debut?x.debut.slice(0,4):"")+'</td><td>'+(x.last?x.last.slice(0,4):"")+'</td></tr>'}).join("")+'</tbody></table>'}
+["q","pos","sort"].forEach(function(i){$(i).addEventListener("input",render)});
+fetch("/history/players.json").then(function(r){return r.json()}).then(function(L){ALL=L; render()});
+
+})();
+</script></body></html>

@@ -1,0 +1,55 @@
+<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Ireland · Results</title>
+<link rel="icon" href="/assets/favicon-32.png" type="image/png"><link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"><link rel="manifest" href="/manifest.webmanifest"><meta name="theme-color" content="#0b6e4f"><meta name="apple-mobile-web-app-title" content="Ireland">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@300;400;500;600;700&display=swap">
+<link rel="stylesheet" href="/mu.css">
+<style></style>
+</head><body><a class="skip" href="#main-content">Skip to main content</a><div class="wrap">
+<header class="mu">
+  <a class="brand" href="/"><img src="/assets/crest-88.png" alt="" width="44" height="44" decoding="async"><h1><small>Republic of Ireland</small>Ireland Football</h1></a>
+  <div class="from" id="from">History<span>Every result</span></div>
+</header>
+<nav class="munav" aria-label="Sections"></nav>
+<main id="main-content" tabindex="-1">
+
+<div class="sheet"><h2>Every result</h2>
+<p class="sub" style="margin:0 0 10px">From the first game in 1924. Ireland's score first. The team played as Irish Free State to 1936, then Ireland, and has been the Republic of Ireland since 1954.</p>
+<div class="filters"><input id="q" placeholder="Opponent, scorer, venue…" aria-label="Search results"><select id="comp" aria-label="Competition"></select><select id="dec" aria-label="Decade"></select><select id="ven" aria-label="Venue"><option value="">Home and away</option><option value="1">Home</option><option value="-1">Away</option><option value="0">Neutral</option></select><select id="res" aria-label="Result"><option value="">All results</option><option value="rw">Wins</option><option value="rd">Draws</option><option value="rl">Defeats</option></select></div>
+<div class="h2h" id="sum"></div><div id="list"><p class="sub">Loading…</p></div>
+<p class="sub" id="cov"></p></div>
+
+</main>
+<footer class="mu"><span id="stamp"></span> Results and competitive scorers: <a href="https://github.com/martj42/international_results">martj42 international results</a> (CC0). Venues, managers, notes and caps: Wikipedia (CC BY-SA). Live data: API-Football. An independent fan site, not connected with the FAI.</footer>
+</div>
+<script src="/mu.js"></script>
+<script>
+(function(){
+MU.nav('Results'); MU.checked("archive",document.getElementById("stamp"),"Archive built");
+var $=function(i){return document.getElementById(i)}, E=MU.esc;
+function dt(d,o){return new Date(d+"T12:00:00Z").toLocaleDateString("en-GB",o||{day:"numeric",month:"short",year:"numeric",timeZone:"UTC"})}
+function rc(m){return m.gf>m.ga?"rw":m.gf<m.ga?"rl":"rd"}
+function score(m){return '<span class="'+rc(m)+'">'+m.gf+'–'+m.ga+'</span>'+(m.pw!=null?' <small>'+(m.pw?"won":"lost")+' on pens</small>':'')}
+function ven(h){return h===1?"H":h===-1?"A":"N"}
+function scs(m){var a=(m.sc||[]).map(function(s){return E(s[0])+(s[1]?" "+E(s[1])+"′":"")+(s[2]==="p"?" (pen)":s[2]==="og"?" (og)":"")}); return a.join(", ")}
+function wl(t){return t.w+"W "+t.d+"D "+t.l+"L"}
+function pct(t){return t.p?Math.round(100*t.w/t.p):0}
+
+var ALL=[], qs=new URLSearchParams(location.search), ord=-1;
+$("comp").innerHTML=[["","All competitions"],["WC","World Cup finals"],["EC","Euros finals"],["WCQ","World Cup qualifying"],["ECQ","Euros qualifying"],["NL","Nations League"],["OLY","Olympic Games"],["FR","Friendlies"]].map(function(o){return '<option value="'+o[0]+'">'+o[1]+'</option>'}).join("");
+function render(){var q=MU.slug($("q").value).replace(/-/g," "), c=$("comp").value, de=$("dec").value, v=$("ven").value, re=$("res").value;
+  var L=ALL.filter(function(m){return (!c||m.c===c)&&(!de||m.d.slice(0,3)===de.slice(0,3))&&(v===""||String(m.h)===v)&&(!re||rc(m)===re)&&(!q||m._f.indexOf(q)>=0)});
+  var t={p:L.length,w:0,d:0,l:0,gf:0,ga:0}; L.forEach(function(m){t[rc(m)==="rw"?"w":rc(m)==="rl"?"l":"d"]++; t.gf+=m.gf; t.ga+=m.ga});
+  $("sum").innerHTML='<div><b>'+t.p+'</b><span>Played</span></div><div class="w"><b>'+t.w+'</b><span>Won</span></div><div><b>'+t.d+'</b><span>Drawn</span></div><div class="l"><b>'+t.l+'</b><span>Lost</span></div><div><b>'+t.gf+'</b><span>For</span></div><div><b>'+t.ga+'</b><span>Against</span></div>';
+  var R=L.slice().reverse();
+  $("list").innerHTML='<table class="mu"><thead><tr><th>Date</th><th>Opponent</th><th></th><th>Score</th><th>Competition</th><th>Venue</th></tr></thead><tbody>'+R.map(function(m){var s=scs(m); return '<tr><td style="white-space:nowrap">'+dt(m.d)+'</td><td>'+MU.club(m.o,14)+'</td><td>'+ven(m.h)+'</td><td style="white-space:nowrap">'+score(m)+'</td><td>'+E(m.t)+'</td><td>'+E(m.v||m.city)+(s?'<span class="note">'+s+'</span>':'')+(m.n?'<span class="note">'+E(m.n)+'</span>':'')+'</td></tr>'}).join("")+'</tbody></table>'||'';
+}
+fetch("/history/matches.json").then(function(r){return r.json()}).then(function(L){ALL=L; L.forEach(function(m){m._f=MU.slug([m.o,m.t,m.v||"",m.city,(m.sc||[]).map(function(s){return s[0]}).join(" "),m.m||""].join(" ")).replace(/-/g," ")});
+  var ds={}; L.forEach(function(m){ds[m.d.slice(0,3)+"0s"]=1}); $("dec").innerHTML='<option value="">All decades</option>'+Object.keys(ds).sort().reverse().map(function(d){return '<option value="'+d+'">'+d+'</option>'}).join("");
+  if(qs.get("dec"))$("dec").value=qs.get("dec")+"s"; if(qs.get("comp"))$("comp").value=qs.get("comp");
+  ["q","comp","dec","ven","res"].forEach(function(i){$(i).addEventListener("input",render)}); render();
+  var f=L.filter(function(m){return m.c==="FR"&&m.gf>0&&!m.sc}).length; $("cov").textContent="Scorers are complete for World Cup and Euros games, finals and qualifying. They are not yet available for friendlies ("+f+" games with goals), or for some recent Nations League games.";
+});
+
+})();
+</script></body></html>

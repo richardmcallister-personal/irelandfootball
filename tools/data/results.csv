@@ -1,0 +1,638 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+1924-05-28,Republic of Ireland,Bulgaria,1,0,Olympic Games,Colombes,France,TRUE
+1924-06-02,Netherlands,Republic of Ireland,2,1,Olympic Games,Paris,France,TRUE
+1926-03-21,Italy,Republic of Ireland,3,0,Friendly,Turin,Italy,FALSE
+1928-02-12,Belgium,Republic of Ireland,2,4,Friendly,Liège,Belgium,FALSE
+1929-04-30,Republic of Ireland,Belgium,4,0,Friendly,Dublin,Irish Free State,FALSE
+1930-05-11,Belgium,Republic of Ireland,1,3,Friendly,Brussels,Belgium,FALSE
+1931-04-26,Spain,Republic of Ireland,1,1,Friendly,Barcelona,Spain,FALSE
+1931-12-13,Republic of Ireland,Spain,0,5,Friendly,Dublin,Irish Free State,FALSE
+1932-05-08,Netherlands,Republic of Ireland,0,2,Friendly,Amsterdam,Netherlands,FALSE
+1934-02-25,Republic of Ireland,Belgium,4,4,FIFA World Cup qualification,Dublin,Irish Free State,FALSE
+1934-04-08,Netherlands,Republic of Ireland,5,2,FIFA World Cup qualification,Amsterdam,Netherlands,FALSE
+1934-12-15,Republic of Ireland,Hungary,2,4,Friendly,Dublin,Irish Free State,FALSE
+1935-05-05,Switzerland,Republic of Ireland,1,0,Friendly,Basel,Switzerland,FALSE
+1935-05-08,Germany,Republic of Ireland,3,1,Friendly,Dortmund,Germany,FALSE
+1935-12-08,Republic of Ireland,Netherlands,3,5,Friendly,Dublin,Irish Free State,FALSE
+1936-03-17,Republic of Ireland,Switzerland,1,0,Friendly,Dublin,Irish Free State,FALSE
+1936-05-03,Hungary,Republic of Ireland,3,3,Friendly,Budapest,Hungary,FALSE
+1936-05-09,Luxembourg,Republic of Ireland,1,5,Friendly,Luxembourg,Luxembourg,FALSE
+1936-10-17,Republic of Ireland,Germany,5,2,Friendly,Dublin,Irish Free State,FALSE
+1936-12-06,Republic of Ireland,Hungary,2,3,Friendly,Dublin,Irish Free State,FALSE
+1937-05-17,Switzerland,Republic of Ireland,0,1,Friendly,Bern,Switzerland,FALSE
+1937-05-23,France,Republic of Ireland,0,2,Friendly,Colombes,France,FALSE
+1937-10-10,Norway,Republic of Ireland,3,2,FIFA World Cup qualification,Oslo,Norway,FALSE
+1937-11-07,Republic of Ireland,Norway,3,3,FIFA World Cup qualification,Dublin,Irish Free State,TRUE
+1938-05-18,Czechoslovakia,Republic of Ireland,2,2,Friendly,Prague,Czechoslovakia,FALSE
+1938-05-22,Poland,Republic of Ireland,6,0,Friendly,Warsaw,Poland,FALSE
+1938-09-18,Republic of Ireland,Switzerland,4,0,Friendly,Dublin,Éire,FALSE
+1938-11-13,Republic of Ireland,Poland,3,2,Friendly,Dublin,Éire,FALSE
+1939-03-19,Republic of Ireland,Hungary,2,2,Friendly,Cork,Éire,FALSE
+1939-05-18,Hungary,Republic of Ireland,2,2,Friendly,Budapest,Hungary,FALSE
+1939-05-23,Germany,Republic of Ireland,1,1,Friendly,Bremen,Germany,FALSE
+1946-06-16,Portugal,Republic of Ireland,3,1,Friendly,Oeiras,Portugal,FALSE
+1946-06-23,Spain,Republic of Ireland,0,1,Friendly,Madrid,Spain,FALSE
+1946-09-30,Republic of Ireland,England,0,1,Friendly,Dublin,Éire,FALSE
+1947-03-02,Republic of Ireland,Spain,3,2,Friendly,Dublin,Éire,FALSE
+1947-05-04,Republic of Ireland,Portugal,0,2,Friendly,Dublin,Éire,FALSE
+1948-05-23,Portugal,Republic of Ireland,2,0,Friendly,Oeiras,Portugal,FALSE
+1948-05-30,Spain,Republic of Ireland,2,1,Friendly,Barcelona,Spain,FALSE
+1948-12-05,Republic of Ireland,Switzerland,0,1,Friendly,Dublin,Éire,FALSE
+1949-04-24,Republic of Ireland,Belgium,0,2,Friendly,Dublin,Éire,FALSE
+1949-05-22,Republic of Ireland,Portugal,1,0,Friendly,Dublin,Éire,FALSE
+1949-06-02,Sweden,Republic of Ireland,3,1,FIFA World Cup qualification,Solna,Sweden,FALSE
+1949-06-12,Republic of Ireland,Spain,1,4,Friendly,Dublin,Éire,FALSE
+1949-09-08,Republic of Ireland,Finland,3,0,FIFA World Cup qualification,Dublin,Éire,FALSE
+1949-09-21,England,Republic of Ireland,0,2,Friendly,Liverpool,England,FALSE
+1949-10-09,Finland,Republic of Ireland,1,1,FIFA World Cup qualification,Helsinki,Finland,FALSE
+1949-11-13,Republic of Ireland,Sweden,1,3,FIFA World Cup qualification,Dublin,Éire,FALSE
+1950-05-10,Belgium,Republic of Ireland,5,1,Friendly,Brussels,Belgium,FALSE
+1950-11-26,Republic of Ireland,Norway,2,2,Friendly,Dublin,Éire,FALSE
+1951-05-13,Republic of Ireland,Argentina,0,1,Friendly,Dublin,Éire,FALSE
+1951-05-30,Norway,Republic of Ireland,2,3,Friendly,Oslo,Norway,FALSE
+1951-10-17,Republic of Ireland,Germany,3,2,Friendly,Dublin,Éire,FALSE
+1952-05-04,Germany,Republic of Ireland,3,0,Friendly,Cologne,Germany,FALSE
+1952-05-07,Austria,Republic of Ireland,6,0,Friendly,Vienna,Austria,FALSE
+1952-06-01,Spain,Republic of Ireland,6,0,Friendly,Madrid,Spain,FALSE
+1952-11-16,Republic of Ireland,France,1,1,Friendly,Dublin,Éire,FALSE
+1953-03-25,Republic of Ireland,Austria,4,0,Friendly,Dublin,Éire,FALSE
+1953-10-04,Republic of Ireland,France,3,5,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1953-10-28,Republic of Ireland,Luxembourg,4,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1953-11-25,France,Republic of Ireland,1,0,FIFA World Cup qualification,Paris,France,FALSE
+1954-03-07,Luxembourg,Republic of Ireland,0,1,FIFA World Cup qualification,Luxembourg,Luxembourg,FALSE
+1954-11-07,Republic of Ireland,Norway,2,1,Friendly,Dublin,Republic of Ireland,FALSE
+1955-05-01,Republic of Ireland,Netherlands,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+1955-05-25,Norway,Republic of Ireland,1,3,Friendly,Oslo,Norway,FALSE
+1955-05-28,Germany,Republic of Ireland,2,1,Friendly,Hamburg,Germany,FALSE
+1955-10-19,Republic of Ireland,Yugoslavia,1,4,Friendly,Dublin,Republic of Ireland,FALSE
+1955-11-27,Republic of Ireland,Spain,2,2,Friendly,Dublin,Republic of Ireland,FALSE
+1956-05-10,Netherlands,Republic of Ireland,1,4,Friendly,Rotterdam,Netherlands,FALSE
+1956-10-03,Republic of Ireland,Denmark,2,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1956-11-25,Republic of Ireland,Germany,3,0,Friendly,Dublin,Republic of Ireland,FALSE
+1957-05-08,England,Republic of Ireland,5,1,FIFA World Cup qualification,London,England,FALSE
+1957-05-19,Republic of Ireland,England,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1957-10-02,Denmark,Republic of Ireland,0,2,FIFA World Cup qualification,Copenhagen,Denmark,FALSE
+1958-05-11,Poland,Republic of Ireland,2,2,Friendly,Chorzów,Poland,FALSE
+1958-05-14,Austria,Republic of Ireland,3,1,Friendly,Vienna,Austria,FALSE
+1958-10-05,Republic of Ireland,Poland,2,2,Friendly,Dublin,Republic of Ireland,FALSE
+1959-04-05,Republic of Ireland,Czechoslovakia,2,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1959-05-10,Czechoslovakia,Republic of Ireland,4,0,UEFA Euro qualification,Bratislava,Czechoslovakia,FALSE
+1959-11-01,Republic of Ireland,Sweden,3,2,Friendly,Dublin,Republic of Ireland,FALSE
+1960-03-30,Republic of Ireland,Chile,2,0,Friendly,Dublin,Republic of Ireland,FALSE
+1960-05-11,Germany,Republic of Ireland,0,1,Friendly,Düsseldorf,Germany,FALSE
+1960-05-18,Sweden,Republic of Ireland,4,1,Friendly,Malmö,Sweden,FALSE
+1960-09-28,Republic of Ireland,Wales,2,3,Friendly,Dublin,Republic of Ireland,FALSE
+1960-11-06,Republic of Ireland,Norway,3,1,Friendly,Dublin,Republic of Ireland,FALSE
+1961-05-03,Scotland,Republic of Ireland,4,1,FIFA World Cup qualification,Glasgow,Scotland,FALSE
+1961-05-07,Republic of Ireland,Scotland,0,3,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1961-10-08,Republic of Ireland,Czechoslovakia,1,3,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1961-10-29,Czechoslovakia,Republic of Ireland,7,1,FIFA World Cup qualification,Prague,Czechoslovakia,FALSE
+1962-04-08,Republic of Ireland,Austria,2,3,Friendly,Dublin,Republic of Ireland,FALSE
+1962-08-12,Republic of Ireland,Iceland,4,2,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1962-09-02,Iceland,Republic of Ireland,1,1,UEFA Euro qualification,Reykjavík,Iceland,FALSE
+1963-06-09,Republic of Ireland,Scotland,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+1963-09-25,Austria,Republic of Ireland,0,0,UEFA Euro qualification,Vienna,Austria,FALSE
+1963-10-13,Republic of Ireland,Austria,3,2,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1964-03-11,Spain,Republic of Ireland,5,1,UEFA Euro qualification,Seville,Spain,FALSE
+1964-04-08,Republic of Ireland,Spain,0,2,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1964-05-10,Poland,Republic of Ireland,3,1,Friendly,Kraków,Poland,FALSE
+1964-05-13,Norway,Republic of Ireland,1,4,Friendly,Oslo,Norway,FALSE
+1964-05-24,Republic of Ireland,England,1,3,Friendly,Dublin,Republic of Ireland,FALSE
+1964-10-25,Republic of Ireland,Poland,3,2,Friendly,Dublin,Republic of Ireland,FALSE
+1965-03-24,Republic of Ireland,Belgium,0,2,Friendly,Dublin,Republic of Ireland,FALSE
+1965-05-05,Republic of Ireland,Spain,1,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1965-10-27,Spain,Republic of Ireland,4,1,FIFA World Cup qualification,Seville,Spain,FALSE
+1965-11-10,Republic of Ireland,Spain,0,1,FIFA World Cup qualification,Paris,France,TRUE
+1966-05-04,Republic of Ireland,Germany,0,4,Friendly,Dublin,Republic of Ireland,FALSE
+1966-05-22,Austria,Republic of Ireland,1,0,Friendly,Vienna,Austria,FALSE
+1966-05-25,Belgium,Republic of Ireland,2,3,Friendly,Liège,Belgium,FALSE
+1966-10-23,Republic of Ireland,Spain,0,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1966-11-16,Republic of Ireland,Turkey,2,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1966-12-07,Spain,Republic of Ireland,2,0,UEFA Euro qualification,Valencia,Spain,FALSE
+1967-02-22,Turkey,Republic of Ireland,2,1,UEFA Euro qualification,Ankara,Turkey,FALSE
+1967-05-21,Republic of Ireland,Czechoslovakia,0,2,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1967-11-22,Czechoslovakia,Republic of Ireland,1,2,UEFA Euro qualification,Prague,Czechoslovakia,FALSE
+1968-05-15,Republic of Ireland,Poland,2,2,Friendly,Dublin,Republic of Ireland,FALSE
+1968-10-30,Poland,Republic of Ireland,1,0,Friendly,Chorzów,Poland,FALSE
+1968-11-10,Republic of Ireland,Austria,2,2,Friendly,Dublin,Republic of Ireland,FALSE
+1968-12-04,Republic of Ireland,Denmark,1,1,Friendly,Dublin,Republic of Ireland,FALSE
+1969-05-04,Republic of Ireland,Czechoslovakia,1,2,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1969-05-27,Denmark,Republic of Ireland,2,0,FIFA World Cup qualification,Copenhagen,Denmark,FALSE
+1969-06-08,Republic of Ireland,Hungary,1,2,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1969-09-21,Republic of Ireland,Scotland,1,1,Friendly,Dublin,Republic of Ireland,FALSE
+1969-10-07,Czechoslovakia,Republic of Ireland,3,0,FIFA World Cup qualification,Prague,Czechoslovakia,FALSE
+1969-10-15,Republic of Ireland,Denmark,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1969-11-05,Hungary,Republic of Ireland,4,0,FIFA World Cup qualification,Budapest,Hungary,FALSE
+1970-05-06,Poland,Republic of Ireland,2,1,Friendly,Poznań,Poland,FALSE
+1970-05-09,Germany,Republic of Ireland,2,1,Friendly,Berlin,Germany,FALSE
+1970-09-23,Republic of Ireland,Poland,0,2,Friendly,Dublin,Republic of Ireland,FALSE
+1970-10-14,Republic of Ireland,Sweden,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1970-10-28,Sweden,Republic of Ireland,1,0,UEFA Euro qualification,Solna,Sweden,FALSE
+1970-12-08,Italy,Republic of Ireland,3,0,UEFA Euro qualification,Florence,Italy,FALSE
+1971-05-10,Republic of Ireland,Italy,1,2,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1971-05-30,Republic of Ireland,Austria,1,4,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1971-10-10,Austria,Republic of Ireland,6,0,UEFA Euro qualification,Linz,Austria,FALSE
+1972-06-11,Iran,Republic of Ireland,1,2,Brazil Independence Cup,Recife,Brazil,TRUE
+1972-06-18,Ecuador,Republic of Ireland,2,3,Brazil Independence Cup,Natal,Brazil,TRUE
+1972-06-21,Chile,Republic of Ireland,2,1,Brazil Independence Cup,Recife,Brazil,TRUE
+1972-06-25,Republic of Ireland,Portugal,1,2,Brazil Independence Cup,Recife,Brazil,TRUE
+1972-10-18,Republic of Ireland,Russia,1,2,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1972-11-15,Republic of Ireland,France,2,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1973-05-13,Russia,Republic of Ireland,1,0,FIFA World Cup qualification,Moscow,Soviet Union,FALSE
+1973-05-16,Poland,Republic of Ireland,2,0,Friendly,Wrocław,Poland,FALSE
+1973-05-19,France,Republic of Ireland,1,1,FIFA World Cup qualification,Paris,France,FALSE
+1973-06-06,Norway,Republic of Ireland,1,1,Friendly,Oslo,Norway,FALSE
+1973-07-03,Republic of Ireland,Brazil,3,4,Friendly,Dublin,Republic of Ireland,FALSE
+1973-10-21,Republic of Ireland,Poland,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+1974-05-05,Brazil,Republic of Ireland,2,1,Friendly,Rio de Janeiro,Brazil,FALSE
+1974-05-08,Uruguay,Republic of Ireland,2,0,Friendly,Montevideo,Uruguay,FALSE
+1974-05-12,Chile,Republic of Ireland,1,2,Friendly,Santiago,Chile,FALSE
+1974-10-30,Republic of Ireland,Russia,3,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1974-11-20,Turkey,Republic of Ireland,1,1,UEFA Euro qualification,İzmir,Turkey,FALSE
+1975-05-10,Republic of Ireland,Switzerland,2,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1975-05-18,Russia,Republic of Ireland,2,1,UEFA Euro qualification,Kyiv,Soviet Union,FALSE
+1975-05-21,Switzerland,Republic of Ireland,1,0,UEFA Euro qualification,Bern,Switzerland,FALSE
+1975-10-29,Republic of Ireland,Turkey,4,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1976-03-24,Republic of Ireland,Norway,3,0,Friendly,Dublin,Republic of Ireland,FALSE
+1976-05-26,Poland,Republic of Ireland,0,2,Friendly,Poznań,Poland,FALSE
+1976-09-08,England,Republic of Ireland,1,1,Friendly,London,England,FALSE
+1976-10-13,Turkey,Republic of Ireland,3,3,Friendly,Ankara,Turkey,FALSE
+1976-11-17,France,Republic of Ireland,2,0,FIFA World Cup qualification,Paris,France,FALSE
+1977-02-09,Republic of Ireland,Spain,0,1,Friendly,Dublin,Republic of Ireland,FALSE
+1977-03-30,Republic of Ireland,France,1,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1977-04-24,Republic of Ireland,Poland,0,0,Friendly,Dublin,Republic of Ireland,FALSE
+1977-06-01,Bulgaria,Republic of Ireland,2,1,FIFA World Cup qualification,Sofia,Bulgaria,FALSE
+1977-10-12,Republic of Ireland,Bulgaria,0,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1978-04-05,Republic of Ireland,Turkey,4,2,Friendly,Dublin,Republic of Ireland,FALSE
+1978-04-12,Poland,Republic of Ireland,3,0,Friendly,Łódź,Poland,FALSE
+1978-05-21,Norway,Republic of Ireland,0,0,Friendly,Oslo,Norway,FALSE
+1978-05-24,Denmark,Republic of Ireland,3,3,UEFA Euro qualification,Copenhagen,Denmark,FALSE
+1978-09-20,Republic of Ireland,Northern Ireland,0,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1978-10-25,Republic of Ireland,England,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1979-05-02,Republic of Ireland,Denmark,2,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1979-05-19,Bulgaria,Republic of Ireland,1,0,UEFA Euro qualification,Sofia,Bulgaria,FALSE
+1979-05-22,Republic of Ireland,Germany,1,3,Friendly,Dublin,Republic of Ireland,FALSE
+1979-05-29,Republic of Ireland,Argentina,0,0,Friendly,Dublin,Republic of Ireland,FALSE
+1979-09-11,Wales,Republic of Ireland,2,1,Friendly,Swansea,Wales,FALSE
+1979-09-26,Czechoslovakia,Republic of Ireland,4,1,Friendly,Prague,Czechoslovakia,FALSE
+1979-10-17,Republic of Ireland,Bulgaria,3,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1979-10-29,Republic of Ireland,United States,3,2,Friendly,Dublin,Republic of Ireland,FALSE
+1979-11-21,Northern Ireland,Republic of Ireland,1,0,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
+1980-02-06,England,Republic of Ireland,2,0,UEFA Euro qualification,London,England,FALSE
+1980-03-26,Cyprus,Republic of Ireland,2,3,FIFA World Cup qualification,Nicosia,Cyprus,FALSE
+1980-04-30,Republic of Ireland,Switzerland,2,0,Friendly,Dublin,Republic of Ireland,FALSE
+1980-05-16,Republic of Ireland,Argentina,0,1,Friendly,Dublin,Republic of Ireland,FALSE
+1980-09-10,Republic of Ireland,Netherlands,2,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1980-10-15,Republic of Ireland,Belgium,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1980-10-28,France,Republic of Ireland,2,0,FIFA World Cup qualification,Paris,France,FALSE
+1980-11-19,Republic of Ireland,Cyprus,6,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1981-02-24,Republic of Ireland,Wales,1,3,Friendly,Dublin,Republic of Ireland,FALSE
+1981-03-25,Belgium,Republic of Ireland,1,0,FIFA World Cup qualification,Brussels,Belgium,FALSE
+1981-04-29,Republic of Ireland,Czechoslovakia,3,1,Friendly,Dublin,Republic of Ireland,FALSE
+1981-05-23,Poland,Republic of Ireland,3,0,Friendly,Bydgoszcz,Poland,FALSE
+1981-09-09,Netherlands,Republic of Ireland,2,2,FIFA World Cup qualification,Rotterdam,Netherlands,FALSE
+1981-10-14,Republic of Ireland,France,3,2,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1982-04-28,Algeria,Republic of Ireland,2,0,Friendly,Algiers,Algeria,FALSE
+1982-05-21,Chile,Republic of Ireland,1,0,Friendly,Santiago,Chile,FALSE
+1982-05-27,Brazil,Republic of Ireland,7,0,Friendly,Uberlândia,Brazil,FALSE
+1982-05-30,Trinidad and Tobago,Republic of Ireland,2,1,Friendly,Arima,Trinidad and Tobago,FALSE
+1982-09-22,Netherlands,Republic of Ireland,2,1,UEFA Euro qualification,Rotterdam,Netherlands,FALSE
+1982-10-13,Republic of Ireland,Iceland,2,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1982-11-17,Republic of Ireland,Spain,3,3,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1983-03-30,Malta,Republic of Ireland,0,1,UEFA Euro qualification,Attard,Malta,FALSE
+1983-04-27,Spain,Republic of Ireland,2,0,UEFA Euro qualification,Zaragoza,Spain,FALSE
+1983-09-21,Iceland,Republic of Ireland,0,3,UEFA Euro qualification,Reykjavík,Iceland,FALSE
+1983-10-12,Republic of Ireland,Netherlands,2,3,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1983-11-16,Republic of Ireland,Malta,8,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1984-04-04,Israel,Republic of Ireland,3,0,Friendly,Jaffa,Israel,FALSE
+1984-05-23,Republic of Ireland,Poland,0,0,Friendly,Dublin,Republic of Ireland,FALSE
+1984-06-03,China,Republic of Ireland,0,1,Kirin Cup,Sapporo,Japan,TRUE
+1984-08-08,Republic of Ireland,Mexico,0,0,Friendly,Dublin,Republic of Ireland,FALSE
+1984-09-12,Republic of Ireland,Russia,1,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1984-10-17,Norway,Republic of Ireland,1,0,FIFA World Cup qualification,Oslo,Norway,FALSE
+1984-11-14,Denmark,Republic of Ireland,3,0,FIFA World Cup qualification,Copenhagen,Denmark,FALSE
+1985-02-05,Republic of Ireland,Italy,1,2,Friendly,Dublin,Republic of Ireland,FALSE
+1985-02-27,Israel,Republic of Ireland,0,0,Friendly,Ramat Gan,Israel,FALSE
+1985-03-26,England,Republic of Ireland,2,1,Friendly,London,England,FALSE
+1985-05-01,Republic of Ireland,Norway,0,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1985-05-26,Republic of Ireland,Spain,0,0,Friendly,Cork,Republic of Ireland,FALSE
+1985-06-02,Republic of Ireland,Switzerland,3,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1985-09-11,Switzerland,Republic of Ireland,0,0,FIFA World Cup qualification,Bern,Switzerland,FALSE
+1985-10-16,Russia,Republic of Ireland,2,0,FIFA World Cup qualification,Moscow,Soviet Union,FALSE
+1985-11-13,Republic of Ireland,Denmark,1,4,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1986-03-26,Republic of Ireland,Wales,0,1,Friendly,Dublin,Republic of Ireland,FALSE
+1986-04-23,Republic of Ireland,Uruguay,1,1,Friendly,Dublin,Republic of Ireland,FALSE
+1986-05-25,Iceland,Republic of Ireland,1,2,Friendly,Reykjavík,Iceland,FALSE
+1986-05-27,Czechoslovakia,Republic of Ireland,0,1,Friendly,Reykjavík,Iceland,TRUE
+1986-09-10,Belgium,Republic of Ireland,2,2,UEFA Euro qualification,Brussels,Belgium,FALSE
+1986-10-15,Republic of Ireland,Scotland,0,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1986-11-12,Poland,Republic of Ireland,1,0,Friendly,Warsaw,Poland,FALSE
+1987-02-18,Scotland,Republic of Ireland,0,1,UEFA Euro qualification,Glasgow,Scotland,FALSE
+1987-04-01,Bulgaria,Republic of Ireland,2,1,UEFA Euro qualification,Sofia,Bulgaria,FALSE
+1987-04-29,Republic of Ireland,Belgium,0,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1987-05-23,Republic of Ireland,Brazil,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+1987-05-28,Luxembourg,Republic of Ireland,0,2,UEFA Euro qualification,Luxembourg,Luxembourg,FALSE
+1987-09-09,Republic of Ireland,Luxembourg,2,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1987-10-14,Republic of Ireland,Bulgaria,2,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1987-11-10,Republic of Ireland,Israel,5,0,Friendly,Dublin,Republic of Ireland,FALSE
+1988-03-23,Republic of Ireland,Romania,2,0,Friendly,Dublin,Republic of Ireland,FALSE
+1988-04-27,Republic of Ireland,Yugoslavia,2,0,Friendly,Dublin,Republic of Ireland,FALSE
+1988-05-22,Republic of Ireland,Poland,3,1,Friendly,Dublin,Republic of Ireland,FALSE
+1988-06-01,Norway,Republic of Ireland,0,0,Friendly,Oslo,Norway,FALSE
+1988-06-12,England,Republic of Ireland,0,1,UEFA Euro,Stuttgart,Germany,TRUE
+1988-06-15,Republic of Ireland,Russia,1,1,UEFA Euro,Hanover,Germany,TRUE
+1988-06-18,Republic of Ireland,Netherlands,0,1,UEFA Euro,Gelsenkirchen,Germany,TRUE
+1988-09-14,Northern Ireland,Republic of Ireland,0,0,FIFA World Cup qualification,Belfast,Northern Ireland,FALSE
+1988-10-19,Republic of Ireland,Tunisia,4,0,Friendly,Dublin,Republic of Ireland,FALSE
+1988-11-16,Spain,Republic of Ireland,2,0,FIFA World Cup qualification,Seville,Spain,FALSE
+1989-02-07,Republic of Ireland,France,0,0,Friendly,Dublin,Republic of Ireland,FALSE
+1989-03-08,Hungary,Republic of Ireland,0,0,FIFA World Cup qualification,Budapest,Hungary,FALSE
+1989-04-26,Republic of Ireland,Spain,1,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1989-05-28,Republic of Ireland,Malta,2,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1989-06-04,Republic of Ireland,Hungary,2,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1989-09-06,Republic of Ireland,Germany,1,1,Friendly,Dublin,Republic of Ireland,FALSE
+1989-10-11,Republic of Ireland,Northern Ireland,3,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1989-11-15,Malta,Republic of Ireland,0,2,FIFA World Cup qualification,Attard,Malta,FALSE
+1990-03-28,Republic of Ireland,Wales,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+1990-04-25,Republic of Ireland,Russia,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+1990-05-16,Republic of Ireland,Finland,1,1,Friendly,Dublin,Republic of Ireland,FALSE
+1990-05-26,Turkey,Republic of Ireland,0,0,Friendly,İzmir,Turkey,FALSE
+1990-06-02,Malta,Republic of Ireland,0,3,Friendly,Attard,Malta,FALSE
+1990-06-11,England,Republic of Ireland,1,1,FIFA World Cup,Cagliari,Italy,TRUE
+1990-06-17,Republic of Ireland,Egypt,0,0,FIFA World Cup,Palermo,Italy,TRUE
+1990-06-21,Republic of Ireland,Netherlands,1,1,FIFA World Cup,Palermo,Italy,TRUE
+1990-06-25,Republic of Ireland,Romania,0,0,FIFA World Cup,Genoa,Italy,TRUE
+1990-06-30,Italy,Republic of Ireland,1,0,FIFA World Cup,Rome,Italy,FALSE
+1990-09-12,Republic of Ireland,Morocco,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+1990-10-17,Republic of Ireland,Turkey,5,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1990-11-14,Republic of Ireland,England,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1991-02-06,Wales,Republic of Ireland,0,3,Friendly,Wrexham,Wales,FALSE
+1991-03-27,England,Republic of Ireland,1,1,UEFA Euro qualification,London,England,FALSE
+1991-05-01,Republic of Ireland,Poland,0,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1991-05-22,Republic of Ireland,Chile,1,1,Friendly,Dublin,Republic of Ireland,FALSE
+1991-06-01,United States,Republic of Ireland,1,1,Friendly,Foxborough,United States,FALSE
+1991-09-11,Hungary,Republic of Ireland,1,2,Friendly,Győr,Hungary,FALSE
+1991-10-16,Poland,Republic of Ireland,3,3,UEFA Euro qualification,Poznań,Poland,FALSE
+1991-11-13,Turkey,Republic of Ireland,1,3,UEFA Euro qualification,Istanbul,Turkey,FALSE
+1992-02-19,Republic of Ireland,Wales,0,1,Friendly,Dublin,Republic of Ireland,FALSE
+1992-03-25,Republic of Ireland,Switzerland,2,1,Friendly,Dublin,Republic of Ireland,FALSE
+1992-04-29,Republic of Ireland,United States,4,1,Friendly,Dublin,Republic of Ireland,FALSE
+1992-05-26,Republic of Ireland,Albania,2,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1992-05-30,United States,Republic of Ireland,3,1,USA Cup,"Washington, D.C.",United States,FALSE
+1992-06-04,Republic of Ireland,Italy,0,2,USA Cup,Foxborough,United States,TRUE
+1992-06-07,Republic of Ireland,Portugal,2,0,USA Cup,Foxborough,United States,TRUE
+1992-09-09,Republic of Ireland,Latvia,4,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1992-10-14,Denmark,Republic of Ireland,0,0,FIFA World Cup qualification,Copenhagen,Denmark,FALSE
+1992-11-18,Spain,Republic of Ireland,0,0,FIFA World Cup qualification,Seville,Spain,FALSE
+1993-02-17,Republic of Ireland,Wales,2,1,Friendly,Dublin,Republic of Ireland,FALSE
+1993-03-31,Republic of Ireland,Northern Ireland,3,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1993-04-28,Republic of Ireland,Denmark,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1993-05-26,Albania,Republic of Ireland,1,2,FIFA World Cup qualification,Tirana,Albania,FALSE
+1993-05-29,Republic of Ireland,Hungary,2,4,Friendly,Dublin,Republic of Ireland,FALSE
+1993-06-09,Latvia,Republic of Ireland,0,2,FIFA World Cup qualification,Riga,Latvia,FALSE
+1993-06-16,Lithuania,Republic of Ireland,0,1,FIFA World Cup qualification,Vilnius,Lithuania,FALSE
+1993-09-08,Republic of Ireland,Lithuania,2,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1993-10-13,Republic of Ireland,Spain,1,3,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1993-11-17,Northern Ireland,Republic of Ireland,1,1,FIFA World Cup qualification,Belfast,Northern Ireland,FALSE
+1994-03-23,Republic of Ireland,Russia,0,0,Friendly,Dublin,Republic of Ireland,FALSE
+1994-04-20,Netherlands,Republic of Ireland,0,1,Friendly,Tilburg,Netherlands,FALSE
+1994-05-24,Republic of Ireland,Bolivia,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+1994-05-29,Germany,Republic of Ireland,0,2,Friendly,Hanover,Germany,FALSE
+1994-06-05,Republic of Ireland,Czech Republic,1,3,Friendly,Dublin,Republic of Ireland,FALSE
+1994-06-18,Italy,Republic of Ireland,0,1,FIFA World Cup,East Rutherford,United States,TRUE
+1994-06-24,Mexico,Republic of Ireland,2,1,FIFA World Cup,Orlando,United States,TRUE
+1994-06-28,Republic of Ireland,Norway,0,0,FIFA World Cup,East Rutherford,United States,TRUE
+1994-07-04,Netherlands,Republic of Ireland,2,0,FIFA World Cup,Orlando,United States,TRUE
+1994-09-07,Latvia,Republic of Ireland,0,3,UEFA Euro qualification,Riga,Latvia,FALSE
+1994-10-12,Republic of Ireland,Liechtenstein,4,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1994-11-16,Northern Ireland,Republic of Ireland,0,4,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
+1995-02-15,Republic of Ireland,England,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+1995-03-29,Republic of Ireland,Northern Ireland,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1995-04-26,Republic of Ireland,Portugal,1,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1995-06-03,Liechtenstein,Republic of Ireland,0,0,UEFA Euro qualification,Eschen,Liechtenstein,FALSE
+1995-06-11,Republic of Ireland,Austria,1,3,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1995-09-06,Austria,Republic of Ireland,3,1,UEFA Euro qualification,Vienna,Austria,FALSE
+1995-10-11,Republic of Ireland,Latvia,2,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1995-11-15,Portugal,Republic of Ireland,3,0,UEFA Euro qualification,Lisbon,Portugal,FALSE
+1995-12-13,Republic of Ireland,Netherlands,0,2,UEFA Euro qualification,Liverpool,England,TRUE
+1996-03-27,Republic of Ireland,Russia,0,2,Friendly,Dublin,Republic of Ireland,FALSE
+1996-04-24,Czech Republic,Republic of Ireland,2,0,Friendly,Prague,Czech Republic,FALSE
+1996-05-29,Republic of Ireland,Portugal,0,1,Friendly,Dublin,Republic of Ireland,FALSE
+1996-06-02,Republic of Ireland,Croatia,2,2,Friendly,Dublin,Republic of Ireland,FALSE
+1996-06-04,Netherlands,Republic of Ireland,3,1,Friendly,Rotterdam,Netherlands,FALSE
+1996-06-09,United States,Republic of Ireland,2,1,USA Cup,Foxborough,United States,FALSE
+1996-06-12,Mexico,Republic of Ireland,2,2,USA Cup,East Rutherford,United States,TRUE
+1996-06-15,Bolivia,Republic of Ireland,0,3,USA Cup,East Rutherford,United States,TRUE
+1996-08-31,Liechtenstein,Republic of Ireland,0,5,FIFA World Cup qualification,Eschen,Liechtenstein,FALSE
+1996-10-09,Republic of Ireland,North Macedonia,3,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1996-11-10,Republic of Ireland,Iceland,0,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1997-02-11,Wales,Republic of Ireland,0,0,Friendly,Cardiff,Wales,FALSE
+1997-04-02,North Macedonia,Republic of Ireland,3,2,FIFA World Cup qualification,Skopje,North Macedonia,FALSE
+1997-04-30,Romania,Republic of Ireland,1,0,FIFA World Cup qualification,Bucharest,Romania,FALSE
+1997-05-21,Republic of Ireland,Liechtenstein,5,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1997-08-20,Republic of Ireland,Lithuania,0,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1997-09-06,Iceland,Republic of Ireland,2,4,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
+1997-09-10,Lithuania,Republic of Ireland,1,2,FIFA World Cup qualification,Vilnius,Lithuania,FALSE
+1997-10-11,Republic of Ireland,Romania,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1997-10-29,Republic of Ireland,Belgium,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+1997-11-15,Belgium,Republic of Ireland,2,1,FIFA World Cup qualification,Brussels,Belgium,FALSE
+1998-03-25,Czech Republic,Republic of Ireland,2,1,Friendly,Olomouc,Czech Republic,FALSE
+1998-04-22,Republic of Ireland,Argentina,0,2,Friendly,Dublin,Republic of Ireland,FALSE
+1998-05-23,Republic of Ireland,Mexico,0,0,Friendly,Dublin,Republic of Ireland,FALSE
+1998-09-05,Republic of Ireland,Croatia,2,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1998-10-14,Republic of Ireland,Malta,5,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1998-11-18,Serbia,Republic of Ireland,1,0,UEFA Euro qualification,Belgrade,FR Yugoslavia,FALSE
+1999-02-10,Republic of Ireland,Paraguay,2,0,Friendly,Dublin,Republic of Ireland,FALSE
+1999-04-28,Republic of Ireland,Sweden,2,0,Friendly,Dublin,Republic of Ireland,FALSE
+1999-05-29,Republic of Ireland,Northern Ireland,0,1,Friendly,Dublin,Republic of Ireland,FALSE
+1999-06-09,Republic of Ireland,North Macedonia,1,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1999-09-01,Republic of Ireland,Serbia,2,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1999-09-04,Croatia,Republic of Ireland,1,0,UEFA Euro qualification,Zagreb,Croatia,FALSE
+1999-09-08,Malta,Republic of Ireland,2,3,UEFA Euro qualification,Attard,Malta,FALSE
+1999-10-09,North Macedonia,Republic of Ireland,1,1,UEFA Euro qualification,Skopje,North Macedonia,FALSE
+1999-11-13,Republic of Ireland,Turkey,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1999-11-17,Turkey,Republic of Ireland,0,0,UEFA Euro qualification,Bursa,Turkey,FALSE
+2000-02-23,Republic of Ireland,Czech Republic,3,2,Friendly,Dublin,Republic of Ireland,FALSE
+2000-04-26,Republic of Ireland,Greece,0,1,Friendly,Dublin,Republic of Ireland,FALSE
+2000-05-30,Republic of Ireland,Scotland,1,2,Friendly,Dublin,Republic of Ireland,FALSE
+2000-06-04,Mexico,Republic of Ireland,2,2,USA Cup,Chicago,United States,TRUE
+2000-06-06,United States,Republic of Ireland,1,1,USA Cup,Foxborough,United States,FALSE
+2000-06-11,Republic of Ireland,South Africa,2,1,USA Cup,East Rutherford,United States,TRUE
+2000-09-02,Netherlands,Republic of Ireland,2,2,FIFA World Cup qualification,Amsterdam,Netherlands,FALSE
+2000-10-07,Portugal,Republic of Ireland,1,1,FIFA World Cup qualification,Lisbon,Portugal,FALSE
+2000-10-11,Republic of Ireland,Estonia,2,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2000-11-15,Republic of Ireland,Finland,3,0,Friendly,Dublin,Republic of Ireland,FALSE
+2001-03-24,Cyprus,Republic of Ireland,0,4,FIFA World Cup qualification,Nicosia,Cyprus,FALSE
+2001-03-28,Andorra,Republic of Ireland,0,3,FIFA World Cup qualification,Barcelona,Spain,TRUE
+2001-04-25,Republic of Ireland,Andorra,3,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2001-06-02,Republic of Ireland,Portugal,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2001-06-06,Estonia,Republic of Ireland,0,2,FIFA World Cup qualification,Tallinn,Estonia,FALSE
+2001-08-15,Republic of Ireland,Croatia,2,2,Friendly,Dublin,Republic of Ireland,FALSE
+2001-09-01,Republic of Ireland,Netherlands,1,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2001-10-06,Republic of Ireland,Cyprus,4,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2001-11-10,Republic of Ireland,Iran,2,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2001-11-15,Iran,Republic of Ireland,1,0,FIFA World Cup qualification,Tehran,Iran,FALSE
+2002-02-13,Republic of Ireland,Russia,2,0,Friendly,Dublin,Republic of Ireland,FALSE
+2002-03-27,Republic of Ireland,Denmark,3,0,Friendly,Dublin,Republic of Ireland,FALSE
+2002-04-17,Republic of Ireland,United States,2,1,Friendly,Dublin,Republic of Ireland,FALSE
+2002-05-16,Republic of Ireland,Nigeria,1,2,Friendly,Dublin,Republic of Ireland,FALSE
+2002-06-01,Republic of Ireland,Cameroon,1,1,FIFA World Cup,Niigata,Japan,TRUE
+2002-06-05,Germany,Republic of Ireland,1,1,FIFA World Cup,Kashima,Japan,TRUE
+2002-06-11,Saudi Arabia,Republic of Ireland,0,3,FIFA World Cup,Yokohama,Japan,TRUE
+2002-06-16,Spain,Republic of Ireland,1,1,FIFA World Cup,Suwon,South Korea,TRUE
+2002-08-21,Finland,Republic of Ireland,0,3,Friendly,Helsinki,Finland,FALSE
+2002-09-07,Russia,Republic of Ireland,4,2,UEFA Euro qualification,Moscow,Russia,FALSE
+2002-10-16,Republic of Ireland,Switzerland,1,2,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2002-11-20,Greece,Republic of Ireland,0,0,Friendly,Athens,Greece,FALSE
+2003-02-12,Scotland,Republic of Ireland,0,2,Friendly,Glasgow,Scotland,FALSE
+2003-03-29,Georgia,Republic of Ireland,1,2,UEFA Euro qualification,Tbilisi,Georgia,FALSE
+2003-04-02,Albania,Republic of Ireland,0,0,UEFA Euro qualification,Tirana,Albania,FALSE
+2003-04-30,Republic of Ireland,Norway,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+2003-06-07,Republic of Ireland,Albania,2,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2003-06-11,Republic of Ireland,Georgia,2,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2003-08-19,Republic of Ireland,Australia,2,1,Friendly,Dublin,Republic of Ireland,FALSE
+2003-09-06,Republic of Ireland,Russia,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2003-09-09,Republic of Ireland,Turkey,2,2,Friendly,Dublin,Republic of Ireland,FALSE
+2003-10-11,Switzerland,Republic of Ireland,2,0,UEFA Euro qualification,Basel,Switzerland,FALSE
+2003-11-18,Republic of Ireland,Canada,3,0,Friendly,Dublin,Republic of Ireland,FALSE
+2004-02-18,Republic of Ireland,Brazil,0,0,Friendly,Dublin,Republic of Ireland,FALSE
+2004-03-31,Republic of Ireland,Czech Republic,2,1,Friendly,Dublin,Republic of Ireland,FALSE
+2004-04-28,Poland,Republic of Ireland,0,0,Friendly,Bydgoszcz,Poland,FALSE
+2004-05-27,Republic of Ireland,Romania,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+2004-05-29,Republic of Ireland,Nigeria,0,3,Unity Cup,London,England,TRUE
+2004-06-02,Republic of Ireland,Jamaica,1,0,Unity Cup,London,England,TRUE
+2004-06-05,Netherlands,Republic of Ireland,0,1,Friendly,Amsterdam,Netherlands,FALSE
+2004-08-18,Republic of Ireland,Bulgaria,1,1,Friendly,Dublin,Republic of Ireland,FALSE
+2004-09-04,Republic of Ireland,Cyprus,3,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2004-09-08,Switzerland,Republic of Ireland,1,1,FIFA World Cup qualification,Basel,Switzerland,FALSE
+2004-10-09,France,Republic of Ireland,0,0,FIFA World Cup qualification,Saint-Denis,France,FALSE
+2004-10-13,Republic of Ireland,Faroe Islands,2,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2004-11-16,Republic of Ireland,Croatia,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+2005-02-09,Republic of Ireland,Portugal,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+2005-03-26,Israel,Republic of Ireland,1,1,FIFA World Cup qualification,Ramat Gan,Israel,FALSE
+2005-03-29,Republic of Ireland,China,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+2005-06-04,Republic of Ireland,Israel,2,2,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2005-06-08,Faroe Islands,Republic of Ireland,0,2,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
+2005-08-17,Republic of Ireland,Italy,1,2,Friendly,Dublin,Republic of Ireland,FALSE
+2005-09-07,Republic of Ireland,France,0,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2005-10-08,Cyprus,Republic of Ireland,0,1,FIFA World Cup qualification,Nicosia,Cyprus,FALSE
+2005-10-12,Republic of Ireland,Switzerland,0,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2006-03-01,Republic of Ireland,Sweden,3,0,Friendly,Dublin,Republic of Ireland,FALSE
+2006-05-24,Republic of Ireland,Chile,0,1,Friendly,Dublin,Republic of Ireland,FALSE
+2006-08-16,Republic of Ireland,Netherlands,0,4,Friendly,Dublin,Republic of Ireland,FALSE
+2006-09-02,Germany,Republic of Ireland,1,0,UEFA Euro qualification,Stuttgart,Germany,FALSE
+2006-10-07,Cyprus,Republic of Ireland,5,2,UEFA Euro qualification,Nicosia,Cyprus,FALSE
+2006-10-11,Republic of Ireland,Czech Republic,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2006-11-15,Republic of Ireland,San Marino,5,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2007-02-07,San Marino,Republic of Ireland,1,2,UEFA Euro qualification,Serravalle,San Marino,FALSE
+2007-03-24,Republic of Ireland,Wales,1,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2007-03-28,Republic of Ireland,Slovakia,1,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2007-05-23,Ecuador,Republic of Ireland,1,1,Friendly,East Rutherford,United States,TRUE
+2007-05-26,Bolivia,Republic of Ireland,1,1,Friendly,Foxborough,United States,TRUE
+2007-08-22,Denmark,Republic of Ireland,0,4,Friendly,Aarhus,Denmark,FALSE
+2007-09-08,Slovakia,Republic of Ireland,2,2,UEFA Euro qualification,Bratislava,Slovakia,FALSE
+2007-09-12,Czech Republic,Republic of Ireland,1,0,UEFA Euro qualification,Prague,Czech Republic,FALSE
+2007-10-13,Republic of Ireland,Germany,0,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2007-10-17,Republic of Ireland,Cyprus,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2007-11-17,Wales,Republic of Ireland,2,2,UEFA Euro qualification,Cardiff,Wales,FALSE
+2008-02-06,Republic of Ireland,Brazil,0,1,Friendly,Dublin,Republic of Ireland,FALSE
+2008-05-24,Republic of Ireland,Serbia,1,1,Friendly,Dublin,Republic of Ireland,FALSE
+2008-05-29,Republic of Ireland,Colombia,1,0,Friendly,London,England,TRUE
+2008-08-20,Norway,Republic of Ireland,1,1,Friendly,Oslo,Norway,FALSE
+2008-09-06,Georgia,Republic of Ireland,1,2,FIFA World Cup qualification,Mainz,Germany,TRUE
+2008-09-10,Montenegro,Republic of Ireland,0,0,FIFA World Cup qualification,Podgorica,Montenegro,FALSE
+2008-10-15,Republic of Ireland,Cyprus,1,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2008-11-19,Republic of Ireland,Poland,2,3,Friendly,Dublin,Republic of Ireland,FALSE
+2009-02-11,Republic of Ireland,Georgia,2,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2009-03-28,Republic of Ireland,Bulgaria,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2009-04-01,Italy,Republic of Ireland,1,1,FIFA World Cup qualification,Bari,Italy,FALSE
+2009-05-29,Republic of Ireland,Nigeria,1,1,Friendly,London,England,TRUE
+2009-06-06,Bulgaria,Republic of Ireland,1,1,FIFA World Cup qualification,Sofia,Bulgaria,FALSE
+2009-08-12,Republic of Ireland,Australia,0,3,Friendly,Limerick,Republic of Ireland,FALSE
+2009-09-05,Cyprus,Republic of Ireland,1,2,FIFA World Cup qualification,Nicosia,Cyprus,FALSE
+2009-09-08,Republic of Ireland,South Africa,1,0,Friendly,Limerick,Republic of Ireland,FALSE
+2009-10-10,Republic of Ireland,Italy,2,2,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2009-10-14,Republic of Ireland,Montenegro,0,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2009-11-14,Republic of Ireland,France,0,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2009-11-18,France,Republic of Ireland,1,1,FIFA World Cup qualification,Saint-Denis,France,FALSE
+2010-03-02,Republic of Ireland,Brazil,0,2,Friendly,London,England,TRUE
+2010-05-25,Republic of Ireland,Paraguay,2,1,Friendly,Dublin,Republic of Ireland,FALSE
+2010-05-28,Republic of Ireland,Algeria,3,0,Friendly,Dublin,Republic of Ireland,FALSE
+2010-08-11,Republic of Ireland,Argentina,0,1,Friendly,Dublin,Republic of Ireland,FALSE
+2010-09-03,Armenia,Republic of Ireland,0,1,UEFA Euro qualification,Yerevan,Armenia,FALSE
+2010-09-07,Republic of Ireland,Andorra,3,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2010-10-08,Republic of Ireland,Russia,2,3,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2010-10-12,Slovakia,Republic of Ireland,1,1,UEFA Euro qualification,Žilina,Slovakia,FALSE
+2010-11-17,Republic of Ireland,Norway,1,2,Friendly,Dublin,Republic of Ireland,FALSE
+2011-02-08,Republic of Ireland,Wales,3,0,Nations Cup,Dublin,Republic of Ireland,FALSE
+2011-03-26,Republic of Ireland,North Macedonia,2,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2011-03-29,Republic of Ireland,Uruguay,2,3,Friendly,Dublin,Republic of Ireland,FALSE
+2011-05-24,Republic of Ireland,Northern Ireland,5,0,Nations Cup,Dublin,Republic of Ireland,FALSE
+2011-05-29,Republic of Ireland,Scotland,1,0,Nations Cup,Dublin,Republic of Ireland,FALSE
+2011-06-04,North Macedonia,Republic of Ireland,0,2,UEFA Euro qualification,Skopje,North Macedonia,FALSE
+2011-06-07,Italy,Republic of Ireland,0,2,Friendly,Liège,Belgium,TRUE
+2011-08-10,Republic of Ireland,Croatia,0,0,Friendly,Dublin,Republic of Ireland,FALSE
+2011-09-02,Republic of Ireland,Slovakia,0,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2011-09-06,Russia,Republic of Ireland,0,0,UEFA Euro qualification,Moscow,Russia,FALSE
+2011-10-07,Andorra,Republic of Ireland,0,2,UEFA Euro qualification,Sant Julià de Lòria,Andorra,FALSE
+2011-10-11,Republic of Ireland,Armenia,2,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2011-11-11,Estonia,Republic of Ireland,0,4,UEFA Euro qualification,Tallinn,Estonia,FALSE
+2011-11-15,Republic of Ireland,Estonia,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2012-02-29,Republic of Ireland,Czech Republic,1,1,Friendly,Dublin,Republic of Ireland,FALSE
+2012-05-26,Republic of Ireland,Bosnia and Herzegovina,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+2012-06-04,Hungary,Republic of Ireland,0,0,Friendly,Budapest,Hungary,FALSE
+2012-06-10,Republic of Ireland,Croatia,1,3,UEFA Euro,Poznań,Poland,TRUE
+2012-06-14,Spain,Republic of Ireland,4,0,UEFA Euro,Gdańsk,Poland,TRUE
+2012-06-18,Italy,Republic of Ireland,2,0,UEFA Euro,Poznań,Poland,TRUE
+2012-08-15,Serbia,Republic of Ireland,0,0,Friendly,Belgrade,Serbia,FALSE
+2012-09-07,Kazakhstan,Republic of Ireland,1,2,FIFA World Cup qualification,Astana,Kazakhstan,FALSE
+2012-09-11,Republic of Ireland,Oman,4,1,Friendly,London,England,TRUE
+2012-10-12,Republic of Ireland,Germany,1,6,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2012-10-16,Faroe Islands,Republic of Ireland,1,4,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
+2012-11-14,Republic of Ireland,Greece,0,1,Friendly,Dublin,Republic of Ireland,FALSE
+2013-02-06,Republic of Ireland,Poland,2,0,Friendly,Dublin,Republic of Ireland,FALSE
+2013-03-22,Sweden,Republic of Ireland,0,0,FIFA World Cup qualification,Solna,Sweden,FALSE
+2013-03-26,Republic of Ireland,Austria,2,2,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2013-05-29,England,Republic of Ireland,1,1,Friendly,London,England,FALSE
+2013-06-02,Republic of Ireland,Georgia,4,0,Friendly,Dublin,Republic of Ireland,FALSE
+2013-06-07,Republic of Ireland,Faroe Islands,3,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2013-06-11,Spain,Republic of Ireland,2,0,Friendly,New York,United States,TRUE
+2013-08-14,Wales,Republic of Ireland,0,0,Friendly,Cardiff,Wales,FALSE
+2013-09-06,Republic of Ireland,Sweden,1,2,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2013-09-10,Austria,Republic of Ireland,1,0,FIFA World Cup qualification,Vienna,Austria,FALSE
+2013-10-11,Germany,Republic of Ireland,3,0,FIFA World Cup qualification,Cologne,Germany,FALSE
+2013-10-15,Republic of Ireland,Kazakhstan,3,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2013-11-15,Republic of Ireland,Latvia,3,0,Friendly,Dublin,Republic of Ireland,FALSE
+2013-11-19,Poland,Republic of Ireland,0,0,Friendly,Poznań,Poland,FALSE
+2014-03-05,Republic of Ireland,Serbia,1,2,Friendly,Dublin,Republic of Ireland,FALSE
+2014-05-25,Republic of Ireland,Turkey,1,2,Friendly,Dublin,Republic of Ireland,FALSE
+2014-05-31,Italy,Republic of Ireland,0,0,Friendly,London,England,TRUE
+2014-06-06,Costa Rica,Republic of Ireland,1,1,Friendly,Chester,United States,TRUE
+2014-06-10,Republic of Ireland,Portugal,1,5,Friendly,East Rutherford,United States,TRUE
+2014-09-03,Republic of Ireland,Oman,2,0,Friendly,Dublin,Republic of Ireland,FALSE
+2014-09-07,Georgia,Republic of Ireland,1,2,UEFA Euro qualification,Tbilisi,Georgia,FALSE
+2014-10-11,Republic of Ireland,Gibraltar,7,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2014-10-14,Germany,Republic of Ireland,1,1,UEFA Euro qualification,Gelsenkirchen,Germany,FALSE
+2014-11-14,Scotland,Republic of Ireland,1,0,UEFA Euro qualification,Glasgow,Scotland,FALSE
+2014-11-18,Republic of Ireland,United States,4,1,Friendly,Dublin,Republic of Ireland,FALSE
+2015-03-29,Republic of Ireland,Poland,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2015-06-07,Republic of Ireland,England,0,0,Friendly,Dublin,Republic of Ireland,FALSE
+2015-06-13,Republic of Ireland,Scotland,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2015-09-04,Gibraltar,Republic of Ireland,0,4,UEFA Euro qualification,Faro,Portugal,TRUE
+2015-09-07,Republic of Ireland,Georgia,1,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2015-10-08,Republic of Ireland,Germany,1,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2015-10-11,Poland,Republic of Ireland,2,1,UEFA Euro qualification,Warsaw,Poland,FALSE
+2015-11-13,Bosnia and Herzegovina,Republic of Ireland,1,1,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
+2015-11-16,Republic of Ireland,Bosnia and Herzegovina,2,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2016-03-25,Republic of Ireland,Switzerland,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+2016-03-29,Republic of Ireland,Slovakia,2,2,Friendly,Dublin,Republic of Ireland,FALSE
+2016-05-27,Republic of Ireland,Netherlands,1,1,Friendly,Dublin,Republic of Ireland,FALSE
+2016-05-31,Republic of Ireland,Belarus,1,2,Friendly,Cork,Republic of Ireland,FALSE
+2016-06-13,Republic of Ireland,Sweden,1,1,UEFA Euro,Saint-Denis,France,TRUE
+2016-06-18,Belgium,Republic of Ireland,3,0,UEFA Euro,Bordeaux,France,TRUE
+2016-06-22,Italy,Republic of Ireland,0,1,UEFA Euro,Villeneuve-d'Ascq,France,TRUE
+2016-06-26,France,Republic of Ireland,2,1,UEFA Euro,Lyon,France,FALSE
+2016-08-31,Republic of Ireland,Oman,4,0,Friendly,Dublin,Republic of Ireland,FALSE
+2016-09-05,Serbia,Republic of Ireland,2,2,FIFA World Cup qualification,Belgrade,Serbia,FALSE
+2016-10-06,Republic of Ireland,Georgia,1,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2016-10-09,Moldova,Republic of Ireland,1,3,FIFA World Cup qualification,Chișinău,Moldova,FALSE
+2016-11-12,Austria,Republic of Ireland,0,1,FIFA World Cup qualification,Vienna,Austria,FALSE
+2017-03-24,Republic of Ireland,Wales,0,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2017-03-28,Republic of Ireland,Iceland,0,1,Friendly,Dublin,Republic of Ireland,FALSE
+2017-06-01,Mexico,Republic of Ireland,3,1,Friendly,East Rutherford,United States,TRUE
+2017-06-04,Republic of Ireland,Uruguay,3,1,Friendly,Dublin,Republic of Ireland,FALSE
+2017-06-11,Republic of Ireland,Austria,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2017-09-02,Georgia,Republic of Ireland,1,1,FIFA World Cup qualification,Tbilisi,Georgia,FALSE
+2017-09-05,Republic of Ireland,Serbia,0,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2017-10-06,Republic of Ireland,Moldova,2,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2017-10-09,Wales,Republic of Ireland,0,1,FIFA World Cup qualification,Cardiff,Wales,FALSE
+2017-11-11,Denmark,Republic of Ireland,0,0,FIFA World Cup qualification,Copenhagen,Denmark,FALSE
+2017-11-14,Republic of Ireland,Denmark,1,5,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2018-03-23,Turkey,Republic of Ireland,1,0,Friendly,Antalya,Turkey,FALSE
+2018-05-28,France,Republic of Ireland,2,0,Friendly,Saint-Denis,France,FALSE
+2018-06-02,Republic of Ireland,United States,2,1,Friendly,Dublin,Republic of Ireland,FALSE
+2018-09-06,Wales,Republic of Ireland,4,1,UEFA Nations League,Cardiff,Wales,FALSE
+2018-09-11,Poland,Republic of Ireland,1,1,Friendly,Wrocław,Poland,FALSE
+2018-10-13,Republic of Ireland,Denmark,0,0,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2018-10-16,Republic of Ireland,Wales,0,1,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2018-11-15,Republic of Ireland,Northern Ireland,0,0,Friendly,Dublin,Republic of Ireland,FALSE
+2018-11-19,Denmark,Republic of Ireland,0,0,UEFA Nations League,Aarhus,Denmark,FALSE
+2019-03-23,Gibraltar,Republic of Ireland,0,1,UEFA Euro qualification,Gibraltar,Gibraltar,FALSE
+2019-03-26,Republic of Ireland,Georgia,1,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2019-06-07,Denmark,Republic of Ireland,1,1,UEFA Euro qualification,Copenhagen,Denmark,FALSE
+2019-06-10,Republic of Ireland,Gibraltar,2,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2019-09-05,Republic of Ireland,Switzerland,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2019-09-10,Republic of Ireland,Bulgaria,3,1,Friendly,Dublin,Republic of Ireland,FALSE
+2019-10-12,Georgia,Republic of Ireland,0,0,UEFA Euro qualification,Tbilisi,Georgia,FALSE
+2019-10-15,Switzerland,Republic of Ireland,2,0,UEFA Euro qualification,Geneva,Switzerland,FALSE
+2019-11-14,Republic of Ireland,New Zealand,3,1,Friendly,Dublin,Republic of Ireland,FALSE
+2019-11-18,Republic of Ireland,Denmark,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2020-09-03,Bulgaria,Republic of Ireland,1,1,UEFA Nations League,Sofia,Bulgaria,FALSE
+2020-09-06,Republic of Ireland,Finland,0,1,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2020-10-08,Slovakia,Republic of Ireland,0,0,UEFA Euro qualification,Bratislava,Slovakia,FALSE
+2020-10-11,Republic of Ireland,Wales,0,0,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2020-10-14,Finland,Republic of Ireland,1,0,UEFA Nations League,Helsinki,Finland,FALSE
+2020-11-12,England,Republic of Ireland,3,0,Friendly,London,England,FALSE
+2020-11-15,Wales,Republic of Ireland,1,0,UEFA Nations League,Cardiff,Wales,FALSE
+2020-11-18,Republic of Ireland,Bulgaria,0,0,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2021-03-24,Serbia,Republic of Ireland,3,2,FIFA World Cup qualification,Belgrade,Serbia,FALSE
+2021-03-27,Republic of Ireland,Luxembourg,0,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2021-03-30,Republic of Ireland,Qatar,1,1,Friendly,Debrecen,Hungary,TRUE
+2021-06-03,Andorra,Republic of Ireland,1,4,Friendly,Andorra la Vella,Andorra,FALSE
+2021-06-08,Hungary,Republic of Ireland,0,0,Friendly,Budapest,Hungary,FALSE
+2021-09-01,Portugal,Republic of Ireland,2,1,FIFA World Cup qualification,Faro-Loulé,Portugal,FALSE
+2021-09-04,Republic of Ireland,Azerbaijan,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2021-09-07,Republic of Ireland,Serbia,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2021-10-09,Azerbaijan,Republic of Ireland,0,3,FIFA World Cup qualification,Baku,Azerbaijan,FALSE
+2021-10-12,Republic of Ireland,Qatar,4,0,Friendly,Dublin,Republic of Ireland,FALSE
+2021-11-11,Republic of Ireland,Portugal,0,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2021-11-14,Luxembourg,Republic of Ireland,0,3,FIFA World Cup qualification,Luxembourg,Luxembourg,FALSE
+2022-03-26,Republic of Ireland,Belgium,2,2,Friendly,Dublin,Republic of Ireland,FALSE
+2022-03-29,Republic of Ireland,Lithuania,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+2022-06-04,Armenia,Republic of Ireland,1,0,UEFA Nations League,Yerevan,Armenia,FALSE
+2022-06-08,Republic of Ireland,Ukraine,0,1,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2022-06-11,Republic of Ireland,Scotland,3,0,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2022-06-14,Ukraine,Republic of Ireland,1,1,UEFA Nations League,Łódź,Poland,TRUE
+2022-09-24,Scotland,Republic of Ireland,2,1,UEFA Nations League,Glasgow,Scotland,FALSE
+2022-09-27,Republic of Ireland,Armenia,3,2,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2022-11-17,Republic of Ireland,Norway,1,2,Friendly,Dublin,Republic of Ireland,FALSE
+2022-11-20,Malta,Republic of Ireland,0,1,Friendly,Ta' Qali,Malta,FALSE
+2023-03-22,Republic of Ireland,Latvia,3,2,Friendly,Dublin,Republic of Ireland,FALSE
+2023-03-27,Republic of Ireland,France,0,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2023-06-16,Greece,Republic of Ireland,2,1,UEFA Euro qualification,Athens,Greece,FALSE
+2023-06-19,Republic of Ireland,Gibraltar,3,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2023-09-07,France,Republic of Ireland,2,0,UEFA Euro qualification,Paris,France,FALSE
+2023-09-10,Republic of Ireland,Netherlands,1,2,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2023-10-13,Republic of Ireland,Greece,0,2,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2023-10-16,Gibraltar,Republic of Ireland,0,4,UEFA Euro qualification,Faro-Loulé,Portugal,TRUE
+2023-11-18,Netherlands,Republic of Ireland,1,0,UEFA Euro qualification,Amsterdam,Netherlands,FALSE
+2023-11-21,Republic of Ireland,New Zealand,1,1,Friendly,Dublin,Republic of Ireland,FALSE
+2024-03-23,Republic of Ireland,Belgium,0,0,Friendly,Dublin,Republic of Ireland,FALSE
+2024-03-26,Republic of Ireland,Switzerland,0,1,Friendly,Dublin,Republic of Ireland,FALSE
+2024-06-04,Republic of Ireland,Hungary,2,1,Friendly,Dublin,Republic of Ireland,FALSE
+2024-06-11,Portugal,Republic of Ireland,3,0,Friendly,Aveiro,Portugal,FALSE
+2024-09-07,Republic of Ireland,England,0,2,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2024-09-10,Republic of Ireland,Greece,0,2,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2024-10-10,Finland,Republic of Ireland,1,2,UEFA Nations League,Helsinki,Finland,FALSE
+2024-10-13,Greece,Republic of Ireland,2,0,UEFA Nations League,Piraeus,Greece,FALSE
+2024-11-14,Republic of Ireland,Finland,1,0,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2024-11-17,England,Republic of Ireland,5,0,UEFA Nations League,London,England,FALSE
+2025-03-20,Bulgaria,Republic of Ireland,1,2,UEFA Nations League,Plovdiv,Bulgaria,FALSE
+2025-03-23,Republic of Ireland,Bulgaria,2,1,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2025-06-06,Republic of Ireland,Senegal,1,1,Friendly,Dublin,Republic of Ireland,FALSE
+2025-06-10,Luxembourg,Republic of Ireland,0,0,Friendly,Luxembourg,Luxembourg,FALSE
+2025-09-06,Republic of Ireland,Hungary,2,2,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2025-09-09,Armenia,Republic of Ireland,2,1,FIFA World Cup qualification,Yerevan,Armenia,FALSE
+2025-10-11,Portugal,Republic of Ireland,1,0,FIFA World Cup qualification,Lisbon,Portugal,FALSE
+2025-10-14,Republic of Ireland,Armenia,1,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2025-11-13,Republic of Ireland,Portugal,2,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2025-11-16,Hungary,Republic of Ireland,2,3,FIFA World Cup qualification,Budapest,Hungary,FALSE
+2026-03-26,Czech Republic,Republic of Ireland,2,2,FIFA World Cup qualification,Prague,Czech Republic,FALSE
+2026-03-31,Republic of Ireland,North Macedonia,0,0,Friendly,Dublin,Republic of Ireland,FALSE
+2026-05-16,Republic of Ireland,Grenada,5,0,Friendly,Murcia,Spain,TRUE
+2026-05-28,Republic of Ireland,Qatar,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+2026-06-05,Canada,Republic of Ireland,1,1,Friendly,Montreal,Canada,FALSE
+2026-09-24,Kosovo,Republic of Ireland,1,0,UEFA Nations League,Pristina,Kosovo,FALSE
+2026-09-27,Israel,Republic of Ireland,0,3,UEFA Nations League,Debrecen,Hungary,TRUE
+2026-10-01,Republic of Ireland,Austria,2,2,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2026-10-04,Republic of Ireland,Israel,1,1,UEFA Nations League,Bačka Topola,Serbia,TRUE

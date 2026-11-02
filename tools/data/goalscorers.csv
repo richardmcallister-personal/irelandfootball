@@ -1,0 +1,852 @@
+date,home_team,away_team,team,scorer,minute,own_goal,penalty,assist
+1924-05-28,Republic of Ireland,Bulgaria,Republic of Ireland,Paddy Duncan,75,FALSE,FALSE,NA
+1924-06-02,Netherlands,Republic of Ireland,Netherlands,Ok Formenoy,7,FALSE,FALSE,NA
+1924-06-02,Netherlands,Republic of Ireland,Republic of Ireland,Frank Ghent,33,FALSE,FALSE,NA
+1924-06-02,Netherlands,Republic of Ireland,Netherlands,Ok Formenoy,104,FALSE,FALSE,NA
+1934-02-25,Republic of Ireland,Belgium,Belgium,Jean Capelle,15,FALSE,FALSE,NA
+1934-02-25,Republic of Ireland,Belgium,Republic of Ireland,Paddy Moore,27,FALSE,FALSE,NA
+1934-02-25,Republic of Ireland,Belgium,Belgium,Stan Vanden Eynde,30,FALSE,FALSE,NA
+1934-02-25,Republic of Ireland,Belgium,Belgium,François Vanden Eynde,47,FALSE,FALSE,NA
+1934-02-25,Republic of Ireland,Belgium,Republic of Ireland,Paddy Moore,48,FALSE,FALSE,NA
+1934-02-25,Republic of Ireland,Belgium,Republic of Ireland,Paddy Moore,56,FALSE,FALSE,NA
+1934-02-25,Republic of Ireland,Belgium,Belgium,François Vanden Eynde,60,FALSE,FALSE,NA
+1934-02-25,Republic of Ireland,Belgium,Republic of Ireland,Paddy Moore,75,FALSE,FALSE,NA
+1934-04-08,Netherlands,Republic of Ireland,Netherlands,Kick Smit,41,FALSE,FALSE,NA
+1934-04-08,Netherlands,Republic of Ireland,Republic of Ireland,Johnny Squires,44,FALSE,FALSE,NA
+1934-04-08,Netherlands,Republic of Ireland,Republic of Ireland,Paddy Moore,57,FALSE,FALSE,NA
+1934-04-08,Netherlands,Republic of Ireland,Netherlands,Bep Bakhuys,67,FALSE,FALSE,NA
+1934-04-08,Netherlands,Republic of Ireland,Netherlands,Bep Bakhuys,78,FALSE,FALSE,NA
+1934-04-08,Netherlands,Republic of Ireland,Netherlands,Leen Vente,83,FALSE,FALSE,NA
+1934-04-08,Netherlands,Republic of Ireland,Netherlands,Kick Smit,85,FALSE,FALSE,NA
+1937-10-10,Norway,Republic of Ireland,Norway,Reidar Kvammen,30,FALSE,FALSE,NA
+1937-10-10,Norway,Republic of Ireland,Republic of Ireland,Matty Geoghegan,37,FALSE,FALSE,NA
+1937-10-10,Norway,Republic of Ireland,Republic of Ireland,Jimmy Dunne,49,FALSE,FALSE,NA
+1937-10-10,Norway,Republic of Ireland,Norway,Reidar Kvammen,64,FALSE,FALSE,NA
+1937-10-10,Norway,Republic of Ireland,Norway,Alf Martinsen,78,FALSE,FALSE,NA
+1937-11-07,Republic of Ireland,Norway,Republic of Ireland,Jimmy Dunne,10,FALSE,FALSE,NA
+1937-11-07,Republic of Ireland,Norway,Norway,Reidar Kvammen,16,FALSE,FALSE,NA
+1937-11-07,Republic of Ireland,Norway,Norway,Reidar Kvammen,33,FALSE,FALSE,NA
+1937-11-07,Republic of Ireland,Norway,Norway,Alf Martinsen,49,FALSE,FALSE,NA
+1937-11-07,Republic of Ireland,Norway,Republic of Ireland,Kevin O'Flanagan,62,FALSE,FALSE,NA
+1937-11-07,Republic of Ireland,Norway,Republic of Ireland,Harry Duggan,88,FALSE,FALSE,NA
+1949-06-02,Sweden,Republic of Ireland,Republic of Ireland,Davy Walsh,9,FALSE,FALSE,NA
+1949-06-02,Sweden,Republic of Ireland,Sweden,Sune Andersson,17,FALSE,TRUE,NA
+1949-06-02,Sweden,Republic of Ireland,Sweden,Hasse Jeppson,37,FALSE,FALSE,NA
+1949-06-02,Sweden,Republic of Ireland,Sweden,Nils Liedholm,69,FALSE,FALSE,NA
+1949-09-08,Republic of Ireland,Finland,Republic of Ireland,Johnny Gavin,35,FALSE,FALSE,NA
+1949-09-08,Republic of Ireland,Finland,Republic of Ireland,Con Martin,44,FALSE,TRUE,NA
+1949-09-08,Republic of Ireland,Finland,Republic of Ireland,Con Martin,68,FALSE,FALSE,NA
+1949-10-09,Finland,Republic of Ireland,Republic of Ireland,Peter Farrell,65,FALSE,FALSE,NA
+1949-10-09,Finland,Republic of Ireland,Finland,Jorma Vaihela,89,FALSE,FALSE,NA
+1949-11-13,Republic of Ireland,Sweden,Sweden,Karl-Erik Palmér,4,FALSE,FALSE,NA
+1949-11-13,Republic of Ireland,Sweden,Sweden,Karl-Erik Palmér,40,FALSE,FALSE,NA
+1949-11-13,Republic of Ireland,Sweden,Republic of Ireland,Con Martin,61,FALSE,TRUE,NA
+1949-11-13,Republic of Ireland,Sweden,Sweden,Karl-Erik Palmér,68,FALSE,FALSE,NA
+1953-10-04,Republic of Ireland,France,France,Léon Glovacki,23,FALSE,FALSE,NA
+1953-10-04,Republic of Ireland,France,France,Armand Penverne,40,FALSE,FALSE,NA
+1953-10-04,Republic of Ireland,France,France,Joseph Ujlaki,50,FALSE,FALSE,NA
+1953-10-04,Republic of Ireland,France,Republic of Ireland,Reg Ryan,58,FALSE,TRUE,NA
+1953-10-04,Republic of Ireland,France,France,Joseph Ujlaki,69,FALSE,FALSE,NA
+1953-10-04,Republic of Ireland,France,France,Pierre Flamion,72,FALSE,FALSE,NA
+1953-10-04,Republic of Ireland,France,Republic of Ireland,Davy Walsh,83,FALSE,FALSE,NA
+1953-10-04,Republic of Ireland,France,Republic of Ireland,Frank O'Farrell,88,FALSE,FALSE,NA
+1953-10-28,Republic of Ireland,Luxembourg,Republic of Ireland,Arthur Fitzsimons,14,FALSE,FALSE,NA
+1953-10-28,Republic of Ireland,Luxembourg,Republic of Ireland,Reg Ryan,48,FALSE,TRUE,NA
+1953-10-28,Republic of Ireland,Luxembourg,Republic of Ireland,Tommy Eglington,59,FALSE,FALSE,NA
+1953-10-28,Republic of Ireland,Luxembourg,Republic of Ireland,Arthur Fitzsimons,83,FALSE,FALSE,NA
+1953-11-25,France,Republic of Ireland,France,Roger Piantoni,73,FALSE,FALSE,NA
+1954-03-07,Luxembourg,Republic of Ireland,Republic of Ireland,George Cummins,67,FALSE,FALSE,NA
+1956-10-03,Republic of Ireland,Denmark,Republic of Ireland,Dermot Curtis,27,FALSE,FALSE,NA
+1956-10-03,Republic of Ireland,Denmark,Republic of Ireland,Johnny Gavin,45,FALSE,TRUE,NA
+1956-10-03,Republic of Ireland,Denmark,Denmark,Aage Rou Jensen,85,FALSE,FALSE,NA
+1957-05-08,England,Republic of Ireland,England,Tommy Taylor,10,FALSE,FALSE,NA
+1957-05-08,England,Republic of Ireland,England,Tommy Taylor,19,FALSE,FALSE,NA
+1957-05-08,England,Republic of Ireland,England,John Atyeo,38,FALSE,FALSE,NA
+1957-05-08,England,Republic of Ireland,England,Tommy Taylor,40,FALSE,FALSE,NA
+1957-05-08,England,Republic of Ireland,Republic of Ireland,Dermot Curtis,56,FALSE,FALSE,NA
+1957-05-08,England,Republic of Ireland,England,John Atyeo,90,FALSE,FALSE,NA
+1957-05-19,Republic of Ireland,England,Republic of Ireland,Alf Ringstead,3,FALSE,FALSE,NA
+1957-05-19,Republic of Ireland,England,England,John Atyeo,90,FALSE,FALSE,NA
+1957-10-02,Denmark,Republic of Ireland,Republic of Ireland,George Cummins,53,FALSE,FALSE,NA
+1957-10-02,Denmark,Republic of Ireland,Republic of Ireland,Dermot Curtis,61,FALSE,FALSE,NA
+1959-04-05,Republic of Ireland,Czechoslovakia,Republic of Ireland,Liam Tuohy,22,FALSE,FALSE,NA
+1959-04-05,Republic of Ireland,Czechoslovakia,Republic of Ireland,Noel Cantwell,42,FALSE,TRUE,NA
+1959-05-10,Czechoslovakia,Republic of Ireland,Czechoslovakia,Imrich Stacho,4,FALSE,TRUE,NA
+1959-05-10,Czechoslovakia,Republic of Ireland,Czechoslovakia,Titus Buberník,57,FALSE,FALSE,NA
+1959-05-10,Czechoslovakia,Republic of Ireland,Czechoslovakia,Ladislav Pavlovič,66,FALSE,FALSE,NA
+1959-05-10,Czechoslovakia,Republic of Ireland,Czechoslovakia,Milan Dolinský,75,FALSE,FALSE,NA
+1961-05-03,Scotland,Republic of Ireland,Scotland,Ralph Brand,14,FALSE,FALSE,NA
+1961-05-03,Scotland,Republic of Ireland,Scotland,Ralph Brand,40,FALSE,FALSE,NA
+1961-05-03,Scotland,Republic of Ireland,Republic of Ireland,Joe Haverty,52,FALSE,FALSE,NA
+1961-05-03,Scotland,Republic of Ireland,Scotland,David Herd,59,FALSE,FALSE,NA
+1961-05-03,Scotland,Republic of Ireland,Scotland,David Herd,85,FALSE,FALSE,NA
+1961-05-07,Republic of Ireland,Scotland,Scotland,Alex Young,4,FALSE,FALSE,NA
+1961-05-07,Republic of Ireland,Scotland,Scotland,Alex Young,16,FALSE,FALSE,NA
+1961-05-07,Republic of Ireland,Scotland,Scotland,Ralph Brand,86,FALSE,FALSE,NA
+1961-10-08,Republic of Ireland,Czechoslovakia,Czechoslovakia,Adolf Scherer,2,FALSE,FALSE,NA
+1961-10-08,Republic of Ireland,Czechoslovakia,Republic of Ireland,Johnny Giles,41,FALSE,FALSE,NA
+1961-10-08,Republic of Ireland,Czechoslovakia,Czechoslovakia,Andrej Kvašňák,61,FALSE,FALSE,NA
+1961-10-08,Republic of Ireland,Czechoslovakia,Czechoslovakia,Andrej Kvašňák,69,FALSE,FALSE,NA
+1961-10-29,Czechoslovakia,Republic of Ireland,Czechoslovakia,Andrej Kvašňák,9,FALSE,FALSE,NA
+1961-10-29,Czechoslovakia,Republic of Ireland,Czechoslovakia,Adolf Scherer,24,FALSE,FALSE,NA
+1961-10-29,Czechoslovakia,Republic of Ireland,Czechoslovakia,Josef Jelínek,31,FALSE,FALSE,NA
+1961-10-29,Czechoslovakia,Republic of Ireland,Czechoslovakia,Andrej Kvašňák,37,FALSE,FALSE,NA
+1961-10-29,Czechoslovakia,Republic of Ireland,Republic of Ireland,Amby Fogarty,57,FALSE,FALSE,NA
+1961-10-29,Czechoslovakia,Republic of Ireland,Czechoslovakia,Tomáš Pospíchal,58,FALSE,FALSE,NA
+1961-10-29,Czechoslovakia,Republic of Ireland,Czechoslovakia,Josef Masopust,62,FALSE,FALSE,NA
+1961-10-29,Czechoslovakia,Republic of Ireland,Czechoslovakia,Adolf Scherer,75,FALSE,FALSE,NA
+1962-08-12,Republic of Ireland,Iceland,Republic of Ireland,Liam Tuohy,11,FALSE,FALSE,NA
+1962-08-12,Republic of Ireland,Iceland,Iceland,Ríkharður Jónsson,37,FALSE,FALSE,NA
+1962-08-12,Republic of Ireland,Iceland,Republic of Ireland,Amby Fogarty,41,FALSE,FALSE,NA
+1962-08-12,Republic of Ireland,Iceland,Republic of Ireland,Noel Cantwell,65,FALSE,FALSE,NA
+1962-08-12,Republic of Ireland,Iceland,Republic of Ireland,Noel Cantwell,76,FALSE,FALSE,NA
+1962-08-12,Republic of Ireland,Iceland,Iceland,Ríkharður Jónsson,86,FALSE,FALSE,NA
+1962-09-02,Iceland,Republic of Ireland,Republic of Ireland,Liam Tuohy,38,FALSE,FALSE,NA
+1962-09-02,Iceland,Republic of Ireland,Iceland,Garðar Árnason,59,FALSE,FALSE,NA
+1963-10-13,Republic of Ireland,Austria,Austria,Walter Koleznik,38,FALSE,FALSE,NA
+1963-10-13,Republic of Ireland,Austria,Republic of Ireland,Noel Cantwell,45,FALSE,FALSE,NA
+1963-10-13,Republic of Ireland,Austria,Republic of Ireland,Amby Fogarty,66,FALSE,FALSE,NA
+1963-10-13,Republic of Ireland,Austria,Austria,Rudi Flögel,85,FALSE,FALSE,NA
+1963-10-13,Republic of Ireland,Austria,Republic of Ireland,Noel Cantwell,89,FALSE,TRUE,NA
+1964-03-11,Spain,Republic of Ireland,Spain,Amancio Amaro,12,FALSE,FALSE,NA
+1964-03-11,Spain,Republic of Ireland,Spain,Josep Maria Fusté,15,FALSE,FALSE,NA
+1964-03-11,Spain,Republic of Ireland,Republic of Ireland,Andy McEvoy,22,FALSE,FALSE,NA
+1964-03-11,Spain,Republic of Ireland,Spain,Amancio Amaro,29,FALSE,FALSE,NA
+1964-03-11,Spain,Republic of Ireland,Spain,Marcelino Martínez,33,FALSE,FALSE,NA
+1964-03-11,Spain,Republic of Ireland,Spain,Marcelino Martínez,89,FALSE,FALSE,NA
+1964-04-08,Republic of Ireland,Spain,Spain,Pedro Zaballa,25,FALSE,FALSE,NA
+1964-04-08,Republic of Ireland,Spain,Spain,Pedro Zaballa,88,FALSE,FALSE,NA
+1965-05-05,Republic of Ireland,Spain,Republic of Ireland,José Ángel Iribar,61,TRUE,FALSE,NA
+1965-10-27,Spain,Republic of Ireland,Republic of Ireland,Andy McEvoy,26,FALSE,FALSE,NA
+1965-10-27,Spain,Republic of Ireland,Spain,Chus Pereda,40,FALSE,FALSE,NA
+1965-10-27,Spain,Republic of Ireland,Spain,Chus Pereda,43,FALSE,FALSE,NA
+1965-10-27,Spain,Republic of Ireland,Spain,Chus Pereda,58,FALSE,FALSE,NA
+1965-10-27,Spain,Republic of Ireland,Spain,Carlos Lapetra,63,FALSE,FALSE,NA
+1965-11-10,Republic of Ireland,Spain,Spain,José Ufarte,80,FALSE,FALSE,NA
+1966-11-16,Republic of Ireland,Turkey,Republic of Ireland,Frank O'Neill,60,FALSE,FALSE,NA
+1966-11-16,Republic of Ireland,Turkey,Republic of Ireland,Andy McEvoy,74,FALSE,FALSE,NA
+1966-11-16,Republic of Ireland,Turkey,Turkey,Ogün Altıparmak,88,FALSE,FALSE,NA
+1966-12-07,Spain,Republic of Ireland,Spain,José María García Lavilla,20,FALSE,FALSE,NA
+1966-12-07,Spain,Republic of Ireland,Spain,Pirri,35,FALSE,FALSE,NA
+1967-02-22,Turkey,Republic of Ireland,Turkey,Ayhan Elmastaşoğlu,35,FALSE,FALSE,NA
+1967-02-22,Turkey,Republic of Ireland,Turkey,Ogün Altıparmak,78,FALSE,FALSE,NA
+1967-02-22,Turkey,Republic of Ireland,Republic of Ireland,Noel Cantwell,89,FALSE,FALSE,NA
+1967-05-21,Republic of Ireland,Czechoslovakia,Czechoslovakia,Juraj Szikora,15,FALSE,FALSE,NA
+1967-05-21,Republic of Ireland,Czechoslovakia,Czechoslovakia,Vojtech Masný,47,FALSE,FALSE,NA
+1967-11-22,Czechoslovakia,Republic of Ireland,Czechoslovakia,John Dempsey,58,TRUE,FALSE,NA
+1967-11-22,Czechoslovakia,Republic of Ireland,Republic of Ireland,Ray Treacy,63,FALSE,FALSE,NA
+1967-11-22,Czechoslovakia,Republic of Ireland,Republic of Ireland,Turlough O'Connor,86,FALSE,TRUE,NA
+1969-05-04,Republic of Ireland,Czechoslovakia,Republic of Ireland,Eamonn Rogers,17,FALSE,FALSE,NA
+1969-05-04,Republic of Ireland,Czechoslovakia,Czechoslovakia,Dušan Kabát,51,FALSE,FALSE,NA
+1969-05-04,Republic of Ireland,Czechoslovakia,Czechoslovakia,Jozef Adamec,71,FALSE,FALSE,NA
+1969-05-27,Denmark,Republic of Ireland,Denmark,Ole Sørensen,34,FALSE,FALSE,NA
+1969-05-27,Denmark,Republic of Ireland,Denmark,Ole Sørensen,66,FALSE,FALSE,NA
+1969-06-08,Republic of Ireland,Hungary,Hungary,Antal Dunai,23,FALSE,FALSE,NA
+1969-06-08,Republic of Ireland,Hungary,Republic of Ireland,Don Givens,59,FALSE,FALSE,NA
+1969-06-08,Republic of Ireland,Hungary,Hungary,Ferenc Bene,80,FALSE,FALSE,NA
+1969-10-07,Czechoslovakia,Republic of Ireland,Czechoslovakia,Jozef Adamec,9,FALSE,FALSE,NA
+1969-10-07,Czechoslovakia,Republic of Ireland,Czechoslovakia,Jozef Adamec,37,FALSE,FALSE,NA
+1969-10-07,Czechoslovakia,Republic of Ireland,Czechoslovakia,Jozef Adamec,45,FALSE,FALSE,NA
+1969-10-15,Republic of Ireland,Denmark,Republic of Ireland,Don Givens,11,FALSE,FALSE,NA
+1969-10-15,Republic of Ireland,Denmark,Denmark,Bent Jensen,84,FALSE,TRUE,NA
+1969-11-05,Hungary,Republic of Ireland,Hungary,Zoltán Halmosi,30,FALSE,FALSE,NA
+1969-11-05,Hungary,Republic of Ireland,Hungary,Ferenc Bene,49,FALSE,FALSE,NA
+1969-11-05,Hungary,Republic of Ireland,Hungary,Lajos Puskás,68,FALSE,FALSE,NA
+1969-11-05,Hungary,Republic of Ireland,Hungary,Lajos Kocsis,83,FALSE,FALSE,NA
+1970-10-14,Republic of Ireland,Sweden,Republic of Ireland,Tommy Carroll,44,FALSE,TRUE,NA
+1970-10-14,Republic of Ireland,Sweden,Sweden,Dan Brzokoupil,61,FALSE,FALSE,NA
+1970-10-28,Sweden,Republic of Ireland,Sweden,Tom Turesson,74,FALSE,FALSE,NA
+1970-12-08,Italy,Republic of Ireland,Italy,Giancarlo De Sisti,22,FALSE,TRUE,NA
+1970-12-08,Italy,Republic of Ireland,Italy,Roberto Boninsegna,42,FALSE,FALSE,NA
+1970-12-08,Italy,Republic of Ireland,Italy,Pierino Prati,84,FALSE,FALSE,NA
+1971-05-10,Republic of Ireland,Italy,Italy,Roberto Boninsegna,15,FALSE,FALSE,NA
+1971-05-10,Republic of Ireland,Italy,Republic of Ireland,Jimmy Conway,23,FALSE,FALSE,NA
+1971-05-10,Republic of Ireland,Italy,Italy,Pierino Prati,59,FALSE,FALSE,NA
+1971-05-30,Republic of Ireland,Austria,Austria,Johann Schmidradner,4,FALSE,TRUE,NA
+1971-05-30,Republic of Ireland,Austria,Austria,Karl Kodat,11,FALSE,FALSE,NA
+1971-05-30,Republic of Ireland,Austria,Austria,Tony Dunne,31,TRUE,FALSE,NA
+1971-05-30,Republic of Ireland,Austria,Republic of Ireland,Eamonn Rogers,46,FALSE,TRUE,NA
+1971-05-30,Republic of Ireland,Austria,Austria,August Starek,71,FALSE,FALSE,NA
+1971-10-10,Austria,Republic of Ireland,Austria,Kurt Jara,12,FALSE,FALSE,NA
+1971-10-10,Austria,Republic of Ireland,Austria,Hans Pirkner,41,FALSE,TRUE,NA
+1971-10-10,Austria,Republic of Ireland,Austria,Thomas Parits,45,FALSE,FALSE,NA
+1971-10-10,Austria,Republic of Ireland,Austria,Thomas Parits,51,FALSE,FALSE,NA
+1971-10-10,Austria,Republic of Ireland,Austria,Kurt Jara,85,FALSE,FALSE,NA
+1971-10-10,Austria,Republic of Ireland,Austria,Thomas Parits,89,FALSE,FALSE,NA
+1972-10-18,Republic of Ireland,Russia,Russia,Vladimir Fedotov,55,FALSE,FALSE,NA
+1972-10-18,Republic of Ireland,Russia,Russia,Viktor Kolotov,65,FALSE,FALSE,NA
+1972-10-18,Republic of Ireland,Russia,Republic of Ireland,Terry Conroy,83,FALSE,FALSE,NA
+1972-11-15,Republic of Ireland,France,Republic of Ireland,Terry Conroy,27,FALSE,FALSE,NA
+1972-11-15,Republic of Ireland,France,France,Jean-Michel Larqué,66,FALSE,FALSE,NA
+1972-11-15,Republic of Ireland,France,Republic of Ireland,Ray Treacy,77,FALSE,FALSE,NA
+1973-05-13,Russia,Republic of Ireland,Russia,Volodymyr Onyshchenko,58,FALSE,FALSE,NA
+1973-05-19,France,Republic of Ireland,France,Serge Chiesa,78,FALSE,FALSE,NA
+1973-05-19,France,Republic of Ireland,Republic of Ireland,Mick Martin,83,FALSE,FALSE,NA
+1974-10-30,Republic of Ireland,Russia,Republic of Ireland,Don Givens,22,FALSE,FALSE,NA
+1974-10-30,Republic of Ireland,Russia,Republic of Ireland,Don Givens,30,FALSE,FALSE,NA
+1974-10-30,Republic of Ireland,Russia,Republic of Ireland,Don Givens,70,FALSE,FALSE,NA
+1974-11-20,Turkey,Republic of Ireland,Turkey,Tony Dunne,54,TRUE,FALSE,NA
+1974-11-20,Turkey,Republic of Ireland,Republic of Ireland,Don Givens,61,FALSE,FALSE,NA
+1975-05-10,Republic of Ireland,Switzerland,Republic of Ireland,Mick Martin,2,FALSE,FALSE,NA
+1975-05-10,Republic of Ireland,Switzerland,Republic of Ireland,Ray Treacy,28,FALSE,FALSE,NA
+1975-05-10,Republic of Ireland,Switzerland,Switzerland,Kurt Müller,74,FALSE,FALSE,NA
+1975-05-18,Russia,Republic of Ireland,Russia,Oleg Blokhin,13,FALSE,FALSE,NA
+1975-05-18,Russia,Republic of Ireland,Russia,Viktor Kolotov,29,FALSE,FALSE,NA
+1975-05-18,Russia,Republic of Ireland,Republic of Ireland,Eoin Hand,79,FALSE,FALSE,NA
+1975-05-21,Switzerland,Republic of Ireland,Switzerland,Rudi Elsener,75,FALSE,FALSE,NA
+1975-10-29,Republic of Ireland,Turkey,Republic of Ireland,Don Givens,26,FALSE,FALSE,NA
+1975-10-29,Republic of Ireland,Turkey,Republic of Ireland,Don Givens,33,FALSE,FALSE,NA
+1975-10-29,Republic of Ireland,Turkey,Republic of Ireland,Don Givens,38,FALSE,FALSE,NA
+1975-10-29,Republic of Ireland,Turkey,Republic of Ireland,Don Givens,89,FALSE,FALSE,NA
+1976-11-17,France,Republic of Ireland,France,Michel Platini,47,FALSE,FALSE,NA
+1976-11-17,France,Republic of Ireland,France,Dominique Bathenay,88,FALSE,FALSE,NA
+1977-03-30,Republic of Ireland,France,Republic of Ireland,Liam Brady,11,FALSE,FALSE,NA
+1977-06-01,Bulgaria,Republic of Ireland,Bulgaria,Pavel Panov,14,FALSE,FALSE,NA
+1977-06-01,Bulgaria,Republic of Ireland,Republic of Ireland,Don Givens,47,FALSE,FALSE,NA
+1977-06-01,Bulgaria,Republic of Ireland,Bulgaria,Andrey Zhelyazkov,76,FALSE,FALSE,NA
+1978-05-24,Denmark,Republic of Ireland,Republic of Ireland,Frank Stapleton,11,FALSE,FALSE,NA
+1978-05-24,Denmark,Republic of Ireland,Republic of Ireland,Tony Grealish,25,FALSE,FALSE,NA
+1978-05-24,Denmark,Republic of Ireland,Denmark,Henning Jensen,32,FALSE,FALSE,NA
+1978-05-24,Denmark,Republic of Ireland,Republic of Ireland,Gerry Daly,65,FALSE,FALSE,NA
+1978-05-24,Denmark,Republic of Ireland,Denmark,Benny Nielsen,79,FALSE,TRUE,NA
+1978-05-24,Denmark,Republic of Ireland,Denmark,Søren Lerby,80,FALSE,FALSE,NA
+1978-10-25,Republic of Ireland,England,England,Bob Latchford,8,FALSE,FALSE,NA
+1978-10-25,Republic of Ireland,England,Republic of Ireland,Gerry Daly,27,FALSE,FALSE,NA
+1979-05-02,Republic of Ireland,Denmark,Republic of Ireland,Gerry Daly,44,FALSE,FALSE,NA
+1979-05-02,Republic of Ireland,Denmark,Republic of Ireland,Don Givens,66,FALSE,FALSE,NA
+1979-05-19,Bulgaria,Republic of Ireland,Bulgaria,Chavdar Tsvetkov,81,FALSE,FALSE,NA
+1979-10-17,Republic of Ireland,Bulgaria,Republic of Ireland,Mick Martin,39,FALSE,FALSE,NA
+1979-10-17,Republic of Ireland,Bulgaria,Republic of Ireland,Tony Grealish,46,FALSE,FALSE,NA
+1979-10-17,Republic of Ireland,Bulgaria,Republic of Ireland,Frank Stapleton,83,FALSE,FALSE,NA
+1979-11-21,Northern Ireland,Republic of Ireland,Northern Ireland,Gerry Armstrong,54,FALSE,FALSE,NA
+1980-02-06,England,Republic of Ireland,England,Kevin Keegan,34,FALSE,FALSE,NA
+1980-02-06,England,Republic of Ireland,England,Kevin Keegan,74,FALSE,FALSE,NA
+1980-03-26,Cyprus,Republic of Ireland,Republic of Ireland,Paul McGee,8,FALSE,FALSE,NA
+1980-03-26,Cyprus,Republic of Ireland,Republic of Ireland,Mark Lawrenson,23,FALSE,FALSE,NA
+1980-03-26,Cyprus,Republic of Ireland,Cyprus,Nikos Pantziaras,29,FALSE,FALSE,NA
+1980-03-26,Cyprus,Republic of Ireland,Republic of Ireland,Paul McGee,38,FALSE,FALSE,NA
+1980-03-26,Cyprus,Republic of Ireland,Cyprus,Sotiris Kaiafas,74,FALSE,TRUE,NA
+1980-09-10,Republic of Ireland,Netherlands,Netherlands,Simon Tahamata,57,FALSE,FALSE,NA
+1980-09-10,Republic of Ireland,Netherlands,Republic of Ireland,Gerry Daly,78,FALSE,FALSE,NA
+1980-09-10,Republic of Ireland,Netherlands,Republic of Ireland,Mark Lawrenson,85,FALSE,FALSE,NA
+1980-10-15,Republic of Ireland,Belgium,Belgium,Albert Cluytens,13,FALSE,FALSE,NA
+1980-10-15,Republic of Ireland,Belgium,Republic of Ireland,Tony Grealish,42,FALSE,FALSE,NA
+1980-10-28,France,Republic of Ireland,France,Michel Platini,11,FALSE,FALSE,NA
+1980-10-28,France,Republic of Ireland,France,Jacques Zimako,77,FALSE,FALSE,NA
+1980-11-19,Republic of Ireland,Cyprus,Republic of Ireland,Gerry Daly,10,FALSE,TRUE,NA
+1980-11-19,Republic of Ireland,Cyprus,Republic of Ireland,Gerry Daly,23,FALSE,FALSE,NA
+1980-11-19,Republic of Ireland,Cyprus,Republic of Ireland,Tony Grealish,24,FALSE,FALSE,NA
+1980-11-19,Republic of Ireland,Cyprus,Republic of Ireland,Michael Robinson,28,FALSE,FALSE,NA
+1980-11-19,Republic of Ireland,Cyprus,Republic of Ireland,Frank Stapleton,46,FALSE,FALSE,NA
+1980-11-19,Republic of Ireland,Cyprus,Republic of Ireland,Chris Hughton,65,FALSE,FALSE,NA
+1981-03-25,Belgium,Republic of Ireland,Belgium,Jan Ceulemans,88,FALSE,FALSE,NA
+1981-09-09,Netherlands,Republic of Ireland,Netherlands,Frans Thijssen,11,FALSE,FALSE,NA
+1981-09-09,Netherlands,Republic of Ireland,Republic of Ireland,Michael Robinson,40,FALSE,FALSE,NA
+1981-09-09,Netherlands,Republic of Ireland,Netherlands,Arnold Mühren,64,FALSE,TRUE,NA
+1981-09-09,Netherlands,Republic of Ireland,Republic of Ireland,Frank Stapleton,71,FALSE,FALSE,NA
+1981-10-14,Republic of Ireland,France,Republic of Ireland,Philippe Mahut,5,TRUE,FALSE,NA
+1981-10-14,Republic of Ireland,France,France,Bruno Bellone,9,FALSE,FALSE,NA
+1981-10-14,Republic of Ireland,France,Republic of Ireland,Frank Stapleton,23,FALSE,FALSE,NA
+1981-10-14,Republic of Ireland,France,Republic of Ireland,Michael Robinson,39,FALSE,FALSE,NA
+1981-10-14,Republic of Ireland,France,France,Michel Platini,83,FALSE,FALSE,NA
+1982-09-22,Netherlands,Republic of Ireland,Netherlands,Dick Schoenaker,1,FALSE,FALSE,NA
+1982-09-22,Netherlands,Republic of Ireland,Netherlands,Ruud Gullit,64,FALSE,FALSE,NA
+1982-09-22,Netherlands,Republic of Ireland,Republic of Ireland,Gerry Daly,80,FALSE,FALSE,NA
+1982-10-13,Republic of Ireland,Iceland,Republic of Ireland,Frank Stapleton,36,FALSE,FALSE,NA
+1982-10-13,Republic of Ireland,Iceland,Republic of Ireland,Tony Grealish,75,FALSE,FALSE,NA
+1982-11-17,Republic of Ireland,Spain,Republic of Ireland,Ashley Grimes,2,FALSE,FALSE,NA
+1982-11-17,Republic of Ireland,Spain,Spain,Antonio Maceda,31,FALSE,FALSE,NA
+1982-11-17,Republic of Ireland,Spain,Spain,Mick Martin,47,TRUE,FALSE,NA
+1982-11-17,Republic of Ireland,Spain,Spain,Víctor Muñoz,60,FALSE,FALSE,NA
+1982-11-17,Republic of Ireland,Spain,Republic of Ireland,Frank Stapleton,64,FALSE,FALSE,NA
+1982-11-17,Republic of Ireland,Spain,Republic of Ireland,Frank Stapleton,76,FALSE,FALSE,NA
+1983-03-30,Malta,Republic of Ireland,Republic of Ireland,Frank Stapleton,89,FALSE,FALSE,NA
+1983-04-27,Spain,Republic of Ireland,Spain,Santillana,51,FALSE,FALSE,NA
+1983-04-27,Spain,Republic of Ireland,Spain,Hipólito Rincón,89,FALSE,FALSE,NA
+1983-09-21,Iceland,Republic of Ireland,Republic of Ireland,Gary Waddock,16,FALSE,FALSE,NA
+1983-09-21,Iceland,Republic of Ireland,Republic of Ireland,Michael Robinson,21,FALSE,FALSE,NA
+1983-09-21,Iceland,Republic of Ireland,Republic of Ireland,Mickey Walsh,81,FALSE,FALSE,NA
+1983-10-12,Republic of Ireland,Netherlands,Republic of Ireland,Gary Waddock,7,FALSE,FALSE,NA
+1983-10-12,Republic of Ireland,Netherlands,Republic of Ireland,Liam Brady,35,FALSE,TRUE,NA
+1983-10-12,Republic of Ireland,Netherlands,Netherlands,Ruud Gullit,51,FALSE,FALSE,NA
+1983-10-12,Republic of Ireland,Netherlands,Netherlands,Marco van Basten,66,FALSE,FALSE,NA
+1983-10-12,Republic of Ireland,Netherlands,Netherlands,Ruud Gullit,76,FALSE,FALSE,NA
+1983-11-16,Republic of Ireland,Malta,Republic of Ireland,Mark Lawrenson,25,FALSE,FALSE,NA
+1983-11-16,Republic of Ireland,Malta,Republic of Ireland,Frank Stapleton,28,FALSE,TRUE,NA
+1983-11-16,Republic of Ireland,Malta,Republic of Ireland,Kevin O'Callaghan,35,FALSE,FALSE,NA
+1983-11-16,Republic of Ireland,Malta,Republic of Ireland,Mark Lawrenson,63,FALSE,FALSE,NA
+1983-11-16,Republic of Ireland,Malta,Republic of Ireland,Kevin Sheedy,74,FALSE,FALSE,NA
+1983-11-16,Republic of Ireland,Malta,Republic of Ireland,Liam Brady,76,FALSE,FALSE,NA
+1983-11-16,Republic of Ireland,Malta,Republic of Ireland,Liam Brady,84,FALSE,FALSE,NA
+1983-11-16,Republic of Ireland,Malta,Republic of Ireland,Gerry Daly,86,FALSE,FALSE,NA
+1984-09-12,Republic of Ireland,Russia,Republic of Ireland,Mickey Walsh,64,FALSE,FALSE,NA
+1984-10-17,Norway,Republic of Ireland,Norway,Pål Jacobsen,42,FALSE,FALSE,NA
+1984-11-14,Denmark,Republic of Ireland,Denmark,Preben Elkjær,26,FALSE,FALSE,NA
+1984-11-14,Denmark,Republic of Ireland,Denmark,Preben Elkjær,46,FALSE,FALSE,NA
+1984-11-14,Denmark,Republic of Ireland,Denmark,Søren Lerby,55,FALSE,FALSE,NA
+1985-06-02,Republic of Ireland,Switzerland,Republic of Ireland,Frank Stapleton,7,FALSE,FALSE,NA
+1985-06-02,Republic of Ireland,Switzerland,Republic of Ireland,Tony Grealish,33,FALSE,FALSE,NA
+1985-06-02,Republic of Ireland,Switzerland,Republic of Ireland,Kevin Sheedy,57,FALSE,FALSE,NA
+1985-10-16,Russia,Republic of Ireland,Russia,Fyodor Cherenkov,61,FALSE,FALSE,NA
+1985-10-16,Russia,Republic of Ireland,Russia,Oleh Protasov,90,FALSE,FALSE,NA
+1985-11-13,Republic of Ireland,Denmark,Republic of Ireland,Frank Stapleton,6,FALSE,FALSE,NA
+1985-11-13,Republic of Ireland,Denmark,Denmark,Preben Elkjær,7,FALSE,FALSE,NA
+1985-11-13,Republic of Ireland,Denmark,Denmark,Michael Laudrup,44,FALSE,FALSE,NA
+1985-11-13,Republic of Ireland,Denmark,Denmark,John Sivebæk,57,FALSE,FALSE,NA
+1985-11-13,Republic of Ireland,Denmark,Denmark,Preben Elkjær,76,FALSE,FALSE,NA
+1986-09-10,Belgium,Republic of Ireland,Belgium,Nico Claesen,14,FALSE,FALSE,NA
+1986-09-10,Belgium,Republic of Ireland,Republic of Ireland,Frank Stapleton,18,FALSE,FALSE,NA
+1986-09-10,Belgium,Republic of Ireland,Belgium,Enzo Scifo,69,FALSE,FALSE,NA
+1986-09-10,Belgium,Republic of Ireland,Republic of Ireland,Liam Brady,90,FALSE,TRUE,NA
+1987-02-18,Scotland,Republic of Ireland,Republic of Ireland,Mark Lawrenson,8,FALSE,FALSE,NA
+1987-04-01,Bulgaria,Republic of Ireland,Bulgaria,Lachezar Tanev,41,FALSE,FALSE,NA
+1987-04-01,Bulgaria,Republic of Ireland,Republic of Ireland,Frank Stapleton,53,FALSE,FALSE,NA
+1987-04-01,Bulgaria,Republic of Ireland,Bulgaria,Lachezar Tanev,82,FALSE,TRUE,NA
+1987-05-28,Luxembourg,Republic of Ireland,Republic of Ireland,Tony Galvin,44,FALSE,FALSE,NA
+1987-05-28,Luxembourg,Republic of Ireland,Republic of Ireland,Ronnie Whelan,64,FALSE,FALSE,NA
+1987-09-09,Republic of Ireland,Luxembourg,Luxembourg,Armin Krings,28,FALSE,FALSE,NA
+1987-09-09,Republic of Ireland,Luxembourg,Republic of Ireland,Frank Stapleton,31,FALSE,FALSE,NA
+1987-09-09,Republic of Ireland,Luxembourg,Republic of Ireland,Paul McGrath,75,FALSE,FALSE,NA
+1987-10-14,Republic of Ireland,Bulgaria,Republic of Ireland,Paul McGrath,52,FALSE,FALSE,NA
+1987-10-14,Republic of Ireland,Bulgaria,Republic of Ireland,Kevin Moran,83,FALSE,FALSE,NA
+1988-06-12,England,Republic of Ireland,Republic of Ireland,Ray Houghton,6,FALSE,FALSE,NA
+1988-06-15,Republic of Ireland,Russia,Republic of Ireland,Ronnie Whelan,38,FALSE,FALSE,NA
+1988-06-15,Republic of Ireland,Russia,Russia,Oleh Protasov,74,FALSE,FALSE,NA
+1988-06-18,Republic of Ireland,Netherlands,Netherlands,Wim Kieft,82,FALSE,FALSE,NA
+1988-11-16,Spain,Republic of Ireland,Spain,Manolo,52,FALSE,FALSE,NA
+1988-11-16,Spain,Republic of Ireland,Spain,Emilio Butragueño,66,FALSE,FALSE,NA
+1989-04-26,Republic of Ireland,Spain,Republic of Ireland,Míchel,15,TRUE,FALSE,NA
+1989-05-28,Republic of Ireland,Malta,Republic of Ireland,Ray Houghton,32,FALSE,FALSE,NA
+1989-05-28,Republic of Ireland,Malta,Republic of Ireland,Kevin Moran,55,FALSE,FALSE,NA
+1989-06-04,Republic of Ireland,Hungary,Republic of Ireland,Paul McGrath,33,FALSE,FALSE,NA
+1989-06-04,Republic of Ireland,Hungary,Republic of Ireland,Tony Cascarino,80,FALSE,FALSE,NA
+1989-10-11,Republic of Ireland,Northern Ireland,Republic of Ireland,Ronnie Whelan,42,FALSE,FALSE,NA
+1989-10-11,Republic of Ireland,Northern Ireland,Republic of Ireland,Tony Cascarino,48,FALSE,FALSE,NA
+1989-10-11,Republic of Ireland,Northern Ireland,Republic of Ireland,Ray Houghton,57,FALSE,FALSE,NA
+1989-11-15,Malta,Republic of Ireland,Republic of Ireland,John Aldridge,31,FALSE,FALSE,NA
+1989-11-15,Malta,Republic of Ireland,Republic of Ireland,John Aldridge,68,FALSE,TRUE,NA
+1990-06-11,England,Republic of Ireland,England,Gary Lineker,9,FALSE,FALSE,Chris Waddle
+1990-06-11,England,Republic of Ireland,Republic of Ireland,Kevin Sheedy,73,FALSE,FALSE,Andy Townsend
+1990-06-21,Republic of Ireland,Netherlands,Netherlands,Ruud Gullit,11,FALSE,FALSE,Wim Kieft
+1990-06-21,Republic of Ireland,Netherlands,Republic of Ireland,Niall Quinn,71,FALSE,FALSE,NA
+1990-06-30,Italy,Republic of Ireland,Italy,Salvatore Schillaci,38,FALSE,FALSE,NA
+1990-10-17,Republic of Ireland,Turkey,Republic of Ireland,John Aldridge,15,FALSE,FALSE,NA
+1990-10-17,Republic of Ireland,Turkey,Republic of Ireland,David O'Leary,40,FALSE,FALSE,NA
+1990-10-17,Republic of Ireland,Turkey,Republic of Ireland,John Aldridge,58,FALSE,FALSE,NA
+1990-10-17,Republic of Ireland,Turkey,Republic of Ireland,Niall Quinn,66,FALSE,FALSE,NA
+1990-10-17,Republic of Ireland,Turkey,Republic of Ireland,John Aldridge,73,FALSE,FALSE,NA
+1990-11-14,Republic of Ireland,England,England,David Platt,67,FALSE,FALSE,NA
+1990-11-14,Republic of Ireland,England,Republic of Ireland,Tony Cascarino,79,FALSE,FALSE,NA
+1991-03-27,England,Republic of Ireland,England,Lee Dixon,9,FALSE,FALSE,NA
+1991-03-27,England,Republic of Ireland,Republic of Ireland,Niall Quinn,29,FALSE,FALSE,NA
+1991-10-16,Poland,Republic of Ireland,Republic of Ireland,Paul McGrath,12,FALSE,FALSE,NA
+1991-10-16,Poland,Republic of Ireland,Poland,Piotr Czachowski,59,FALSE,FALSE,NA
+1991-10-16,Poland,Republic of Ireland,Republic of Ireland,Andy Townsend,64,FALSE,FALSE,NA
+1991-10-16,Poland,Republic of Ireland,Republic of Ireland,Tony Cascarino,68,FALSE,FALSE,NA
+1991-10-16,Poland,Republic of Ireland,Poland,Jan Furtok,77,FALSE,FALSE,NA
+1991-10-16,Poland,Republic of Ireland,Poland,Jan Urban,86,FALSE,FALSE,NA
+1991-11-13,Turkey,Republic of Ireland,Republic of Ireland,John Byrne,8,FALSE,FALSE,NA
+1991-11-13,Turkey,Republic of Ireland,Turkey,Rıza Çalımbay,13,FALSE,TRUE,NA
+1991-11-13,Turkey,Republic of Ireland,Republic of Ireland,Tony Cascarino,55,FALSE,FALSE,NA
+1991-11-13,Turkey,Republic of Ireland,Republic of Ireland,John Byrne,58,FALSE,FALSE,NA
+1992-05-26,Republic of Ireland,Albania,Republic of Ireland,John Aldridge,60,FALSE,FALSE,NA
+1992-05-26,Republic of Ireland,Albania,Republic of Ireland,Paul McGrath,80,FALSE,FALSE,NA
+1992-09-09,Republic of Ireland,Latvia,Republic of Ireland,Kevin Sheedy,30,FALSE,FALSE,NA
+1992-09-09,Republic of Ireland,Latvia,Republic of Ireland,John Aldridge,59,FALSE,FALSE,NA
+1992-09-09,Republic of Ireland,Latvia,Republic of Ireland,John Aldridge,82,FALSE,TRUE,NA
+1992-09-09,Republic of Ireland,Latvia,Republic of Ireland,John Aldridge,86,FALSE,FALSE,NA
+1993-03-31,Republic of Ireland,Northern Ireland,Republic of Ireland,Andy Townsend,20,FALSE,FALSE,NA
+1993-03-31,Republic of Ireland,Northern Ireland,Republic of Ireland,Niall Quinn,22,FALSE,FALSE,NA
+1993-03-31,Republic of Ireland,Northern Ireland,Republic of Ireland,Steve Staunton,28,FALSE,FALSE,NA
+1993-04-28,Republic of Ireland,Denmark,Denmark,Kim Vilfort,27,FALSE,FALSE,NA
+1993-04-28,Republic of Ireland,Denmark,Republic of Ireland,Niall Quinn,75,FALSE,FALSE,NA
+1993-05-26,Albania,Republic of Ireland,Albania,Sokol Kushta,8,FALSE,FALSE,NA
+1993-05-26,Albania,Republic of Ireland,Republic of Ireland,Steve Staunton,12,FALSE,FALSE,NA
+1993-05-26,Albania,Republic of Ireland,Republic of Ireland,Tony Cascarino,77,FALSE,FALSE,NA
+1993-06-09,Latvia,Republic of Ireland,Republic of Ireland,John Aldridge,14,FALSE,FALSE,NA
+1993-06-09,Latvia,Republic of Ireland,Republic of Ireland,Paul McGrath,42,FALSE,FALSE,NA
+1993-06-16,Lithuania,Republic of Ireland,Republic of Ireland,Steve Staunton,38,FALSE,FALSE,NA
+1993-09-08,Republic of Ireland,Lithuania,Republic of Ireland,John Aldridge,4,FALSE,FALSE,NA
+1993-09-08,Republic of Ireland,Lithuania,Republic of Ireland,Alan Kernaghan,25,FALSE,FALSE,NA
+1993-10-13,Republic of Ireland,Spain,Spain,José Luis Caminero,11,FALSE,FALSE,NA
+1993-10-13,Republic of Ireland,Spain,Spain,Julio Salinas,14,FALSE,FALSE,NA
+1993-10-13,Republic of Ireland,Spain,Spain,Julio Salinas,26,FALSE,FALSE,NA
+1993-10-13,Republic of Ireland,Spain,Republic of Ireland,John Sheridan,72,FALSE,FALSE,NA
+1993-11-17,Northern Ireland,Republic of Ireland,Northern Ireland,Jimmy Quinn,74,FALSE,FALSE,NA
+1993-11-17,Northern Ireland,Republic of Ireland,Republic of Ireland,Alan McLoughlin,78,FALSE,FALSE,NA
+1994-06-18,Italy,Republic of Ireland,Republic of Ireland,Ray Houghton,11,FALSE,FALSE,NA
+1994-06-24,Mexico,Republic of Ireland,Mexico,Luis García Postigo,42,FALSE,FALSE,Carlos Hermosillo
+1994-06-24,Mexico,Republic of Ireland,Mexico,Luis García Postigo,65,FALSE,FALSE,Alberto García Aspe
+1994-06-24,Mexico,Republic of Ireland,Republic of Ireland,John Aldridge,84,FALSE,FALSE,Jason McAteer
+1994-07-04,Netherlands,Republic of Ireland,Netherlands,Dennis Bergkamp,11,FALSE,FALSE,Marc Overmars
+1994-07-04,Netherlands,Republic of Ireland,Netherlands,Wim Jonk,41,FALSE,FALSE,Ronald Koeman
+1994-09-07,Latvia,Republic of Ireland,Republic of Ireland,John Aldridge,16,FALSE,FALSE,NA
+1994-09-07,Latvia,Republic of Ireland,Republic of Ireland,John Sheridan,29,FALSE,FALSE,NA
+1994-09-07,Latvia,Republic of Ireland,Republic of Ireland,John Aldridge,75,FALSE,TRUE,NA
+1994-10-12,Republic of Ireland,Liechtenstein,Republic of Ireland,Tommy Coyne,2,FALSE,FALSE,NA
+1994-10-12,Republic of Ireland,Liechtenstein,Republic of Ireland,Tommy Coyne,4,FALSE,FALSE,NA
+1994-10-12,Republic of Ireland,Liechtenstein,Republic of Ireland,Niall Quinn,30,FALSE,FALSE,NA
+1994-10-12,Republic of Ireland,Liechtenstein,Republic of Ireland,Niall Quinn,82,FALSE,FALSE,NA
+1994-11-16,Northern Ireland,Republic of Ireland,Republic of Ireland,John Aldridge,6,FALSE,FALSE,NA
+1994-11-16,Northern Ireland,Republic of Ireland,Republic of Ireland,Roy Keane,11,FALSE,FALSE,NA
+1994-11-16,Northern Ireland,Republic of Ireland,Republic of Ireland,John Sheridan,38,FALSE,FALSE,NA
+1994-11-16,Northern Ireland,Republic of Ireland,Republic of Ireland,Andy Townsend,54,FALSE,FALSE,NA
+1995-03-29,Republic of Ireland,Northern Ireland,Republic of Ireland,Niall Quinn,47,FALSE,FALSE,NA
+1995-03-29,Republic of Ireland,Northern Ireland,Northern Ireland,Iain Dowie,72,FALSE,FALSE,NA
+1995-04-26,Republic of Ireland,Portugal,Republic of Ireland,Vítor Baía,44,TRUE,FALSE,NA
+1995-06-11,Republic of Ireland,Austria,Republic of Ireland,Ray Houghton,65,FALSE,FALSE,NA
+1995-06-11,Republic of Ireland,Austria,Austria,Toni Polster,69,FALSE,FALSE,NA
+1995-06-11,Republic of Ireland,Austria,Austria,Andreas Ogris,72,FALSE,FALSE,NA
+1995-06-11,Republic of Ireland,Austria,Austria,Toni Polster,78,FALSE,FALSE,NA
+1995-09-06,Austria,Republic of Ireland,Austria,Peter Stöger,3,FALSE,FALSE,NA
+1995-09-06,Austria,Republic of Ireland,Austria,Peter Stöger,64,FALSE,FALSE,NA
+1995-09-06,Austria,Republic of Ireland,Republic of Ireland,Paul McGrath,74,FALSE,FALSE,NA
+1995-09-06,Austria,Republic of Ireland,Austria,Peter Stöger,77,FALSE,FALSE,NA
+1995-10-11,Republic of Ireland,Latvia,Republic of Ireland,John Aldridge,61,FALSE,TRUE,NA
+1995-10-11,Republic of Ireland,Latvia,Republic of Ireland,John Aldridge,64,FALSE,FALSE,NA
+1995-10-11,Republic of Ireland,Latvia,Latvia,Vīts Rimkus,78,FALSE,FALSE,NA
+1995-11-15,Portugal,Republic of Ireland,Portugal,Rui Costa,60,FALSE,FALSE,NA
+1995-11-15,Portugal,Republic of Ireland,Portugal,Hélder,74,FALSE,FALSE,NA
+1995-11-15,Portugal,Republic of Ireland,Portugal,Jorge Cadete,89,FALSE,FALSE,NA
+1995-12-13,Republic of Ireland,Netherlands,Netherlands,Patrick Kluivert,30,FALSE,FALSE,NA
+1995-12-13,Republic of Ireland,Netherlands,Netherlands,Patrick Kluivert,89,FALSE,FALSE,NA
+1996-08-31,Liechtenstein,Republic of Ireland,Republic of Ireland,Andy Townsend,5,FALSE,FALSE,NA
+1996-08-31,Liechtenstein,Republic of Ireland,Republic of Ireland,Keith O'Neill,9,FALSE,FALSE,NA
+1996-08-31,Liechtenstein,Republic of Ireland,Republic of Ireland,Niall Quinn,12,FALSE,FALSE,NA
+1996-08-31,Liechtenstein,Republic of Ireland,Republic of Ireland,Ian Harte,20,FALSE,FALSE,NA
+1996-08-31,Liechtenstein,Republic of Ireland,Republic of Ireland,Niall Quinn,61,FALSE,FALSE,NA
+1996-10-09,Republic of Ireland,North Macedonia,Republic of Ireland,Jason McAteer,8,FALSE,FALSE,NA
+1996-10-09,Republic of Ireland,North Macedonia,Republic of Ireland,Tony Cascarino,46,FALSE,FALSE,NA
+1996-10-09,Republic of Ireland,North Macedonia,Republic of Ireland,Tony Cascarino,70,FALSE,FALSE,NA
+1997-04-02,North Macedonia,Republic of Ireland,Republic of Ireland,Alan McLoughlin,8,FALSE,FALSE,NA
+1997-04-02,North Macedonia,Republic of Ireland,North Macedonia,Mitko Stojkovski,28,FALSE,FALSE,NA
+1997-04-02,North Macedonia,Republic of Ireland,North Macedonia,Mitko Stojkovski,44,FALSE,TRUE,NA
+1997-04-02,North Macedonia,Republic of Ireland,North Macedonia,Gjorgji Hristov,59,FALSE,FALSE,NA
+1997-04-02,North Macedonia,Republic of Ireland,Republic of Ireland,David Kelly,78,FALSE,FALSE,NA
+1997-04-30,Romania,Republic of Ireland,Romania,Adrian Ilie,33,FALSE,FALSE,NA
+1997-05-21,Republic of Ireland,Liechtenstein,Republic of Ireland,David Connolly,28,FALSE,FALSE,NA
+1997-05-21,Republic of Ireland,Liechtenstein,Republic of Ireland,David Connolly,34,FALSE,FALSE,NA
+1997-05-21,Republic of Ireland,Liechtenstein,Republic of Ireland,David Connolly,41,FALSE,FALSE,NA
+1997-05-21,Republic of Ireland,Liechtenstein,Republic of Ireland,Tony Cascarino,61,FALSE,FALSE,NA
+1997-05-21,Republic of Ireland,Liechtenstein,Republic of Ireland,Tony Cascarino,80,FALSE,FALSE,NA
+1997-09-06,Iceland,Republic of Ireland,Republic of Ireland,David Connolly,13,FALSE,FALSE,NA
+1997-09-06,Iceland,Republic of Ireland,Iceland,Brynjar Gunnarsson,45,FALSE,FALSE,NA
+1997-09-06,Iceland,Republic of Ireland,Iceland,Helgi Sigurðsson,47,FALSE,FALSE,NA
+1997-09-06,Iceland,Republic of Ireland,Republic of Ireland,Roy Keane,55,FALSE,FALSE,NA
+1997-09-06,Iceland,Republic of Ireland,Republic of Ireland,Roy Keane,65,FALSE,FALSE,NA
+1997-09-06,Iceland,Republic of Ireland,Republic of Ireland,Mark Kennedy,79,FALSE,FALSE,NA
+1997-09-10,Lithuania,Republic of Ireland,Republic of Ireland,Tony Cascarino,17,FALSE,FALSE,NA
+1997-09-10,Lithuania,Republic of Ireland,Lithuania,Tomas Žiukas,51,FALSE,FALSE,NA
+1997-09-10,Lithuania,Republic of Ireland,Republic of Ireland,Tony Cascarino,72,FALSE,FALSE,NA
+1997-10-11,Republic of Ireland,Romania,Romania,Gheorghe Hagi,53,FALSE,FALSE,NA
+1997-10-11,Republic of Ireland,Romania,Republic of Ireland,Tony Cascarino,83,FALSE,FALSE,NA
+1997-10-29,Republic of Ireland,Belgium,Republic of Ireland,Denis Irwin,7,FALSE,FALSE,NA
+1997-10-29,Republic of Ireland,Belgium,Belgium,Luc Nilis,29,FALSE,FALSE,NA
+1997-11-15,Belgium,Republic of Ireland,Belgium,Luís Oliveira,25,FALSE,FALSE,NA
+1997-11-15,Belgium,Republic of Ireland,Republic of Ireland,Ray Houghton,58,FALSE,FALSE,NA
+1997-11-15,Belgium,Republic of Ireland,Belgium,Luc Nilis,70,FALSE,FALSE,NA
+1998-09-05,Republic of Ireland,Croatia,Republic of Ireland,Denis Irwin,4,FALSE,TRUE,NA
+1998-09-05,Republic of Ireland,Croatia,Republic of Ireland,Roy Keane,16,FALSE,FALSE,NA
+1998-10-14,Republic of Ireland,Malta,Republic of Ireland,Robbie Keane,17,FALSE,FALSE,NA
+1998-10-14,Republic of Ireland,Malta,Republic of Ireland,Robbie Keane,19,FALSE,FALSE,NA
+1998-10-14,Republic of Ireland,Malta,Republic of Ireland,Roy Keane,54,FALSE,FALSE,NA
+1998-10-14,Republic of Ireland,Malta,Republic of Ireland,Niall Quinn,62,FALSE,FALSE,NA
+1998-10-14,Republic of Ireland,Malta,Republic of Ireland,Gary Breen,82,FALSE,FALSE,NA
+1998-11-18,Serbia,Republic of Ireland,Serbia,Predrag Mijatović,64,FALSE,FALSE,NA
+1999-06-09,Republic of Ireland,North Macedonia,Republic of Ireland,Niall Quinn,60,FALSE,FALSE,NA
+1999-09-01,Republic of Ireland,Serbia,Republic of Ireland,Robbie Keane,54,FALSE,FALSE,NA
+1999-09-01,Republic of Ireland,Serbia,Serbia,Dejan Stanković,60,FALSE,FALSE,NA
+1999-09-01,Republic of Ireland,Serbia,Republic of Ireland,Mark Kennedy,69,FALSE,FALSE,NA
+1999-09-04,Croatia,Republic of Ireland,Croatia,Davor Šuker,90,FALSE,FALSE,NA
+1999-09-08,Malta,Republic of Ireland,Republic of Ireland,Robbie Keane,13,FALSE,FALSE,NA
+1999-09-08,Malta,Republic of Ireland,Republic of Ireland,Gary Breen,20,FALSE,FALSE,NA
+1999-09-08,Malta,Republic of Ireland,Malta,Brian Said,61,FALSE,FALSE,NA
+1999-09-08,Malta,Republic of Ireland,Malta,David Carabott,68,FALSE,TRUE,NA
+1999-09-08,Malta,Republic of Ireland,Republic of Ireland,Steve Staunton,72,FALSE,FALSE,NA
+1999-10-09,North Macedonia,Republic of Ireland,Republic of Ireland,Niall Quinn,18,FALSE,FALSE,NA
+1999-10-09,North Macedonia,Republic of Ireland,North Macedonia,Goran Stavrevski,90,FALSE,FALSE,NA
+1999-11-13,Republic of Ireland,Turkey,Republic of Ireland,Robbie Keane,79,FALSE,FALSE,NA
+1999-11-13,Republic of Ireland,Turkey,Turkey,Tayfur Havutçu,83,FALSE,TRUE,NA
+2000-09-02,Netherlands,Republic of Ireland,Republic of Ireland,Robbie Keane,21,FALSE,FALSE,NA
+2000-09-02,Netherlands,Republic of Ireland,Republic of Ireland,Jason McAteer,65,FALSE,FALSE,NA
+2000-09-02,Netherlands,Republic of Ireland,Netherlands,Jeffrey Talan,71,FALSE,FALSE,NA
+2000-09-02,Netherlands,Republic of Ireland,Netherlands,Giovanni van Bronckhorst,84,FALSE,FALSE,NA
+2000-10-07,Portugal,Republic of Ireland,Portugal,Sérgio Conceição,57,FALSE,FALSE,NA
+2000-10-07,Portugal,Republic of Ireland,Republic of Ireland,Matt Holland,73,FALSE,FALSE,NA
+2000-10-11,Republic of Ireland,Estonia,Republic of Ireland,Mark Kinsella,25,FALSE,FALSE,NA
+2000-10-11,Republic of Ireland,Estonia,Republic of Ireland,Richard Dunne,51,FALSE,FALSE,NA
+2001-03-24,Cyprus,Republic of Ireland,Republic of Ireland,Roy Keane,32,FALSE,FALSE,NA
+2001-03-24,Cyprus,Republic of Ireland,Republic of Ireland,Ian Harte,42,FALSE,TRUE,NA
+2001-03-24,Cyprus,Republic of Ireland,Republic of Ireland,Gary Kelly,80,FALSE,FALSE,NA
+2001-03-24,Cyprus,Republic of Ireland,Republic of Ireland,Roy Keane,88,FALSE,FALSE,NA
+2001-03-28,Andorra,Republic of Ireland,Republic of Ireland,Ian Harte,33,FALSE,TRUE,NA
+2001-03-28,Andorra,Republic of Ireland,Republic of Ireland,Kevin Kilbane,76,FALSE,FALSE,NA
+2001-03-28,Andorra,Republic of Ireland,Republic of Ireland,Matt Holland,80,FALSE,FALSE,NA
+2001-04-25,Republic of Ireland,Andorra,Andorra,Ildefons Lima,31,FALSE,FALSE,NA
+2001-04-25,Republic of Ireland,Andorra,Republic of Ireland,Kevin Kilbane,33,FALSE,FALSE,NA
+2001-04-25,Republic of Ireland,Andorra,Republic of Ireland,Mark Kinsella,36,FALSE,FALSE,NA
+2001-04-25,Republic of Ireland,Andorra,Republic of Ireland,Gary Breen,73,FALSE,FALSE,NA
+2001-06-02,Republic of Ireland,Portugal,Republic of Ireland,Roy Keane,68,FALSE,FALSE,NA
+2001-06-02,Republic of Ireland,Portugal,Portugal,Luís Figo,78,FALSE,FALSE,NA
+2001-06-06,Estonia,Republic of Ireland,Republic of Ireland,Richard Dunne,8,FALSE,FALSE,NA
+2001-06-06,Estonia,Republic of Ireland,Republic of Ireland,Matt Holland,38,FALSE,FALSE,NA
+2001-09-01,Republic of Ireland,Netherlands,Republic of Ireland,Jason McAteer,68,FALSE,FALSE,NA
+2001-10-06,Republic of Ireland,Cyprus,Republic of Ireland,Ian Harte,3,FALSE,FALSE,NA
+2001-10-06,Republic of Ireland,Cyprus,Republic of Ireland,Niall Quinn,11,FALSE,FALSE,NA
+2001-10-06,Republic of Ireland,Cyprus,Republic of Ireland,David Connolly,63,FALSE,FALSE,NA
+2001-10-06,Republic of Ireland,Cyprus,Republic of Ireland,Roy Keane,67,FALSE,FALSE,NA
+2001-11-10,Republic of Ireland,Iran,Republic of Ireland,Ian Harte,44,FALSE,TRUE,NA
+2001-11-10,Republic of Ireland,Iran,Republic of Ireland,Robbie Keane,50,FALSE,FALSE,NA
+2001-11-15,Iran,Republic of Ireland,Iran,Yahya Golmohammadi,90,FALSE,FALSE,NA
+2002-06-01,Republic of Ireland,Cameroon,Cameroon,Patrick M'Boma,39,FALSE,FALSE,Samuel Eto'o
+2002-06-01,Republic of Ireland,Cameroon,Republic of Ireland,Matt Holland,52,FALSE,FALSE,NA
+2002-06-05,Germany,Republic of Ireland,Germany,Miroslav Klose,19,FALSE,FALSE,Michael Ballack
+2002-06-05,Germany,Republic of Ireland,Republic of Ireland,Robbie Keane,90,FALSE,FALSE,Niall Quinn
+2002-06-11,Saudi Arabia,Republic of Ireland,Republic of Ireland,Robbie Keane,7,FALSE,FALSE,Gary Kelly
+2002-06-11,Saudi Arabia,Republic of Ireland,Republic of Ireland,Gary Breen,61,FALSE,FALSE,Steve Staunton
+2002-06-11,Saudi Arabia,Republic of Ireland,Republic of Ireland,Damien Duff,87,FALSE,FALSE,Matt Holland
+2002-06-16,Spain,Republic of Ireland,Spain,Fernando Morientes,8,FALSE,FALSE,Carles Puyol
+2002-06-16,Spain,Republic of Ireland,Republic of Ireland,Robbie Keane,90,FALSE,TRUE,NA
+2002-09-07,Russia,Republic of Ireland,Russia,Andrei Karyaka,20,FALSE,FALSE,NA
+2002-09-07,Russia,Republic of Ireland,Russia,Vladimir Beschastnykh,24,FALSE,FALSE,NA
+2002-09-07,Russia,Republic of Ireland,Republic of Ireland,Gary Doherty,69,FALSE,FALSE,NA
+2002-09-07,Russia,Republic of Ireland,Russia,Aleksandr Kerzhakov,71,FALSE,FALSE,NA
+2002-09-07,Russia,Republic of Ireland,Republic of Ireland,Clinton Morrison,76,FALSE,FALSE,NA
+2002-09-07,Russia,Republic of Ireland,Russia,Phil Babb,88,TRUE,FALSE,NA
+2002-10-16,Republic of Ireland,Switzerland,Switzerland,Hakan Yakin,45,FALSE,FALSE,NA
+2002-10-16,Republic of Ireland,Switzerland,Republic of Ireland,Ludovic Magnin,78,TRUE,FALSE,NA
+2002-10-16,Republic of Ireland,Switzerland,Switzerland,Fabio Celestini,87,FALSE,FALSE,NA
+2003-03-29,Georgia,Republic of Ireland,Republic of Ireland,Damien Duff,18,FALSE,FALSE,NA
+2003-03-29,Georgia,Republic of Ireland,Georgia,Levan Kobiashvili,62,FALSE,FALSE,NA
+2003-03-29,Georgia,Republic of Ireland,Republic of Ireland,Gary Doherty,84,FALSE,FALSE,NA
+2003-06-07,Republic of Ireland,Albania,Republic of Ireland,Robbie Keane,6,FALSE,FALSE,NA
+2003-06-07,Republic of Ireland,Albania,Albania,Ervin Skela,8,FALSE,FALSE,NA
+2003-06-07,Republic of Ireland,Albania,Republic of Ireland,Adrian Aliaj,90,TRUE,FALSE,NA
+2003-06-11,Republic of Ireland,Georgia,Republic of Ireland,Gary Doherty,43,FALSE,FALSE,NA
+2003-06-11,Republic of Ireland,Georgia,Republic of Ireland,Robbie Keane,59,FALSE,FALSE,NA
+2003-09-06,Republic of Ireland,Russia,Republic of Ireland,Damien Duff,35,FALSE,FALSE,NA
+2003-09-06,Republic of Ireland,Russia,Russia,Sergei Ignashevich,42,FALSE,FALSE,NA
+2003-10-11,Switzerland,Republic of Ireland,Switzerland,Hakan Yakin,6,FALSE,FALSE,NA
+2003-10-11,Switzerland,Republic of Ireland,Switzerland,Alexander Frei,60,FALSE,FALSE,NA
+2004-09-04,Republic of Ireland,Cyprus,Republic of Ireland,Clinton Morrison,33,FALSE,FALSE,NA
+2004-09-04,Republic of Ireland,Cyprus,Republic of Ireland,Andy Reid,38,FALSE,FALSE,NA
+2004-09-04,Republic of Ireland,Cyprus,Republic of Ireland,Robbie Keane,54,FALSE,FALSE,NA
+2004-09-08,Switzerland,Republic of Ireland,Republic of Ireland,Clinton Morrison,8,FALSE,FALSE,NA
+2004-09-08,Switzerland,Republic of Ireland,Switzerland,Hakan Yakin,17,FALSE,FALSE,NA
+2004-10-13,Republic of Ireland,Faroe Islands,Republic of Ireland,Robbie Keane,14,FALSE,TRUE,NA
+2004-10-13,Republic of Ireland,Faroe Islands,Republic of Ireland,Robbie Keane,32,FALSE,FALSE,NA
+2005-03-26,Israel,Republic of Ireland,Republic of Ireland,Clinton Morrison,43,FALSE,FALSE,NA
+2005-03-26,Israel,Republic of Ireland,Israel,Abbas Souan,90,FALSE,FALSE,NA
+2005-06-04,Republic of Ireland,Israel,Republic of Ireland,Ian Harte,5,FALSE,FALSE,NA
+2005-06-04,Republic of Ireland,Israel,Republic of Ireland,Robbie Keane,11,FALSE,FALSE,NA
+2005-06-04,Republic of Ireland,Israel,Israel,Avi Yehiel,39,FALSE,FALSE,NA
+2005-06-04,Republic of Ireland,Israel,Israel,Avi Nimni,45,FALSE,FALSE,NA
+2005-06-08,Faroe Islands,Republic of Ireland,Republic of Ireland,Ian Harte,51,FALSE,FALSE,NA
+2005-06-08,Faroe Islands,Republic of Ireland,Republic of Ireland,Kevin Kilbane,59,FALSE,FALSE,NA
+2005-09-07,Republic of Ireland,France,France,Thierry Henry,68,FALSE,FALSE,NA
+2005-10-08,Cyprus,Republic of Ireland,Republic of Ireland,Stephen Elliott,6,FALSE,FALSE,NA
+2006-09-02,Germany,Republic of Ireland,Germany,Lukas Podolski,57,FALSE,FALSE,NA
+2006-10-07,Cyprus,Republic of Ireland,Republic of Ireland,Stephen Ireland,8,FALSE,FALSE,NA
+2006-10-07,Cyprus,Republic of Ireland,Cyprus,Michalis Konstantinou,10,FALSE,FALSE,NA
+2006-10-07,Cyprus,Republic of Ireland,Cyprus,Alexandros Garpozis,16,FALSE,FALSE,NA
+2006-10-07,Cyprus,Republic of Ireland,Republic of Ireland,Richard Dunne,44,FALSE,FALSE,NA
+2006-10-07,Cyprus,Republic of Ireland,Cyprus,Michalis Konstantinou,50,FALSE,TRUE,NA
+2006-10-07,Cyprus,Republic of Ireland,Cyprus,Constantinos Charalambides,60,FALSE,FALSE,NA
+2006-10-07,Cyprus,Republic of Ireland,Cyprus,Constantinos Charalambides,75,FALSE,FALSE,NA
+2006-10-11,Republic of Ireland,Czech Republic,Republic of Ireland,Kevin Kilbane,62,FALSE,FALSE,NA
+2006-10-11,Republic of Ireland,Czech Republic,Czech Republic,Jan Koller,64,FALSE,FALSE,NA
+2006-11-15,Republic of Ireland,San Marino,Republic of Ireland,Andy Reid,7,FALSE,FALSE,NA
+2006-11-15,Republic of Ireland,San Marino,Republic of Ireland,Kevin Doyle,24,FALSE,FALSE,NA
+2006-11-15,Republic of Ireland,San Marino,Republic of Ireland,Robbie Keane,31,FALSE,FALSE,NA
+2006-11-15,Republic of Ireland,San Marino,Republic of Ireland,Robbie Keane,58,FALSE,TRUE,NA
+2006-11-15,Republic of Ireland,San Marino,Republic of Ireland,Robbie Keane,85,FALSE,FALSE,NA
+2007-02-07,San Marino,Republic of Ireland,Republic of Ireland,Kevin Kilbane,49,FALSE,FALSE,NA
+2007-02-07,San Marino,Republic of Ireland,San Marino,Manuel Marani,86,FALSE,FALSE,NA
+2007-02-07,San Marino,Republic of Ireland,Republic of Ireland,Stephen Ireland,90,FALSE,FALSE,NA
+2007-03-24,Republic of Ireland,Wales,Republic of Ireland,Stephen Ireland,39,FALSE,FALSE,NA
+2007-03-28,Republic of Ireland,Slovakia,Republic of Ireland,Kevin Doyle,13,FALSE,FALSE,NA
+2007-09-08,Slovakia,Republic of Ireland,Republic of Ireland,Stephen Ireland,7,FALSE,FALSE,NA
+2007-09-08,Slovakia,Republic of Ireland,Slovakia,Maroš Klimpl,37,FALSE,FALSE,NA
+2007-09-08,Slovakia,Republic of Ireland,Republic of Ireland,Kevin Doyle,57,FALSE,FALSE,NA
+2007-09-08,Slovakia,Republic of Ireland,Slovakia,Marek Čech,90,FALSE,FALSE,NA
+2007-09-12,Czech Republic,Republic of Ireland,Czech Republic,Marek Jankulovski,15,FALSE,FALSE,NA
+2007-10-17,Republic of Ireland,Cyprus,Cyprus,Stelios Okkarides,80,FALSE,FALSE,NA
+2007-10-17,Republic of Ireland,Cyprus,Republic of Ireland,Steve Finnan,90,FALSE,FALSE,NA
+2007-11-17,Wales,Republic of Ireland,Wales,Jason Koumas,23,FALSE,FALSE,NA
+2007-11-17,Wales,Republic of Ireland,Republic of Ireland,Robbie Keane,31,FALSE,FALSE,NA
+2007-11-17,Wales,Republic of Ireland,Republic of Ireland,Kevin Doyle,60,FALSE,FALSE,NA
+2007-11-17,Wales,Republic of Ireland,Wales,Jason Koumas,89,FALSE,TRUE,NA
+2008-09-06,Georgia,Republic of Ireland,Republic of Ireland,Kevin Doyle,13,FALSE,FALSE,NA
+2008-09-06,Georgia,Republic of Ireland,Republic of Ireland,Glenn Whelan,70,FALSE,FALSE,NA
+2008-09-06,Georgia,Republic of Ireland,Georgia,Levan Kenia,90,FALSE,FALSE,NA
+2008-10-15,Republic of Ireland,Cyprus,Republic of Ireland,Robbie Keane,5,FALSE,FALSE,NA
+2009-02-11,Republic of Ireland,Georgia,Georgia,Aleksandr Iashvili,1,FALSE,FALSE,NA
+2009-02-11,Republic of Ireland,Georgia,Republic of Ireland,Robbie Keane,73,FALSE,TRUE,NA
+2009-02-11,Republic of Ireland,Georgia,Republic of Ireland,Robbie Keane,78,FALSE,FALSE,NA
+2009-03-28,Republic of Ireland,Bulgaria,Republic of Ireland,Richard Dunne,1,FALSE,FALSE,NA
+2009-03-28,Republic of Ireland,Bulgaria,Bulgaria,Kevin Kilbane,74,TRUE,FALSE,NA
+2009-04-01,Italy,Republic of Ireland,Italy,Vincenzo Iaquinta,10,FALSE,FALSE,NA
+2009-04-01,Italy,Republic of Ireland,Republic of Ireland,Robbie Keane,87,FALSE,FALSE,NA
+2009-06-06,Bulgaria,Republic of Ireland,Republic of Ireland,Richard Dunne,24,FALSE,FALSE,NA
+2009-06-06,Bulgaria,Republic of Ireland,Bulgaria,Dimitar Telkiyski,29,FALSE,FALSE,NA
+2009-09-05,Cyprus,Republic of Ireland,Republic of Ireland,Kevin Doyle,5,FALSE,FALSE,NA
+2009-09-05,Cyprus,Republic of Ireland,Cyprus,Marios Elia,30,FALSE,FALSE,NA
+2009-09-05,Cyprus,Republic of Ireland,Republic of Ireland,Robbie Keane,83,FALSE,FALSE,NA
+2009-10-10,Republic of Ireland,Italy,Republic of Ireland,Glenn Whelan,8,FALSE,FALSE,NA
+2009-10-10,Republic of Ireland,Italy,Italy,Mauro Camoranesi,26,FALSE,FALSE,NA
+2009-10-10,Republic of Ireland,Italy,Republic of Ireland,Sean St Ledger,87,FALSE,FALSE,NA
+2009-10-10,Republic of Ireland,Italy,Italy,Alberto Gilardino,90,FALSE,FALSE,NA
+2009-11-14,Republic of Ireland,France,France,Nicolas Anelka,72,FALSE,FALSE,NA
+2009-11-18,France,Republic of Ireland,Republic of Ireland,Robbie Keane,32,FALSE,FALSE,NA
+2009-11-18,France,Republic of Ireland,France,William Gallas,103,FALSE,FALSE,NA
+2010-09-03,Armenia,Republic of Ireland,Republic of Ireland,Keith Fahey,76,FALSE,FALSE,NA
+2010-09-07,Republic of Ireland,Andorra,Republic of Ireland,Kevin Kilbane,15,FALSE,FALSE,NA
+2010-09-07,Republic of Ireland,Andorra,Republic of Ireland,Kevin Doyle,41,FALSE,FALSE,NA
+2010-09-07,Republic of Ireland,Andorra,Andorra,Cristian Martínez,45,FALSE,FALSE,NA
+2010-09-07,Republic of Ireland,Andorra,Republic of Ireland,Robbie Keane,54,FALSE,FALSE,NA
+2010-10-08,Republic of Ireland,Russia,Russia,Aleksandr Kerzhakov,11,FALSE,FALSE,NA
+2010-10-08,Republic of Ireland,Russia,Russia,Alan Dzagoev,29,FALSE,FALSE,NA
+2010-10-08,Republic of Ireland,Russia,Russia,Roman Shirokov,50,FALSE,FALSE,NA
+2010-10-08,Republic of Ireland,Russia,Republic of Ireland,Robbie Keane,72,FALSE,TRUE,NA
+2010-10-08,Republic of Ireland,Russia,Republic of Ireland,Shane Long,78,FALSE,FALSE,NA
+2010-10-12,Slovakia,Republic of Ireland,Republic of Ireland,Sean St Ledger,16,FALSE,FALSE,NA
+2010-10-12,Slovakia,Republic of Ireland,Slovakia,Ján Ďurica,36,FALSE,FALSE,NA
+2011-03-26,Republic of Ireland,North Macedonia,Republic of Ireland,Aiden McGeady,2,FALSE,FALSE,NA
+2011-03-26,Republic of Ireland,North Macedonia,Republic of Ireland,Robbie Keane,21,FALSE,FALSE,NA
+2011-03-26,Republic of Ireland,North Macedonia,North Macedonia,Ivan Trichkovski,45,FALSE,FALSE,NA
+2011-06-04,North Macedonia,Republic of Ireland,Republic of Ireland,Robbie Keane,7,FALSE,FALSE,NA
+2011-06-04,North Macedonia,Republic of Ireland,Republic of Ireland,Robbie Keane,37,FALSE,FALSE,NA
+2011-10-07,Andorra,Republic of Ireland,Republic of Ireland,Kevin Doyle,7,FALSE,FALSE,NA
+2011-10-07,Andorra,Republic of Ireland,Republic of Ireland,Aiden McGeady,20,FALSE,FALSE,NA
+2011-10-11,Republic of Ireland,Armenia,Republic of Ireland,Valeri Aleksanyan,43,TRUE,FALSE,NA
+2011-10-11,Republic of Ireland,Armenia,Republic of Ireland,Richard Dunne,59,FALSE,FALSE,NA
+2011-10-11,Republic of Ireland,Armenia,Armenia,Henrikh Mkhitaryan,62,FALSE,FALSE,NA
+2011-11-11,Estonia,Republic of Ireland,Republic of Ireland,Keith Andrews,13,FALSE,FALSE,NA
+2011-11-11,Estonia,Republic of Ireland,Republic of Ireland,Jonathan Walters,67,FALSE,FALSE,NA
+2011-11-11,Estonia,Republic of Ireland,Republic of Ireland,Robbie Keane,71,FALSE,FALSE,NA
+2011-11-11,Estonia,Republic of Ireland,Republic of Ireland,Robbie Keane,88,FALSE,TRUE,NA
+2011-11-15,Republic of Ireland,Estonia,Republic of Ireland,Stephen Ward,32,FALSE,FALSE,NA
+2011-11-15,Republic of Ireland,Estonia,Estonia,Konstantin Vassiljev,57,FALSE,FALSE,NA
+2012-06-10,Republic of Ireland,Croatia,Croatia,Mario Mandžukić,3,FALSE,FALSE,NA
+2012-06-10,Republic of Ireland,Croatia,Republic of Ireland,Sean St Ledger,19,FALSE,FALSE,NA
+2012-06-10,Republic of Ireland,Croatia,Croatia,Nikica Jelavić,43,FALSE,FALSE,NA
+2012-06-10,Republic of Ireland,Croatia,Croatia,Mario Mandžukić,49,FALSE,FALSE,NA
+2012-06-14,Spain,Republic of Ireland,Spain,Fernando Torres,4,FALSE,FALSE,NA
+2012-06-14,Spain,Republic of Ireland,Spain,David Silva,49,FALSE,FALSE,NA
+2012-06-14,Spain,Republic of Ireland,Spain,Fernando Torres,70,FALSE,FALSE,NA
+2012-06-14,Spain,Republic of Ireland,Spain,Cesc Fàbregas,83,FALSE,FALSE,NA
+2012-06-18,Italy,Republic of Ireland,Italy,Antonio Cassano,35,FALSE,FALSE,NA
+2012-06-18,Italy,Republic of Ireland,Italy,Mario Balotelli,90,FALSE,FALSE,NA
+2012-09-07,Kazakhstan,Republic of Ireland,Kazakhstan,Kairat Nurdauletov,37,FALSE,FALSE,NA
+2012-09-07,Kazakhstan,Republic of Ireland,Republic of Ireland,Robbie Keane,88,FALSE,TRUE,NA
+2012-09-07,Kazakhstan,Republic of Ireland,Republic of Ireland,Kevin Doyle,90,FALSE,FALSE,NA
+2012-10-12,Republic of Ireland,Germany,Germany,Marco Reus,32,FALSE,FALSE,NA
+2012-10-12,Republic of Ireland,Germany,Germany,Marco Reus,40,FALSE,FALSE,NA
+2012-10-12,Republic of Ireland,Germany,Germany,Mesut Özil,55,FALSE,TRUE,NA
+2012-10-12,Republic of Ireland,Germany,Germany,Miroslav Klose,58,FALSE,FALSE,NA
+2012-10-12,Republic of Ireland,Germany,Germany,Toni Kroos,61,FALSE,FALSE,NA
+2012-10-12,Republic of Ireland,Germany,Germany,Toni Kroos,83,FALSE,FALSE,NA
+2012-10-12,Republic of Ireland,Germany,Republic of Ireland,Andy Keogh,90,FALSE,FALSE,NA
+2012-10-16,Faroe Islands,Republic of Ireland,Republic of Ireland,Marc Wilson,46,FALSE,FALSE,NA
+2012-10-16,Faroe Islands,Republic of Ireland,Republic of Ireland,Jonathan Walters,53,FALSE,FALSE,NA
+2012-10-16,Faroe Islands,Republic of Ireland,Faroe Islands,Arnbjørn Hansen,69,FALSE,FALSE,NA
+2012-10-16,Faroe Islands,Republic of Ireland,Republic of Ireland,Pól Jóhannus Justinussen,73,TRUE,FALSE,NA
+2012-10-16,Faroe Islands,Republic of Ireland,Republic of Ireland,Darren O'Dea,88,FALSE,FALSE,NA
+2013-03-26,Republic of Ireland,Austria,Austria,Martin Harnik,11,FALSE,FALSE,NA
+2013-03-26,Republic of Ireland,Austria,Republic of Ireland,Jonathan Walters,25,FALSE,TRUE,NA
+2013-03-26,Republic of Ireland,Austria,Republic of Ireland,Jonathan Walters,45,FALSE,FALSE,NA
+2013-03-26,Republic of Ireland,Austria,Austria,David Alaba,90,FALSE,FALSE,NA
+2013-06-07,Republic of Ireland,Faroe Islands,Republic of Ireland,Robbie Keane,5,FALSE,FALSE,NA
+2013-06-07,Republic of Ireland,Faroe Islands,Republic of Ireland,Robbie Keane,55,FALSE,FALSE,NA
+2013-06-07,Republic of Ireland,Faroe Islands,Republic of Ireland,Robbie Keane,81,FALSE,FALSE,NA
+2013-09-06,Republic of Ireland,Sweden,Republic of Ireland,Robbie Keane,22,FALSE,FALSE,NA
+2013-09-06,Republic of Ireland,Sweden,Sweden,Johan Elmander,33,FALSE,FALSE,NA
+2013-09-06,Republic of Ireland,Sweden,Sweden,Anders Svensson,57,FALSE,FALSE,NA
+2013-09-10,Austria,Republic of Ireland,Austria,David Alaba,84,FALSE,FALSE,NA
+2013-10-11,Germany,Republic of Ireland,Germany,Sami Khedira,11,FALSE,FALSE,NA
+2013-10-11,Germany,Republic of Ireland,Germany,André Schürrle,58,FALSE,FALSE,NA
+2013-10-11,Germany,Republic of Ireland,Germany,Mesut Özil,90,FALSE,FALSE,NA
+2013-10-15,Republic of Ireland,Kazakhstan,Kazakhstan,Dmitriy Shomko,13,FALSE,FALSE,NA
+2013-10-15,Republic of Ireland,Kazakhstan,Republic of Ireland,Robbie Keane,17,FALSE,TRUE,NA
+2013-10-15,Republic of Ireland,Kazakhstan,Republic of Ireland,John O'Shea,26,FALSE,FALSE,NA
+2013-10-15,Republic of Ireland,Kazakhstan,Republic of Ireland,Dmitriy Shomko,77,TRUE,FALSE,NA
+2014-09-07,Georgia,Republic of Ireland,Republic of Ireland,Aiden McGeady,24,FALSE,FALSE,NA
+2014-09-07,Georgia,Republic of Ireland,Georgia,Tornike Okriashvili,38,FALSE,FALSE,NA
+2014-09-07,Georgia,Republic of Ireland,Republic of Ireland,Aiden McGeady,90,FALSE,FALSE,NA
+2014-10-11,Republic of Ireland,Gibraltar,Republic of Ireland,Robbie Keane,6,FALSE,FALSE,NA
+2014-10-11,Republic of Ireland,Gibraltar,Republic of Ireland,Robbie Keane,14,FALSE,FALSE,NA
+2014-10-11,Republic of Ireland,Gibraltar,Republic of Ireland,Robbie Keane,18,FALSE,TRUE,NA
+2014-10-11,Republic of Ireland,Gibraltar,Republic of Ireland,James McClean,46,FALSE,FALSE,NA
+2014-10-11,Republic of Ireland,Gibraltar,Republic of Ireland,Jordan Perez,52,TRUE,FALSE,NA
+2014-10-11,Republic of Ireland,Gibraltar,Republic of Ireland,James McClean,53,FALSE,FALSE,NA
+2014-10-11,Republic of Ireland,Gibraltar,Republic of Ireland,Wes Hoolahan,56,FALSE,FALSE,NA
+2014-10-14,Germany,Republic of Ireland,Germany,Toni Kroos,71,FALSE,FALSE,NA
+2014-10-14,Germany,Republic of Ireland,Republic of Ireland,John O'Shea,90,FALSE,FALSE,NA
+2014-11-14,Scotland,Republic of Ireland,Scotland,Shaun Maloney,75,FALSE,FALSE,NA
+2015-03-29,Republic of Ireland,Poland,Poland,Sławomir Peszko,26,FALSE,FALSE,NA
+2015-03-29,Republic of Ireland,Poland,Republic of Ireland,Shane Long,90,FALSE,FALSE,NA
+2015-06-13,Republic of Ireland,Scotland,Republic of Ireland,Jonathan Walters,38,FALSE,FALSE,NA
+2015-06-13,Republic of Ireland,Scotland,Scotland,John O'Shea,47,TRUE,FALSE,NA
+2015-09-04,Gibraltar,Republic of Ireland,Republic of Ireland,Cyrus Christie,27,FALSE,FALSE,NA
+2015-09-04,Gibraltar,Republic of Ireland,Republic of Ireland,Robbie Keane,49,FALSE,FALSE,NA
+2015-09-04,Gibraltar,Republic of Ireland,Republic of Ireland,Robbie Keane,51,FALSE,TRUE,NA
+2015-09-04,Gibraltar,Republic of Ireland,Republic of Ireland,Shane Long,79,FALSE,FALSE,NA
+2015-09-07,Republic of Ireland,Georgia,Republic of Ireland,Jonathan Walters,69,FALSE,FALSE,NA
+2015-10-08,Republic of Ireland,Germany,Republic of Ireland,Shane Long,70,FALSE,FALSE,NA
+2015-10-11,Poland,Republic of Ireland,Poland,Grzegorz Krychowiak,13,FALSE,FALSE,NA
+2015-10-11,Poland,Republic of Ireland,Republic of Ireland,Jonathan Walters,16,FALSE,TRUE,NA
+2015-10-11,Poland,Republic of Ireland,Poland,Robert Lewandowski,42,FALSE,FALSE,NA
+2015-11-13,Bosnia and Herzegovina,Republic of Ireland,Republic of Ireland,Robbie Brady,82,FALSE,FALSE,NA
+2015-11-13,Bosnia and Herzegovina,Republic of Ireland,Bosnia and Herzegovina,Edin Džeko,85,FALSE,FALSE,NA
+2015-11-16,Republic of Ireland,Bosnia and Herzegovina,Republic of Ireland,Jonathan Walters,24,FALSE,TRUE,NA
+2015-11-16,Republic of Ireland,Bosnia and Herzegovina,Republic of Ireland,Jonathan Walters,70,FALSE,FALSE,NA
+2016-06-13,Republic of Ireland,Sweden,Republic of Ireland,Wes Hoolahan,48,FALSE,FALSE,NA
+2016-06-13,Republic of Ireland,Sweden,Sweden,Ciaran Clark,71,TRUE,FALSE,NA
+2016-06-18,Belgium,Republic of Ireland,Belgium,Romelu Lukaku,48,FALSE,FALSE,NA
+2016-06-18,Belgium,Republic of Ireland,Belgium,Axel Witsel,61,FALSE,FALSE,NA
+2016-06-18,Belgium,Republic of Ireland,Belgium,Romelu Lukaku,70,FALSE,FALSE,NA
+2016-06-22,Italy,Republic of Ireland,Republic of Ireland,Robbie Brady,85,FALSE,FALSE,NA
+2016-06-26,France,Republic of Ireland,Republic of Ireland,Robbie Brady,2,FALSE,TRUE,NA
+2016-06-26,France,Republic of Ireland,France,Antoine Griezmann,58,FALSE,FALSE,NA
+2016-06-26,France,Republic of Ireland,France,Antoine Griezmann,61,FALSE,FALSE,NA
+2016-09-05,Serbia,Republic of Ireland,Republic of Ireland,Jeff Hendrick,3,FALSE,FALSE,NA
+2016-09-05,Serbia,Republic of Ireland,Serbia,Filip Kostić,62,FALSE,FALSE,NA
+2016-09-05,Serbia,Republic of Ireland,Serbia,Dušan Tadić,69,FALSE,TRUE,NA
+2016-09-05,Serbia,Republic of Ireland,Republic of Ireland,Daryl Murphy,80,FALSE,FALSE,NA
+2016-10-06,Republic of Ireland,Georgia,Republic of Ireland,Séamus Coleman,56,FALSE,FALSE,NA
+2016-10-09,Moldova,Republic of Ireland,Republic of Ireland,Shane Long,2,FALSE,FALSE,NA
+2016-10-09,Moldova,Republic of Ireland,Moldova,Igor Bugaiov,45,FALSE,FALSE,NA
+2016-10-09,Moldova,Republic of Ireland,Republic of Ireland,James McClean,69,FALSE,FALSE,NA
+2016-10-09,Moldova,Republic of Ireland,Republic of Ireland,James McClean,76,FALSE,FALSE,NA
+2016-11-12,Austria,Republic of Ireland,Republic of Ireland,James McClean,48,FALSE,FALSE,NA
+2017-06-11,Republic of Ireland,Austria,Austria,Martin Hinteregger,31,FALSE,FALSE,NA
+2017-06-11,Republic of Ireland,Austria,Republic of Ireland,Jonathan Walters,85,FALSE,FALSE,NA
+2017-09-02,Georgia,Republic of Ireland,Republic of Ireland,Shane Duffy,4,FALSE,FALSE,NA
+2017-09-02,Georgia,Republic of Ireland,Georgia,Valeri Qazaishvili,34,FALSE,FALSE,NA
+2017-09-05,Republic of Ireland,Serbia,Serbia,Aleksandar Kolarov,55,FALSE,FALSE,NA
+2017-10-06,Republic of Ireland,Moldova,Republic of Ireland,Daryl Murphy,2,FALSE,FALSE,NA
+2017-10-06,Republic of Ireland,Moldova,Republic of Ireland,Daryl Murphy,19,FALSE,FALSE,NA
+2017-10-09,Wales,Republic of Ireland,Republic of Ireland,James McClean,57,FALSE,FALSE,NA
+2017-11-14,Republic of Ireland,Denmark,Republic of Ireland,Shane Duffy,6,FALSE,FALSE,NA
+2017-11-14,Republic of Ireland,Denmark,Denmark,Andreas Christensen,29,FALSE,FALSE,NA
+2017-11-14,Republic of Ireland,Denmark,Denmark,Christian Eriksen,32,FALSE,FALSE,NA
+2017-11-14,Republic of Ireland,Denmark,Denmark,Christian Eriksen,63,FALSE,FALSE,NA
+2017-11-14,Republic of Ireland,Denmark,Denmark,Christian Eriksen,74,FALSE,FALSE,NA
+2017-11-14,Republic of Ireland,Denmark,Denmark,Nicklas Bendtner,90,FALSE,TRUE,NA
+2018-09-06,Wales,Republic of Ireland,Wales,Tom Lawrence,6,FALSE,FALSE,NA
+2018-09-06,Wales,Republic of Ireland,Wales,Gareth Bale,18,FALSE,FALSE,NA
+2018-09-06,Wales,Republic of Ireland,Wales,Aaron Ramsey,37,FALSE,FALSE,NA
+2018-09-06,Wales,Republic of Ireland,Wales,Connor Roberts,55,FALSE,FALSE,NA
+2018-09-06,Wales,Republic of Ireland,Republic of Ireland,Shaun Williams,66,FALSE,FALSE,NA
+2018-10-16,Republic of Ireland,Wales,Wales,Harry Wilson,58,FALSE,FALSE,NA
+2019-03-23,Gibraltar,Republic of Ireland,Republic of Ireland,Jeff Hendrick,49,FALSE,FALSE,NA
+2019-03-26,Republic of Ireland,Georgia,Republic of Ireland,Conor Hourihane,36,FALSE,FALSE,NA
+2019-06-07,Denmark,Republic of Ireland,Denmark,Pierre-Emile Højbjerg,76,FALSE,FALSE,NA
+2019-06-07,Denmark,Republic of Ireland,Republic of Ireland,Shane Duffy,85,FALSE,FALSE,NA
+2019-06-10,Republic of Ireland,Gibraltar,Republic of Ireland,Joseph Chipolina,29,TRUE,FALSE,NA
+2019-06-10,Republic of Ireland,Gibraltar,Republic of Ireland,Robbie Brady,90,FALSE,FALSE,NA
+2019-09-05,Republic of Ireland,Switzerland,Switzerland,Fabian Schär,74,FALSE,FALSE,NA
+2019-09-05,Republic of Ireland,Switzerland,Republic of Ireland,David McGoldrick,85,FALSE,FALSE,NA
+2019-10-15,Switzerland,Republic of Ireland,Switzerland,Haris Seferovic,16,FALSE,FALSE,NA
+2019-10-15,Switzerland,Republic of Ireland,Switzerland,Edimilson Fernandes,90,FALSE,FALSE,NA
+2019-11-18,Republic of Ireland,Denmark,Denmark,Martin Braithwaite,73,FALSE,FALSE,NA
+2019-11-18,Republic of Ireland,Denmark,Republic of Ireland,Matt Doherty,85,FALSE,FALSE,NA
+2020-09-03,Bulgaria,Republic of Ireland,Bulgaria,Bozhidar Kraev,56,FALSE,FALSE,NA
+2020-09-03,Bulgaria,Republic of Ireland,Republic of Ireland,Shane Duffy,90,FALSE,FALSE,NA
+2020-09-06,Republic of Ireland,Finland,Finland,Fredrik Jensen,64,FALSE,FALSE,NA
+2020-10-14,Finland,Republic of Ireland,Finland,Fredrik Jensen,66,FALSE,FALSE,NA
+2020-11-15,Wales,Republic of Ireland,Wales,David Brooks,67,FALSE,FALSE,NA
+2021-03-24,Serbia,Republic of Ireland,Republic of Ireland,Alan Browne,18,FALSE,FALSE,NA
+2021-03-24,Serbia,Republic of Ireland,Serbia,Dušan Vlahović,40,FALSE,FALSE,NA
+2021-03-24,Serbia,Republic of Ireland,Serbia,Aleksandar Mitrović,69,FALSE,FALSE,NA
+2021-03-24,Serbia,Republic of Ireland,Serbia,Aleksandar Mitrović,75,FALSE,FALSE,NA
+2021-03-24,Serbia,Republic of Ireland,Republic of Ireland,James Collins,86,FALSE,FALSE,NA
+2021-03-27,Republic of Ireland,Luxembourg,Luxembourg,Gerson Rodrigues,85,FALSE,FALSE,NA
+2021-09-01,Portugal,Republic of Ireland,Republic of Ireland,John Egan,45,FALSE,FALSE,NA
+2021-09-01,Portugal,Republic of Ireland,Portugal,Cristiano Ronaldo,89,FALSE,FALSE,NA
+2021-09-01,Portugal,Republic of Ireland,Portugal,Cristiano Ronaldo,90,FALSE,FALSE,NA
+2021-09-04,Republic of Ireland,Azerbaijan,Azerbaijan,Emin Mahmudov,45,FALSE,FALSE,NA
+2021-09-04,Republic of Ireland,Azerbaijan,Republic of Ireland,Shane Duffy,87,FALSE,FALSE,NA
+2021-09-07,Republic of Ireland,Serbia,Serbia,Sergej Milinković-Savić,20,FALSE,FALSE,NA
+2021-09-07,Republic of Ireland,Serbia,Republic of Ireland,Nikola Milenković,87,TRUE,FALSE,NA
+2021-10-09,Azerbaijan,Republic of Ireland,Republic of Ireland,Callum Robinson,7,FALSE,FALSE,NA
+2021-10-09,Azerbaijan,Republic of Ireland,Republic of Ireland,Callum Robinson,39,FALSE,FALSE,NA
+2021-10-09,Azerbaijan,Republic of Ireland,Republic of Ireland,Chiedozie Ogbene,90,FALSE,FALSE,NA
+2021-11-14,Luxembourg,Republic of Ireland,Republic of Ireland,Shane Duffy,67,FALSE,FALSE,NA
+2021-11-14,Luxembourg,Republic of Ireland,Republic of Ireland,Chiedozie Ogbene,75,FALSE,FALSE,NA
+2021-11-14,Luxembourg,Republic of Ireland,Republic of Ireland,Callum Robinson,88,FALSE,FALSE,NA
+2022-06-04,Armenia,Republic of Ireland,Armenia,Eduard Spertsyan,74,FALSE,FALSE,NA
+2022-06-08,Republic of Ireland,Ukraine,Ukraine,Viktor Tsyhankov,49,FALSE,FALSE,NA
+2022-06-11,Republic of Ireland,Scotland,Republic of Ireland,Alan Browne,20,FALSE,FALSE,NA
+2022-06-11,Republic of Ireland,Scotland,Republic of Ireland,Troy Parrott,28,FALSE,FALSE,NA
+2022-06-11,Republic of Ireland,Scotland,Republic of Ireland,Michael Obafemi,51,FALSE,FALSE,NA
+2022-06-14,Ukraine,Republic of Ireland,Republic of Ireland,Nathan Collins,31,FALSE,FALSE,NA
+2022-06-14,Ukraine,Republic of Ireland,Ukraine,Artem Dovbyk,47,FALSE,FALSE,NA
+2022-09-24,Scotland,Republic of Ireland,Republic of Ireland,John Egan,18,FALSE,FALSE,NA
+2022-09-24,Scotland,Republic of Ireland,Scotland,Jack Hendry,50,FALSE,FALSE,NA
+2022-09-24,Scotland,Republic of Ireland,Scotland,Ryan Christie,82,FALSE,TRUE,NA
+2022-09-27,Republic of Ireland,Armenia,Republic of Ireland,John Egan,18,FALSE,FALSE,NA
+2022-09-27,Republic of Ireland,Armenia,Republic of Ireland,Michael Obafemi,52,FALSE,FALSE,NA
+2022-09-27,Republic of Ireland,Armenia,Armenia,Artak Dashyan,71,FALSE,FALSE,NA
+2022-09-27,Republic of Ireland,Armenia,Armenia,Eduard Spertsyan,73,FALSE,FALSE,NA
+2022-09-27,Republic of Ireland,Armenia,Republic of Ireland,Robbie Brady,90,FALSE,TRUE,NA
+2023-03-27,Republic of Ireland,France,France,Benjamin Pavard,50,FALSE,FALSE,NA
+2023-06-16,Greece,Republic of Ireland,Greece,Tasos Bakasetas,15,FALSE,TRUE,NA
+2023-06-16,Greece,Republic of Ireland,Republic of Ireland,Nathan Collins,27,FALSE,FALSE,NA
+2023-06-16,Greece,Republic of Ireland,Greece,Giorgos Masouras,49,FALSE,FALSE,NA
+2023-06-19,Republic of Ireland,Gibraltar,Republic of Ireland,Mikey Johnston,52,FALSE,FALSE,NA
+2023-06-19,Republic of Ireland,Gibraltar,Republic of Ireland,Evan Ferguson,59,FALSE,FALSE,NA
+2023-06-19,Republic of Ireland,Gibraltar,Republic of Ireland,Adam Idah,90,FALSE,FALSE,NA
+2023-09-07,France,Republic of Ireland,France,Aurélien Tchouaméni,19,FALSE,FALSE,NA
+2023-09-07,France,Republic of Ireland,France,Marcus Thuram,48,FALSE,FALSE,NA
+2023-09-10,Republic of Ireland,Netherlands,Republic of Ireland,Adam Idah,5,FALSE,TRUE,NA
+2023-09-10,Republic of Ireland,Netherlands,Netherlands,Cody Gakpo,19,FALSE,TRUE,NA
+2023-09-10,Republic of Ireland,Netherlands,Netherlands,Wout Weghorst,56,FALSE,FALSE,NA
+2023-10-13,Republic of Ireland,Greece,Greece,Giorgos Giakoumakis,20,FALSE,FALSE,NA
+2023-10-13,Republic of Ireland,Greece,Greece,Giorgos Masouras,45,FALSE,FALSE,NA
+2023-10-16,Gibraltar,Republic of Ireland,Republic of Ireland,Evan Ferguson,8,FALSE,FALSE,NA
+2023-10-16,Gibraltar,Republic of Ireland,Republic of Ireland,Mikey Johnston,28,FALSE,FALSE,NA
+2023-10-16,Gibraltar,Republic of Ireland,Republic of Ireland,Matt Doherty,60,FALSE,FALSE,NA
+2023-10-16,Gibraltar,Republic of Ireland,Republic of Ireland,Callum Robinson,80,FALSE,FALSE,NA
+2023-11-18,Netherlands,Republic of Ireland,Netherlands,Wout Weghorst,12,FALSE,FALSE,NA
+2024-09-07,Republic of Ireland,England,England,Declan Rice,11,FALSE,FALSE,NA
+2024-09-07,Republic of Ireland,England,England,Jack Grealish,26,FALSE,FALSE,NA
+2024-09-10,Republic of Ireland,Greece,Greece,Fotis Ioannidis,50,FALSE,FALSE,NA
+2024-09-10,Republic of Ireland,Greece,Greece,Christos Tzolis,87,FALSE,FALSE,NA
+2024-10-10,Finland,Republic of Ireland,Finland,Joel Pohjanpalo,17,FALSE,FALSE,NA
+2024-10-10,Finland,Republic of Ireland,Republic of Ireland,Liam Scales,57,FALSE,FALSE,NA
+2024-10-10,Finland,Republic of Ireland,Republic of Ireland,Robbie Brady,88,FALSE,FALSE,NA
+2024-10-13,Greece,Republic of Ireland,Greece,Tasos Bakasetas,48,FALSE,FALSE,NA
+2024-10-13,Greece,Republic of Ireland,Greece,Petros Mantalos,90,FALSE,FALSE,NA
+2024-11-14,Republic of Ireland,Finland,Republic of Ireland,Evan Ferguson,45,FALSE,FALSE,NA
+2024-11-17,England,Republic of Ireland,England,Harry Kane,53,FALSE,TRUE,NA
+2024-11-17,England,Republic of Ireland,England,Anthony Gordon,56,FALSE,FALSE,NA
+2024-11-17,England,Republic of Ireland,England,Conor Gallagher,58,FALSE,FALSE,NA
+2024-11-17,England,Republic of Ireland,England,Jarrod Bowen,76,FALSE,FALSE,NA
+2024-11-17,England,Republic of Ireland,England,Taylor Harwood-Bellis,79,FALSE,FALSE,NA
+2025-03-20,Bulgaria,Republic of Ireland,Bulgaria,Marin Petkov,6,FALSE,FALSE,NA
+2025-03-20,Bulgaria,Republic of Ireland,Republic of Ireland,Finn Azaz,21,FALSE,FALSE,NA
+2025-03-20,Bulgaria,Republic of Ireland,Republic of Ireland,Matt Doherty,42,FALSE,FALSE,NA
+2025-03-23,Republic of Ireland,Bulgaria,Bulgaria,Valentin Antov,30,FALSE,FALSE,NA
+2025-03-23,Republic of Ireland,Bulgaria,Republic of Ireland,Evan Ferguson,63,FALSE,FALSE,NA
+2025-03-23,Republic of Ireland,Bulgaria,Republic of Ireland,Adam Idah,84,FALSE,FALSE,NA
+2025-09-06,Republic of Ireland,Hungary,Hungary,Barnabás Varga,2,FALSE,FALSE,NA
+2025-09-06,Republic of Ireland,Hungary,Hungary,Roland Sallai,15,FALSE,FALSE,NA
+2025-09-06,Republic of Ireland,Hungary,Republic of Ireland,Evan Ferguson,49,FALSE,FALSE,NA
+2025-09-06,Republic of Ireland,Hungary,Republic of Ireland,Adam Idah,90,FALSE,FALSE,NA
+2025-09-09,Armenia,Republic of Ireland,Armenia,Eduard Spertsyan,45,FALSE,TRUE,NA
+2025-09-09,Armenia,Republic of Ireland,Armenia,Grant-Leon Ranos,51,FALSE,FALSE,NA
+2025-09-09,Armenia,Republic of Ireland,Republic of Ireland,Evan Ferguson,57,FALSE,FALSE,NA
+2025-10-11,Portugal,Republic of Ireland,Portugal,Rúben Neves,90,FALSE,FALSE,NA
+2025-10-14,Republic of Ireland,Armenia,Republic of Ireland,Evan Ferguson,70,FALSE,FALSE,NA
+2025-11-13,Republic of Ireland,Portugal,Republic of Ireland,Troy Parrott,17,FALSE,FALSE,NA
+2025-11-13,Republic of Ireland,Portugal,Republic of Ireland,Troy Parrott,45,FALSE,FALSE,NA
+2025-11-16,Hungary,Republic of Ireland,Hungary,Dániel Lukács,3,FALSE,FALSE,NA
+2025-11-16,Hungary,Republic of Ireland,Republic of Ireland,Troy Parrott,15,FALSE,TRUE,NA
+2025-11-16,Hungary,Republic of Ireland,Hungary,Barnabás Varga,37,FALSE,FALSE,NA
+2025-11-16,Hungary,Republic of Ireland,Republic of Ireland,Troy Parrott,80,FALSE,FALSE,NA
+2025-11-16,Hungary,Republic of Ireland,Republic of Ireland,Troy Parrott,90,FALSE,FALSE,NA
+2026-03-26,Czech Republic,Republic of Ireland,Republic of Ireland,Troy Parrott,19,FALSE,TRUE,NA
+2026-03-26,Czech Republic,Republic of Ireland,Republic of Ireland,Matěj Kovář,23,TRUE,FALSE,NA
+2026-03-26,Czech Republic,Republic of Ireland,Czech Republic,Patrik Schick,27,FALSE,TRUE,NA
+2026-03-26,Czech Republic,Republic of Ireland,Czech Republic,Ladislav Krejčí,86,FALSE,FALSE,NA

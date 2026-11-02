@@ -1,0 +1,38 @@
+DATE Switzerland: dataset 1975-05-10, Wikipedia 1975-05-11
+DATE Poland: dataset 1981-05-23, Wikipedia 1981-05-24
+DATE Chile: dataset 1982-05-21, Wikipedia 1982-05-22
+DATE Turkey: dataset 1990-05-26, Wikipedia 1990-05-27
+NO WIKI ROW 1993-05-29 Hungary 2-4
+DATE Algeria: dataset 2010-05-28, Wikipedia 2010-05-29
+DATE Costa Rica: dataset 2014-06-06, Wikipedia 2014-06-07
+NO WIKI ROW 2023-09-10 Netherlands 1-2
+NO WIKI ROW 2026-05-16 Grenada 5-0
+NO WIKI ROW 2026-05-28 Qatar 1-0
+NO WIKI ROW 2026-06-05 Canada 1-1
+NO WIKI ROW 2026-09-24 Kosovo 0-1
+NO WIKI ROW 2026-09-27 Israel 3-0
+NO WIKI ROW 2026-10-01 Austria 2-2
+NO WIKI ROW 2026-10-04 Israel 1-1
+WIKI ONLY 1926-03-03 IFA League 3-1 [Friendly] Unofficial match. FAIFS (Free State) v IFA (Northern Ireland).
+WIKI ONLY 1927-04-23 Italy B team 1-2 [Friendly] Unofficial match. Bill Lacey oldest player to debut for FAI aged 37. C
+WIKI ONLY 1936-05-06 Rhineland XI 1-4 [Friendly] Unofficial match.
+WIKI ONLY 1940-04-28 Scotland XI 2-3 [Friendly] Unofficial wartime match.
+WIKI ONLY 1948-07-26 Netherlands 1-3 [1948 Summer Olympics] 
+WIKI ONLY 1971-05-24 England XI 1-1 [Friendly] Unofficial match to celebrate the Golden Jubilee of the Football Assoc
+WIKI ONLY 1972-01-04 West German Olympic XI 3-0 [Friendly] Unofficial match. First win since 1967 (four years).
+WIKI ONLY 1975-03-11 West Germany B team 1-0 [Friendly] Unofficial match.
+WIKI ONLY 1979-08-16 Basque Country 1-4 [Friendly] Unofficial match. First Basque international since 1939, owing to Fran
+WIKI ONLY 1981-05-21 West Germany B team 0-3 [Friendly] Unofficial match.
+WIKI ONLY 1984-05-27 Japan Universiade XI 0-0 [Kirin Cup / Friendly] Unofficial match.
+WIKI ONLY 1984-06-01 Internacional 0-0 [Kirin Cup / Friendly] Unofficial match.
+WIKI ONLY 1984-06-05 Internacional 1-2 [Kirin Cup / Friendly] Unofficial match. Ireland's first appearance in the final of an intern
+WIKI ONLY 2005-05-29 Celtic F.C. 1-0 [Friendly] Unofficial match. Jackie McNamara testimonial. Crowd: 50,000.
+WIKI ONLY 2008-05-18 Portimonense 1-1 [Training match] New manager: Giovanni Trapattoni. Unofficial match. Training match onl
+WIKI ONLY 2008-05-19 Esperança de Lagos 3-1 [Training match] Unofficial match. Training match only.
+WIKI ONLY 2008-10-09 Nottingham Forest 2-0 [Friendly] Unofficial match. Republic of Ireland XI. Crowd: 4,040.
+WIKI ONLY 2012-05-29 Tuscan Select XI 5-0 [Friendly] Unofficial match. Tuscan XI was a Serie C and D side assembled by E. P
+WIKI ONLY 2015-06-04 Northern Ireland 0-0 [Training match] Crowd: 50. Training match behind closed doors.
+WIKI ONLY 2018-05-21 Celtic F.C. 2-2 [Testimonial] Testimonial for Scott Brown.
+WIKI ONLY 2023-09-20 Netherlands 1-2 [Euro 2024 qualifier] 
+GOALS Turlough O'Connor: dataset 1, Wikipedia 0
+SCORER NOT IN CAPS LIST Johnny Gavin (2)
