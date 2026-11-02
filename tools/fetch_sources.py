@@ -4,7 +4,7 @@ results/goalscorers/shootouts: martj42/international_results (CC0), Ireland rows
 wiki_*.txt: Wikipedia wikitext (CC BY-SA), read through the site's own /wiki-raw route."""
 import csv, io, os, sys, urllib.parse, urllib.request
 RAW = "https://raw.githubusercontent.com/martj42/international_results/master/"
-WIKI = os.environ.get("WIKI_BASE", "https://irelandfootball.wiki") + "/wiki-raw?title="
+WIKI = os.environ.get("WIKI_BASE", "https://irelandfootball.richardmcallister.workers.dev") + "/wiki-raw?title="
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"}
 T = "Republic of Ireland"
 def get(u):
