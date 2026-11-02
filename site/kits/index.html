@@ -52,7 +52,7 @@
 <main id="main-content" tabindex="-1">
 
 <div class="sheet"><h2>Tournament shirts</h2><div class="kitg" id="kits"></div></div>
-<div class="sheet"><h2>Crests through the years</h2><div class="crg" id="crs"></div></div>
+<div class="sheet"><h2>Crests through the years</h2><div class="crg" id="crs"></div><p class="sub">Dates are approximate, taken from kit archives that sometimes mix federation logos and shirt badges. Ireland also briefly used a circular badge in 1977.</p></div>
 
 </main>
 <footer class="mu"><span id="stamp"></span> Results and competitive scorers: <a href="https://github.com/martj42/international_results">martj42 international results</a> (CC0). Venues, managers, notes and caps: Wikipedia (CC BY-SA). Live data: API-Football. An independent fan site, not connected with the FAI.</footer>
@@ -70,8 +70,8 @@ function scs(m){var a=(m.sc||[]).map(function(s){return E(s[0])+(s[1]?" "+E(s[1]
 function wl(t){return t.w+"W "+t.d+"D "+t.l+"L"}
 function pct(t){return t.p?Math.round(100*t.w/t.p):0}
 
-var K=[[2026, "Current"], [2016, "Euro 2016"], [2012, "Euro 2012"], [2002, "World Cup 2002"], [1994, "World Cup 1994"], [1990, "World Cup 1990"], [1988, "Euro 1988"]], C=[["2020-2023", "2020\u201323"], ["2020", "2020"], ["2017-2020", "2017\u201320"], ["2014-2017", "2014\u201317"], ["2008-2014", "2008\u201314"], ["2004-2008", "2004\u201308"], ["1991-2004", "1991\u20132004"], ["1987-1991", "1987\u201391"], ["1987-1988", "1987\u201388"], ["1985-1987", "1985\u201387"], ["1969-1985", "1969\u201385"]];
-$("kits").innerHTML=K.map(function(k){return ["home","away"].map(function(t){return '<figure><img src="/assets/kits/'+k[0]+'-'+t+'.png" alt="'+E(k[1])+' '+t+' shirt" loading="lazy"><figcaption><b>'+E(k[1])+'</b><br>'+(t==="home"?"Home":"Away")+'</figcaption></figure>'}).join("")}).join("");
+var K=[[2026, "2026"], [2016, "Euro 2016"], [2012, "Euro 2012"], [2002, "World Cup 2002"], [1994, "World Cup 1994"], [1990, "World Cup 1990"], [1988, "Euro 1988"]], C=[["2020-2023", "2020–23"], ["2020", "2020"], ["2017-2020", "2017–20"], ["2014-2017", "2014–17"], ["2008-2014", "2008–14"], ["2004-2008", "2004–08"], ["1991-2004", "1991–2004"], ["1987-1991", "1987–1991 circular badge"], ["1985-1987", "1985–87"], ["1969-1985", "Traditional shield, about 1969–85"]];
+$("kits").innerHTML=K.map(function(k){return ["home","away"].map(function(t){return '<figure><img src="/assets/kits/'+k[0]+'-'+t+'.png" alt="'+E(k[1])+' '+t+' shirt" loading="lazy"><figcaption><b>'+E(k[1])+'</b><br>'+(k[0]===2026&&t==="away"?"Away, retail version (Sky sponsor)":t==="home"?"Home":"Away")+'</figcaption></figure>'}).join("")}).join("");
 $("crs").innerHTML='<figure><img src="/assets/crest.png" alt="Current crest" loading="lazy"><figcaption><b>Current</b></figcaption></figure>'+C.map(function(c){return '<figure><img src="/assets/crests-old/old-'+c[0]+'.png" alt="Crest '+E(c[1])+'" loading="lazy"><figcaption><b>'+E(c[1])+'</b></figcaption></figure>'}).join("");
 
 })();

@@ -41,7 +41,7 @@ export default {
     if (!route) return json({ error: "unknown route" }, 404);
     if (!env.API_FOOTBALL_KEY) return json({ error: "API_FOOTBALL_KEY secret not set on the Worker" }, 500);
 
-    const key = "api:v1:" + url.pathname + url.search;
+    const key = "api:v2:" + url.pathname + url.search;
     const { body, fresh, age } = await load(env, key);
     if (route.live && body) {
       // Live window: from 90 minutes before kick-off until the match is finished, anything older than 60s is stale.
@@ -62,8 +62,8 @@ export default {
   async scheduled(event, env, ctx) {
     ctx.waitUntil((async () => {
       for (const p of WARM) {
-        const url = new URL("https://site.local" + p + "?v=3");
-        const route = ROUTES[url.pathname], key = "api:v1:" + url.pathname + url.search;
+        const url = new URL("https://site.local" + p + "?v=4");
+        const route = ROUTES[url.pathname], key = "api:v2:" + url.pathname + url.search;
         const { body, age } = await load(env, key);
         if (body && age < route.ttl * 0.8) continue;
         await refresh(env, key, route, url);

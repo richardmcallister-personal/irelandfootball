@@ -133,7 +133,7 @@ a.pl{color:var(--ink);text-decoration:none;border-bottom:1px solid #c9c9c9} a.pl
     var near=new Date(ko)-new Date()<90*60000&&!DONE.test(f.fixture.status.short);
     if(near||LIVE.test(f.fixture.status.short)) timer=setTimeout(load,OURS?60000:10*60000); else if(!DONE.test(f.fixture.status.short)) timer=setTimeout(load,15*60000);
   }
-  function load(){ try{sessionStorage.removeItem("mu:/api/match?fixture="+id+"&v=3")}catch(e){} MU.api("match",{fixture:id}).then(render).catch(function(e){$("score").querySelector(".st").textContent="Couldn't load: "+e.message}) }
+  function load(){ try{sessionStorage.removeItem("mu:/api/match?fixture="+id+"&v=4")}catch(e){} MU.api("match",{fixture:id}).then(render).catch(function(e){$("score").querySelector(".st").textContent="Couldn't load: "+e.message}) }
   if(!id){$("score").innerHTML='<div></div><div class="mid"><div class="big">—</div><div class="st">No fixture given</div></div><div></div>';return}
   load();
 })();
