@@ -5,7 +5,7 @@
   "assets": { "directory": "./site", "binding": "ASSETS", "run_worker_first": true },
   // Add once the domain is bought:
   // "routes": [{ "pattern": "irelandfootball.wiki", "custom_domain": true }, { "pattern": "www.irelandfootball.wiki", "custom_domain": true }],
-  "kv_namespaces": [{ "binding": "MU_CACHE" }],   // no id: Cloudflare creates it on first deploy and keeps it linked
+  "kv_namespaces": [{ "binding": "MU_CACHE", "id": "528c9417ccdd4af29cf1c35adf9d8e79" }],
   "triggers": { "crons": ["7 * * * *"] },
   "observability": { "enabled": true }
 }

@@ -10,7 +10,7 @@ site/            everything served: one index.html per page, shared mu.css + mu.
 site/history/    archive JSON, all written by tools/build_archive.py (never edit by hand)
 site/assets/     crest and icon sizes (tools/make_icons.py), crests/, comps/, orgs/, kits/, crests-old/, splash/, flags/ (flag-icons, MIT)
 worker.js        API-Football proxy + KV cache, Wikipedia proxy, portraits
-wrangler.jsonc   Worker config; the KV namespace has no id on purpose (auto-provisioned)
+wrangler.jsonc   Worker config; KV namespace irelandfootball-mu-cache, separate from manutd.wiki
 tools/data/      raw inputs and reconcile.txt (every disagreement between sources)
 ```
 
