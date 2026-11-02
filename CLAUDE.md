@@ -8,7 +8,7 @@ Plain static pages + one Cloudflare Worker. No build step, no framework.
 ```
 site/            everything served: one index.html per page, shared mu.css + mu.js
 site/history/    archive JSON, all written by tools/build_archive.py (never edit by hand)
-site/assets/     crest and icon sizes (tools/make_icons.py), flags/ (flag-icons, MIT)
+site/assets/     crest and icon sizes (tools/make_icons.py), crests/, comps/, orgs/, kits/, crests-old/, splash/, flags/ (flag-icons, MIT)
 worker.js        API-Football proxy + KV cache, Wikipedia proxy, portraits
 wrangler.jsonc   Worker config; the KV namespace has no id on purpose (auto-provisioned)
 tools/data/      raw inputs and reconcile.txt (every disagreement between sources)
@@ -29,7 +29,8 @@ tools/data/      raw inputs and reconcile.txt (every disagreement between source
 
 - Refresh data: `python3 tools/fetch_sources.py` (needs a deployed site for Wikipedia, or set WIKI_BASE), then `python3 tools/build_archive.py`, review `git diff tools/data/reconcile.txt`, commit.
 - National teams have no club season. The Worker asks for this year's and last year's feed labels and joins them.
-- Northern Ireland, the Soviet Union and Yugoslavia get text badges, not flags. Never use the Ulster Banner on this site.
+- Opponents use association crests (`site/assets/crests/`, Richard's files, listed in `HAS` in mu.js). Czechoslovakia uses a flag; the Soviet Union and Yugoslavia get text badges. Never use the Ulster Banner on this site.
+- Competition logos: `MU.comp` for feed names, `MU.compRow` for archive rows (the edition the game belonged to). Originals are in `~/Documents/Projects/ireland-assets/` on Richard's Mac; `site/assets` holds resized copies.
 - Token names (`--red` etc.), `mu.js` and `mu.css` keep their manutd.wiki names so fixes port across. `--red` is green here. Never hard-code a colour in a page.
 - Before pushing: `npx -y esbuild@0.24.0 worker.js --format=esm --log-level=error --outfile=/tmp/x.js`, `npx -y wrangler@latest deploy --dry-run --outdir /tmp/wr`, `node --check site/mu.js`, and `node --check` each page's last script block.
 - After deploying: check light and dark at 1280 and 390 wide, with no `pageerror`, overflow, 4xx or 5xx. Use a browser user agent; don't use one to get past a third party's bot check.
