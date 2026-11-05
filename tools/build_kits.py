@@ -28,6 +28,17 @@ for e in eras.values():
         if s["v"][0] in BACK_FIRST: s["v"].reverse()
         s["other"] = {"reproduction": "Reproduction", "historical-interleague": "Inter-league"}.get(s.pop("_c"))
         if not s["other"]: del s["other"]
+# Shirts since the collection ends: tools/data/kits_extra.csv. A photo dropped in site/assets/kits/extra/<id>.jpg is used; otherwise a placeholder shows.
+FKA = "https://www.footballkitarchive.com/ireland-kits-t30/"
+extra = list(csv.DictReader(open("tools/data/kits_extra.csv", encoding="utf-8")))
+for r in extra:
+    e = eras.setdefault("x" + r["era"], {"era": r["era"], "y": int(r["era"]), "page": FKA, "src": "Football Kit Archive", "shirts": []})
+    s = {"k": r["kind"], "cap": r["cap"], "yl": r["yl"], "v": [r["id"]], "page": r["page"]}
+    f = f"/assets/kits/extra/{r['id']}.jpg"
+    if os.path.exists("site" + f): s["f"] = f
+    elif r["file"]: s["f"] = r["file"]
+    if r["q"]: s["q"] = r["q"]
+    e["shirts"].append(s)
 out = sorted(eras.values(), key=lambda e: -e["y"])
 json.dump({"credit": "Photos: Eddie O’Mahony, James Nolan Memorial Collection", "home": "https://www.irelandsoccershirts.com/james-nolan-memorial-collection/", "eras": out}, open("site/kits/library.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
 print(len(out), "eras", sum(len(e["shirts"]) for e in out), "shirts", sum(len(s["v"]) for e in out for s in e["shirts"]), "photos", sum(1 for e in out for s in e["shirts"] if len(s["v"]) == 1), "single views")

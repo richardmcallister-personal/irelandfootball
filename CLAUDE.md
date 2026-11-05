@@ -26,6 +26,7 @@ tools/data/      raw inputs and reconcile.txt (every disagreement between source
 | Where to watch | UEFA's Nations League broadcaster list, `tools/data/uefa_nl_broadcasters.txt` into `site/watch.json` by `tools/build_watch.py`; recheck each campaign. Other competitions show nothing until they have an official list | |
 | Named goals in friendlies | Wikipedia's Keane goals list and hat-tricks list, `tools/data/extra_goals.csv` (fills gaps only, no minutes) | CC BY-SA |
 | Kit library photos | Eddie O'Mahony's James Nolan Memorial Collection, `tools/data/kits_catalogue.csv` into `site/kits/library.json` by `tools/build_kits.py`; web copies in `site/assets/kits/lib/`. Richard's decision, no permission obtained yet: keep the watermark and credit, keep it out of search, take down if asked | see left |
+| Shirts from 2021 on | Football Kit Archive's Ireland list, `tools/data/kits_extra.csv` (facts and links only; its images are not copied). Photos Richard supplies go in `site/assets/kits/extra/<id>.jpg`, then run `tools/build_kits.py` | |
 | Club form | Worker route `/api/form`, built a few players at a time into KV | paid plan |
 
 11v11.com and eu-football.info are not sources: 11v11's terms bar publishing its data, and eu-football has not given permission. Don't scrape them.

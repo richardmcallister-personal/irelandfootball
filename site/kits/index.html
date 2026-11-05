@@ -50,6 +50,7 @@
 .shirts{display:flex;flex-wrap:wrap;gap:10px}
 .shirt{width:118px;border:1px solid var(--rule);background:var(--paper);padding:6px;cursor:pointer;position:relative;text-align:center;border-radius:6px}
 .shirt img{width:100%;height:auto;aspect-ratio:1;object-fit:contain;display:block;background:var(--photo)}
+.noimg{display:flex;align-items:center;justify-content:center;width:100%;aspect-ratio:1;background:var(--tint);color:var(--muted)} .noimg svg{width:60%;height:60%}
 .shirt .t{font-size:11px;line-height:1.3;margin-top:4px;color:var(--ink);overflow-wrap:anywhere} .shirt .t small{display:block;color:var(--muted)}
 .shirt .flag{position:absolute;top:6px;right:6px;width:20px;height:20px;border-radius:50%;display:flex;align-items:center;justify-content:center;color:var(--on-flag);font-size:0;box-shadow:0 1px 3px var(--shadow)} .shirt .flag svg{width:12px;height:12px} .flag.own{background:var(--win)} .flag.want{background:var(--want)}
 .shirt.own{border-color:var(--win)} .shirt.want{border-color:var(--want)}
@@ -85,7 +86,7 @@
   <div class="stats" id="stats"></div>
   <p class="sub" style="margin:0"><a href="#" id="csv">Download the collection as CSV</a></p>
 </div>
-<div class="sheet" id="lib"><h2>The James Nolan Memorial Collection</h2>
+<div class="sheet" id="lib"><h2>The collection</h2>
   <p class="sub" id="libnote" style="margin:0 0 10px">Loading…</p>
   <div class="filters" id="kinds"></div>
   <div class="filters" id="mine"></div>
@@ -129,19 +130,22 @@ function toggle(list,id){var i=list.indexOf(id); if(i>=0)list.splice(i,1); else 
 // Where to buy one like it. The photos are match-worn and signed shirts; these searches find the same year and type. eBay Germany ships
 // inside the EU (no customs into Sweden); eBay UK has the widest choice but customs and VAT apply; Tradera is the Swedish marketplace;
 // Classic Football Shirts is the specialist retailer.
-function buyQuery(k){var y=/European/.test(k.era)?"Euro "+k.era.slice(0,4):/World Cup/.test(k.era)?"World Cup "+k.era.slice(0,4):k.yl, m=String(y).match(/^(\d{4})\D+(\d{4})$/); if(m)y=m[1]+"-"+m[2].slice(-2); var what=k.other?"":k.k==="Goalkeeper"?"goalkeeper":k.k.toLowerCase(); return ("Ireland "+y+" "+what+" football shirt").replace(/\s+/g," ")}
+function buyQuery(k){var y=/European/.test(k.era)?"Euro "+k.era.slice(0,4):/World Cup/.test(k.era)?"World Cup "+k.era.slice(0,4):k.yl, m=String(y).match(/^(\d{4})\D+(\d{4})$/); if(m)y=m[1]+"-"+m[2].slice(-2); var what=k.q||(k.other?"":k.k==="Goalkeeper"?"goalkeeper":k.k.toLowerCase()); return ("Ireland "+y+" "+what+" football shirt").replace(/\s+/g," ")}
 function buyLinks(k){var q=encodeURIComponent(buyQuery(k)), L=[["eBay.de","https://www.ebay.de/sch/i.html?_nkw="+q+"&LH_PrefLoc=3","ships within the EU"],["eBay.co.uk","https://www.ebay.co.uk/sch/i.html?_nkw="+q,"widest choice; customs and VAT into Sweden"],["Tradera","https://www.tradera.com/search?q="+q,"Swedish marketplace"],["Classic Football Shirts","https://www.classicfootballshirts.co.uk/catalogsearch/result/?q="+q,"specialist retailer"]];
   return L.map(function(x){return '<div><a class="buy" href="'+x[1]+'" target="_blank" rel="noopener nofollow">'+x[0]+' ↗</a><small>'+E(x[2])+'</small></div>'}).join("")}
 function worn(k){var c=k.cap.toLowerCase().replace(/[’']/g,"'"), best=null; PL.forEach(function(p){var n=p.name.toLowerCase().replace(/[’']/g,"'"); if((c===n||c.indexOf(n+" ")===0)&&(!best||n.length>best.name.length))best=p}); return best}
-function pic(k,i){return "/assets/kits/lib/"+k.v[i]+".jpg"}
+var ICON='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linejoin="round" aria-hidden="true"><path d="M8.5 3 3 6.5l2 4 2.5-1V21h9V9.5l2.5 1 2-4L15.5 3c-.6 1.6-1.9 2.5-3.500 2.5S9.100 4.600 8.500 3z"/></svg>';
+function noPic(k){return !k.f&&k.id.charAt(0)==="x"}
+function pic(k,i){return k.f||"/assets/kits/lib/"+k.v[i]+".jpg"}
+function thumb(k){return k.f||"/assets/kits/lib/t/"+k.id+".webp"}
 function open(id){var k=KITS.filter(function(x){return x.id===id})[0]; if(!k)return; var p=worn(k), g=GAMES[k.era];
-  $("panel").innerHTML='<div class="pic"><img class="big" id="big" src="'+pic(k,0)+'" style="background:center/contain no-repeat url(/assets/kits/lib/t/'+k.id+'.webp)" alt="'+E(k.era+" "+k.cap+", front")+'">'+(k.v.length>1?'<div class="side"><button type="button" data-i="0" aria-pressed="true">Front</button><button type="button" data-i="1" aria-pressed="false">Back</button></div>':'')+'</div><div class="body"><button class="close" id="close" type="button" aria-label="Close">×</button><h2>'+E(k.era)+' · '+E(k.other||k.k)+'</h2><div class="sub" style="margin:0">'+E(k.cap)+'</div>'+
+  $("panel").innerHTML='<div class="pic">'+(noPic(k)?'<div class="noimg">'+ICON+'</div>':'<img class="big" id="big" src="'+pic(k,0)+'" style="background:center/contain no-repeat url('+thumb(k)+')" alt="'+E(k.era+" "+k.cap+", front")+'">')+'+(k.v.length>1?'<div class="side"><button type="button" data-i="0" aria-pressed="true">Front</button><button type="button" data-i="1" aria-pressed="false">Back</button></div>':'')+'</div><div class="body"><button class="close" id="close" type="button" aria-label="Close">×</button><h2>'+E(k.era)+' · '+E(k.other||k.k)+'</h2><div class="sub" style="margin:0">'+E(k.cap)+'</div>'+
     '<div class="acts"><button type="button" class="o" id="bo" aria-pressed="'+has(col.owned,id)+'">'+(has(col.owned,id)?"✓ In my collection":"I own this")+'</button><button type="button" class="w" id="bw" aria-pressed="'+has(col.wish,id)+'">'+(has(col.wish,id)?"★ On my wishlist":"Add to wishlist")+'</button></div>'+
     '<div class="k">Find one to buy</div><div class="v buys">'+buyLinks(k)+'</div><p class="sub" style="margin:4px 0 10px">Searches open in a new tab with “'+E(buyQuery(k))+'”. They look for this year and type of shirt, not this exact one.</p>'+
     '<div class="k">My notes</div><textarea id="note" placeholder="Player name on the back, size, condition, where it came from…">'+E(col.notes[id]||"")+'</textarea>'+
     (p?'<div class="k">Player</div><div class="v"><a href="/player/?p='+p.slug+'">'+E(p.name)+'</a></div>':'')+
     (g?'<div class="k">On this site</div><div class="v"><a href="'+g[0]+'">'+E(g[1])+'</a></div>':'')+
-    '<div class="k">Photo</div><div class="v">'+E(NOTE.credit)+'. <a href="'+E(k.page)+'" target="_blank" rel="noopener">See it in the collection ↗</a></div></div>';
+    '<div class="k">Photo</div><div class="v">'+(k.id.charAt(0)==="x"?(noPic(k)?"No photo here yet. ":"")+'<a href="'+E(k.page)+'" target="_blank" rel="noopener">See it on Football Kit Archive ↗</a>':E(NOTE.credit)+'. <a href="'+E(k.page)+'" target="_blank" rel="noopener">See it in the collection ↗</a>')+'</div></div>';
   $("modal").classList.add("on"); document.body.style.overflow="hidden";
   $("close").onclick=closeM; $("bo").onclick=function(){toggle(col.owned,id)}; $("bw").onclick=function(){toggle(col.wish,id)};
   $("note").onchange=function(){col.notes[id]=this.value.trim(); if(!col.notes[id])delete col.notes[id]; persist()};
@@ -155,8 +159,8 @@ function render(){
   var order=[], by={}; rows.forEach(function(k){if(!by[k.era]){by[k.era]=[]; order.push(k.era)} by[k.era].push(k)});
   var out="", cur=null;
   order.forEach(function(s){var ks=by[s], d=dec(ks[0]); if(d!==cur){cur=d; out+='<div class="decade">'+decN(d)+'</div>'}
-    out+='<div class="season"><div class="meta"><b>'+E(s)+'</b><small><a href="'+E(ks[0].page)+'" target="_blank" rel="noopener">In the collection ↗</a></small></div><div class="shirts">'+ks.map(function(k){var o=has(col.owned,k.id), w=has(col.wish,k.id);
-      return '<div class="shirt'+(o?" own":w?" want":"")+'" data-id="'+k.id+'" tabindex="0" role="button" aria-label="'+E(k.era+", "+k.cap)+'">'+(o?TICK:w?STAR:'')+'<img src="/assets/kits/lib/t/'+k.id+'.webp" alt="" loading="lazy" decoding="async" width="240" height="240"><div class="t">'+E(k.other||k.k)+'<small>'+E(k.cap)+'</small></div><a class="tbuy" href="https://www.ebay.de/sch/i.html?_nkw='+encodeURIComponent(buyQuery(k))+'&LH_PrefLoc=3" target="_blank" rel="noopener nofollow" title="Search eBay for this year and type of shirt">Buy ↗</a></div>'}).join("")+'</div></div>'});
+    out+='<div class="season"><div class="meta"><b>'+E(s)+'</b><small><a href="'+E(ks[0].eraPage)+'" target="_blank" rel="noopener">'+E(ks[0].src?ks[0].src:"In the collection")+' ↗</a></small></div><div class="shirts">'+ks.map(function(k){var o=has(col.owned,k.id), w=has(col.wish,k.id);
+      return '<div class="shirt'+(o?" own":w?" want":"")+'" data-id="'+k.id+'" tabindex="0" role="button" aria-label="'+E(k.era+", "+k.cap)+'">'+(o?TICK:w?STAR:'')+''+(noPic(k)?'<div class="noimg">'+ICON+'</div>':'<img src="'+thumb(k)+'" alt="" loading="lazy" decoding="async" width="240" height="240">')+'<div class="t">'+E(k.other||k.k)+'<small>'+E(k.cap)+'</small></div><a class="tbuy" href="https://www.ebay.de/sch/i.html?_nkw='+encodeURIComponent(buyQuery(k))+'&LH_PrefLoc=3" target="_blank" rel="noopener nofollow" title="Search eBay for this year and type of shirt">Buy ↗</a></div>'}).join("")+'</div></div>'});
   $("list").innerHTML=out||'<p class="sub">No shirts match.</p>';
 }
 $("list").addEventListener("click",function(e){if(e.target.closest(".tbuy"))return; var s=e.target.closest(".shirt"); if(s)open(s.getAttribute("data-id"))});
@@ -169,9 +173,9 @@ $("keyGo").addEventListener("click",function(){key=$("key").value.trim(); if(key
 $("csv").addEventListener("click",function(e){e.preventDefault(); var rows=[["id","era","type","shirt","status","notes"]]; KITS.forEach(function(k){var st=has(col.owned,k.id)?"owned":has(col.wish,k.id)?"wishlist":""; if(st)rows.push([k.id,k.era,k.other||k.k,k.cap,st,(col.notes[k.id]||"")])}); var csv=rows.map(function(r){return r.map(function(c){return '"'+String(c).replace(/"/g,'""')+'"'}).join(",")}).join("\n"); var a=document.createElement("a"); a.href="data:text/csv;charset=utf-8,﻿"+encodeURIComponent(csv); a.download="ireland-shirts.csv"; a.click()});
 load(); if(key)$("key").value=key;
 Promise.all([fetch("/kits/library.json").then(function(r){return r.json()}),fetch("/history/players.json").then(function(r){return r.json()}).catch(function(){return []})]).then(function(res){
-  NOTE=res[0]; PL=res[1]; res[0].eras.forEach(function(e){e.shirts.forEach(function(s){KITS.push(Object.assign({},s,{id:s.v[0],era:e.era,y:e.y,page:e.page}))})});
+  NOTE=res[0]; PL=res[1]; res[0].eras.forEach(function(e){e.shirts.forEach(function(s){KITS.push(Object.assign({page:e.page},s,{id:s.v[0],era:e.era,y:e.y,eraPage:e.page,src:e.src}))})});
   var cnt={}; KITS.forEach(function(k){cnt[k.k]=(cnt[k.k]||0)+1});
-  $("libnote").innerHTML=KITS.length+' shirts, 1924 to 2021. '+E(NOTE.credit)+', <a href="'+E(NOTE.home)+'" target="_blank" rel="noopener">irelandsoccershirts.com</a>. The dates are the collection’s own groupings, and the home, away and goalkeeper labels mostly come from looking at the shirt, so a few may be wrong.';
+  var ex=KITS.filter(function(k){return k.id.charAt(0)==="x"}).length; $("libnote").innerHTML=KITS.length+' shirts, 1924 to 2026. The '+(KITS.length-ex)+' up to 2021 are from the James Nolan Memorial Collection. '+E(NOTE.credit)+', <a href="'+E(NOTE.home)+'" target="_blank" rel="noopener">irelandsoccershirts.com</a>. Its dates are the collection’s own groupings, and the home, away and goalkeeper labels mostly come from looking at the shirt, so a few may be wrong. The '+ex+' shirts from 2021 on are listed from <a href="https://www.footballkitarchive.com/ireland-kits-t30/" target="_blank" rel="noopener">Football Kit Archive</a>, most without a photo yet.';
   chips($("kinds"),[["all","All",KITS.length],["Home","Home",cnt.Home],["Away","Away",cnt.Away],["Third","Third",cnt.Third],["Goalkeeper","Goalkeeper",cnt.Goalkeeper],["Other","Other",cnt.Other]],"all",function(v){kind=v});
   chips($("mine"),[["all","Everything"],["own","My collection"],["want","Wishlist"],["missing","Not owned yet"]],"all",function(v){mine=v});
   var seen={}, ds=[]; KITS.forEach(function(k){var d=dec(k); if(!seen[d]){seen[d]=1; ds.push(d)}}); $("era").innerHTML='<option value="all">Every era</option>'+ds.map(function(d){return '<option value="'+d+'">'+decN(d)+'</option>'}).join(""); $("era").addEventListener("change",function(){era=this.value; render()});
