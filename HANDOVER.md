@@ -25,7 +25,7 @@ Static pages from `tools/build_stories.py`: `/matches/ireland-romania-1990/`, `/
 
 ## Kit library
 
-The Kits page has a new section of 219 shirts (420 photos) from the James Nolan Memorial Collection, added alongside the existing kits. No permission from Eddie O'Mahony yet; Richard has a draft request. Not used for training or leisure tops, prototypes or the LA Galaxy shirts.
+The Kits page has a new section of 215 shirts (420 photos) from the James Nolan Memorial Collection, added alongside the existing kits. No permission from Eddie O'Mahony yet; Richard has a draft request. Not used for training or leisure tops, prototypes or the LA Galaxy shirts.
 
 ## Known gaps
 

@@ -7,7 +7,7 @@ import csv, json, os, re
 KEEP = {"home": "Home", "away": "Away", "third": "Third", "goalkeeper": "Goalkeeper", "reproduction": "Other", "historical-interleague": "Other"}
 BACK_FIRST = set(json.load(open("tools/data/kits_back_first.json"))) if os.path.exists("tools/data/kits_back_first.json") else set()
 # Same shirt, front then back, where the source captions differ slightly. 0512 and 0513 stay apart: their captions name different opponents.
-PAIRS = {"0092": "0093", "0051": "0053", "0471": "0472"}
+PAIRS = {"0020": "0021", "0092": "0093", "0051": "0053", "0471": "0472"}
 R = [r for r in csv.DictReader(open("tools/data/kits_catalogue.csv", encoding="utf-8")) if r["category"] in KEEP]
 def norm(c): return re.sub(r"[^a-z0-9]+", " ", c.lower()).strip()
 eras = {}; order = []
@@ -15,7 +15,7 @@ for r in sorted(R, key=lambda r: r["id"]):
     os.path.exists(f"site/assets/kits/lib/{r['id']}.jpg") or print("missing", r["id"])
     key = r["source_era"]
     if key not in eras:
-        eras[key] = {"era": r["year_label"].replace(" - ", "–").replace("-", "–"), "y": int(r["year_start"]), "page": r["source_page"], "shirts": []}; order.append(key)
+        eras[key] = {"era": key.replace(" - ", "–").replace("-", "–").replace("Pre 1966", "Before 1966"), "y": min(int(x["year_start"]) for x in R if x["source_era"] == key), "page": r["source_page"], "shirts": []}; order.append(key)
     L = eras[key]["shirts"]; last = L[-1] if L else None
     if last and PAIRS.get(last["v"][0]) == r["id"]:
         last["v"].append(r["id"])
