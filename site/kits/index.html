@@ -42,6 +42,7 @@
 <link rel="apple-touch-startup-image" media="screen and (device-width: 744px) and (device-height: 1133px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="/assets/splash/2266x1488.png">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@300;400;500;600;700&display=swap">
 <link rel="stylesheet" href="/mu.css">
+<meta name="robots" content="noindex,noimageindex">
 <style></style>
 </head><body><a class="skip" href="#main-content">Skip to main content</a><div class="wrap">
 <header class="mu">
@@ -52,6 +53,7 @@
 <main id="main-content" tabindex="-1">
 
 <div class="sheet"><h2>Tournament shirts</h2><div class="kitg" id="kits"></div></div>
+<div class="sheet" id="lib"><h2>The James Nolan Memorial Collection</h2><p class="sub" id="libnote" style="margin:0 0 10px">Loading…</p><div class="libf" id="libf" role="group" aria-label="Filter shirts"></div><div id="libe"></div></div>
 <div class="sheet"><h2>Crests through the years</h2><div class="crg" id="crs"></div><p class="sub">Dates are approximate, taken from kit archives that sometimes mix federation logos and shirt badges. Ireland also briefly used a circular badge in 1977.</p></div>
 
 </main>
@@ -73,6 +75,19 @@ function pct(t){return t.p?Math.round(100*t.w/t.p):0}
 var K=[[2026, "2026"], [2016, "Euro 2016"], [2012, "Euro 2012"], [2002, "World Cup 2002"], [1994, "World Cup 1994"], [1990, "World Cup 1990"], [1988, "Euro 1988"]], C=[["2020-2023", "2020–23"], ["2020", "2020"], ["2017-2020", "2017–20"], ["2014-2017", "2014–17"], ["2008-2014", "2008–14"], ["2004-2008", "2004–08"], ["1991-2004", "1991–2004"], ["1987-1991", "1987–1991 circular badge"], ["1985-1987", "1985–87"], ["1969-1985", "Traditional shield, about 1969–85"]];
 $("kits").innerHTML=K.map(function(k){return ["home","away"].map(function(t){return '<figure><img src="/assets/kits/'+k[0]+'-'+t+'.png" alt="'+E(k[1])+' '+t+' shirt" loading="lazy"><figcaption><b>'+E(k[1])+'</b><br>'+(k[0]===2026&&t==="away"?"Away, retail version (Sky sponsor)":t==="home"?"Home":"Away")+'</figcaption></figure>'}).join("")}).join("");
 $("crs").innerHTML='<figure><img src="/assets/crest.png" alt="Current crest" loading="lazy"><figcaption><b>Current</b></figcaption></figure>'+C.map(function(c){return '<figure><img src="/assets/crests-old/old-'+c[0]+'.png" alt="Crest '+E(c[1])+'" loading="lazy"><figcaption><b>'+E(c[1])+'</b></figcaption></figure>'}).join("");
+
+var ALL="All", KINDS=[ALL,"Home","Away","Third","Goalkeeper","Other"], cur=ALL, LIB=null;
+function libImg(id,alt){return '<img src="/assets/kits/lib/'+id+'.jpg" alt="'+E(alt)+'" loading="lazy" decoding="async" width="640" height="640">'}
+function libShirt(s,era){var alt=era+" "+(s.other||s.k).toLowerCase()+" shirt: "+s.cap;
+  return '<figure data-v="'+s.v.join(",")+'" data-i="0" data-alt="'+E(alt)+'">'+libImg(s.v[0],alt+", front")+'<figcaption><b>'+E(s.other||s.k)+'</b><br>'+E(s.cap)+(s.v.length>1?'<br><button class="linkb" type="button">Show back</button>':'')+'</figcaption></figure>'}
+function libDraw(){var open=0, n=0;
+  $("libf").innerHTML=KINDS.map(function(k){return '<button type="button" class="btn'+(k===cur?' red':'')+'" data-k="'+k+'" aria-pressed="'+(k===cur)+'">'+k+'</button>'}).join("");
+  $("libe").innerHTML=LIB.eras.map(function(e){var L=e.shirts.filter(function(s){return cur===ALL||s.k===cur}); if(!L.length)return ""; n+=L.length;
+    return '<details'+(open++<1?' open':'')+'><summary><b>'+E(e.era)+'</b> <span class="sub">'+L.length+(L.length===1?' shirt':' shirts')+'</span></summary><div class="kitg libg">'+L.map(function(s){return libShirt(s,e.era)}).join("")+'</div><p class="sub" style="margin:8px 0 0"><a href="'+E(e.page)+'" target="_blank" rel="noopener">See '+E(e.era)+' in the collection ↗</a></p></details>'}).join("");
+  $("libnote").innerHTML=n+' shirts, 1924 to 2021. '+E(LIB.credit)+', <a href="'+E(LIB.home)+'" target="_blank" rel="noopener">irelandsoccershirts.com</a>. The dates are the collection’s own groupings, and the home, away and goalkeeper labels mostly come from looking at the shirt, so a few may be wrong.'}
+fetch("/kits/library.json").then(function(r){return r.json()}).then(function(j){LIB=j; libDraw()}).catch(function(){$("lib").hidden=true});
+$("libf").addEventListener("click",function(e){var k=e.target.getAttribute&&e.target.getAttribute("data-k"); if(k){cur=k; libDraw()}});
+$("libe").addEventListener("click",function(e){if(!e.target.classList.contains("linkb"))return; var f=e.target.closest("figure"), v=f.getAttribute("data-v").split(","), i=f.getAttribute("data-i")==="0"?1:0, im=f.querySelector("img"); f.setAttribute("data-i",i); im.src="/assets/kits/lib/"+v[i]+".jpg"; im.alt=f.getAttribute("data-alt")+(i?", back":", front"); e.target.textContent=i?"Show front":"Show back"});
 
 })();
 </script></body></html>

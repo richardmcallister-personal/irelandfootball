@@ -23,6 +23,10 @@ Web Push on the hub, minute cron in the Worker. The live logic was replayed offl
 
 Static pages from `tools/build_stories.py`: `/matches/ireland-romania-1990/`, `/campaigns/euro-1988/`. Next candidates: other tournament campaigns and big games.
 
+## Kit library
+
+The Kits page has a new section of 219 shirts (420 photos) from the James Nolan Memorial Collection, added alongside the existing kits. No permission from Eddie O'Mahony yet; Richard has a draft request. Not used for training or leisure tops, prototypes or the LA Galaxy shirts.
+
 ## Known gaps
 
 - Scorers: friendlies before about 2017 are mostly unnamed; Keane and all listed hat-tricks are now in, without minutes. Line-ups start about 2017.
