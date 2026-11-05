@@ -35,6 +35,7 @@ export default {
     if (url.pathname.startsWith("/img/player/")) return portrait(url, ctx);
     if (url.pathname === "/wiki") return wiki(url, env, ctx);
     if (url.pathname === "/wiki-raw") return wikiRaw(url, env, ctx);
+    if (url.pathname === "/collection") { try { return await collection(request, url, env); } catch (e) { return json({ error: "collection: " + (e && e.message || e) }, 500); } }
     if (url.pathname === "/calendar.ics") { try { return await calendar(url, env); } catch (e) { return json({ error: "calendar: " + (e && e.message || e) }, 500); } }
     if (url.pathname.startsWith("/push/")) { try { return await push(request, url, env, ctx); } catch (e) { return json({ error: "push: " + (e && e.message || e) }, 500); } }
     if (!url.pathname.startsWith("/api/")) return page(request, env);
@@ -238,6 +239,27 @@ async function pushTick(env) {
 }
 
 
+
+// ---- Shirt collection: owned / wishlist / notes, stored in KV under a hash of the owner's passphrase.
+// GET  /collection?key=…         → the saved collection (or an empty one)
+// PUT  /collection?key=…  body   → replace it (JSON, 64 KB max)
+async function collection(request, url, env) {
+  const key = (url.searchParams.get("key") || "").trim();
+  if (key.length < 6) return json({ error: "a collection key of at least 6 characters is required" }, 400);
+  const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode("ie-collection:" + key));
+  const id = "col:v1:" + Array.from(new Uint8Array(buf)).map((b) => b.toString(16).padStart(2, "0")).join("");
+  const hd = { "cache-control": "no-store", "content-type": "application/json; charset=utf-8" };
+  if (request.method === "PUT") {
+    const body = await request.text();
+    if (body.length > 65536) return new Response(JSON.stringify({ error: "too large" }), { status: 413, headers: hd });
+    try { const j = JSON.parse(body); if (!j || typeof j !== "object" || !Array.isArray(j.owned) || !Array.isArray(j.wish)) throw 0; } catch (e) { return new Response(JSON.stringify({ error: "expected {owned:[],wish:[],notes:{}}" }), { status: 400, headers: hd }); }
+    await env.MU_CACHE.put(id, body);
+    return new Response(JSON.stringify({ ok: true, saved: new Date().toISOString() }), { headers: hd });
+  }
+  if (request.method !== "GET") return json({ error: "method not allowed" }, 405);
+  const cur = await env.MU_CACHE.get(id);
+  return new Response(cur || JSON.stringify({ owned: [], wish: [], notes: {}, updated: null }), { headers: hd });
+}
 
 // ---- Fixture calendar: every game in the fixtures feed, one event per fixture id, so a subscribed calendar follows a moved kick-off
 function icsEsc(t) { return String(t).replace(/\\/g, "\\\\").replace(/;/g, "\\;").replace(/,/g, "\\,").replace(/\r?\n/g, "\\n"); }

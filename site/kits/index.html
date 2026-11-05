@@ -43,7 +43,32 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@300;400;500;600;700&display=swap">
 <link rel="stylesheet" href="/mu.css">
 <meta name="robots" content="noindex,noimageindex">
-<style></style>
+<style>
+.decade{font-family:var(--head);font-weight:500;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:18px 0 6px;border-bottom:1px solid var(--rule);padding-bottom:4px}
+.season{display:grid;grid-template-columns:150px 1fr;gap:16px;padding:12px 0;border-bottom:1px solid var(--rule);align-items:start}
+.season .meta b{display:block;font-family:var(--head);font-weight:400;font-size:22px;line-height:1.05;color:var(--ink)} .season .meta small{display:block;font-size:12px;margin-top:6px;line-height:1.4}
+.shirts{display:flex;flex-wrap:wrap;gap:10px}
+.shirt{width:118px;border:1px solid var(--rule);background:var(--paper);padding:6px;cursor:pointer;position:relative;text-align:center;border-radius:6px}
+.shirt img{width:100%;height:auto;aspect-ratio:1;object-fit:contain;display:block;background:var(--photo)}
+.shirt .t{font-size:11px;line-height:1.3;margin-top:4px;color:var(--ink);overflow-wrap:anywhere} .shirt .t small{display:block;color:var(--muted)}
+.shirt .flag{position:absolute;top:6px;right:6px;width:20px;height:20px;border-radius:50%;display:flex;align-items:center;justify-content:center;color:var(--on-flag);font-size:0;box-shadow:0 1px 3px var(--shadow)} .shirt .flag svg{width:12px;height:12px} .flag.own{background:var(--win)} .flag.want{background:var(--want)}
+.shirt.own{border-color:var(--win)} .shirt.want{border-color:var(--want)}
+@media (max-width:640px){.season{grid-template-columns:1fr} .shirt{width:calc(33.33% - 7px)}}
+.modal{position:fixed;inset:0;background:var(--scrim);display:none;align-items:center;justify-content:center;padding:16px;z-index:50} .modal.on{display:flex}
+.panel{background:var(--paper);color:var(--ink);max-width:900px;width:100%;max-height:92vh;overflow:auto;display:grid;grid-template-columns:360px 1fr;border-radius:12px} @media (max-width:760px){.panel{grid-template-columns:1fr}}
+.panel .pic{background:var(--photo)} .panel img.big{width:100%;height:auto;aspect-ratio:1;object-fit:contain;display:block}
+.panel .side{display:flex;gap:6px;justify-content:center;padding:8px} .panel .side button{font:inherit;font-size:12px;padding:5px 12px;border:1px solid var(--photo-ink);background:var(--photo);color:var(--photo-ink);border-radius:14px;cursor:pointer} .panel .side button[aria-pressed="true"]{background:var(--photo-ink);color:var(--photo)}
+.panel .body{padding:18px 22px;min-width:0} .panel h2{margin:0 0 4px;border:0;padding:0;text-transform:none;letter-spacing:0;font-size:24px}
+.panel .k{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:500;color:var(--muted);margin-top:14px} .panel .v{font-size:14px;margin-top:3px;line-height:1.5}
+.panel .acts{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0 4px} .panel .acts button{font:inherit;font-size:13px;padding:8px 14px;border:1px solid var(--ink);background:var(--paper);color:var(--ink);cursor:pointer;border-radius:6px} .panel .acts button[aria-pressed="true"].o{background:var(--win);border-color:var(--win);color:var(--on-flag)} .panel .acts button[aria-pressed="true"].w{background:var(--want);border-color:var(--want);color:var(--on-flag)}
+.panel textarea{width:100%;box-sizing:border-box;font:inherit;font-size:13px;padding:8px;border:1px solid var(--rule);min-height:60px;margin-top:4px;background:var(--paper);color:var(--ink)}
+.panel .close{float:right;font:inherit;font-size:22px;line-height:1;background:var(--paper);color:var(--ink);border:0;cursor:pointer;padding:0 0 8px 12px}
+.keybox{display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-size:13px} .keybox input{font:inherit;font-size:13px;padding:6px 8px;border:1px solid var(--rule);min-width:180px;background:var(--paper);color:var(--ink)} .keybox button{font:inherit;font-size:13px;padding:6px 10px;border:1px solid var(--ink);background:var(--black);color:var(--on-black);cursor:pointer}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:6px;margin:10px 0} .stats div{background:var(--tint);padding:10px 12px} .stats b{display:block;font-family:var(--head);font-weight:300;font-size:26px;line-height:1} .stats span{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.shirt .tbuy{display:block;margin-top:6px;font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--red-ink);text-decoration:none} .shirt .tbuy:hover{text-decoration:underline}
+.buys{display:grid;grid-template-columns:1fr 1fr;gap:8px 14px} .buys a.buy{font-weight:600;color:var(--ink);text-decoration:none;border:1px solid var(--rule);border-radius:8px;padding:8px 10px;display:block;background:var(--tint)} .buys a.buy:hover{border-color:var(--ink)} .buys small{display:block;font-size:11px;color:var(--muted);margin:2px 0 0 2px}
+@media (max-width:640px){.buys{grid-template-columns:1fr}}
+</style>
 </head><body><a class="skip" href="#main-content">Skip to main content</a><div class="wrap">
 <header class="mu">
   <a class="brand" href="/"><img src="/assets/crest-88.png" alt="" width="44" height="44" decoding="async"><h1><small>Republic of Ireland</small>Ireland Football</h1></a>
@@ -53,12 +78,26 @@
 <main id="main-content" tabindex="-1">
 
 <div class="sheet"><h2>Tournament shirts</h2><div class="kitg" id="kits"></div></div>
-<div class="sheet" id="lib"><h2>The James Nolan Memorial Collection</h2><p class="sub" id="libnote" style="margin:0 0 10px">Loading…</p><div class="libf" id="libf" role="group" aria-label="Filter shirts"></div><div id="libe"></div></div>
+<div class="sheet" id="mineBox">
+  <h2>Your collection</h2>
+  <p class="sub" style="margin:0 0 8px">Mark shirts you own and ones you want from any shirt’s page. A collection key (any phrase you’ll remember, 6+ characters) saves it to this site privately so it follows you between devices; without one it stays in this browser only.</p>
+  <div class="keybox"><label>Collection key <input id="key" type="password" placeholder="your phrase" autocomplete="off"></label><button id="keyGo" type="button">Load / save</button><span id="keyNote" class="sub" style="margin:0"></span></div>
+  <div class="stats" id="stats"></div>
+  <p class="sub" style="margin:0"><a href="#" id="csv">Download the collection as CSV</a></p>
+</div>
+<div class="sheet" id="lib"><h2>The James Nolan Memorial Collection</h2>
+  <p class="sub" id="libnote" style="margin:0 0 10px">Loading…</p>
+  <div class="filters" id="kinds"></div>
+  <div class="filters" id="mine"></div>
+  <div class="filters"><label class="sub" style="margin:0">Era <select id="era"></select></label></div>
+  <div id="list"></div>
+</div>
 <div class="sheet"><h2>Crests through the years</h2><div class="crg" id="crs"></div><p class="sub">Dates are approximate, taken from kit archives that sometimes mix federation logos and shirt badges. Ireland also briefly used a circular badge in 1977.</p></div>
 
 </main>
 <footer class="mu"><span id="stamp"></span> Results and competitive scorers: <a href="https://github.com/martj42/international_results">martj42 international results</a> (CC0). Venues, managers, notes and caps: Wikipedia (CC BY-SA). Live data: API-Football. An independent fan site, not connected with the FAI.</footer>
 </div>
+<div class="modal" id="modal"><div class="panel" id="panel" role="dialog" aria-modal="true"></div></div>
 <script src="/mu.js"></script>
 <script>
 (function(){
@@ -76,18 +115,70 @@ var K=[[2026, "2026"], [2016, "Euro 2016"], [2012, "Euro 2012"], [2002, "World C
 $("kits").innerHTML=K.map(function(k){return ["home","away"].map(function(t){return '<figure><img src="/assets/kits/'+k[0]+'-'+t+'.png" alt="'+E(k[1])+' '+t+' shirt" loading="lazy"><figcaption><b>'+E(k[1])+'</b><br>'+(k[0]===2026&&t==="away"?"Away, retail version (Sky sponsor)":t==="home"?"Home":"Away")+'</figcaption></figure>'}).join("")}).join("");
 $("crs").innerHTML='<figure><img src="/assets/crest.png" alt="Current crest" loading="lazy"><figcaption><b>Current</b></figcaption></figure>'+C.map(function(c){return '<figure><img src="/assets/crests-old/old-'+c[0]+'.png" alt="Crest '+E(c[1])+'" loading="lazy"><figcaption><b>'+E(c[1])+'</b></figcaption></figure>'}).join("");
 
-var ALL="All", KINDS=[ALL,"Home","Away","Third","Goalkeeper","Other"], cur=ALL, LIB=null;
-function libImg(id,alt){return '<img src="/assets/kits/lib/'+id+'.jpg" alt="'+E(alt)+'" loading="lazy" decoding="async" width="640" height="640">'}
-function libShirt(s,era){var alt=era+" "+(s.other||s.k).toLowerCase()+" shirt: "+s.cap;
-  return '<figure data-v="'+s.v.join(",")+'" data-i="0" data-alt="'+E(alt)+'">'+libImg(s.v[0],alt+", front")+'<figcaption><b>'+E(s.other||s.k)+'</b><br>'+E(s.cap)+(s.v.length>1?'<br><button class="linkb" type="button">Show back</button>':'')+'</figcaption></figure>'}
-function libDraw(){var open=0, n=0;
-  $("libf").innerHTML=KINDS.map(function(k){return '<button type="button" class="btn'+(k===cur?' red':'')+'" data-k="'+k+'" aria-pressed="'+(k===cur)+'">'+k+'</button>'}).join("");
-  $("libe").innerHTML=LIB.eras.map(function(e){var L=e.shirts.filter(function(s){return cur===ALL||s.k===cur}); if(!L.length)return ""; n+=L.length;
-    return '<details'+(open++<1?' open':'')+'><summary><b>'+E(e.era)+'</b> <span class="sub">'+L.length+(L.length===1?' shirt':' shirts')+'</span></summary><div class="kitg libg">'+L.map(function(s){return libShirt(s,e.era)}).join("")+'</div><p class="sub" style="margin:8px 0 0"><a href="'+E(e.page)+'" target="_blank" rel="noopener">See '+E(e.era)+' in the collection ↗</a></p></details>'}).join("");
-  $("libnote").innerHTML=n+' shirts, 1924 to 2021. '+E(LIB.credit)+', <a href="'+E(LIB.home)+'" target="_blank" rel="noopener">irelandsoccershirts.com</a>. The dates are the collection’s own groupings, and the home, away and goalkeeper labels mostly come from looking at the shirt, so a few may be wrong.'}
-fetch("/kits/library.json").then(function(r){return r.json()}).then(function(j){LIB=j; libDraw()}).catch(function(){$("lib").hidden=true});
-$("libf").addEventListener("click",function(e){var k=e.target.getAttribute&&e.target.getAttribute("data-k"); if(k){cur=k; libDraw()}});
-$("libe").addEventListener("click",function(e){if(!e.target.classList.contains("linkb"))return; var f=e.target.closest("figure"), v=f.getAttribute("data-v").split(","), i=f.getAttribute("data-i")==="0"?1:0, im=f.querySelector("img"); f.setAttribute("data-i",i); im.src="/assets/kits/lib/"+v[i]+".jpg"; im.alt=f.getAttribute("data-alt")+(i?", back":", front"); e.target.textContent=i?"Show front":"Show back"});
+// ---- The collection, built on the manutd.wiki shirts page: own, wishlist, notes and where to buy one
+var KITS=[], NOTE={}, PL=[], kind="all", mine="all", era="all", col={owned:[],wish:[],notes:{}}, key="";
+var GAMES={"1988 European Championships":['/campaigns/euro-1988/',"Euro ’88: how Ireland got there"],"1990 World Cup":['/matches/ireland-romania-1990/',"Italia ’90: Ireland v Romania"]};
+function load(){try{var l=JSON.parse(localStorage.getItem("ie:kits:col")||"null"); if(l)col=l; key=localStorage.getItem("ie:kits:key")||""}catch(e){}}
+function persist(){try{localStorage.setItem("ie:kits:col",JSON.stringify(col))}catch(e){} if(key){fetch("/collection?key="+encodeURIComponent(key),{method:"PUT",headers:{"content-type":"application/json"},body:JSON.stringify(Object.assign({},col,{updated:new Date().toISOString()}))}).then(function(r){return r.json()}).then(function(j){$("keyNote").textContent=j.ok?"Saved to the site.":"Not saved: "+(j.error||"")}).catch(function(){$("keyNote").textContent="Saved in this browser; the site could not be reached."})} stats()}
+function dec(k){return k.y<1966?"before1966":String(Math.floor(k.y/10)*10)}
+function decN(d){return d==="before1966"?"Before 1966":d+"s"}
+function stats(){var o=col.owned.length, w=col.wish.length, by={}; col.owned.forEach(function(id){var k=KITS.filter(function(x){return x.id===id})[0]; if(k){var d=dec(k); by[d]=(by[d]||0)+1}}); var top=Object.keys(by).sort(function(a,b){return by[b]-by[a]})[0];
+  $("stats").innerHTML='<div><b>'+o+'</b><span>Shirts owned</span></div><div><b>'+w+'</b><span>On the wishlist</span></div><div><b>'+(KITS.length?Math.round(100*o/KITS.length):0)+'%</b><span>Of the collection</span></div><div><b>'+(top?decN(top):"–")+'</b><span>Strongest era</span></div>'}
+function has(list,id){return list.indexOf(id)>=0}
+function toggle(list,id){var i=list.indexOf(id); if(i>=0)list.splice(i,1); else list.push(id); if(list===col.owned&&i<0){var j=col.wish.indexOf(id); if(j>=0)col.wish.splice(j,1)} persist(); render(); if($("modal").classList.contains("on"))open(id)}
+// Where to buy one like it. The photos are match-worn and signed shirts; these searches find the same year and type. eBay Germany ships
+// inside the EU (no customs into Sweden); eBay UK has the widest choice but customs and VAT apply; Tradera is the Swedish marketplace;
+// Classic Football Shirts is the specialist retailer.
+function buyQuery(k){var y=/European/.test(k.era)?"Euro "+k.era.slice(0,4):/World Cup/.test(k.era)?"World Cup "+k.era.slice(0,4):k.yl, m=String(y).match(/^(\d{4})\D+(\d{4})$/); if(m)y=m[1]+"-"+m[2].slice(-2); var what=k.other?"":k.k==="Goalkeeper"?"goalkeeper":k.k.toLowerCase(); return ("Ireland "+y+" "+what+" football shirt").replace(/\s+/g," ")}
+function buyLinks(k){var q=encodeURIComponent(buyQuery(k)), L=[["eBay.de","https://www.ebay.de/sch/i.html?_nkw="+q+"&LH_PrefLoc=3","ships within the EU"],["eBay.co.uk","https://www.ebay.co.uk/sch/i.html?_nkw="+q,"widest choice; customs and VAT into Sweden"],["Tradera","https://www.tradera.com/search?q="+q,"Swedish marketplace"],["Classic Football Shirts","https://www.classicfootballshirts.co.uk/catalogsearch/result/?q="+q,"specialist retailer"]];
+  return L.map(function(x){return '<div><a class="buy" href="'+x[1]+'" target="_blank" rel="noopener nofollow">'+x[0]+' ↗</a><small>'+E(x[2])+'</small></div>'}).join("")}
+function worn(k){var c=k.cap.toLowerCase().replace(/[’']/g,"'"), best=null; PL.forEach(function(p){var n=p.name.toLowerCase().replace(/[’']/g,"'"); if((c===n||c.indexOf(n+" ")===0)&&(!best||n.length>best.name.length))best=p}); return best}
+function pic(k,i){return "/assets/kits/lib/"+k.v[i]+".jpg"}
+function open(id){var k=KITS.filter(function(x){return x.id===id})[0]; if(!k)return; var p=worn(k), g=GAMES[k.era];
+  $("panel").innerHTML='<div class="pic"><img class="big" id="big" src="'+pic(k,0)+'" alt="'+E(k.era+" "+k.cap+", front")+'">'+(k.v.length>1?'<div class="side"><button type="button" data-i="0" aria-pressed="true">Front</button><button type="button" data-i="1" aria-pressed="false">Back</button></div>':'')+'</div><div class="body"><button class="close" id="close" type="button" aria-label="Close">×</button><h2>'+E(k.era)+' · '+E(k.other||k.k)+'</h2><div class="sub" style="margin:0">'+E(k.cap)+'</div>'+
+    '<div class="acts"><button type="button" class="o" id="bo" aria-pressed="'+has(col.owned,id)+'">'+(has(col.owned,id)?"✓ In my collection":"I own this")+'</button><button type="button" class="w" id="bw" aria-pressed="'+has(col.wish,id)+'">'+(has(col.wish,id)?"★ On my wishlist":"Add to wishlist")+'</button></div>'+
+    '<div class="k">Find one to buy</div><div class="v buys">'+buyLinks(k)+'</div><p class="sub" style="margin:4px 0 10px">Searches open in a new tab with “'+E(buyQuery(k))+'”. They look for this year and type of shirt, not this exact one.</p>'+
+    '<div class="k">My notes</div><textarea id="note" placeholder="Player name on the back, size, condition, where it came from…">'+E(col.notes[id]||"")+'</textarea>'+
+    (p?'<div class="k">Player</div><div class="v"><a href="/player/?p='+p.slug+'">'+E(p.name)+'</a></div>':'')+
+    (g?'<div class="k">On this site</div><div class="v"><a href="'+g[0]+'">'+E(g[1])+'</a></div>':'')+
+    '<div class="k">Photo</div><div class="v">'+E(NOTE.credit)+'. <a href="'+E(k.page)+'" target="_blank" rel="noopener">See it in the collection ↗</a></div></div>';
+  $("modal").classList.add("on"); document.body.style.overflow="hidden";
+  $("close").onclick=closeM; $("bo").onclick=function(){toggle(col.owned,id)}; $("bw").onclick=function(){toggle(col.wish,id)};
+  $("note").onchange=function(){col.notes[id]=this.value.trim(); if(!col.notes[id])delete col.notes[id]; persist()};
+  [].forEach.call($("panel").querySelectorAll(".side button"),function(b){b.onclick=function(){var i=+b.getAttribute("data-i"); $("big").src=pic(k,i); $("big").alt=k.era+" "+k.cap+(i?", back":", front"); [].forEach.call(b.parentNode.children,function(x){x.setAttribute("aria-pressed",x===b)})}});
+}
+function closeM(){$("modal").classList.remove("on"); document.body.style.overflow=""}
+$("modal").addEventListener("click",function(e){if(e.target===$("modal"))closeM()}); document.addEventListener("keydown",function(e){if(e.key==="Escape")closeM()});
+var TICK='<span class="flag own" title="In my collection" aria-label="In my collection"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7"/></svg></span>', STAR='<span class="flag want" title="On my wishlist" aria-label="On my wishlist"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.5l2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z"/></svg></span>';
+function render(){
+  var rows=KITS.filter(function(k){return (kind==="all"||k.k===kind)&&(mine==="all"||(mine==="own"&&has(col.owned,k.id))||(mine==="want"&&has(col.wish,k.id))||(mine==="missing"&&!has(col.owned,k.id)))&&(era==="all"||dec(k)===era)});
+  var order=[], by={}; rows.forEach(function(k){if(!by[k.era]){by[k.era]=[]; order.push(k.era)} by[k.era].push(k)});
+  var out="", cur=null;
+  order.forEach(function(s){var ks=by[s], d=dec(ks[0]); if(d!==cur){cur=d; out+='<div class="decade">'+decN(d)+'</div>'}
+    out+='<div class="season"><div class="meta"><b>'+E(s)+'</b><small><a href="'+E(ks[0].page)+'" target="_blank" rel="noopener">In the collection ↗</a></small></div><div class="shirts">'+ks.map(function(k){var o=has(col.owned,k.id), w=has(col.wish,k.id);
+      return '<div class="shirt'+(o?" own":w?" want":"")+'" data-id="'+k.id+'" tabindex="0" role="button" aria-label="'+E(k.era+", "+k.cap)+'">'+(o?TICK:w?STAR:'')+'<img src="/assets/kits/lib/t/'+k.id+'.webp" alt="" loading="lazy" decoding="async" width="240" height="240"><div class="t">'+E(k.other||k.k)+'<small>'+E(k.cap)+'</small></div><a class="tbuy" href="https://www.ebay.de/sch/i.html?_nkw='+encodeURIComponent(buyQuery(k))+'&LH_PrefLoc=3" target="_blank" rel="noopener nofollow" title="Search eBay for this year and type of shirt">Buy ↗</a></div>'}).join("")+'</div></div>'});
+  $("list").innerHTML=out||'<p class="sub">No shirts match.</p>';
+}
+$("list").addEventListener("click",function(e){if(e.target.closest(".tbuy"))return; var s=e.target.closest(".shirt"); if(s)open(s.getAttribute("data-id"))});
+$("list").addEventListener("keydown",function(e){if((e.key==="Enter"||e.key===" ")&&e.target.classList.contains("shirt")){e.preventDefault(); open(e.target.getAttribute("data-id"))}});
+function chips(el,list,c,set){el.innerHTML=list.map(function(x){return '<button type="button" data-v="'+x[0]+'" aria-pressed="'+(x[0]===c)+'">'+x[1]+(x[2]!=null?' <small>('+x[2]+')</small>':'')+'</button>'}).join(""); el.addEventListener("click",function(e){var b=e.target.closest("button"); if(!b)return; set(b.getAttribute("data-v")); [].forEach.call(el.children,function(x){x.setAttribute("aria-pressed",x===b)}); render()})}
+$("keyGo").addEventListener("click",function(){key=$("key").value.trim(); if(key.length<6){$("keyNote").textContent="Use at least 6 characters.";return} try{localStorage.setItem("ie:kits:key",key)}catch(e){}
+  fetch("/collection?key="+encodeURIComponent(key)).then(function(r){return r.json()}).then(function(j){if(j.error){$("keyNote").textContent=j.error;return}
+    if((j.owned.length||j.wish.length)&&(col.owned.length||col.wish.length)&&!confirm("A collection already exists for this key. Load it and replace what is in this browser? (Cancel keeps this browser's list and saves it to the key instead.)")){persist();return}
+    if(j.owned.length||j.wish.length||Object.keys(j.notes||{}).length){col={owned:j.owned,wish:j.wish,notes:j.notes||{}}; try{localStorage.setItem("ie:kits:col",JSON.stringify(col))}catch(e){} $("keyNote").textContent="Loaded "+j.owned.length+" owned, "+j.wish.length+" wished."; stats(); render()} else persist()}).catch(function(){$("keyNote").textContent="Could not reach the site."})});
+$("csv").addEventListener("click",function(e){e.preventDefault(); var rows=[["id","era","type","shirt","status","notes"]]; KITS.forEach(function(k){var st=has(col.owned,k.id)?"owned":has(col.wish,k.id)?"wishlist":""; if(st)rows.push([k.id,k.era,k.other||k.k,k.cap,st,(col.notes[k.id]||"")])}); var csv=rows.map(function(r){return r.map(function(c){return '"'+String(c).replace(/"/g,'""')+'"'}).join(",")}).join("\n"); var a=document.createElement("a"); a.href="data:text/csv;charset=utf-8,﻿"+encodeURIComponent(csv); a.download="ireland-shirts.csv"; a.click()});
+load(); if(key)$("key").value=key;
+Promise.all([fetch("/kits/library.json").then(function(r){return r.json()}),fetch("/history/players.json").then(function(r){return r.json()}).catch(function(){return []})]).then(function(res){
+  NOTE=res[0]; PL=res[1]; res[0].eras.forEach(function(e){e.shirts.forEach(function(s){KITS.push(Object.assign({},s,{id:s.v[0],era:e.era,y:e.y,page:e.page}))})});
+  var cnt={}; KITS.forEach(function(k){cnt[k.k]=(cnt[k.k]||0)+1});
+  $("libnote").innerHTML=KITS.length+' shirts, 1924 to 2021. '+E(NOTE.credit)+', <a href="'+E(NOTE.home)+'" target="_blank" rel="noopener">irelandsoccershirts.com</a>. The dates are the collection’s own groupings, and the home, away and goalkeeper labels mostly come from looking at the shirt, so a few may be wrong.';
+  chips($("kinds"),[["all","All",KITS.length],["Home","Home",cnt.Home],["Away","Away",cnt.Away],["Third","Third",cnt.Third],["Goalkeeper","Goalkeeper",cnt.Goalkeeper],["Other","Other",cnt.Other]],"all",function(v){kind=v});
+  chips($("mine"),[["all","Everything"],["own","My collection"],["want","Wishlist"],["missing","Not owned yet"]],"all",function(v){mine=v});
+  var seen={}, ds=[]; KITS.forEach(function(k){var d=dec(k); if(!seen[d]){seen[d]=1; ds.push(d)}}); $("era").innerHTML='<option value="all">Every era</option>'+ds.map(function(d){return '<option value="'+d+'">'+decN(d)+'</option>'}).join(""); $("era").addEventListener("change",function(){era=this.value; render()});
+  stats(); render();
+  if(key)$("keyGo").click();
+  var want=new URLSearchParams(location.search).get("k"); if(want)open(want);
+}).catch(function(){$("libnote").textContent="The collection could not be loaded."});
 
 })();
 </script></body></html>

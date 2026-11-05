@@ -22,7 +22,7 @@ for r in sorted(R, key=lambda r: r["id"]):
     elif last and last["k"] == KEEP[r["category"]] and last["_c"] == r["category"] and norm(last["cap"]) == norm(r["caption"]) and len(last["v"]) < 2 and int(r["id"]) - int(last["v"][-1]) <= 2:
         last["v"].append(r["id"])
     else:
-        L.append({"k": KEEP[r["category"]], "_c": r["category"], "cap": r["caption"].rstrip("."), "v": [r["id"]]})
+        L.append({"k": KEEP[r["category"]], "_c": r["category"], "cap": r["caption"].rstrip("."), "yl": r["year_label"], "v": [r["id"]]})
 for e in eras.values():
     for s in e["shirts"]:
         if s["v"][0] in BACK_FIRST: s["v"].reverse()

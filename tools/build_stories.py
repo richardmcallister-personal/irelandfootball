@@ -45,6 +45,7 @@ def page(path, title, desc, nav, body, credit):
     head = KITS[:KITS.index("</head>")]
     head = re.sub(r"<title>.*?</title>", f"<title>{E(title)}</title>", head, count=1, flags=re.S)
     head = head.replace('<meta name="robots" content="noindex,noimageindex">', "")
+    head = re.sub(r"<style>.*?</style>", "<style></style>", head, flags=re.S)
     url = ORIGIN + path
     og = f'<meta name="description" content="{E(desc)}"><meta property="og:type" content="article"><meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}"><meta property="og:url" content="{url}"><meta property="og:image" content="{ORIGIN}/assets/crest.png"><meta name="twitter:card" content="summary"><link rel="canonical" href="{url}">\n'
     top = KITS[KITS.index("</head>"):KITS.index("<main")]
