@@ -15,7 +15,7 @@
   var DAYS={Mon:"Luan",Tue:"Máirt",Wed:"Céad",Thu:"Déar",Fri:"Aoine",Sat:"Sath",Sun:"Domh",Monday:"Dé Luain",Tuesday:"Dé Máirt",Wednesday:"Dé Céadaoin",Thursday:"Déardaoin",Friday:"Dé hAoine",Saturday:"Dé Sathairn",Sunday:"Dé Domhnaigh"};
   var MON={Jan:"Ean",Feb:"Feabh",Mar:"Márta",Apr:"Aib",May:"Beal",Jun:"Meith",Jul:"Iúil",Aug:"Lún",Sep:"MFómh",Sept:"MFómh",Oct:"DFómh",Nov:"Samh",Dec:"Noll",January:"Eanáir",February:"Feabhra",March:"Márta",April:"Aibreán",June:"Meitheamh",July:"Iúil",August:"Lúnasa",September:"Meán Fómhair",October:"Deireadh Fómhair",November:"Samhain",December:"Nollaig"};
   var DATE=/^(?:([A-Z][a-z]+),? )?(\d{1,2}) ([A-Z][a-z]+)(?: (\d{4}))?((?: v .+)?)$/;
-  var LETTERS={W:"B",D:"C",L:"Ca",P:"I",F:"Ar",A:"In"};
+  var LETTERS={W:"B",D:"C",L:"Ca",P:"I",F:"Ar",A:"In"}, VENUE={H:"B",A:"AB",N:"N"};
   function cap(s){return s.charAt(0).toUpperCase()+s.slice(1)}
   function date(s){var m=s.match(DATE); if(!m||!MON[m[3]]||(m[1]&&!DAYS[m[1]]))return null; return (m[1]?DAYS[m[1]]+", ":"")+m[2]+" "+MON[m[3]]+(m[4]?" "+m[4]:"")+(m[5]?" v "+tr(m[5].slice(3),1):"")}
   // tr: English to Irish, or the text unchanged. mid=1 keeps a country in lower case for use inside a phrase.
@@ -30,14 +30,14 @@
   function node(n){var p=n.parentElement; if(!p||/^(SCRIPT|STYLE|TEXTAREA|NOSCRIPT|MARK)$/.test(p.tagName)||p.closest("[data-noi18n]"))return;
     var v=n.nodeValue; if(done.get(n)===v||!/[A-Za-z]/.test(v))return;
     var t=v.trim(), r;
-    if(p.tagName==="OPTION"&&/^[A-Z]{2}$/.test(p.value)&&NAMES){try{r=NAMES.of(p.value)}catch(e){}}
-    if(!r&&t.length<3&&LETTERS[t]&&(p.tagName==="TH"||/\b(rw|rd|rl)\b/.test(p.className)))r=LETTERS[t];
+    if(p.tagName==="OPTION"&&/^[A-Z]{2}$/.test(p.value)&&p.closest(".watch")&&C[t]==null&&NAMES){try{r=NAMES.of(p.value)}catch(e){}}
+    if(!r&&t.length<3){if(LETTERS[t]&&(p.tagName==="TH"||/\b(rw|rd|rl|W|D|L)\b/.test(p.className)))r=LETTERS[t]; else if(p.tagName==="TD"&&VENUE[t])r=VENUE[t]; else if(/^(H|A|N)$/.test(t)&&p.tagName!=="TH"&&VENUE[t])r=VENUE[t]}
     if(!r)r=tr(t);
     var nv=r===t?v:v.replace(t,function(){return r}); done.set(n,nv); if(nv!==v)n.nodeValue=nv}
   // A paragraph with links inside: swapped whole, keeping its child elements at {0}, {1}…
   function block(el){if(blockDone.has(el))return; var key=el.textContent.replace(/\s+/g," ").trim(), tpl=B[key]; if(!tpl)return; blockDone.add(el);
     var kids=[].slice.call(el.children), frag=D.createDocumentFragment(); tpl.split(/(\{\d+\})/).forEach(function(b){var m=b.match(/^\{(\d+)\}$/); if(m&&kids[+m[1]])frag.appendChild(kids[+m[1]]); else if(!m&&b)frag.appendChild(D.createTextNode(b))});
-    el.textContent=""; el.appendChild(frag); var w=D.createTreeWalker(el,NodeFilter.SHOW_TEXT),n; while((n=w.nextNode()))done.set(n,n.nodeValue);
+    el.textContent=""; el.appendChild(frag); [].forEach.call(el.childNodes,function(n){if(n.nodeType===3)done.set(n,n.nodeValue)});
     [].forEach.call(el.children,function(c){walk(c)})}
   var ATT=["placeholder","title","aria-label","alt"];
   function attrs(e){for(var i=0;i<ATT.length;i++){var a=ATT[i],v=e.getAttribute&&e.getAttribute(a); if(v&&e.closest&&!e.closest("[data-noi18n]")){var r=tr(v.trim()); if(r!==v.trim())e.setAttribute(a,r)}}}

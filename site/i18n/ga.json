@@ -483,9 +483,26 @@
 "Loading…": "Ag lódáil…",
 "Card": "Cárta",
 "Var": "VAR",
-"Live data from API-Football. Kick-offs are shown in your own time zone, with UK time beneath. An independent fan site, not connected with the FAI.": "Sonraí beo ó API-Football. Taispeántar amanna tosaithe i do chrios ama féin, le ham na Ríochta Aontaithe faoina bhun. Suíomh neamhspleách lucht leanúna, gan aon cheangal le CPÉ."
+"Live data from API-Football. Kick-offs are shown in your own time zone, with UK time beneath. An independent fan site, not connected with the FAI.": "Sonraí beo ó API-Football. Taispeántar amanna tosaithe i do chrios ama féin, le ham na Ríochta Aontaithe faoina bhun. Suíomh neamhspleách lucht leanúna, gan aon cheangal le CPÉ.",
+"From the first game in 1924. Ireland's score first. The team played as Irish Free State to 1936, then Ireland, and has been the Republic of Ireland since 1954.": "Ón gcéad chluiche in 1924. Scór na hÉireann ar dtús. D’imir an fhoireann mar Shaorstát Éireann go dtí 1936, ansin mar Éire, agus is Poblacht na hÉireann í ó 1954.",
+"All competitions": "Gach comórtas",
+"All decades": "Gach deich mbliana",
+"Home and away": "Baile agus as baile",
+"Neutral": "Neodrach",
+"Wins": "Buanna",
+"Draws": "Comhscóir",
+"Defeats": "Cailltí",
+"Opponent, scorer, venue…": "Céile comhraic, scórálaí, ionad…",
+"Search results": "Cuardaigh na torthaí",
+"Decade": "Deich mbliana",
+"Result": "Toradh",
+"Rome. Salvatore Schillaci for Italy": "An Róimh. Salvatore Schillaci don Iodáil"
 },
 "patterns": [
+[
+"^([A-Z][a-z]+)\\. No goals$",
+"$1. Gan chúil"
+],
 [
 "^(\\d+) games, (\\d+) wins?$",
 "Cluichí: $1, buanna: $2"
