@@ -240,6 +240,9 @@ async function pushTick(env) {
 
 
 
+// Runs before the page paints: picks the language (?lang=, then the saved choice) and keeps Irish pages hidden until translated. See site/i18n.js.
+const LANG_HEAD = '<script>(function(){var l=null;try{l=new URLSearchParams(location.search).get("lang");if(l==="ga"||l==="en")localStorage.setItem("mu:lang",l);else l=localStorage.getItem("mu:lang")}catch(e){}window.MU_LANG=l==="ga"?"ga":"en";if(l==="ga"){var d=document.documentElement;d.lang="ga";d.classList.add("i18n-wait");setTimeout(function(){d.classList.remove("i18n-wait")},3000)}})()</script><style>html.i18n-wait body{visibility:hidden}</style><script src="/i18n.js"></script>';
+
 // ---- Shirt collection: owned / wishlist / notes, stored in KV under a hash of the owner's passphrase.
 // GET  /collection?key=…         → the saved collection (or an empty one)
 // PUT  /collection?key=…  body   → replace it (JSON, 64 KB max)
@@ -290,7 +293,7 @@ async function page(request, env) {
   const res = await env.ASSETS.fetch(request);
   const ct = res.headers.get("content-type") || "";
   if (!/text\/html/.test(ct)) return res;
-  const body = (await res.text()).replace("<head>", '<head><meta name="mu-country" content="' + ((request.cf && request.cf.country) || "").replace(/[^A-Z]/g, "") + '">');
+  const body = (await res.text()).replace("<head>", '<head><meta name="mu-country" content="' + ((request.cf && request.cf.country) || "").replace(/[^A-Z]/g, "") + '">' + LANG_HEAD);
   const h = new Headers(res.headers); h.delete("content-length"); h.set("cache-control", "private, max-age=0, must-revalidate");
   return new Response(body, { status: res.status, headers: h });
 }

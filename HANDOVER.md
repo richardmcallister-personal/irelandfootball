@@ -27,6 +27,10 @@ Static pages from `tools/build_stories.py`: `/matches/ireland-romania-1990/`, `/
 
 The Kits page has a new section of 215 shirts (420 photos) from the James Nolan Memorial Collection, added alongside the existing kits. Design and own, wishlist, notes and Buy links come from manutd.wiki's shirts page, with the store at `/collection` (hashed key, this site's KV). Buy links search for the year and type, not the exact shirt. Shirts from 2021 on are listed in `tools/data/kits_extra.csv`, most awaiting photos from Richard. No permission from Eddie O'Mahony yet; Richard has a draft request. Not used for training or leisure tops, prototypes or the LA Galaxy shirts.
 
+## Irish version
+
+Language picker in the header of every page; the choice is saved in the browser, and `?lang=ga` links straight to Irish. See CLAUDE.md. Match alerts and calendar feeds are still English.
+
 ## Known gaps
 
 - Scorers: friendlies before about 2017 are mostly unnamed; Keane and all listed hat-tricks are now in, without minutes. Line-ups start about 2017.
