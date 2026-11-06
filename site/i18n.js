@@ -24,9 +24,10 @@
     if(X[s]!=null)return X[s];
     var d=date(s); if(d)return d;
     if(s.indexOf(" · ")>0){var parts=s.split(" · "), out=parts.map(function(p){return tr(p)}); return out.join(" · ")}
+    var v=s.match(/^(.+) v (.+)$/); if(v){var rt=tr(v[2],1); if(rt!==v[2])return tr(v[1])+" v "+rt}
     for(var i=0;i<P.length;i++){var m=s.match(P[i][0]); if(m)return P[i][1].replace(/\{([Tt])(\d)\}/g,function(_,k,n){return tr(m[+n],k==="t"?1:0)}).replace(/\$(\d)/g,function(_,n){return m[+n]||""}).replace(/\s+$/,"")}
     return s}
-  function node(n){var p=n.parentElement; if(!p||/^(SCRIPT|STYLE|TEXTAREA|NOSCRIPT)$/.test(p.tagName)||p.closest("[data-noi18n]"))return;
+  function node(n){var p=n.parentElement; if(!p||/^(SCRIPT|STYLE|TEXTAREA|NOSCRIPT|MARK)$/.test(p.tagName)||p.closest("[data-noi18n]"))return;
     var v=n.nodeValue; if(done.get(n)===v||!/[A-Za-z]/.test(v))return;
     var t=v.trim(), r;
     if(p.tagName==="OPTION"&&/^[A-Z]{2}$/.test(p.value)&&NAMES){try{r=NAMES.of(p.value)}catch(e){}}
@@ -36,7 +37,7 @@
   // A paragraph with links inside: swapped whole, keeping its child elements at {0}, {1}…
   function block(el){if(blockDone.has(el))return; var key=el.textContent.replace(/\s+/g," ").trim(), tpl=B[key]; if(!tpl)return; blockDone.add(el);
     var kids=[].slice.call(el.children), frag=D.createDocumentFragment(); tpl.split(/(\{\d+\})/).forEach(function(b){var m=b.match(/^\{(\d+)\}$/); if(m&&kids[+m[1]])frag.appendChild(kids[+m[1]]); else if(!m&&b)frag.appendChild(D.createTextNode(b))});
-    el.textContent=""; el.appendChild(frag); [].forEach.call(el.querySelectorAll("*"),function(){}); var w=D.createTreeWalker(el,NodeFilter.SHOW_TEXT),n; while((n=w.nextNode()))done.set(n,n.nodeValue);
+    el.textContent=""; el.appendChild(frag); var w=D.createTreeWalker(el,NodeFilter.SHOW_TEXT),n; while((n=w.nextNode()))done.set(n,n.nodeValue);
     [].forEach.call(el.children,function(c){walk(c)})}
   var ATT=["placeholder","title","aria-label","alt"];
   function attrs(e){for(var i=0;i<ATT.length;i++){var a=ATT[i],v=e.getAttribute&&e.getAttribute(a); if(v&&e.closest&&!e.closest("[data-noi18n]")){var r=tr(v.trim()); if(r!==v.trim())e.setAttribute(a,r)}}}
