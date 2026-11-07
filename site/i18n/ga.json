@@ -536,7 +536,25 @@
 "The season so far": "An séasúr go dtí seo",
 "Loading the table…": "Ag lódáil an tábla…",
 "No results yet.": "Níl aon torthaí ann fós.",
-"Full match centre →": "Lárionad iomlán an chluiche →"
+"Full match centre →": "Lárionad iomlán an chluiche →",
+"Shoot-out": "Ciceanna éirice",
+"missed": "amú",
+"The players": "Na himreoirí",
+"Final cap": "An caipín deiridh",
+"Ireland goals so far": "Cúil d’Éirinn go dtí seo",
+"Line-up": "Foireann",
+"Came on:": "Tháinig isteach:",
+"All meetings →": "Gach cluiche eatarthu →",
+"Their first meeting.": "An chéad uair a bhuail siad le chéile.",
+"Previous meeting": "An cluiche roimhe sin eatarthu",
+"Next meeting": "An chéad chluiche eile eatarthu",
+"After extra time": "Tar éis am breise",
+"Lost on penalties": "Cailleadh ar chiceanna éirice",
+"The other side’s scorers are not on record here.": "Níl scórálaithe na foirne eile ar taifead anseo.",
+"The scorers are not on record here.": "Níl na scórálaithe ar taifead anseo.",
+"Goals, ground, crowd and referee: Wikipedia,": "Cúil, staid, slua agus réiteoir: Vicipéid Bhéarla,",
+"Report elsewhere": "Tuairisc in áit eile",
+"No Ireland game on that date.": "Níor imir Éire ar an dáta sin."
 },
 "patterns": [
 [
@@ -814,6 +832,38 @@
 [
 "^(\\d+) Ireland matches on (.+)\\.$",
 "Cluichí ag Éirinn ar {T2}: $1."
+],
+[
+"^Won (\\d+)–(\\d+) on penalties$",
+"Bua $1–$2 ar chiceanna éirice"
+],
+[
+"^Lost (\\d+)–(\\d+) on penalties$",
+"Cailleadh $1–$2 ar chiceanna éirice"
+],
+[
+"^Meeting number (\\d+)\\.$",
+"Cluiche uimhir $1 eatarthu."
+],
+[
+"^Crowd (\\d+)$",
+"Slua $1"
+],
+[
+"^Referee (.+)$",
+"Réiteoir: $1"
+],
+[
+"^\\((\\d+) caps\\)$",
+"($1 caipín)"
+],
+[
+"^results (\\d{4}–\\S+)$",
+"torthaí $1"
+],
+[
+"^(.+) \\(neutral\\)$",
+"$1 (neodrach)"
 ]
 ],
 "blocks": {

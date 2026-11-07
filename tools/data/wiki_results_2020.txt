@@ -1,0 +1,1359 @@
+{{Short description|none}}
+{{Republic of Ireland national football team results|key=1}}
+This article provides details of international football games played by the [[Republic of Ireland national football team]] from 2020 to present.<ref>{{Cite web|url=https://int.soccerway.com/teams/ireland-republic/ireland-republic/1202/|title=Republic of Ireland - Republic of Ireland - Results, fixtures, squad, statistics, photos, videos and news - Soccerway|website=int.soccerway.com}}</ref><ref>{{Cite web|url=https://eu-football.info/_matches.php?id=163|title=Rep. of Ireland national football team results|website=eu-football.info}}</ref>
+
+==Results==
+===2020===
+{{Football box collapsible|format=1
+|round = [[2020–21 UEFA Nations League B#Group 4|2020–21 Nations League]]
+|date = 3 September 2020
+|time = 21:45
+|team1 = {{fb-rt|BUL}}
+|score = 1–1
+|report = https://www.uefa.com/uefanationsleague/match/2029975/
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 =
+*[[Bozhidar Kraev|Kraev]] {{goal|56}}
+|goals2 =
+*[[Shane Duffy|Duffy]] {{goal|90+3}}
+|stadium = [[Vasil Levski National Stadium]]
+|location = [[Sofia]], Bulgaria
+|attendance = 0{{refn|group=note|name=September behind closed doors|Due to the [[COVID-19 pandemic in Europe]], all matches scheduled for September 2020 were played [[Behind closed doors (sport)|behind closed doors]].<ref>{{cite news |url=https://www.uefa.com/news-media/news/0260-102b2c2ace44-637fb4a08f89-1000/ |title=UEFA meets general secretaries of member associations |website=[[UEFA]] |publisher=Union of European Football Associations |date=19 August 2020 |access-date=1 September 2020}}</ref><ref>{{cite news |url=https://www.uefa.com/news-media/news/0260-103712e48c82-4059778ef426-1000/ |title=UEFA Super Cup to test partial return of spectators |website=[[UEFA]] |publisher=Union of European Football Associations |date=25 August 2020 |access-date=1 September 2020}}</ref>}}
+|referee = [[Manuel Schüttengruber]] ([[Austrian Football Association|Austria]])
+|result = D
+}}
+{{Football box collapsible|format=1
+|round = [[2020–21 UEFA Nations League B#Group 4|2020–21 Nations League]]
+|date = 6 September 2020
+|time = 17:00
+|team1 = Republic of Ireland {{flagdeco|IRL}}
+|score = 0–1
+|report = https://www.uefa.com/uefanationsleague/match/2030003/
+|team2 = {{fb|FIN}}
+|goals1 =
+|goals2 =
+*[[Fredrik Jensen (footballer, born 1997)|Jensen]] {{goal|64}}
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 0{{refn|group=note|name=September behind closed doors}}
+|referee = [[Fabio Maresca]] ([[Italian Football Federation|Italy]])
+|result = L
+}}
+{{Football box collapsible|format=1
+|round = [[UEFA Euro 2020 qualifying play-offs#Path B|Euro 2020 qualifying play-offs]]
+|date = 8 October 2020
+|time = 20:45
+|team1 = {{fb-rt|SVK}}
+|score = 0–0
+|aet = yes
+|report = https://www.uefa.com/european-qualifiers/match/2028567/
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 = 
+|goals2 = 
+|penalties1 =
+*[[Marek Hamšík|Hamšík]] {{pengoal}}
+*[[Patrik Hrošovský|Hrošovský]] {{pengoal}}
+*[[Lukáš Haraslín|Haraslín]] {{pengoal}}
+*[[Ján Greguš|Greguš]] {{pengoal}}
+|penaltyscore = 4–2
+|penalties2 =
+*{{pengoal}} [[Conor Hourihane|Hourihane]]
+*{{pengoal}} [[Robbie Brady|Brady]]
+*{{penmiss}} [[Alan Browne (footballer)|Browne]]
+*{{penmiss}} [[Matt Doherty (footballer, born 1992)|Doherty]]
+|stadium = [[Tehelné pole]]
+|location = [[Bratislava]], Slovakia
+|attendance = 0{{refn|group=note|The Slovakia v Republic of Ireland match was played behind closed doors due to the [[COVID-19 pandemic in Slovakia]].<ref>{{cite news |last=Fitzmaurice |first=Aidan |url=https://www.independent.ie/sport/soccer/international-soccer/green-light-for-play-off-despite-slovakia-state-of-emergency-39571129.html |title=Green light for play-off despite Slovakia state of emergency |work=[[Irish Independent]] |date=29 September 2020 |access-date=2 October 2020}}</ref>}}
+|referee = [[Clément Turpin]] ([[French Football Federation|France]])
+|result = D
+}}
+{{Football box collapsible|format=1
+|round = [[2020–21 UEFA Nations League B#Group 4|2020–21 Nations League]]
+|date = 11 October 2020
+|time = 14:00
+|team1 = Republic of Ireland {{flagdeco|IRL}}
+|score = 0–0
+|report = https://www.uefa.com/uefanationsleague/match/2030048/
+|team2 = {{fb|WAL}}
+|goals1 =
+|goals2 =
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 0{{refn|group=note|name=Behind closed doors|Due to the [[COVID-19 pandemic in Europe]], the match was played [[Behind closed doors (sport)|behind closed doors]].}}
+|referee = [[Anastasios Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+|result = D
+}}
+{{Football box collapsible|format=1
+|round = [[2020–21 UEFA Nations League B#Group 4|2020–21 Nations League]]
+|date = 14 October 2020
+|time = 19:00
+|team1 = {{fb-rt|FIN}}
+|score = 1–0
+|report = https://www.uefa.com/uefanationsleague/match/2030072/
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 =
+*[[Fredrik Jensen (footballer, born 1997)|Jensen]] {{goal|66}}
+|goals2 =
+|stadium = [[Helsinki Olympic Stadium]]
+|location = [[Helsinki]], Finland
+|attendance = 7,900
+|referee = [[Lionel Tschudi]] ([[Swiss Football Association|Switzerland]])
+|result = L
+}}
+{{Football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+|date = 12 November 2020
+|time = 20:00
+|team1 = {{fb-rt|ENG}}
+|score = 3–0
+|report = https://www.bbc.co.uk/sport/football/54819958
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 =
+*[[Harry Maguire|Maguire]] {{goal|18}}
+*[[Jadon Sancho|Sancho]] {{goal|31}}
+*[[Dominic Calvert-Lewin|Calvert-Lewin]] {{goal|56|pen.}}
+|goals2 =
+|stadium = [[Wembley Stadium]]
+|location = [[London]], England
+|attendance = 0
+|referee = [[Carlos del Cerro Grande]] ([[Royal Spanish Football Federation|Spain]])
+|result = L
+}}
+{{Football box collapsible|format=1
+|round = [[2020–21 UEFA Nations League B#Group 4|2020–21 Nations League]]
+|date = 15 November 2020
+|time = 17:00
+|team1 = {{fb-rt|WAL}}
+|score = 1–0
+|report = https://www.uefa.com/uefanationsleague/match/2030088/
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 =
+*[[David Brooks (footballer)|Brooks]] {{goal|67}}
+|goals2 =
+|stadium = [[Cardiff City Stadium]]
+|location = [[Cardiff]], Wales
+|attendance = 0
+|referee = [[Petr Ardeleánu]] ([[Football Association of the Czech Republic|Czech Republic]])
+|result = L
+}}
+{{Football box collapsible|format=1
+|round = [[2020–21 UEFA Nations League B#Group 4|2020–21 Nations League]]
+|date = 18 November 2020
+|time = 19:45
+|team1 = Republic of Ireland {{flagdeco|IRL}}
+|score = 0–0
+|report = https://www.uefa.com/uefanationsleague/match/2030117/
+|team2 = {{fb|BUL}}
+|goals1 =
+|goals2 =
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 0
+|referee = [[Lawrence Visser]] ([[Royal Belgian Football Association|Belgium]])
+|result = D
+}}
+
+===2021===
+{{Football box collapsible|format=1
+|round = [[2022 FIFA World Cup qualification – UEFA Group A|2022 World Cup qualification]]
+|date = 24 March 2021
+|time = {{UTZ|20:45|1}}
+|team1 = {{fb-rt|SRB}}
+|score = 3–2
+|report = https://www.uefa.com/european-qualifiers/match/2030770/
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 =
+*[[Dušan Vlahović|Vlahović]] {{goal|40}}
+*[[Aleksandar Mitrović|A. Mitrović]] {{goal|69||75}}
+|goals2 =
+*[[Alan Browne (footballer)|Browne]] {{goal|18}}
+*[[James Collins (footballer, born 1990)|Collins]] {{goal|86}}
+|stadium = [[Stadion Rajko Mitić]]
+|location = [[Belgrade]], Serbia
+|attendance = 0
+|referee = [[Davide Massa]] ([[Italian Football Federation|Italy]])
+|result = L
+}}
+{{Football box collapsible|format=1
+|round = [[2022 FIFA World Cup qualification – UEFA Group A|2022 World Cup qualification]]
+|date = 27 March 2021
+|time = {{UTZ|19:45|0}}
+|team1 = Republic of Ireland {{flagdeco|IRL}}
+|score = 0–1
+|report = https://www.uefa.com/european-qualifiers/match/2030796/
+|team2 = {{fb|LUX}}
+|goals1 =
+|goals2 =
+*[[Gerson Rodrigues (footballer, born 1995)|Rodrigues]] {{goal|85}}
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 0
+|referee = [[Fran Jović]] ([[Croatian Football Federation|Croatia]])
+|result = L
+}}
+{{Football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+|date = 30 March 2021
+|time = {{UTZ|20:45|2}}
+|team1 = {{fb-rt|QAT}}
+|score = 1–1
+|report = https://www.bbc.co.uk/sport/football/56565675
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 =
+*[[Mohammed Muntari|Muntari]] {{goal|47}}
+|goals2 =
+*[[James McClean|McClean]] {{goal|4}}
+|stadium = [[Nagyerdei Stadion]]
+|location = [[Debrecen]], Hungary
+|attendance = 0
+|referee = Balázs Berke ([[Hungarian Football Federation|Hungary]])
+|result = D
+}}
+{{Football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+|date = 3 June 2021
+|time = {{UTZ|19:00|2}}
+|team1 = {{fb-rt|AND}}
+|score = 1–4
+|report = https://www.bbc.co.uk/sport/football/57322894
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 = 
+*[[Marc Vales|Vales]] {{goal|52}}
+|goals2 = 
+*[[Troy Parrott|Parrott]] {{goal|58||61}}
+*[[Jason Knight (footballer)|Knight]] {{goal|84}} 
+*[[Daryl Horgan|Horgan]] {{goal|89}}
+|stadium = [[Estadi Nacional]]
+|location = [[Andorra la Vella]], Andorra
+|attendance = 0
+|referee = [[Xavier Estrada Fernández]] ([[Royal Spanish Football Federation|Spain]])
+|result = W
+}}
+{{Football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+|date = 8 June 2021
+|time = {{UTZ|20:00|2}}
+|team1 = {{fb-rt|HUN}}
+|score = 0–0
+|report = https://www.bbc.co.uk/sport/football/57386249
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 =
+|goals2 =
+|stadium = [[Szusza Ferenc Stadion]]
+|location = [[Budapest]], Hungary
+|attendance = 0
+|referee = [[Daniel Stefański]] ([[Polish Football Association|Poland]])
+|result = D
+}}
+{{Football box collapsible|format=1
+|round = [[2022 FIFA World Cup qualification – UEFA Group A|2022 World Cup qualification]]
+|date = 1 September 2021
+|time = {{UTZ|19:45|1}}
+|team1 = {{fb-rt|POR}}
+|score = 2–1
+|report = https://www.uefa.com/european-qualifiers/match/2030839/
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|89||90+6}}
+|goals2 =
+*[[John Egan (footballer, born 1992)|Egan]] {{goal|45}}
+|stadium = [[Estádio Algarve]]
+|location = [[Algarve]], Portugal
+|attendance = 7,831
+|referee = [[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+|result = L
+}}
+{{Football box collapsible|format=1
+|round = [[2022 FIFA World Cup qualification – UEFA Group A|2022 World Cup qualification]]
+|date = 4 September 2021
+|time = {{UTZ|17:00|1}}
+|team1 = Republic of Ireland {{flagdeco|IRL}}
+|score = 1–1
+|report = https://www.uefa.com/european-qualifiers/match/2030863/
+|team2 = {{fb|AZE}}
+|goals1 =
+*[[Shane Duffy|Duffy]] {{goal|87}}
+|goals2 =
+*[[Emin Mahmudov|Mahmudov]] {{goal|45+1}}
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 21,287
+|referee = [[Jérôme Brisard]] ([[French Football Federation|France]])
+|result = D
+}}
+{{Football box collapsible|format=1
+|round = [[2022 FIFA World Cup qualification – UEFA Group A|2022 World Cup qualification]]
+|date = 7 September 2021
+|time = {{UTZ|19:45|1}}
+|team1 = Republic of Ireland {{flagdeco|IRL}}
+|score = 1–1
+|report = https://www.uefa.com/european-qualifiers/match/2030895/
+|team2 = {{fb|SRB}}
+|goals1 =
+*[[Nikola Milenković|Milenković]] {{goal|87|o.g.}}
+|goals2 =
+*[[Sergej Milinković-Savić|Milinković-Savić]] {{goal|20}}
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 25,415
+|referee = [[José María Sánchez Martínez|José María Sánchez]] ([[Royal Spanish Football Federation|Spain]])
+|result = D
+}}
+{{Football box collapsible|format=1
+|round = [[2022 FIFA World Cup qualification – UEFA Group A|2022 World Cup qualification]]
+|date = 9 October 2021
+|time = {{UTZ|20:00|4}}
+|team1 = {{fb-rt|AZE}}
+|score = 0–3
+|report = https://www.uefa.com/european-qualifiers/match/2030929/
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 =
+|goals2 =
+*[[Callum Robinson|Robinson]] {{goal|7||39}}
+*[[Chiedozie Ogbene|Ogbene]] {{goal|90}}
+|stadium = [[Baku Olympic Stadium]]
+|location = [[Baku]], Azerbaijan
+|attendance = 6,852
+|referee = [[Espen Eskås]] ([[Norwegian Football Federation|Norway]])
+|result = W
+}}
+{{Football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+|date = 12 October 2021
+|time = {{UTZ|19:45|0}}
+|team1 = Republic of Ireland {{flagdeco|IRL}}
+|score = 4–0
+|report = https://www.bbc.com/sport/football/58868974
+|team2 = {{fb|QAT}}
+|goals1 =
+*[[Callum Robinson|Robinson]] {{goal|4||13|pen.|53}}
+*[[Shane Duffy|Duffy]] {{goal|59}}
+|goals2 =
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 25,749
+|referee = Keith Kennedy ([[Irish Football Association|Northern Ireland]])
+|result = W
+}}
+{{Football box collapsible|format=1
+|round = [[2022 FIFA World Cup qualification – UEFA Group A|2022 World Cup qualification]]
+|date = 11 November 2021
+|time = {{UTZ|19:45|0}}
+|team1 = Republic of Ireland {{flagdeco|IRL}}
+|score = 0–0
+|report = https://www.uefa.com/european-qualifiers/match/2030968/
+|team2 = {{fb|POR}}
+|goals1 =
+|goals2 =
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 50,373
+|referee = [[Jesús Gil Manzano]] ([[Royal Spanish Football Federation|Spain]])
+|result = D
+}}
+{{Football box collapsible|format=1
+|round = [[2022 FIFA World Cup qualification – UEFA Group A|2022 World Cup qualification]]
+|date = 14 November 2021
+|time = {{UTZ|20:45|1}}
+|team1 = {{fb-rt|LUX}}
+|score = 0–3
+|report = https://www.uefa.com/european-qualifiers/match/2030995/
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 =
+|goals2 =
+*[[Shane Duffy|Duffy]] {{goal|67}}
+*[[Chiedozie Ogbene|Ogbene]] {{goal|75}}
+*[[Callum Robinson|Robinson]] {{goal|88}}
+|stadium = [[Stade de Luxembourg]]
+|location = [[Luxembourg City]], Luxembourg
+|attendance = 9,268
+|referee = [[Tamás Bognár]] ([[Hungarian Football Federation|Hungary]])
+|result = W
+}}
+
+===2022===
+{{Football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+|date = 26 March 2022
+|time = {{UTZ|17:00|0}}
+|team1 = Republic of Ireland {{flagdeco|IRL}} 
+|score = 2–2
+|report = https://www.bbc.co.uk/sport/football/60827082
+|team2 = {{fb|BEL}}
+|goals1 =  
+*[[Chiedozie Ogbene|Ogbene]] {{goal|35}}
+*[[Alan Browne (footballer)|Browne]] {{goal|85}}
+|goals2 =
+*[[Michy Batshuayi|Batshuayi]] {{goal|12}}
+*[[Hans Vanaken|Vanaken]] {{goal|58}}
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 48,808<ref name="IRL BEL 2022">{{cite web |title=Ireland twice come from behind in thrilling draw with Belgium |url=https://www.the42.ie/ireland-belgium-4-5722084-Mar2022/ |website=the42 |date=26 March 2022 |access-date=26 March 2022}}</ref>
+|referee = [[Nick Walsh (referee)|Nick Walsh]] ([[Scottish Football Association|Scotland]])
+|result = D
+}}
+{{Football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+|date = 29 March 2022
+|time = {{UTZ|18:45|1}}
+|team1 = Republic of Ireland {{flagdeco|IRL}} 
+|score = 1–0
+|report = https://www.bbc.co.uk/sport/football/60899453
+|team2 = {{fb|LTU}}
+|goals1 =
+*[[Troy Parrott|Parrott]] {{goal|90+7}}
+|goals2 =
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 30,686<ref name="ROI LIT 2022">{{cite web |title=Troy Parrott repeats happy knack of getting Ireland out of jail |url=https://www.irishtimes.com/sport/soccer/international/troy-parrott-repeats-happy-knack-of-getting-ireland-out-of-jail-1.4839627 |website=Irish Times |access-date=29 March 2022}}</ref>
+|referee = Bram Van Driessche ([[Royal Belgian Football Association|Belgium]])
+|result = W 
+}}
+{{Football box collapsible|format=1
+|round = [[2022–23 UEFA Nations League B#Group 1|2022–23 Nations League]]
+|date = 4 June 2022
+|time = {{UTZ|20:00|4}}
+|team1 = {{fb-rt|ARM}}
+|score = 1–0
+|report = https://www.rte.ie/sport/soccer/2022/0604/1303042-ireland-shocked-in-armenia-as-spertsyan-hits-winner/
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 =
+*[[Eduard Spertsyan|Spertsyan]] {{goal|74}}
+|goals2 =
+|stadium = [[Vazgen Sargsyan Republican Stadium|Sargsyan Stadium]]
+|location = [[Yerevan]], Armenia
+|attendance = 10,600
+|referee = [[Radu Petrescu (referee, born 1982)|Radu Petrescu]] ([[Romanian Football Federation|Romania]])
+|result = L
+}}
+{{Football box collapsible|format=1
+|round = [[2022–23 UEFA Nations League B#Group 1|2022–23 Nations League]]
+|date = 8 June 2022
+|time = {{UTZ|19:45|1}}
+|team1 = Republic of Ireland {{flagdeco|IRL}}
+|score = 0–1
+|report = https://www.uefa.com/uefanationsleague/match/2034435/
+|team2 = {{fb|UKR}}
+|goals1 =
+|goals2 =
+*[[Viktor Tsyhankov|Tsyhankov]] {{goal|47}}
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 40,111
+|referee = [[Filip Glova]] ([[Slovak Football Association|Slovakia]])
+|result = L
+}}
+{{Football box collapsible|format=1
+|round = [[2022–23 UEFA Nations League B#Group 1|2022–23 Nations League]]
+|date = 11 June 2022
+|time = {{UTZ|17:00|1}}
+|team1 = Republic of Ireland {{flagdeco|IRL}} 
+|score = 3–0
+|report = https://www.uefa.com/uefanationsleague/match/2034485/
+|team2 = {{fb|SCO}}
+|goals1 =
+*[[Alan Browne (footballer)|Browne]] {{goal|20}}
+*[[Troy Parrott|Parrott]] {{goal|28}}
+*[[Michael Obafemi|Obafemi]] {{goal|51}}
+|goals2 =
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 46,927
+|referee = [[Marco Di Bello]] ([[Italian Football Federation|Italy]])
+|result = W
+}}
+{{Football box collapsible|format=1
+|round = [[2022–23 UEFA Nations League B#Group 1|2022–23 Nations League]]
+|date = 14 June 2022
+|time = {{UTZ|20:45|2}}
+|team1 = {{fb-rt|UKR}}
+|score = 1–1
+|report = https://www.uefa.com/uefanationsleague/match/2034514/
+|team2 = {{flagdeco|IRL}} Republic of Ireland 
+|goals1 =
+*[[Artem Dovbyk|Dovbyk]] {{goal|47}}
+|goals2 =
+*[[Nathan Collins|Collins]] {{goal|31}}
+|stadium = [[Stadion Miejski im. Władysława Króla|Stadion Miejski ŁKS]]
+|location = [[Łódź]], Poland{{refn|group=note|name=Lodz|Played at a [[neutral venue]] due to the ongoing [[Russian invasion of Ukraine]].}}
+|attendance = 10,641
+|referee = [[Ali Palabıyık]] ([[Turkish Football Federation|Turkey]])
+|result = D
+}}
+{{Football box collapsible|format=1
+|round = [[2022–23 UEFA Nations League B#Group 1|2022–23 Nations League]]
+|date = 24 September 2022
+|time = {{UTZ|19:45|1}}
+|team1 = {{fb-rt|SCO}}
+|score = 2–1
+|report = https://www.uefa.com/uefanationsleague/match/2034533/
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 =
+*[[Jack Hendry (footballer, born 1995)|Hendry]] {{goal|50}}
+*[[Ryan Christie|Christie]] {{goal|81|pen.}}
+|goals2 =
+*[[John Egan (footballer, born 1992)|Egan]] {{goal|18}}
+|stadium = [[Hampden Park]]
+|location = [[Glasgow]], Scotland
+|attendance = 48,853
+|referee = [[Sandro Schärer]] ([[Swiss Football Association|Switzerland]])
+|result = L
+}}
+{{Football box collapsible|format=1
+|round = [[2022–23 UEFA Nations League B#Group 1|2022–23 Nations League]]
+|date = 27 September 2022
+|time = {{UTZ|19:45|1}}
+|team1 = Republic of Ireland {{flagdeco|IRL}} 
+|score = 3–2
+|report = https://www.uefa.com/uefanationsleague/match/2034559/
+|team2 = {{fb|ARM}}
+|goals1 =
+*[[John Egan (footballer, born 1992)|Egan]] {{goal|18}}
+*[[Michael Obafemi|Obafemi]] {{goal|52}}
+*[[Robbie Brady|Brady]] {{goal|90+1|pen.}}
+|goals2 =
+*[[Artak Dashyan|Dashyan]] {{goal|71}}
+*[[Eduard Spertsyan|Spertsyan]] {{goal|73}}
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 41,719
+|referee = [[Rade Obrenovič]] ([[Football Association of Slovenia|Slovenia]])
+|result = W
+}}
+{{Football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+|date = 17 November 2022
+|time = {{UTZ|19:45|0}}
+|team1 = Republic of Ireland {{flagdeco|IRL}} 
+|score = 1–2
+|report = https://www.uefa.com/european-qualifiers/friendlies/match/2036278--republic-of-ireland-vs-norway/
+|team2 = {{fb|NOR}}
+|goals1 =
+*[[Alan Browne (footballer)|Browne]] {{goal|69}}
+|goals2 =
+*[[Leo Skiri Østigård|Østigård]] {{goal|41}}
+*[[Ohi Omoijuanfo|Omoijuanfo]] {{goal|85}}
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 41,120
+|referee = [[Allard Lindhout]] ([[Royal Dutch Football Association|Netherlands]])
+|result = L
+}}
+{{Football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+|date = 20 November 2022
+|time = {{UTZ|20:00|2}}
+|team1 = {{fb-rt|MLT}}
+|score = 0–1
+|report = https://www.bbc.com/sport/football/63624383
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 =
+|goals2 =
+*[[Callum Robinson|Robinson]] {{goal|55}}
+|stadium = [[Ta' Qali National Stadium]]
+|location = [[Ta' Qali]], Malta
+|attendance = 2,500
+|referee = Chrysovalantis Theouli ([[Cyprus Football Association|Cyprus]])
+|result = w
+}}
+
+=== 2023 ===
+{{footballbox collapsible
+|format = 1
+|round = [[Exhibition game#Association football|Friendly]]
+|date = {{Start date|2023|03|22|df=y}}
+|time = {{UTZ|19:45|1}}
+|team1 = Republic of Ireland {{flagdeco|IRL}}
+|score = 3–2
+|report = https://www.uefa.com/european-qualifiers/friendlies/match/2037508--republic-of-ireland-vs-latvia/
+|team2 = {{fb|LVA}}
+|goals1 = 
+*[[Callum O'Dowda|O'Dowda]] {{goal|6}}
+*[[Evan Ferguson|Ferguson]] {{goal|17}}
+*[[Chiedozie Ogbene|Ogbene]] {{goal|65}}
+|goals2 = 
+*[[Roberts Uldriķis|Uldriķis]] {{goal|33}}
+*[[Artūrs Zjuzins|Zjuzins]] {{goal|45+1}}
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 41,211<ref name="IRL LAT 2023">{{cite web |title=LIVE Ireland 3–2 Latvia: Evan Ferguson scores first international goal as Latvia battle back at Aviva Stadium |url=https://www.independent.ie/sport/soccer/international-soccer/ireland-3-2-latvia-evan-ferguson-scores-first-international-goal-as-latvia-battle-back-at-aviva-stadium-42400108.html |website=Irish Independent |date=22 March 2023 |access-date=22 March 2023 |archive-date=22 March 2023 |archive-url=https://web.archive.org/web/20230322221307/https://www.independent.ie/sport/soccer/international-soccer/ireland-3-2-latvia-evan-ferguson-scores-first-international-goal-as-latvia-battle-back-at-aviva-stadium-42400108.html |url-status=live }}</ref>
+|referee = [[Andrei Chivulete]] ([[Romanian Football Federation|Romania]])
+|result = W
+}}
+{{football box collapsible
+|format = 1
+|date= 27 March 2023
+|time= {{UTZ|19:45|1}}
+|round= [[UEFA Euro 2024 qualifying Group B|Euro 2024 qualifying]]
+|team1= Republic of Ireland {{flagdeco|IRL}}
+|score= 0–1
+|report= https://www.uefa.com/european-qualifiers/match/2036316/
+|team2= {{fb|FRA}}
+|goals1=
+|goals2= 
+*[[Benjamin Pavard|Pavard]] {{goal|50}}
+|stadium= [[Aviva Stadium]]
+|location= [[Dublin]], Ireland
+|attendance= 50,219
+|referee= [[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+|result= L
+}}
+{{football box collapsible
+|format = 1
+|date= 16 June 2023
+|time= {{UTZ|21:45|1}}
+|round= [[UEFA Euro 2024 qualifying Group B|Euro 2024 qualifying]]
+|team1= {{fb-rt|GRE}}
+|score= 2–1
+|report= https://www.uefa.com/european-qualifiers/match/2036338/
+|team2= {{flagdeco|IRL}} Republic of Ireland
+|goals1=
+*[[Anastasios Bakasetas|Bakasetas]] {{goal|15|pen.}}
+*[[Georgios Masouras|Masouras]] {{goal|49}}
+|goals2=
+*[[Nathan Collins|Collins]] {{goal|29}}<br />[[Matt Doherty (footballer, born 1992)|Doherty]] {{sentoff|0|90+5}}
+|stadium= [[Agia Sophia Stadium]]
+|location= [[Athens]], Greece
+|attendance= 17,452
+|referee= [[Harald Lechner]] ([[Austrian Football Association|Austria]])
+|result= L
+}}
+{{football box collapsible
+|format = 1
+|date= 19 June 2023
+|time= {{UTZ|19:45|1}}
+|round= [[UEFA Euro 2024 qualifying Group B|Euro 2024 qualifying]]
+|team1= Republic of Ireland {{flagdeco|IRL}}
+|score= 3–0
+|report=https://www.uefa.com/european-qualifiers/match/2036362/
+|team2= {{fb|GIB}}
+|goals1=
+*[[Mikey Johnston|Johnston]] {{goal|52}}
+*[[Evan Ferguson|Ferguson]] {{goal|59}}
+*[[Adam Idah|Idah]] {{goal|90+2}}
+|goals2=
+|stadium= [[Aviva Stadium]]
+|location= [[Dublin]], Ireland
+|attendance= 42,156
+|referee= [[Marian Barbu]] ([[Romanian Football Federation|Romania]])
+|result= W
+}}
+{{football box collapsible
+|format = 1
+|date= 7 September 2023
+|time= {{UTZ|20:45|2}}
+|round= [[UEFA Euro 2024 qualifying Group B|Euro 2024 qualifying]]
+|team1= {{fb-rt|FRA}}
+|score= 2–0
+|report= https://www.uefa.com/european-qualifiers/match/2036384/
+|team2= {{flagdeco|IRL}} Republic of Ireland
+|goals1=
+*[[Aurélien Tchouaméni|Tchouaméni]] {{goal|19}}
+*[[Marcus Thuram|Thuram]] {{goal|48}}
+|goals2=
+|stadium= [[Parc des Princes]]
+|location= [[Paris]], France
+|attendance= 43,995
+|referee= [[Urs Schnyder]] ([[Swiss Football Association|Switzerland]])
+|result= L
+}}
+{{football box collapsible
+|format = 1
+|date= 10 September 2023
+|time= {{UTZ|19:45|1}}
+|round= [[UEFA Euro 2024 qualifying Group B|Euro 2024 qualifying]]
+|team1= Republic of Ireland {{flagdeco|IRL}}
+|score= 1–2
+|report= https://www.uefa.com/european-qualifiers/match/2036407/
+|team2= {{fb|NED}}
+|goals1 = 
+*[[Adam Idah|Idah]] {{goal|4|pen.}}
+|goals2 = 
+*[[Cody Gakpo|Gakpo]] {{goal|19|pen.}}
+*[[Wout Weghorst|Weghorst]] {{goal|56}}
+|stadium= [[Aviva Stadium]]
+|location= [[Dublin]], Ireland
+|attendance= 49,807
+|referee= [[Irfan Peljto]] ([[Football Federation of Bosnia and Herzegovina|Bosnia and Herzegovina]])
+|result= L
+}}
+{{football box collapsible
+|format = 1
+|date= 13 October 2023
+|time= {{UTZ|19:45|1}}
+|round= [[UEFA Euro 2024 qualifying Group B|Euro 2024 qualifying]]
+|team1= Republic of Ireland {{flagdeco|IRL}}
+|score= 0–2
+|report= https://www.rte.ie/sport/soccer/2023/1013/1410727-ireland-fail-to-fire-as-greece-ease-to-comfortable-win/
+|team2={{fb|GRE}}
+|goals1=
+|goals2= 
+*[[Giorgos Giakoumakis|Giakoumakis]] {{goal|20}}
+*[[Georgios Masouras|Masouras]] {{goal|45+4}}
+|stadium= [[Aviva Stadium]]
+|location= [[Dublin]], Ireland
+|attendance= 41,239
+|referee= [[Glenn Nyberg]] ([[Swedish Football Association|Sweden]])
+|result= L
+}}
+{{football box collapsible
+|format = 1
+|date= 16 October 2023
+|time= {{UTZ|20:45|2}}
+|round= [[UEFA Euro 2024 qualifying Group B|Euro 2024 qualifying]]
+|team1= {{fb-rt|GIB}}
+|score= 0–4
+|report= https://www.uefa.com/european-qualifiers/match/2036454/
+|team2={{flagdeco|IRL}} Republic of Ireland
+|goals1=
+|goals2=
+*[[Evan Ferguson|Ferguson]] {{goal|8}}
+*[[Mikey Johnston|Johnston]] {{goal|28}}
+*[[Matt Doherty (footballer, born 1992)|Doherty]] {{goal|60}}
+*[[Callum Robinson|Robinson]] {{goal|80}}
+|stadium= [[Estádio Algarve]]
+|location= [[Faro, Portugal|Faro]], Portugal
+|attendance= 4,000
+|referee= [[Christian-Petru Ciochirca]] ([[Austrian Football Association|Austria]])
+|result= W
+}}
+{{football box collapsible
+|format = 1
+|date= 18 November 2023
+|time= {{UTZ|20:45|1}}
+|round= [[UEFA Euro 2024 qualifying Group B|Euro 2024 qualifying]]
+|team1= {{fb-rt|NED}}
+|score= 1–0
+|report= https://www.uefa.com/european-qualifiers/match/2036477/
+|team2= {{flagdeco|IRL}} Republic of Ireland
+|goals1=
+*[[Wout Weghorst|Weghorst]] {{goal|11}}
+|goals2=
+|stadium= [[Johan Cruyff Arena]]
+|location= [[Amsterdam]], Netherlands
+|attendance= 51,811
+|referee= [[Marco Di Bello]] ([[Italian Football Federation|Italy]])
+|result= L
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[Exhibition game|Friendly]]
+|date = 21 November 2023
+|time = {{UTZ|19:45|0}}
+|team1 = Republic of Ireland {{flagdeco|IRL}}
+|score = 1–1
+|report = [https://www.uefa.com/european-qualifiers/friendlies/match/2039093--republic-of-ireland-vs-new-zealand Report] 
+|team2 = {{fb|NZL}}
+|goals1 = [[Adam Idah|Idah]] {{goal|28}}
+|goals2 = [[Matthew Garbett|Garbett]] {{goal|59}}
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 26,517
+|referee = Urs Schnyder ([[Swiss Football Association|Switzerland]]) 
+|result = D
+}}
+
+=== 2024 ===
+{{footballbox collapsible
+|format = 1
+|round = [[Exhibition game#Association football|Friendly]]
+|date = {{Start date|2024|03|23|df=y}}
+|time = {{UTZ|17:00|0}}
+|team1 = Republic of Ireland {{flagdeco|IRL}}
+|score = 0–0
+|report = Report<ref>{{cite web |title=International friendly report: Republic of Ireland 0 - 0 Belgium |url=https://www.extratime.com/articles/33198/international-friendly-report-republic-of-ireland-0---0-belgium/ |website=Extra Time |access-date=23 March 2024}}</ref>
+|team2 = {{fb|BEL}}
+|goals1 = 
+|goals2 = 
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 38,128
+|referee = [[Rohit Saggi]] ([[Norwegian Football Federation|Norway]])
+|result = D
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[Exhibition game#Association football|Friendly]]
+|date = {{Start date|2024|03|26|df=y}}
+|time = {{UTZ|19:45|0}}
+|team1 = Republic of Ireland {{flagdeco|IRL}}
+|score = 0–1
+|report = Report<ref>{{cite web |last1=McMahon |first1=James |title=Recap: Republic of Ireland 0-1 Switzerland |url=https://www.rte.ie/sport/soccer/2024/0326/1440087-republic-of-ireland-v-switzerland-updates/ |website=RTE |date=26 March 2024 |access-date=27 March 2024}}</ref>
+|team2 = {{fb|SUI}}
+|goals1 = 
+|goals2 = 
+*[[Xherdan Shaqiri|Shaqiri]] {{goal|23}}
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 35,742
+|referee = [[Paweł Raczkowski]] ([[Polish Football Association|Poland]])
+|result = L
+}}
+{{footballbox collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = {{Start date|2024|06|04|df=y}}
+|time       = {{UTZ|19:45|1}}
+|team1      = Republic of Ireland {{flagdeco|IRL}}
+|score      = 2–1
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2040010--republic-of-ireland-vs-hungary/
+|team2      = {{fb|HUN}}
+|goals1     = [[Adam Idah|Idah]] {{goal|36}} <br /> [[Troy Parrott|Parrott]] {{goal|90+2}}
+|goals2     = [[Ádám Lang|Lang]] {{goal|40}}
+|stadium    = [[Aviva Stadium]]
+|location   = [[Dublin]], Ireland
+|attendance = 29,424
+|referee    = [[Luís Godinho]] ([[Portuguese Football Federation|Portugal]])
+|result     = W
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[Exhibition game#Association football|Friendly]]
+|date = {{Start date|2024|06|11|df=y}}
+|time = {{UTZ|19:45|1}}
+|team1 = {{fb-rt|POR}}
+|score = 3–0
+|report = Report<ref>{{cite web |title=Ireland 2 Hungary 1 (FT) - as it happened |url=https://www.irishtimes.com/sport/soccer/2024/06/04/ireland-vs-hungary-live-updates/ |website=Irish Times |access-date=5 June 2024}}</ref>
+|team2 = {{flagdeco|IRL}} Republic of Ireland 
+|goals1 = [[João Félix|Félix]] {{goal|18}} <br /> [[Cristiano Ronaldo|Ronaldo]] {{goal|50}} {{goal|60}}
+|goals2 = 
+|stadium = [[Estádio Municipal de Aveiro]]
+|location = [[Aveiro, Portugal|Aveiro]], Portugal
+|attendance = 27,024
+|referee = Chris Kavanagh
+|result = L
+}}
+{{Football box collapsible
+|format = 1
+|round = [[2024–25 UEFA Nations League B#Group 2|2024–25 Nations League]]
+|date = 7 September 2024
+|time = 17:00 [[British Summer Time|BST]]
+|team1 = Republic of Ireland {{flagdeco|IRL}}
+|score = 0–2
+|report = https://www.uefa.com/uefanationsleague/match/2040061--republic-of-ireland-vs-england/
+|team2 = {{fb|ENG}}
+|goals1 = 
+|goals2 = 
+*[[Declan Rice|Rice]] {{goal|11}}
+*[[Jack Grealish|Grealish]] {{goal|26}}
+|location = [[Dublin]], Ireland
+|stadium = [[Aviva Stadium]]
+|attendance = 55,359
+|referee = [[José María Sánchez Martínez|José María Sánchez]] ([[Royal Spanish Football Federation|Spain]])
+|result = L
+}}
+{{Football box collapsible
+|format = 1
+|round = [[2024–25 UEFA Nations League B#Group 2|2024–25 Nations League]]
+|date = 10 September 2024
+|time = {{UTZ|19:45|1}}
+|team1 = Republic of Ireland {{flagdeco|IRL}}
+|score = 0–2
+|report = https://www.uefa.com/uefanationsleague/match/2040085/
+|team2 = {{fb|GRE}}
+|goals1 = 
+|goals2 = 
+*[[Fotis Ioannidis|Ioannidis]] {{goal|50}}
+*[[Christos Tzolis|Tzolis]] {{goal|87}}
+|location = [[Dublin]], Ireland
+|stadium = [[Aviva Stadium]]
+|attendance = 37,274
+|referee = [[Espen Eskås]] ([[Norwegian Football Federation|Norway]])
+|result = L
+}}
+{{Football box collapsible
+|format     = 1
+|round = [[2024–25 UEFA Nations League B#Group 2|2024–25 Nations League]]
+|date = 10 October 2024
+|time = {{UTZ|21:45|3}}
+|team1 = {{fb-rt|FIN}}
+|score = 1–2
+|report = https://www.uefa.com/uefanationsleague/match/2040096/
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 = 
+*[[Joel Pohjanpalo|Pohjanpalo]] {{goal|17}}
+|goals2 = 
+*[[Liam Scales|Scales]] {{goal|57}}
+*[[Robbie Brady|Brady]] {{goal|88}}
+|location = [[Helsinki]], Finland
+|stadium = [[Helsinki Olympic Stadium]]
+|attendance = 16,105
+|referee = [[Aleksandar Stavrev]] ([[Football Federation of Macedonia|North Macedonia]])
+|result = W
+}}
+{{Football box collapsible
+|format = 1
+|round = [[2024–25 UEFA Nations League B#Group 2|2024–25 Nations League]]
+|date = 13 October 2024
+|time = {{UTZ|21:45|3}}
+|team1 = {{fb-rt|GRE}}
+|score = 2–0
+|report = https://www.uefa.com/uefanationsleague/match/2040127/
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 = [[Anastasios Bakasetas|Bakasetas]] {{goal|48}}<br />[[Petros Mantalos|Mantalos]] {{goal|90+1}}
+|goals2 = 
+|location = [[Piraeus]], Greece
+|stadium = [[Karaiskakis Stadium]]
+|attendance = 30,253
+|referee = Joey Kooij ([[Royal Dutch Football Association|Netherlands]])
+|result = L
+}}
+{{Football box collapsible
+|format = 1
+|round = [[2024–25 UEFA Nations League B#Group 2|2024–25 Nations League]]
+|date = 14 November 2024
+|time = {{UTZ|19:45|0}}
+|team1 = Republic of Ireland {{flagdeco|IRL}}
+|score = 1–0
+|report = https://www.uefa.com/uefanationsleague/match/2040150--republic-of-ireland-vs-finland/
+|team2 = {{fb|FIN}}
+|goals1 = 
+*[[Evan Ferguson|Ferguson]] {{goal|45}}
+|goals2 = 
+*[[Joel Pohjanpalo|Pohjanpalo]] {{penmiss}}<small>77'</small>
+|location = [[Dublin]], Ireland
+|stadium = [[Aviva Stadium]]
+|attendance = 39,163
+|referee = [[Aleksandar Stavrev]] ([[Football Federation of Macedonia|North Macedonia]])
+|result = W
+}}
+{{Football box collapsible
+|format = 1
+|round = [[2024–25 UEFA Nations League B#Group 2|2024–25 Nations League]]
+|date = 17 November 2024
+|time = {{UTZ|17:00|0}}
+|team1 = {{fb-rt|ENG}}
+|score = 5–0
+|report = https://www.uefa.com/uefanationsleague/match/2040177--england-vs-republic-of-ireland/
+|team2 = {{flagdeco|IRL}} Republic of Ireland 
+|goals1     = 
+*[[Harry Kane|Kane]] {{goal|53|pen.|}}
+*[[Anthony Gordon (footballer)|Gordon]] {{goal|55}}
+*[[Conor Gallagher|Gallagher]] {{goal|58}}
+*[[Jarrod Bowen|Bowen]] {{goal|76}}
+*[[Taylor Harwood-Bellis|Harwood-Bellis]] {{goal|79}}
+|goals2 = 
+*[[Liam Scales|Scales]] {{sent off|2|43|51}}
+|location = [[London]], England
+|stadium = [[Wembley Stadium]]
+|attendance = 79,969
+|referee = [[Erik Lambrechts]] ([[Royal Belgian Football Association|Belgium]])
+|result = L
+}}
+
+=== 2025 ===
+{{Football box collapsible|format=1
+|round = [[2024–25_UEFA_Nations_League_promotion/relegation_play-offs#League_B_vs_League_C|2024–25 Nations League relegation play-offs]]
+|date = 20 March 2025
+|time = {{UTZ|21:45|2}}
+|team1 = {{fb-rt|BUL}} 
+|score = 1–2
+|report = https://www.uefa.com/uefanationsleague/match/2043041--bulgaria-vs-republic-of-ireland/
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 = [[Marin Petkov (footballer)|Petkov]] {{goal|6}}
+|goals2 = [[Finn Azaz|Azaz]] {{goal|22}}<br />[[Matt Doherty (footballer, born 1992)|Doherty]] {{goal|42}}
+|location = [[Plovdiv]], Bulgaria
+|stadium = [[Stadion Hristo Botev (Plovdiv)|Stadion Hristo Botev]]
+|attendance = 7,835
+|referee = [[Benoît Bastien]] ([[French Football Federation|France]])
+|result = W 
+}}
+{{Football box collapsible|format=1
+|round = [[2024–25_UEFA_Nations_League_promotion/relegation_play-offs#League_B_vs_League_C|2024–25 Nations League relegation play-offs]]
+|date = 23 March 2025
+|time = {{UTZ|19:45|0}}
+|team1 = Republic of Ireland {{flagdeco|IRL}}  
+|score = 2–1
+|aggregatescore = 4–2
+|report = https://www.uefa.com/uefanationsleague/match/2043049--republic-of-ireland-vs-bulgaria/
+|team2 = {{fb|BUL}} 
+|goals1 = [[Evan Ferguson|Ferguson]] {{goal|63}}<br />[[Adam Idah|Idah]] {{goal|84}}
+|goals2 = [[Valentin Antov|Antov]] {{goal|30}}
+|location = [[Dublin]], Ireland
+|stadium = [[Aviva Stadium]]
+|attendance = 40,156
+|referee = [[Halil Umut Meler]] ([[Turkish Football Federation|Turkey]])
+|result = W 
+}}
+{{footballbox collapsible|format=1
+|round = [[Exhibition game#Association football|Friendly]]
+|date = 6 June 2025
+|time = {{UTZ|19:45|1}}
+|team1 = Republic of Ireland {{flagdeco|IRL}} 
+|score = 1–1
+|report = https://www.extratime.com/articles/35956/kasey-mcateer-opens-ireland-account-as-the-boys-in-green-miss-opportunity-to-beat-senegal/
+|team2 = {{fb|SEN}}
+|goals1 = [[Kasey McAteer|McAteer]] {{goal|21}}
+|goals2 = [[Ismaïla Sarr|Sarr]] {{goal|82}}
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 32,478
+|referee = Adam Ladebäck ([[Swedish Football Association|Sweden]])
+|result = D
+}}{{footballbox collapsible|format=1
+|round = [[Exhibition game#Association football|Friendly]]
+|date = 10 June 2025
+|time = {{UTZ|20:45|1}}
+|team1 = {{fb-rt|LUX}}
+|score = 0–0
+|report = [https://www.rte.ie/sport/soccer/2025/0610/1517604-ireland-sign-off-season-with-low-key-draw-in-luxembourg/ Report]
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 = 
+|goals2 = 
+|stadium = [[Stade de Luxembourg]]
+|location = [[Luxembourg City]], Luxembourg
+|attendance = 6,312 
+|referee = [[Stefan Ebner]] ([[Austrian Football Association|Austria]])
+|result = D
+}}
+{{football box collapsible|format=1
+|date = 6 September 2025
+|time = {{UTZ|19:45|1}}
+|round = [[2026 FIFA World Cup qualification – UEFA Group F|2026 World Cup qualification]]
+|team1 = Republic of Ireland {{flagdeco|IRL}}  
+|score = 2–2
+|report = https://www.uefa.com/european-qualifiers/match/2044227/
+|team2 = {{fb|HUN}}
+|goals1 = [[Evan Ferguson|Ferguson]] {{goal|49}}<br />[[Adam Idah|Idah]] {{goal|90+3}}
+|goals2 = [[Barnabás Varga|Varga]] {{goal|2}}<br />[[Roland Sallai|Sallai]] {{goal|15}} {{sent off||52}}
+|location = [[Dublin]], Ireland
+|stadium =  [[Aviva Stadium]]
+|attendance = 50,137
+|referee = [[Harm Osmers]] ([[German Football Association|Germany]])
+|result = D
+}}
+{{football box collapsible|format=1
+|date = 9 September 2025
+|time = {{UTZ|20:00|4}}
+|round = [[2026 FIFA World Cup qualification – UEFA Group F|2026 World Cup qualification]]
+|team1 = {{fb-rt|ARM}}
+|score = 2–1
+|report = https://www.uefa.com/european-qualifiers/match/2044249/
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 = [[Eduard Spertsyan|Spertsyan]] {{goal|45+1|pen}}<br />[[Grant-Leon Ranos|Ranos]] {{goal|51}}
+|goals2 = [[Evan Ferguson|Ferguson]] {{goal|57}}
+|stadium = [[Vazgen Sargsyan Republican Stadium]]
+|location = [[Yerevan]], Armenia
+|attendance = 13,144
+|referee = [[Goga Kikacheishvili]] ([[Georgian Football Federation|Georgia]])
+|result = L
+}}
+{{football box collapsible|format=1
+|date = 11 October 2025
+|time = {{UTZ|19:45|1}} or {{UTZ|20:45|2}}
+|round = [[2026 FIFA World Cup qualification – UEFA Group F|2026 World Cup qualification]]
+|team1 = {{fb-rt|POR}} 
+|score = 1–0 
+|report = https://www.uefa.com/european-qualifiers/match/2044273/
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 = [[Rúben Neves|Neves]] {{goal|90+1}}
+|goals2 =
+|stadium = [[Estádio José Alvalade]]
+|location = [[Lisbon]], Portugal 
+|attendance = 48,821
+|referee = [[Ivan Kružliak]] ([[Slovak Football Association|Slovakia]])
+|result = L 
+}}
+{{football box collapsible|format=1
+|date = 14 October 2025
+|time = {{UTZ|19:45|1}}
+|round = [[2026 FIFA World Cup qualification – UEFA Group F|2026 World Cup qualification]]
+|team1 = Republic of Ireland {{flagdeco|IRL}}  
+|score = 1–0 
+|report = https://www.uefa.com/european-qualifiers/match/2044303/
+|team2 = {{fb|ARM}}
+|goals1 = [[Evan Ferguson|Ferguson]] {{goal|70}}
+|goals2 = [[Tigran Barseghyan|Barseghyan]] {{sent off|0|52}}
+|location = [[Dublin]], Ireland
+|stadium =  [[Aviva Stadium]]
+|attendance = 42,292
+|referee = [[Benoît Bastien]] ([[French Football Federation|France]])
+|result = W
+}}
+{{football box collapsible|format=1
+|date = 13 November 2025
+|time = {{UTZ|19:45|0}}
+|round = [[2026 FIFA World Cup qualification – UEFA Group F|2026 World Cup qualification]]
+|team1 = Republic of Ireland {{flagdeco|IRL}}  
+|score = 2–0
+|report = https://www.uefa.com/european-qualifiers/match/2044312/
+|team2 = {{fb|POR}} 
+|goals1 = [[Troy Parrott|Parrott]] {{goal|17||45}}
+|goals2 = [[Cristiano Ronaldo|Ronaldo]] {{sent off|0|61}}
+|location = [[Dublin]], Ireland
+|stadium =  [[Aviva Stadium]]
+|attendance = 50,717
+|referee = [[Glenn Nyberg]] ([[Swedish Football Association|Sweden]])
+|result = W
+}}
+{{football box collapsible|format=1
+|date = 16 November 2025
+|time = {{UTZ|15:00|1}}
+|round = [[2026 FIFA World Cup qualification – UEFA Group F|2026 World Cup qualification]]
+|team1 = {{fb-rt|HUN}}
+|score =2–3 
+|report = https://www.uefa.com/european-qualifiers/match/2044335/
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 = [[Daniel Lukacs|Luckas]] {{goal|4}}<br />[[Barnabás Varga|Varga]] {{goal|37}}
+|goals2 = [[Troy Parrott|Parrott]] {{goal|15|pen.|80||90+6}}
+|stadium = [[Puskás Aréna]]
+|location = [[Budapest]], Hungary
+|attendance = 59,411
+|referee = [[Espen Eskås]] ([[Norwegian Football Federation|Norway]])
+|result = W 
+}}
+
+===2026===
+{{football box collapsible
+|format = 1
+|date = 26 March 2026
+|time = {{UTZ|20:45|1}}
+|round = [[2026 FIFA World Cup qualification – UEFA second round|2026 World Cup qualification play-offs]]
+|team1 = {{fb-rt|CZE}}
+|score = 2–2
+|aet = yes
+|report = https://www.uefa.com/european-qualifiers/match/2047081/
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 = 
+*[[Patrik Schick|Schick]] {{goal|27|pen.}} 
+*[[Ladislav Krejčí (footballer, born 1999)| Krejcí]] {{goal|86}} 
+|goals2 = 
+*[[Troy Parrott|Parrott]] {{goal|19|pen.}} 
+*[[Matej Kovar|Kovar]] {{goal|23|o.g.}} 
+|penalties1 =
+*[[Ladislav Krejčí (footballer, born 1999)| Krejcí]] {{pengoal}} 
+*[[Tomas Soucek|Soucek]] {{pengoal}} 
+*[[Mojmír Chytil|Chytil]] {{penmiss}} 
+*[[Patrik Schick|Schick]] {{pengoal}} 
+*[[Jan Kliment|Kliment]] {{pengoal}} 
+|penaltyscore = 4–3
+|penalties2 =
+*{{pengoal}} [[Troy Parrott|Parrott]] 
+*{{pengoal}} [[Adam Idah|Idah]] 
+*{{pengoal}} [[Robbie Brady|Brady]] 
+*{{penmiss}} [[Finn Azaz|Azaz]] 
+*{{penmiss}} [[Alan Browne|Browne]] 
+|stadium = [[Fortuna Arena]]
+|location = [[Prague]], Czech Republic
+|attendance = 19,137
+|referee = [[Glenn Nyberg]] ([[Swedish Football Association|Sweden]])
+|result = D
+}}
+{{football box collapsible
+|format = 1
+|round = [[Exhibition game#International football|Friendly]]
+|date = 31 March 2026
+|time = {{UTZ|19:45|1}}
+|team1 = Republic of Ireland {{flagdeco|IRL}}  
+|score = 0–0
+|team2 = {{fb|MKD}}
+|report = https://www.uefa.com/european-qualifiers/friendlies/match/2048153--republic-of-ireland-vs-north-macedonia/
+|goals1 =
+|goals2 =
+|location = [[Dublin]], Ireland
+|stadium = [[Aviva Stadium]]
+|attendance = 39,560
+|referee = Iwan Arwel Griffith ([[Football Association of Wales|Wales]])
+|result = D
+}}
+{{football box collapsible
+|format = 1
+|date = 12 May 2026
+|time = 
+|round = [[Exhibition match|Unofficial friendly]]
+|team1 = [[Real Murcia Imperial]] {{flagicon|ESP}}
+|score = 0–2
+|report = [https://www.rte.ie/sport/soccer/2026/0512/1572998-alli-and-idah-on-target-as-ireland-warm-up-for-grenada/ Report]
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|goals1 =
+|goals2 =
+*[[Millenic Alli|Alli]] {{goal|18}} 
+*[[Adam Idah|Idah]] {{goal|90}}
+|stadium = La Finca Resort Training Centre
+|location= [[Alicante]], Spain<ref>{{Cite web|url=https://www.irishexaminer.com/sport/soccer/arid-41843772.html|title=Goals from Millenic Alli and Adam Idah see Ireland defeat Real Murcia B|first=Cian|last=Locke|date=May 12, 2026|website=Irish Examiner|access-date=August 7, 2026}}</ref><ref>{{Cite journal|url=https://www.rte.ie/sport/soccer/2026/0512/1572998-alli-and-idah-on-target-as-ireland-warm-up-for-grenada/|title=Alli and Idah on target as Ireland warm up for Grenada|date=May 12, 2026|access-date=August 7, 2026|website=Rte.ie}}</ref>
+|attendance = 0 (closed-door match)
+|referee = 
+|bg = EEEEFF <!-- Unofficial (training match) -->
+}}
+{{football box collapsible
+|format = 1
+|round = [[Exhibition game#International football|Friendly]]
+|date = 16 May 2026
+|time = {{UTZ|18:00|2}}
+|team1 = {{fb-rt|GRN}}
+|score = 0–5
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|report = https://www.rte.ie/sport/soccer/2026/0516/1573665-moylan-and-cannon-raises-hands-as-grenada-swatted-aside/
+|goals1 =
+|goals2 = 
+*[[Tom Cannon (footballer)|Cannon]] {{goal|47||56|}} 
+*[[Jack Moylan|Moylan]] {{goal|62||81||84|}}
+|location = [[Murcia]], Spain
+|stadium = [[Estadio Nueva Condomina]]
+|attendance = 862
+|referee = Seth Galia ([[Gibraltar Football Association|Gibraltar]])
+|result = W
+}}
+{{football box collapsible
+|format = 1
+|round = [[Exhibition game#International football|Friendly]]
+|date = 28 May 2026
+|time = {{UTZ|19:45|1}}
+|team1 = Republic of Ireland {{flagdeco|IRL}}  
+|score = 1–0 
+|team2 = {{fb|QAT}}
+|report = https://www.rte.ie/sport/soccer/2026/0528/1575637-ten-man-ireland-edge-qatar-amid-tennis-ball-protests/ 
+|goals1 = 
+*[[Nathan Collins|Collins]] {{goal|5}} 
+|goals2 =
+|location = [[Dublin]], Ireland
+|stadium = [[Aviva Stadium]]
+|attendance = 28,891
+|referee = Jamie Robinson ([[Irish Football Association|Northern Ireland]])
+|result = w
+}}
+{{football box collapsible
+|format = 1
+|round = [[Exhibition game#International football|Friendly]]
+|date = 5 June 2026
+|time = {{UTZ|19:30|-4}}
+|team1 = {{fb-rt|CAN}}
+|score = 1–1
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|report = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/blxwx39q83xtcw7a0k6ugza50
+|goals1 = 
+*[[Jake O'Brien (footballer)|O'Brien]] {{goal|23|o.g.}}
+|goals2 = 
+*[[Troy Parrott|Parrott]] {{penmiss}} {{small|60'}}
+*[[Chiedozie Ogbene|Ogbene]] {{goal|60}}
+|location = [[Montreal]], Canada
+|stadium = [[Saputo Stadium]]
+|attendance = 19,619
+|referee = Pablo Camacho ([[Costa Rican Football Federation|Costa Rica]])
+|result = D
+}}
+{{football box collapsible
+|format = 1
+|round = [[2026–27 UEFA Nations League B#Group 3|2026–27 Nations League]]
+|date = 24 September 2026
+|time = 20:45
+|team1 = {{fb-rt|KOS}}
+|score = 1–0
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|report = https://www.uefa.com/uefanationsleague/match/2048007/
+|goals1 =
+*[[Vedat Muriqi|Muriqi]] {{goal|83}}
+|goals2 =
+|location = [[Pristina]], Kosovo
+|stadium = [[Fadil Vokrri Stadium]]
+|attendance = 12,627
+|referee = [[Lawrence Visser]] ([[Royal Belgian Football Association|Belgium]])
+|result = L
+}}
+{{football box collapsible
+|format = 1
+|round = [[2026–27 UEFA Nations League B#Group 3|2026–27 Nations League]]
+|date = 27 September 2026
+|time = 20:45
+|team1 = {{fb-rt|ISR}}  
+|score = 0–3
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|report = https://www.uefa.com/uefanationsleague/match/2047982/
+|goals1 =
+|goals2 =
+*[[Troy Parrott|Parrott]] {{goal|14}}
+*[[Adam Idah|Idah]] {{goal|16}}
+*[[Jack Moylan|Moylan]] {{goal|25}}
+|location = [[Debrecen]], Hungary{{refn|group="note"|name=ISRaway|Due to the [[Gaza war]], Israel are required to play their home matches at neutral venues until further notice.<ref>{{cite news |url=https://www.uefa.com/news-media/news/0286-194079070fc0-ee97b2cd5400-1000/ |title=European Qualifier match between Belgium and Sweden declared abandoned with half-time result confirmed as final |website=UEFA.com |publisher=[[UEFA|Union of European Football Associations]] |date=19 October 2023 |access-date=23 November 2023}}</ref>}}
+|stadium = [[Nagyerdei Stadion]]
+|attendance = 319
+|referee = [[Harm Osmers]] ([[German Football Association|Germany]])
+|result = W
+}}
+{{football box collapsible
+|format = 1
+|round = [[2026–27 UEFA Nations League B#Group 3|2026–27 Nations League]]
+|date = 1 October 2026
+|time = {{UTZ|19:45|1}}
+|team1 = Republic of Ireland {{flagdeco|IRL}}  
+|score = 2–2
+|team2 = {{fb|AUT}}
+|report = https://www.uefa.com/uefanationsleague/match/2047953/
+|goals1 =
+*[[Troy Parrott|Parrott]] {{goal|12||45|pen.}}
+|goals2     =
+*[[Alexander Prass|Prass]] {{goal|71}}
+*[[Michael Gregoritsch|Gregoritsch]] {{goal|77}}
+|location = [[Dublin]], Ireland
+|stadium = [[Aviva Stadium]]
+|attendance = 45,784
+|referee = [[Allard Lindhout]] ([[Royal Dutch Football Association|Netherlands]])
+|result = D
+}}
+{{football box collapsible
+|format = 1
+|round = [[2026–27 UEFA Nations League B#Group 3|2026–27 Nations League]]
+|date = 4 October 2026
+|time = {{UTZ|19:45|1}}
+|team1 = Republic of Ireland {{flagdeco|IRL}}  
+|score = 1–1
+|team2 = {{fb|ISR}}
+|report = https://www.uefa.com/uefanationsleague/match/2047929/
+|goals1 =
+*[[Troy Parrott|Parrott]] {{goal|39|pen.}}
+|goals2 =
+*[[Dor Peretz|D. Peretz]] {{goal|47}}
+|location = [[Bačka Topola]], Serbia{{refn|group="note"|name=ISRhome|Moved from Ireland to Serbia after the [[Football Association of Ireland|FAI]] Board decided to move the fixture to a neutral territory due to ''"operational challenges that could impact on the delivery of the game on home soil."''<ref>{{Cite web|url=https://www.fai.ie/latest/fai-confirms-venue-uefa-nations-league-fixture-against-israel/|title=FAI confirms venue for UEFA Nations League fixture against Israel|website=www.fai.ie}}</ref>}}
+|stadium = [[TSC Arena]]
+|attendance = 0 (Behind closed doors)
+|referee = [[Juan Martínez Munuera]] ([[Royal Spanish Football Federation|Spain]])
+|result = D
+}}
+{{football box collapsible
+|format = 1
+|round = [[2026–27 UEFA Nations League B#Group 3|2026–27 Nations League]]
+|date = 14 November 2026
+|time = 20:45
+|team1 = {{fb-rt|AUT}}
+|score =
+|team2 = {{flagdeco|IRL}} Republic of Ireland
+|report = https://www.uefa.com/uefanationsleague/match/2047894/
+|goals1 =
+|goals2 =
+|location = [[Vienna]], Austria
+|stadium = [[Ernst-Happel-Stadion]]
+|attendance = 
+|referee = 
+|result = 
+}}
+{{football box collapsible
+|format = 1
+|round = [[2026–27 UEFA Nations League B#Group 3|2026–27 Nations League]]
+|date = 17 November 2026
+|time = {{UTZ|19:45|1}}
+|team1 = Republic of Ireland {{flagdeco|IRL}}  
+|score =
+|team2 = {{fb|KOS}}
+|report = https://www.uefa.com/uefanationsleague/match/2047923/
+|goals1 =
+|goals2 =
+|location = [[Dublin]], Ireland
+|stadium = [[Aviva Stadium]]
+|attendance = 
+|referee = 
+|result = 
+}}
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+{{Republic of Ireland national football team}}
+{{Football results UEFA}}
+
+{{DEFAULTSORT:national}}
+[[Category:Republic of Ireland national football team results|2020-present)]]
+[[Category:2020s in the Republic of Ireland]]
+[[Category:2020s in Irish sport]]

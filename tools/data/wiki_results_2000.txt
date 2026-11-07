@@ -1,0 +1,1613 @@
+{{Short description|none}}
+{{Republic of Ireland national football team results|key=1}}
+This article contains the results of the [[Republic of Ireland national football team]] between 2000 and 2009.
+
+==Results==
+===2000===
+{{football box collapsible|format=1
+| round = [[Friendly match|Friendly]]
+| date = 23 February 2000
+| time = {{UTZ|19:30|0}}
+|team1 = {{fb-rt|IRL}}
+|score = 3–2
+|report= [http://www.soccerscene.ie/sssenior/matchdetails.php?id=353 Report]
+|team2 = {{fb|CZE}}
+|goals1 = [[Karel Rada|Rada]] {{goal|16|o.g.}}<br>[[Ian Harte|Harte]] {{goal|44}}<br>[[Robbie Keane]] {{goal|87}}
+|goals2 = [[Jan Koller|Koller]] {{goal|4||35}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 30,543
+| referee = [[Bruno Coue|Coue]] (France)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+| date = 26 April 2000
+|team1 = {{fb-rt|IRL}}
+|score = 0–1
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=354 Report]
+|team2 = {{fb|GRE}}
+|goals1 =
+|goals2 = [[Vasilios Lakis|Lakis]] {{goal|15}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 23,157
+| referee = [[Hugh Dallas|Dallas]] (Scotland)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+| date = 30 May 2000
+|team1 = {{fb-rt|IRL}}
+|score = 1–2
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=355 Report]
+|team2 = {{fb|SCO}}
+|goals1 = [[Mark Kennedy (footballer, born 1976)|Kennedy]] {{goal|2}}
+|goals2 = [[Craig Burley|Burley]] {{goal|16}}<br>[[Barry Ferguson|Ferguson]] {{goal|29}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 30,213
+| referee = [[Victor Pereira|Pereira]] (Portugal)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[2000 Nike U.S. Cup|U.S. Cup]]
+| date = 4 June 2000
+|time = {{UTZ|16:30|-5}}
+|team1 = {{fb-rt|IRL}}
+|score = 2–2
+|report= [https://web.archive.org/web/20080513201304/http://www.soccertimes.com/international/2000/games/jun04.htm Report]
+|team2 = {{fb|MEX}}
+|goals1 = [[Richard Dunne]] {{goal|60}}<br />[[Dominic Foley|Foley]] {{goal|71}}
+|goals2 = [[Daniel Osorno|Osorno]] {{goal|38}}<br />[[Horacio Sanchez|Sanchez]] {{goal|54}}
+|stadium = [[Soldier Field]]
+|location = [[Chicago]], [[Illinois]], United States
+| attendance = 36,469 
+| referee = unknown
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[2000 Nike U.S. Cup|U.S. Cup]]
+| date = 6 June 2000
+|time = {{UTZ|20:00|-4}}
+|team1 = {{fb-rt|USA}}
+|score = 1–1
+|report= [https://web.archive.org/web/20000914200209/http://sportsillustrated.cnn.com/soccer/news/2000/06/06/us_ireland_ap/ Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Ante Razov|Razov]] {{goal|68}}
+|goals2 = [[Dominic Foley|Foley]] {{goal|31}}
+|stadium = [[Foxboro Stadium]]
+|location = [[Foxborough, Massachusetts]], United States
+| attendance = 16,319
+| referee = [[Armando Archundia|Archundia]] ([[Mexico Football Federation|Mexico]])
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[2000 Nike U.S. Cup|U.S. Cup]]
+| date = 11 June 2000
+|time = {{UTZ|15:30|-4}}
+|team1 = {{fb-rt|IRL}}
+|score = 2–1
+|report= [https://web.archive.org/web/20080513201304/http://www.soccertimes.com/international/2000/games/jun04.htm Report]
+|team2 = {{fb|RSA}}
+|goals1 = [[Stephen McPhail|McPhail]] {{goal|24}}<br />[[Niall Quinn|Quinn]] {{goal|80}}
+|goals2 = [[Benni McCarthy|McCarthy]] {{goal|14}}
+|stadium = [[Giants Stadium]]
+|location = [[East Rutherford, New Jersey]], United States
+| attendance = 45,008
+| referee = [[Rodrigo Badilla|Badilla]] ([[Federación Costarricense de Fútbol|Costa Rica]])
+|result= W
+}}
+{{football box collapsible|format=1
+|round = [[2002 FIFA World Cup qualification (UEFA)|2002 FIFA World Cup qualification]]
+| date = 2 September 2000
+|team1 = {{fb-rt|NED}}
+|score = 2–2
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=359 Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Jeffrey Talan|Talan]] {{goal|71}}<br>[[Giovanni van Bronckhorst|van Bronckhourst]] {{goal|84}}
+|goals2 = [[Robbie Keane]] {{goal|21}}<br>[[Jason McAteer|McAteer]] {{goal|65}}
+|stadium = [[Amsterdam ArenA]]
+|location = [[Amsterdam]], Netherlands
+| attendance = 45,000
+| referee = [[Ľuboš Micheľ|Michel]] ([[Slovakia]])
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[2002 FIFA World Cup qualification (UEFA)|2002 FIFA World Cup qualification]]
+| date = 7 October 2000
+|team1 = {{fb-rt|POR}}
+|score = 1–1
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=360 Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Sérgio Conceição|Conceição]] {{goal|57}}
+|goals2 = [[Matt Holland|Holland]] {{goal|73}}
+|stadium = [[Estádio da Luz (1954)|Estádio da Luz]]
+|location = [[Lisbon]], Portugal
+| attendance = 43,500
+| referee = [[Atanas Ouzounov|Ouzounov]] ([[Bulgaria]])
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[2002 FIFA World Cup qualification (UEFA)|2002 FIFA World Cup qualification]]
+| date = 11 October 2000
+|team1 = {{fb-rt|IRL}}
+|score = 2–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=361 Report]
+|team2 = {{fb|EST}}
+|goals1 = [[Mark Kinsella|Kinsella]] {{goal|25}}<br>[[Richard Dunne]] {{goal|51}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 34,962
+| referee = [[Terje Hauge|Hauge]] (Norway)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+| date = 15 November 2000
+|team1 = {{fb-rt|IRL}}
+|score = 3–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=362 Report]
+|team2 = {{fb|FIN}}
+|goals1 = [[Steve Finnan|Finnan]] {{goal|14}}<br>[[Kevin Kilbane|Kilbane]] {{goal|85}}<br>[[Steve Staunton|Staunton]] {{goal|90}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 22,368
+| referee = [[Paul Durkin|Durkin]] (England)
+|result = W
+}}
+
+===2001===
+{{football box collapsible|format=1
+|round = [[2002 FIFA World Cup qualification (UEFA)|2002 FIFA World Cup qualification]]
+| date = 24 March 2001
+|team1 = {{fb-rt|CYP|1960}}
+|score = 0–4
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=363 Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Roy Keane]] {{goal|32||88}}<br>[[Ian Harte|Harte]] {{goal|42|pen.}}<br>[[Gary Kelly (footballer born 1974)|Gary Kelly]] {{goal|80}}
+|stadium = [[Neo GSP Stadium]]
+|location = [[Nicosia]], [[Cyprus]]
+| attendance = 13,000
+| referee = [[Frank De Bleekere|De Bleekere]] (Belgium)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[2002 FIFA World Cup qualification (UEFA)|2002 FIFA World Cup qualification]]
+| date = 28 March 2001
+|team1 = {{fb-rt|AND}}
+|score = 0–3
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=364 Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Ian Harte|Harte]] {{goal|33|pen.}}<br>[[Kevin Kilbane|Kilbane]] {{goal|76}}<br>[[Matthew Holland|Holland]] {{goal|80}}
+|stadium = [[Mini Estadi]]
+|location = [[Barcelona]], Spain
+| attendance = 5,000
+| referee = [[Ihor Ishchenko|Ishchenko]] ([[Ukraine]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[2002 FIFA World Cup qualification (UEFA)|2002 FIFA World Cup qualification]]
+| date = 25 April 2001
+|team1 = {{fb-rt|IRL}}
+|score = 3–1
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=365 Report]
+|team2 = {{fb|AND}}
+|goals1 = [[Kevin Kilbane|Kilbane]] {{goal|34}}<br>[[Mark Kinsella|Kinsella]] {{goal|36}}<br>[[Gary Breen|Breen]] {{goal|76}}
+|goals2 = [[Ildefons Lima|Lima]] {{goal|33}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 35,000
+| referee = [[Kristinn Jakobsson|Jakobsson]] ([[Iceland]])
+|result = W
+}}
+{{football box collapsible|format=1 
+|round = [[2002 FIFA World Cup qualification (UEFA)|2002 FIFA World Cup qualification]]
+| date = 2 June 2001
+|team1 = {{fb-rt|IRL}}
+|score = 1–1
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=366 Report]
+|team2 = {{fb|POR}}
+|goals1 = [[Roy Keane]] {{goal|68}}
+|goals2 = [[Luís Figo|Figo]] {{goal|79}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 35,000
+| referee = [[Erik Knud Fisker|Fisker]] (Denmark)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[2002 FIFA World Cup qualification (UEFA)|2002 FIFA World Cup qualification]]
+| date = 6 June 2001
+|team1 = {{fb-rt|EST}}
+|score = 0–2
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=367 Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Richard Dunne]] {{goal|8}}<br>[[Matthew Holland|Holland]] {{goal|39}}
+|stadium = [[A. Le Coq Arena|Lilleküla Stadium]]
+|location = [[Tallinn]], [[Estonia]]
+| attendance = 9,300
+| referee = [[Marian Mircea Salomir|Salomir]] ([[Romania]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+| date = 15 August 2001
+|team1 = {{fb-rt|IRL}}
+|score = 2–2
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=368 Report]
+|team2 = {{fb|CRO}}
+|goals1 = [[Damien Duff|Duff]] {{goal|20}}<br>[[Clinton Morrison|Morrison]] {{goal|77}}
+|goals2 = [[Davor Vugrinec|Vugrinec]] {{goal|80}}<br>[[Davor Šuker|Šuker]] {{goal|90|pen.}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 27,000
+| referee = [[Andreas Schluchter|Schluchter]] (Switzerland)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[2002 FIFA World Cup qualification (UEFA)|2002 FIFA World Cup qualification]]
+| date = 1 September 2001
+|team1 = {{fb-rt|IRL}}
+|score = 1–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=369 Report]
+|team2 = {{fb|NED}}
+|goals1 = [[Jason McAteer|McAteer]] {{goal|68}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 35,400
+| referee = [[Hellmut Krug|Krug]] (Germany)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[2002 FIFA World Cup qualification (UEFA)|2002 FIFA World Cup qualification]]
+| date = 6 October 2001
+|team1 = {{fb-rt|IRL}}
+|score = 4–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=370 Report]
+|team2 = {{fb|CYP|1960}}
+|goals1 = [[Ian Harte|Harte]] {{goal|3}}<br>[[Niall Quinn|Quinn]] {{goal|11}}<br>[[David Connolly|Connolly]] {{goal|63}}<br>[[Roy Keane]] {{goal|67}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 35,200
+| referee = [[Juan Ansuategui Roca|Roca]] (Spain)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[2002 FIFA World Cup qualification (UEFA–AFC play-off)|2002 FIFA World Cup qualification play-off]]
+| date = 10 November 2001
+|team1 = {{fb-rt|IRL}}
+|score = 2–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=371 Report]
+|team2 = {{fb|IRN}}
+|goals1 = [[Ian Harte|Harte]] {{goal|45|pen.}}<br>[[Robbie Keane]] {{goal|50}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 36,018
+| referee = [[Antonio Pereira da Silva|Silva]] (Brazil)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[2002 FIFA World Cup qualification (UEFA–AFC play-off)|2002 FIFA World Cup qualification play-off]]
+| date = 15 November 2001
+|team1 = {{fb-rt|IRN}}
+|score = 1–0
+|aggregatescore = 1–2
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=372 Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Yahya Golmohammadi|Golmohammadi]] {{goal|90}}
+|goals2 =
+|stadium = [[Azadi Stadium]]
+|location = [[Tehran]], [[Iran]]
+| attendance = 100,000
+| referee = [[Manuel Diaz Vega|Vega]] (Spain)
+|result = L
+}}
+
+===2002===
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 13 February 2002
+|team1 = {{fb-rt|IRL}}
+|score= 2–0
+|team2 = {{fb|RUS}}
+|goals1 = [[Steven Reid]] {{goal|3}}<br>[[Robbie Keane]] {{goal|20}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 44,000
+| referee = [[Dermot Gallagher|Gallagher]] (England)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 27 March 2002
+|team1 = {{fb-rt|IRL}}
+|score= 3–0
+|team2 = {{fb|DEN}}
+|goals1 = [[Ian Harte|Harte]] {{goal|19}}<br>[[Robbie Keane]] {{goal|54}}<br>[[Clinton Morrison|Morrison]] {{goal|90}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 42,000
+| referee = [[Brian Lawlor|Lawlor]] (Wales)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 16 April 2002
+|team1 = {{fb-rt|IRL}}
+|score= 2–1
+|team2 = {{fb|USA}}
+|goals1 = [[Mark Kinsella|Kinsella]] {{goal|19}}<br>[[Gary Doherty|Doherty]] {{goal|54}}
+|goals2 = [[Eddie Pope|Pope]] {{goal|34}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 39,000
+| referee = [[Philippe Leuba|Leuba]] (Switzerland)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 16 May 2002
+|team1 = {{fb-rt|IRL}}
+|score= 1–2
+|team2 = {{fb|NGA}}
+|report = [http://news.bbc.co.uk/sport3/worldcup2002/hi/team_pages/rep_of_ireland/newsid_1991000/1991341.stm Report]
+|goals1 = [[Steven Reid]] {{goal|69}}
+|goals2 = [[Julius Aghahowa|Aghahowa]] {{goal|13}}<br>[[Efe Sodje|Sodje]] {{goal|47}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 42,652
+| referee = [[Antonio Almeida Costa|Costa]] (Portugal)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[2002 FIFA World Cup Group E]]
+|date = 1 June 2002
+|time = {{UTZ|15:30|9}}
+|team1 = {{fb-rt|IRL}}
+|score = 1–1
+|report = [http://fifaworldcup.yahoo.com/06/en/w/pwc/mr_26247.html Report]
+|team2 = {{fb|CMR}}
+|goals1 = [[Matt Holland|Holland]] {{goal|52}}
+|goals2 = [[Patrick Mboma|Mboma]] {{goal|39}}
+|stadium = [[Niigata Stadium]]
+|location = [[Niigata (city)|Niigata]], Japan
+| attendance = 33,679
+| referee = [[Toru Kamikawa|Kamikawa]] (Japan)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[2002 FIFA World Cup Group E]]
+|date = 5 June 2002
+|time = {{UTZ|20:30|9}}
+|team1 = {{fb-rt|GER}}
+|score = 1–1
+|report = [http://fifaworldcup.yahoo.com/06/en/w/pwc/mr_26249.html Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Miroslav Klose|Klose]] {{goal|19}}
+|goals2 = [[Robbie Keane]] {{goal|90+2}}
+|stadium = [[Kashima Soccer Stadium]]
+|location = [[Kashima, Ibaraki|Kashima]], Japan
+| attendance = 35,854
+| referee = [[Kim Milton Nielsen|Milton Nielsen]] (Denmark)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[2002 FIFA World Cup Group E]]
+|date = 11 June 2002
+|time = {{UTZ|20:30|9}}
+|team1 = {{fb-rt|KSA}}
+|score = 0–3
+|report = [http://fifaworldcup.yahoo.com/06/en/w/pwc/mr_26252.html Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Robbie Keane]] {{goal|7}}<br />[[Gary Breen|Breen]] {{goal|61}}<br />[[Damien Duff|Duff]] {{goal|87}}
+|stadium = [[International Stadium Yokohama]]
+|location = [[Yokohama]], Japan
+| attendance = 65,320
+| referee = [[Falla N'Doye|N'Doye]] ([[Senegal]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[2002 FIFA World Cup knockout stage|2002 FIFA World Cup Round of 16]]
+|date = 16 June 2002
+|time = {{UTZ|20:30|9}}
+|team1 = {{fb-rt|ESP}}
+|score = 1–1
+|aet = yes
+|penaltyscore = 3–2
+|report = [http://fifaworldcup.yahoo.com/06/en/w/pwc/mr_26274.html Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Fernando Morientes|Morientes]] {{goal|8}}
+|goals2 = [[Robbie Keane]] {{goal|90|pen.}}
+|stadium = [[Suwon World Cup Stadium]]
+|location = [[Suwon]], South Korea
+| attendance = 38,926
+| referee = [[Anders Frisk|Frisk]] (Sweden)
+|penalties1 = [[Fernando Hierro|Hierro]] {{pengoal}}<br />[[Rubén Baraja|Baraja]] {{pengoal}}<br />[[Juanfran (footballer, born 1976)|Juanfran]] {{penmiss}}<br />[[Juan Carlos Valerón|Valerón]] {{penmiss}}<br />[[Gaizka Mendieta|Mendieta]] {{pengoal}}
+|penalties2 = [[Robbie Keane]] {{pengoal}}<br />[[Matt Holland|Holland]] {{penmiss}}<br />[[David Connolly|Connolly]] {{penmiss}}<br />[[Kevin Kilbane|Kilbane]] {{penmiss}}<br />[[Steve Finnan|Finnan]] {{pengoal}}
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 21 August 2002
+|team1 = {{fb-rt|FIN}}
+|score= 0–3
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Robbie Keane]] {{goal|12}}<br>[[Colin Healy|Healy]] {{goal|74}}<br>[[Graham Barrett|Barrett]] {{goal|83}}
+|stadium = [[Helsinki Olympic Stadium]]
+|location = [[Helsinki]], Finland
+| attendance = 12,225
+| referee = [[Rune Pedersen (referee)|Pedersen]] (Norway)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2004 qualifying]]
+|date = 7 September 2002
+|team1 = {{fb-rt|RUS}}
+|score= 4–2
+|team2 = {{fb|IRL}}
+|goals1 = [[Andrey Karyaka|Karyaka]] {{goal|20}}<br>[[Vladimir Beschastnykh|Beschastnykh]] {{goal|25}}<br>[[Alexander Kerzhakov|Kerzhakov]] {{goal|71}}<br>[[Phil Babb|Babb]] {{goal|88|o.g.}}
+|goals2 = [[Gary Doherty|Doherty]] {{goal|69}}<br>[[Clinton Morrison|Morrison]] {{goal|76}}
+|stadium = [[Dynamo Stadium (Moscow)|Dynamo Stadium]]
+|location = [[Moscow]], Russia
+| attendance = 23,000
+| referee = [[Claude Colombo|Colombo]] (France)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2004 qualifying]]
+|date = 16 October 2002
+|team1 = {{fb-rt|IRL}}
+|score= 1–2
+|team2 = {{fb|SUI}}
+|goals1 = [[Ludovic Magnin|Magnin]] {{goal|78|o.g.}}
+|goals2 = [[Hakan Yakin|Yakin]] {{goal|45}}<br>[[Fabio Celestini|Celestini]] {{goal|87}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 35,000
+| referee = [[Rune Pedersen (referee)|Pedersen]] (Norway)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 20 November 2002
+|team1 = {{fb-rt|GRE}}
+|score= 0–0
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 =
+|stadium = [[Leoforos Alexandras Stadium]]
+|location = [[Athens]], Greece
+| attendance = 2,100
+| referee = [[Alfredo Trentalange|Trentalange]] (Italy)
+|result = D
+}}
+
+===2003===
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 12 February 2003
+|team1 = {{fb-rt|SCO}}
+|score= 0–2
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Kevin Kilbane|Kilbane]] {{goal|7}}<br>[[Clinton Morrison|Morrison]] {{goal|16}}
+|stadium = [[Hampden Park]]
+|location = [[Glasgow]], Scotland
+| attendance = 33,337
+| referee = [[Eric Braamhaar|Braamhaar]] (Netherlands)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2004 qualifying]]
+|date = 29 March 2003
+|team1 = {{fb-rt|GEO|1990}}
+|score= 1–2
+|team2 = {{fb|IRL}}
+|goals1 = [[Levan Kobiashvili|Kobiashvili]] {{goal|62}}
+|goals2 = [[Damien Duff|Duff]] {{goal|18}}<br>[[Gary Doherty|Doherty]] {{goal|84}}
+|stadium = [[Mikheil Meskhi Stadium|Lokomotiv]]
+|location = [[Tbilisi]], [[Georgia (country)|Georgia]]
+| attendance = 15,000
+| referee = [[Kyros Vassaras|Vassaras]] (Greece)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2004 qualifying]]
+|date = 2 April 2003
+|team1 = {{fb-rt|ALB}}
+|score= 0–0
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 =
+|stadium = [[Qemal Stafa (stadium)|Qemal Stafa]]
+|location = [[Tirana]], [[Albania]]
+| attendance = 20,000
+| referee = [[Stefano Farina|Farina]] (Italy)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 30 April 2003
+|team1 = {{fb-rt|IRL}}
+|score= 1–0
+|team2 = {{fb|NOR}}
+|goals1 = [[Damien Duff|Duff]] {{goal|17}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 32,643
+| referee = [[Mike McCurry (referee)|McCurry]] (Scotland)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2004 qualifying]]
+|date = 7 June 2003
+|team1 = {{fb-rt|IRL}}
+|score= 2–1
+|team2 = {{fb|ALB}}
+|goals1 = [[Robbie Keane]] {{goal|6}}<br>[[Adrian Aliaj|Aliaj]] {{goal|90+2|o.g.}}
+|goals2 = [[Ervin Skela|Skela]] {{goal|7}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 33,000
+| referee = [[Tomasz Mikulski|Mikulski]] (Poland)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2004 qualifying]]
+|date = 11 June 2003
+|team1 = {{fb-rt|IRL}}
+|score= 2–0
+|team2 = {{fb|GEO|1990}}
+|goals1 = [[Gary Doherty|Doherty]] {{goal|43}}<br>[[Robbie Keane]] {{goal|59}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 36,000
+| referee = [[Eduardo Iturralde González|González]] (Spain)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 19 August 2003
+|team1 = {{fb-rt|IRL}}
+|score= 2–1
+|team2 = {{fb|AUS}}
+|goals1 = [[John O'Shea|O'Shea]] {{goal|74}}<br>[[Clinton Morrison|Morrison]] {{goal|81}}
+|goals2 = [[Mark Viduka|Viduka]] {{goal|49}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 40,000
+| referee = [[Karel Vidlak|Vidlak]] (Czech Republic)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2004 qualifying]]
+|date = 6 September 2003
+|team1 = {{fb-rt|IRL}}
+|score= 1–1
+|team2 = {{fb|RUS}}
+|goals1 = [[Damien Duff|Duff]] {{goal|35}}
+|goals2 = [[Sergei Ignashevich|Ignashevich]] {{goal|42}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 36,000
+| referee = [[Ľuboš Micheľ|Michel]] ([[Slovakia]])
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 9 September 2003
+|team1 = {{fb-rt|IRL}}
+|score= 2–2
+|team2 = {{fb|TUR}}
+|goals1 = [[David Connolly|Connolly]] {{goal|35}}<br>[[Richard Dunne]] {{goal|90+}}
+|goals2 = [[Hakan Şükür|Şükür]] {{goal|51}}<br>[[Okan Yılmaz|Yılmaz]] {{goal|86}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 27,200
+| referee = [[Jan Wegereef|Wegereef]] (Netherlands)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2004 qualifying]]
+|date = 11 October 2003
+|team1 = {{fb-rt|SUI}}
+|score= 2–0
+|team2 = {{fb|IRL}}
+|goals1 = [[Hakan Yakin|Yakin]] {{goal|6}}<br>[[Alexander Frei|Frei]] {{goal|60}}
+|goals2 =
+|stadium = [[St. Jakob Park]]
+|location = [[Basel]], Switzerland
+| attendance = 31,006
+| referee = [[Anders Frisk|Frisk]] (Sweden)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 18 November 2003
+|team1 = {{fb-rt|IRL}}
+|score= 3–0
+|team2 = {{fb|CAN}}
+|goals1 = [[Damien Duff|Duff]] {{goal|23}}<br>[[Robbie Keane]] {{goal|60||84}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 30,000
+| referee = [[Mark Whitby (referee)|Whitby]] (Wales)
+|result = W
+}}
+
+===2004===
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+| date = 18 February 2004
+|team1 = {{fb-rt|IRL}}
+|score = 0–0
+|report= http://news.bbc.co.uk/sport2/hi/football/internationals/republic_of_ireland/3491311.stm
+|team2 = {{fb|BRA}}
+|goals1 =
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 44,000
+| referee = [[Anders Frisk|Frisk]] (Sweden)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+| date = 31 March 2004
+|time = {{UTZ|19:30|1}}
+|team1 = {{fb-rt|IRL}}
+|score = 2–1
+|report= Report
+|team2 = {{fb|CZE}}
+|goals1 = [[Ian Harte|Harte]] {{goal|52}}<br>[[Robbie Keane]] {{goal|90+}}
+|goals2 = [[Milan Baroš|Baroš]] {{goal|81}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 42,000
+| referee = [[Knud Erik Fisker|Fisker]] (Denmark)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+| date = 28 April 2004
+|team1 = {{fb-rt|POL}}
+|score = 0–0
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 =
+|stadium = [[Stadion Zawiszy Bydgoszcz im. Zdzisława Krzyszkowiaka|Zawiszy]]
+|location = [[Bydgoszcz]], Poland
+| attendance = 15,500
+| referee = [[Sergei Shebek|Shebek]] ([[Ukraine]])
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+| date = 27 May 2004
+|team1 = {{fb-rt|IRL}}
+|score = 1–0
+|report= Report
+|team2 = {{fb|ROU}}
+|goals1 = [[Matt Holland|Holland]] {{goal|84}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 42,356
+| referee = [[Jaroslav Jára|Jára]] (Czech Republic)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[2004 Unity Cup|Unity Cup]]
+| date = 29 May 2004
+|team1 = {{fb-rt|NGA}}
+|score = 3–0
+|report= https://www.11v11.com/matches/nigeria-v-republic-of-ireland-29-may-2004-253296/
+|team2 = {{fb|IRL}}
+|goals1 = [[Bartholomew Ogbeche|Ogbeche]] {{goal|36||69}}<br>[[Obafemi Martins|Martins]] {{goal|49}}
+|goals2 = |stadium = [[The Valley (London)|The Valley]]
+|location = London, England
+| attendance = 7,438
+| referee = [[Andy D'Urso|D'Urso]] (England)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[2004 Unity Cup|Unity Cup]]
+| date = 2 June 2004
+|team1 = {{fb-rt|JAM}}
+|score = 0–1
+|report= https://www.11v11.com/matches/jamaica-v-republic-of-ireland-02-june-2004-253329/
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Graham Barrett|Barrett]] {{goal|26}}
+|stadium = [[The Valley (London)|The Valley]]
+|location = London, England
+| attendance = 6,115
+| referee = [[Rob Styles|Styles]] (England)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+| date = 5 June 2004
+|team1 = {{fb-rt|NED}}
+|score = 0–1
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Robbie Keane]] {{goal|45+}}
+|stadium = [[Amsterdam ArenA]]
+|location = [[Amsterdam]], Netherlands
+| attendance = 42,000
+| referee = [[Mike Dean (referee)|Dean]] (England)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+| date = 18 August 2004
+|team1 = {{fb-rt|IRL}}
+|score = 1–1
+|report= Report
+|team2 = {{fb|BUL}}
+|goals1 = [[Andy Reid (Irish footballer)|Andy Reid]] {{goal|15}}
+|goals2 = [[Valeri Bojinov|Bojinov]] {{goal|71}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 32,887
+| referee = [[Ian Brines|Brines]] (Scotland)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[2006 FIFA World Cup qualification (UEFA)|2006 FIFA World Cup qualification]]
+| date = 4 September 2004
+|team1 = {{fb-rt|IRL}}
+|score = 3–0
+|report= Report
+|team2 = {{fb|CYP|1960}}
+|goals1 = [[Clinton Morrison|Morrison]] {{goal|33}}<br>[[Andy Reid (Irish footballer)|Andy Reid]] {{goal|38}}<br>[[Robbie Keane]] {{goal|55|pen.}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 35,900
+| referee = [[Levan Paniashvili|Paniashvili]] ([[Georgia (country)|Georgia]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[2006 FIFA World Cup qualification (UEFA)|2006 FIFA World Cup qualification]]
+| date = 8 September 2004
+|team1 = {{fb-rt|SUI}}
+|score = 1–1
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 = [[Hakan Yakin|Yakin]] {{goal|17}}
+|goals2 = [[Clinton Morrison|Morrison]] {{goal|9}}
+|stadium = [[St. Jakob Park]]
+|location = [[Basel]], Switzerland
+| attendance = 28,000
+| referee = [[Kyros Vassaras|Vassaras]] (Greece)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[2006 FIFA World Cup qualification (UEFA)|2006 FIFA World Cup qualification]]
+| date = 9 October 2004
+|team1 = {{fb-rt|FRA|1974}}
+|score = 0–0
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 =
+|stadium = [[Stade de France]]
+|location = [[Saint-Denis, Seine-Saint-Denis|Saint Denis]], France
+| attendance = 78,863
+| referee = [[Arturo Daudén Ibáñez|Ibáñez]] (Spain)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[2006 FIFA World Cup qualification (UEFA)|2006 FIFA World Cup qualification]]
+| date = 13 October 2004
+|team1 = {{fb-rt|IRL}}
+|score = 2–0
+|report= Report
+|team2 = {{fb|FRO}}
+|goals1 = [[Robbie Keane]] {{goal|14|pen.|32}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 36,000
+| referee = [[Romans Lajuks|Lajuks]] ([[Latvia]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+| date = 16 November 2004
+|team1 = {{fb-rt|IRL}}
+|score = 1–0
+|report= Report
+|team2 = {{fb|CRO}}
+|goals1 = [[Robbie Keane]] {{goal|24}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 33,200
+| referee = [[Gylfi Þór Orrason|Orrason]] ([[Iceland]])
+|result = W
+}}
+
+===2005===
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+| date = 9 February 2005
+|team1 = {{fb-rt|IRL}}
+|score = 1–0
+|report= Report
+|team2 = {{fb|POR}}
+|goals1 =[[Andy O'Brien (footballer)|Andrew O'Brien]] {{goal|21}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 48,000
+| referee = [[Matt Messias|Messias]] (England)
+|result = W
+}}
+{{football box collapsible|format=1 
+|round = [[2006 FIFA World Cup qualification (UEFA)|2006 FIFA World Cup qualification]]
+| date = 26 March 2005
+|team1 = {{fb-rt|ISR}}
+|score = 1–1
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 = [[Abbas Suan|Suan]] {{goal|90}}
+|goals2 = [[Clinton Morrison|Morrison]] {{goal|4}}
+|stadium = [[Ramat Gan Stadium]]
+|location = [[Ramat Gan]], [[Israel]]
+| attendance = 44,000
+| referee = [[Valentin Valentinovich Ivanov|Ivanov]] (Russia)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+| date = 29 March 2005
+|team1 = {{fb-rt|IRL}}
+|score = 1–0
+|report= Report
+|team2 = {{fb|CHN}}
+|goals1 = [[Clinton Morrison|Morrison]] {{goal|83}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 35,000
+| referee = [[Adrian Casha|Casha]] ([[Malta]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[2006 FIFA World Cup qualification (UEFA)|2006 FIFA World Cup qualification]]
+| date = 4 June 2005
+|team1 = {{fb-rt|IRL}}
+|score = 2–2
+|report= Report
+|team2 = {{fb|ISR}}
+|goals1 =[[Ian Harte|Harte]] {{goal|6}}<br>[[Robbie Keane]] {{goal|11}}
+|goals2 = [[Avi Yehiel|Yehiel]] {{goal|39}}<br>[[Avi Nimni|Nimni]] {{goal|45|pen.}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 36,000
+| referee = [[Kyros Vassaras|Vassaras]] (Greece)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[2006 FIFA World Cup qualification (UEFA)|2006 FIFA World Cup qualification]]
+| date = 8 June 2005
+|team1 = {{fb-rt|FRO}}
+|score = 0–2
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Ian Harte|Harte]] {{goal|51|pen.}}<br>[[Kevin Kilbane|Kilbane]] {{goal|58}}
+|stadium = [[Tórsvøllur]]
+|location = [[Tórshavn]], [[Faroe Islands]]
+| attendance = 4,500
+| referee = [[Anton Guenov|Guevnov]] ([[Bulgaria]])
+|result = W
+}}
+{{football box collapsible|format=1
+| round = [[Friendly match|Friendly]]
+| date = 17 August 2005
+|team1 = {{fb-rt|IRL}}
+|score = 1–2
+|report= Report
+|team2 = {{fb|ITA}}
+|goals1 =[[Andy Reid (Irish footballer)|Andy Reid]] {{goal|32}}
+|goals2 = [[Andrea Pirlo|Pirlo]] {{goal|10}}<br>[[Alberto Gilardino|Gilardino]] {{goal|31}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 44,000
+| referee = Paulo Costa (Portugal)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[2006 FIFA World Cup qualification (UEFA)|2006 FIFA World Cup qualification]]
+| date = 7 September 2005
+|team1 = {{fb-rt|IRL}}
+|score = 0–1
+|report= Report
+|team2 = {{fb|FRA|1974}}
+|goals1 =
+|goals2 = [[Thierry Henry|Henry]] {{goal|68}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 36,000
+| referee = [[Herbert Fandel|Fandel]] (Germany)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[2006 FIFA World Cup qualification (UEFA)|2006 FIFA World Cup qualification]]
+| date = 8 October 2005
+|team1 = {{fb-rt|CYP|1960}}
+|score = 0–1
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Stephen Elliott (footballer)|Elliott]] {{goal|6}}
+|stadium = [[Neo GSP Stadium]]
+|location = [[Nicosia]], [[Cyprus]]
+| attendance = 13,546
+| referee = [[Viktor Kassai|Kassai]] (Hungary)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[2006 FIFA World Cup qualification (UEFA)|2006 FIFA World Cup qualification]]
+| date = 12 October 2005
+|team1 = {{fb-rt|IRL}}
+|score = 0–0
+|report= Report
+|team2 = {{fb|SUI}}
+|goals1 =
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 35,000
+| referee = [[Markus Merk|Merk]] (Germany)
+|result = D
+}}
+
+===2006===
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+| date = 1 March 2006
+|team1 = {{fb-rt|IRL}}
+|score = 3–0
+|report=http://news.bbc.co.uk/sport1/hi/football/internationals/4764816.stm
+|team2 = {{fb|SWE}}
+|goals1 = [[Damien Duff|Duff]] {{goal|35}}<br>[[Robbie Keane]] {{goal|47}}<br>[[Liam Miller|Miller]] {{goal|70}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 48,000
+| referee = [[Damien Ledentu|Ledentu]] (France)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+| date = 24 May 2006
+|team1 = {{fb-rt|IRL}}
+|score = 0–1
+|report=http://news.bbc.co.uk/sport1/hi/football/internationals/5014588.stm
+|team2 = {{fb|CHI}}
+|goals1 =
+|goals2 = [[Manuel Iturra|Iturra]] {{goal|49}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 41,200
+| referee = [[Martin Ingvarsson|Ingvarsson]] (Sweden)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+| date = 16 August 2006
+|team1 = {{fb-rt|IRL}}
+|score = 0–4
+|report=https://www.theguardian.com/football/2006/aug/17/newsstory.sport9
+|team2 = {{fb|NED}}
+|goals1 =
+|goals2 = [[Klaas-Jan Huntelaar|Huntelaar]] {{goal|25||53}}<br>[[Arjen Robben|Robben]] {{goal|41}}<br>[[Robin van Persie|van Persie]] {{goal|70}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 42,400
+| referee = [[Thomas Henning|Henning]] (Norway)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2008 qualifying]]
+|date = 2 September 2006
+|time = {{UTZ|20:45|2}}
+|team1 = {{fb-rt|GER}}
+|score = 1–0
+|team2 = {{fb|IRL}}
+|goals1 = [[Lukas Podolski|Podolski]] {{goal|57}}
+|goals2 =
+|stadium = [[Gottlieb-Daimler-Stadion]]
+|location = [[Stuttgart]], Germany
+| attendance = 53,198
+| referee = [[Luis Medina Cantalejo|Medina]]<!--See the article "Iberian naming customs".--> ([[Royal Spanish Football Federation|Spain]])
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2008 qualifying]]
+|date = 7 October 2006
+|time = {{UTZ|17:00|3}}
+|team1 = {{fb-rt|CYP}}
+|score = 5–2
+|team2 = {{fb|IRL}}
+|goals1 = [[Michalis Konstantinou|Konstantinou]] {{goal|10||50|pen.}}<br>[[Alexandros Garpozis|Garpozis]] {{goal|16}}<br>[[Constantinos Charalambides|Charalambides]] {{goal|60||75}}
+|goals2 = [[Stephen Ireland|Ireland]] {{goal|8}}<br>[[Richard Dunne]] {{goal|44}}
+|stadium = [[Neo GSP Stadium]]
+|location = [[Nicosia]], [[Cyprus]]
+|attendance = 12,000
+| referee = [[Lucilio Batista|Batista]] ([[Portuguese Football Federation|Portugal]])
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2008 qualifying]]
+|date = 11 October 2006
+|time = {{UTZ|19:30|1}}
+|team1 = {{fb-rt|IRL}}
+|score= 1–1
+|team2 = {{fb|CZE}}
+|goals1 = [[Kevin Kilbane|Kilbane]] {{goal|62}}
+|goals2 = [[Jan Koller|Koller]] {{goal|64}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 35,500
+| referee = [[Bertrand Layec|Layec]] ([[French Football Federation|France]])
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2008 qualifying]]
+|date = 15 November 2006
+|time = {{UTZ|19:30|0}}
+|team1 = {{fb-rt|IRL}}
+|score= 5–0
+|team2 = {{fb|SMR|1862}}
+|goals1 = [[Andy Reid (Irish footballer)|Andy Reid]] {{goal|7}}<br>[[Kevin Doyle (footballer)|Doyle]] {{goal|24}}<br>[[Robbie Keane]] {{goal|31||58|pen.|85}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance =
+| referee = [[Lassin Isaksen|Isaksen]] ([[Faroe Islands Football Association|Faroe Islands]])
+|result = W
+}}
+
+===2007===
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2008 qualifying]]
+|date = 7 February 2007
+|time = {{UTZ|20:45|1}}
+|team1 = {{fb-rt|SMR|1862}}
+|score= 1–2
+|team2 = {{fb|IRL}}
+|report = [http://news.bbc.co.uk/sport2/hi/football/internationals/6340553.stm Report]
+|goals1 = [[Manuel Marani]] {{goal|86}}
+|goals2 = [[Kevin Kilbane|Kilbane]] {{goal|49}}<br>[[Stephen Ireland|Ireland]] {{goal|90+4}}
+|stadium = [[Stadio Olimpico (San Marino)|Stadio Olimpico]]
+|location = [[Serravalle (San Marino)|Serravalle]], [[San Marino]]
+| attendance =
+| referee = [[Peter Rasmussen (referee)|Rasmussen]] ([[Danish Football Association|Denmark]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2008 qualifying]]
+|date = 24 March 2007
+|time = {{UTZ|15:00|0}}
+|team1 = {{fb-rt|IRL}}
+|score= 1–0
+|team2 = {{fb|WAL}}
+|report = [http://news.bbc.co.uk/sport2/hi/football/internationals/6439991.stm Report]
+|goals1 = [[Stephen Ireland|Ireland]] {{goal|39}}
+|goals2 =
+|stadium = [[Croke Park]]
+|location = [[Dublin]], Ireland
+| attendance = 72,539
+| referee = [[Terje Hauge|Hauge]] (Norway)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2008 qualifying]]
+|date = 28 March 2007
+|time = {{UTZ|19:30|1}}
+|team1 = {{fb-rt|IRL}}
+|score= 1–0
+|team2 = {{fb|SVK}}
+|report = [http://news.bbc.co.uk/sport2/hi/football/internationals/6504763.stm Report]
+|goals1 = [[Kevin Doyle (footballer)|Doyle]] {{goal|13}}
+|goals2 =
+|stadium = [[Croke Park]]
+|location = [[Dublin]], Ireland
+| attendance = 71,297
+| referee = [[Yuri Baskakov|Baskakov]] (Russia)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 23 May 2007
+|time = {{UTZ|20:00|-4}}
+|team1 = {{fb-rt|ECU}}
+|score= 1–1
+|team2 = {{fb|IRL}}
+|report = [http://news.bbc.co.uk/sport2/hi/football/internationals/6686569.stm Report]
+|goals1 = [[Christian Benítez|Benítez]] {{goal|13}}
+|goals2 = [[Kevin Doyle (footballer)|Doyle]] {{goal|44}}
+|stadium = [[Giants Stadium]]
+|location = [[East Rutherford, New Jersey]], United States
+|attendance = 20,823
+| referee = [[Jair Marruso|Marruso]] (USA)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 26 May 2007
+|time = {{UTZ|15:00|-4}}
+|team1 = {{fb-rt|BOL}}
+|score= 1–1
+|team2 = {{fb|IRL}}
+|report = [https://www.rte.ie/sport/soccer/2007/0526/218306-irelandsoccer/ Report]
+|goals1 = [[Miguel Hoyos|Hoyos]] {{goal|12}}
+|goals2 = [[Shane Long|Long]] {{goal|14}}
+|stadium = [[Gillette Stadium]]
+|location = [[Foxborough, Massachusetts]], United States
+| attendance =
+| referee = Vaughn (USA)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 22 August 2007
+|time = {{UTZ|20:00|2}}
+|team1 = {{fb-rt|DEN}}
+|score= 0–4
+|team2 = {{fb|IRL}}
+|report = [http://news.bbc.co.uk/sport2/hi/football/internationals/6959328.stm Report]
+|goals1 =
+|goals2 = [[Robbie Keane]] {{goal|29||39}}<br>[[Shane Long|Long]] {{goal|54||65}}
+|stadium = [[NRGi Park]]
+|location = [[Aarhus]], Denmark
+| attendance = 30,000
+| referee = [[Thomas Einwaller|Einwaller]] (Austria)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2008 qualifying]]
+|date = 8 September 2007
+|time = {{UTZ|20:30|2}}
+|team1 = {{fb-rt|SVK}}
+|score= 2–2
+|team2 = {{fb|IRL}}
+|report = [http://news.bbc.co.uk/sport2/hi/football/internationals/6985512.stm Report]
+|goals1 = [[Maroš Klimpl|Klimpl]] {{goal|38}}<br>[[Marek Čech (Slovak footballer)|Čech]] {{goal|90}}
+|goals2 = [[Stephen Ireland|Ireland]] {{goal|7}}<br>[[Kevin Doyle (footballer)|Doyle]] {{goal|58}}
+|stadium = [[Tehelné Pole#Football (soccer)|Tehelné Pole]]
+|location = [[Bratislava]], [[Slovakia]]
+| attendance = 12,360
+| referee = [[Stefano Farina|Farina]] (Italy)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2008 qualifying]]
+|date = 12 September 2007
+|time = {{UTZ|20:30|2}}
+|team1 = {{fb-rt|CZE}}
+|score= 1–0
+|team2 = {{fb|IRL}}
+|report = [http://news.bbc.co.uk/sport2/hi/football/internationals/6992042.stm Report]
+|goals1 = [[Marek Jankulovski|Jankulovski]] {{goal|15}}
+|goals2 =
+|stadium = [[Stadion Letná|AXA Arena]]
+|location = [[Prague]], Czech Republic
+| attendance = 16,648
+| referee = [[Kyros Vassaras|Vassaras]] (Greece)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2008 qualifying]]
+|date = 13 October 2007
+|time = {{UTZ|19:45|1}}
+|team1 = {{fb-rt|IRL}}
+|score= 0–0
+|team2 = {{fb|GER}}
+|report = [http://news.bbc.co.uk/sport2/hi/football/internationals/7043518.stm Report]
+|goals1 =
+|goals2 =
+|stadium = [[Croke Park]]
+|location = [[Dublin]], Ireland
+| attendance = 67,495
+| referee = [[Martin Hansson|Hansson]] (Sweden)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2008 qualifying]]
+|date = 17 October 2007
+|time = {{UTZ|19:30|1}}
+|team1 = {{fb-rt|IRL}}
+|score= 1–1
+|team2 = {{fb|CYP}}
+|report = [http://news.bbc.co.uk/sport2/hi/football/internationals/7049990.stm Report]
+|goals1 = [[Steve Finnan|Finnan]] {{goal|90+3}}
+|goals2 = [[Stelios Okkarides|Okkarides]] {{goal|80}}
+|stadium = [[Croke Park]]
+|location = [[Dublin]], Ireland
+| attendance = 45,500
+| referee = [[Mikko Vuorela|Vuorela]] (Finland)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2008 qualifying]]
+|date = 17 November 2007
+|time = {{UTZ|15:00|0}}
+|team1 = {{fb-rt|WAL}}
+|score= 2–2
+|report = [http://news.bbc.co.uk/sport2/hi/football/internationals/7099901.stm Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Jason Koumas|Koumas]] {{goal|23||89|pen.}}
+|goals2 = [[Robbie Keane]] {{goal|31}}<br>[[Kevin Doyle (footballer)|Doyle]] {{goal|60}}
+|stadium = [[Millennium Stadium]]
+|location = [[Cardiff]], Wales
+| attendance = 24,619
+| referee = [[Oleh Oriekhov|Oriekhov]] ([[Ukraine]])
+|result = D
+}}
+
+===2008===
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 6 February 2008
+|time = {{UTZ|19:45|0}}
+|team1 = {{fb-rt|IRL}}
+|score= 0–1
+|report=  https://futeboldaselecaobrasileira.blogspot.com/2008/02/irlanda-0-x-1-brasil.html
+|team2 = {{fb|BRA}}
+|goals1 =
+|goals2 = [[Robinho]] {{goal|67}}
+|stadium = [[Croke Park]]
+|location = [[Dublin]], Ireland
+| attendance = 70,000
+| referee = [[Rene Rogalla|Rogalla]] (Switzerland)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 24 May 2008
+|time = {{UTZ|19:45|1}}
+|team1 = {{fb-rt|IRL}}
+|score= 1–1
+|team2 = {{fb|SER|2004}}
+|goals1 = [[Andy Keogh|Keogh]] {{goal|90}}
+|goals2 = [[Marko Pantelić|Pantelić]] {{goal|75}}
+|stadium = [[Croke Park]]
+|location = [[Dublin]], Ireland
+| attendance = 63,000
+| referee = [[Lee Evans (referee)|Evans]] (Wales)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 29 May 2008
+|time = {{UTZ|20:00|1}}
+|team1 = {{fb-rt|IRL}}
+|score= 1–0
+|team2 = {{fb|COL}}
+|goals1 = [[Robbie Keane]] {{goal|3}}
+|goals2 =
+|stadium = [[Craven Cottage]]
+|location = London, England
+| attendance = 18,612
+| referee = [[Mark Clattenburg|Clattenburg]] (England)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 20 August 2008
+|time = {{UTZ|18:00|2}}
+|team1 = {{fb-rt|NOR}}
+|score= 1–1
+|team2 = {{fb|IRL}}
+|goals1 = [[Tore Reginiussen|Reginiussen]] {{goal|61}}
+|goals2 = [[Robbie Keane]] {{goal|44}}
+|stadium = [[Ullevaal Stadion]]
+|location = [[Oslo]], Norway
+| attendance = 16,037
+| referee = [[Mark Whitby (referee)|Whitby]] (Wales)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[2010 FIFA World Cup qualification (UEFA)|2010 FIFA World Cup qualification]]
+|date = 6 September 2008
+|time = {{UTZ|18:00|2}}
+|team1 = {{fb-rt|GEO}}
+|score= 1–2
+|team2 = {{fb|IRL}}
+|goals1 = [[Levan Kenia]] {{goal|90}}
+|goals2 = [[Kevin Doyle (footballer)|Doyle]] {{goal|13}}<br>[[Glenn Whelan]] {{goal|70}}
+|stadium = [[Stadion am Bruchweg]]
+|location = [[Mainz]], Germany{{refn|group=note|Originally scheduled for [[Tbilisi]], [[Georgia (country)|Georgia]] but moved to neutral venue due to [[2008 South Ossetia war]].}}
+| attendance = 28,500
+| referee = [[Zsolt Szabó (referee)|Szabo]] (Hungary)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[2010 FIFA World Cup qualification (UEFA)|2010 FIFA World Cup qualification]]
+|date = 10 September 2008
+|time = {{UTZ|19:00|2}}
+|team1 = {{fb-rt|MNE}}
+|score= 0–0
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 =
+|stadium = [[Podgorica City Stadium]]
+|location = [[Podgorica]], [[Montenegro]]
+| attendance = 12,000
+| referee = [[Sten Kaldma|Kaldma]] ([[Estonia]])
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[2010 FIFA World Cup qualification (UEFA)|2010 FIFA World Cup qualification]]
+|date = 15 October 2008
+|time = {{UTZ|19:45|1}}
+|team1 = {{fb-rt|IRL}}
+|score= 1–0
+|team2 = {{fb|CYP}}
+|goals1 = [[Robbie Keane]] {{goal|5}}
+|goals2 =
+|stadium = [[Croke Park]]
+|location = [[Dublin]], Ireland
+| attendance = 53,500
+| referee = [[Alexandru Tudor|Tudor]] ([[Romania]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 19 November 2008
+|team1 = {{fb-rt|IRL}}
+|score= 2–3
+|team2 = {{fb|POL}}
+|goals1 = [[Stephen Hunt (footballer born 1981)|Stephen Hunt]] {{goal|88|pen.}}<br>[[Keith Andrews (footballer)|Andrews]] {{goal|90}}|goals2 = [[Mariusz Lewandowski]] {{goal|3}}<br>[[Roger Guerreiro|Guerreiro]] {{goal|47}}<br>[[Robert Lewandowski]] {{goal|89}}
+|stadium = [[Croke Park]]
+|location = [[Dublin]], Ireland
+| attendance = 61,000
+| referee = [[Kristian Jakobsson|Jakobsson]] ([[Iceland]])
+|result = L
+}}
+
+===2009===
+{{football box collapsible|format=1
+|round = [[2010 FIFA World Cup qualification (UEFA)|2010 FIFA World Cup qualification]]
+|date = 11 February 2009
+|time = {{UTZ|19:45|0}}
+|team1 = {{fb-rt|IRL}}
+|score= 2–1
+|report=[https://web.archive.org/web/20090219021418/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=250471/match=300041119/report.html Report]
+|team2 = {{fb|GEO}}
+|goals1 = [[Robbie Keane]] {{goal|73|pen.|78}}
+|goals2 = [[Alexander Iashvili|Iashvili]] {{goal|1}}
+|stadium = [[Croke Park]]
+|location = [[Dublin]], Ireland
+| attendance = 65,000
+| referee = [[Jouni Hyytia|Hyytia]] (Finland)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[2010 FIFA World Cup qualification (UEFA)|2010 FIFA World Cup qualification]]
+|date = 28 March 2009
+|time = {{UTZ|19:45|0}}
+|team1 = {{fb-rt|IRL}}
+|score= 1–1
+|report=[https://web.archive.org/web/20090908224651/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=250471/match=300041116/report.html Report]
+|team2 = {{fb|BUL}}
+|goals1 = [[Richard Dunne|Dunne]] {{goal|1}}
+|goals2 = [[Kevin Kilbane|Kilbane]] {{goal|74|o.g.}}
+|stadium = [[Croke Park]]
+|location = [[Dublin]], Ireland
+| attendance = 60,002
+| referee = [[Ivan Bebek|Bebek]] (Croatia)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[2010 FIFA World Cup qualification (UEFA)|2010 FIFA World Cup qualification]]
+|date = 1 April 2009
+|time = {{UTZ|20:50|2}}
+|team1 = {{fb-rt|ITA}}
+|score= 1–1
+|report=[https://web.archive.org/web/20090416054434/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=250471/match=300041115/report.html Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Vincenzo Iaquinta|Iaquinta]] {{goal|10}}
+|goals2 = [[Robbie Keane]] {{goal|87}}
+|stadium = [[Stadio San Nicola]]
+|location = [[Bari]], Italy
+| attendance = 41,000
+| referee = [[Wolfgang Stark|Stark]] (Germany)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 29 May 2009
+|team1 = {{fb-rt|IRL}}
+|score= 1–1
+|team2 = {{fb|NGA}}
+|goals1 = [[Robbie Keane]] {{goal|38}}
+|goals2 = [[Michael Eneramo|Enemaro]] {{goal|30}}
+|stadium = [[Craven Cottage]]
+|location = London, England
+| attendance = 11,263
+| referee = [[William Collum (referee)|Collum]] (Scotland)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[2010 FIFA World Cup qualification (UEFA)|2010 FIFA World Cup qualification]]
+|date = 6 June 2009
+|time = {{UTZ|20:30|3}}
+|team1 = {{fb-rt|BGR}}
+|score= 1–1
+|report=[https://web.archive.org/web/20090403083746/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=250471/match=300041111/report.html Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Dimitar Telkiyski|Telkiyski]] {{goal|31}}
+|goals2 = [[Richard Dunne|Dunne]] {{goal|24}}
+|stadium = [[Vasil Levski National Stadium]]
+|location = [[Sofia]], Bulgaria
+| attendance = 42,000
+| referee = [[Claus Bo Larsen|Larsen]] (Denmark)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 12 August 2009
+|team1 = {{fb-rt|IRL}}
+|score= 0–3
+|team2 = {{fb|AUS}}
+|goals1 =
+|goals2 = [[Tim Cahill|Cahill]] {{goal|38||44}}<br />[[David Carney|Carney]] {{goal|90}}
+|stadium = [[Thomond Park]]
+|location = [[Limerick]], Ireland
+| attendance = 19,000
+| referee = [[Alfonso Perez Burrull|Burrull]] (Spain)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[2010 FIFA World Cup qualification (UEFA)|2010 FIFA World Cup qualification]]
+|date = 5 September 2009
+|time = {{UTZ|21:30|3}}
+|team1 = {{fb-rt|CYP}}
+|score= 1–2
+|report= [https://web.archive.org/web/20090908010135/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=250471/match=300041109/index.html Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Marios Elia|Elia]] {{goal|30}}
+|goals2 = [[Kevin Doyle (footballer)|Doyle]] {{goal|5}}<br />[[Robbie Keane]] {{goal|83}}
+|stadium = [[Neo GSP Stadium]]
+|location = [[Nicosia]], Cyprus
+| attendance = 7,000
+| referee = [[Thomas Einwaller|Einwaller]] (Austria)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Friendly match|Friendly]]
+|date = 8 September 2009
+|team1 = {{fb-rt|IRL}}
+|score= 1–0
+|report= [http://www.fai.ie/index.php?option=com_content&view=article&id=100311&catid=1&Itemid=8 Report]
+|team2 = {{fb|RSA}}
+|goals1 = [[Liam Lawrence|Lawrence]] {{goal|37}}
+|goals2 =
+|stadium = [[Thomond Park]]
+|location = [[Limerick]], Ireland
+| attendance = 11,300
+| referee = [[Craig Thomson (referee)|Thomson]] (Scotland)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[2010 FIFA World Cup qualification (UEFA)|2010 FIFA World Cup qualification]]
+|date = 10 October 2009
+|time = {{UTZ|20:00|1}}
+|team1 = {{fb-rt|IRL}}
+|score= 2–2
+|report=[https://web.archive.org/web/20091102230755/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=250471/match=300041105/report.html Report]
+|team2 = {{fb|ITA}}
+|goals1 = [[Glenn Whelan]] {{goal|8}}<br />[[Seán St Ledger|St Ledger]] {{goal|87}}
+|goals2 = [[Mauro Camoranesi|Camoranesi]] {{goal|26}}<br />[[Alberto Gilardino|Gilardino]] {{goal|90}}
+|stadium = [[Croke Park]]
+|location = [[Dublin]], Ireland
+| attendance = 70,670
+| referee = [[Terje Hauge|Hauge]] (Norway)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[2010 FIFA World Cup qualification (UEFA)|2010 FIFA World Cup qualification]]
+|date = 14 October 2009
+|time = {{UTZ|19:00|1}}
+|team1 = {{fb-rt|IRL}}
+|score= 0–0
+|report=[https://web.archive.org/web/20091115114307/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=250471/match=300041101/report.html Report]
+|team2 = {{fb|MNE}}
+|goals1 =
+|goals2 =
+|stadium = [[Croke Park]]
+|location = [[Dublin]], Ireland
+| attendance = 50,212
+| referee = [[Vladimir Hrinak|Hrinak]] ([[Slovakia]])
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[2010 FIFA World Cup qualification – UEFA second round|2010 FIFA World Cup qualification play-off]]
+|date = 14 November 2009
+|time = {{UTZ|20:00|0}}
+|team1 = {{fb-rt|IRL}}
+|score= [[2009 Republic of Ireland v France football matches|0–1]]
+|report=[https://web.archive.org/web/20091118144949/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=253455/match=300110253/report.html Report]
+|team2 = {{fb|FRA|1974}}
+|goals1 =
+|goals2 = [[Nicolas Anelka|Anelka]] {{goal|72}}
+|stadium = [[Croke Park]]
+|location = [[Dublin]], Ireland
+| attendance = 74,103
+| referee = [[Felix Brych|Byrch]] (Germany)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[2010 FIFA World Cup qualification – UEFA second round|2010 FIFA World Cup qualification play-off]]
+|date = 18 November 2009
+|time = {{UTZ|21:00|1}}
+|team1 = {{fb-rt|FRA|1974}}
+|score= [[2009 Republic of Ireland v France football matches|1–1]]
+|aet = yes
+|aggregatescore = 2–1
+|report=[https://web.archive.org/web/20091122204004/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=253455/match=300110246/report.html Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[William Gallas|Gallas]] {{goal|103}}
+|goals2 = [[Robbie Keane]] {{goal|33}}
+|stadium = [[Stade de France]]
+|location = [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France
+| attendance = 81,000
+| referee = [[Martin Hansson|Hansson]] (Sweden)
+|result = D
+}}
+
+==Notes==
+{{notelist|group=note}}
+
+==References==
+<ref>{{cite news | url=http://listserv.acsu.buffalo.edu/cgi-bin/wa?A2=ind9610b&L=makedon&T=0&P=2015?rss=yes/ | title=Makedon Archives| access-date=2007-02-27}}</ref>
+<ref>{{cite news | url=https://www.rsssf.org/intldetails/?rss=yes/ | title=International Matches – Historical Overview| access-date=2007-02-27}}</ref>
+<ref>{{cite news | url=http://www.soccerbase.com/ | title=SoccerBase| access-date=2007-02-27}}</ref>
+<ref>{{cite news | url=http://www.soccerscene.ie/?rss=yes/ | title=SoccerScene| access-date=2007-02-27}}</ref>
+<ref>{{cite news | url=http://www.srcf.ucam.org/~nfm24/football?rss=yes/ | title=INTERNATIONAL MATCHES PROJECT – INDEX| access-date=2007-02-27}} {{Dead link|date=October 2010|bot=H3llBot}}</ref>
+{{reflist}}
+
+{{Republic of Ireland national football team}}
+{{2008 in Republic of Ireland association football}}
+{{2009 in Republic of Ireland association football}}
+{{Football results UEFA}}
+
+{{DEFAULTSORT:National Football Team 2000s Results}}
+[[Category:Republic of Ireland national football team results|2000–09]]
+[[Category:1999–2000 in Republic of Ireland association football]]
+[[Category:2000–01 in Republic of Ireland association football]]
+[[Category:2001–02 in Republic of Ireland association football]]
+[[Category:2002–03 in Republic of Ireland association football]]
+[[Category:2003 in Republic of Ireland association football]]
+[[Category:2004 in Republic of Ireland association football]]
+[[Category:2005 in Republic of Ireland association football]]
+[[Category:2006 in Republic of Ireland association football]]
+[[Category:2007 in Republic of Ireland association football]]
+[[Category:2008 in Republic of Ireland association football]]
+[[Category:2009 in Republic of Ireland association football]]

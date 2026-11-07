@@ -123,9 +123,12 @@ opps.sort(key=lambda x: (-x["p"], x["name"]))
 json.dump(opps, open(OUT + "opponents.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
 # ---- players (Wikipedia caps list + dataset goals)
 pt = open(D + "wiki_players.txt", encoding="utf-8").read(); players = []
-def iso(s):
-    try: return DT.datetime.strptime(clean(s), "%d %B %Y").strftime("%Y-%m-%d")
-    except Exception: return None
+def iso(s):  # Wikipedia writes most dates in full ("2 June 2013") and a few short ("2 Jun 2013", "2 Sept 2013")
+    s = clean(s).replace("Sept ", "Sep ")
+    for f in ("%d %B %Y", "%d %b %Y"):
+        try: return DT.datetime.strptime(s, f).strftime("%Y-%m-%d")
+        except Exception: pass
+    return None
 for m in re.finditer(r"\{\{sortname\|([^|}]*)\|([^|}]*)((?:\|[^}]*)?)\}\}(.*?)(?=<ref|\n\|-)", pt, re.S):
     a, b, extra, body = m.groups(); name = (a + " " + b).strip()
     f = re.search(r"([A-Z]{2}(?:/[A-Z]{2})?)\s*\|\|\s*(\d+)\s*\|\|\s*(\d+)\s*\|\|\s*([^|]*?)\s*\|\|.*?\{\{fb\|([^}|]*).*?\}\}\s*\|+\s*([^|]*?)\s*\|+.*?\{\{fb\|([^}|]*)", body, re.S)

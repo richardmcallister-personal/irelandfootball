@@ -1,0 +1,2001 @@
+{{Short description|none}}
+{{Use dmy dates|date=December 2020}}
+{{Use Irish English|date=August 2013}}
+{{Republic of Ireland national football team results|key=1}}
+This article contains the results of the [[Republic of Ireland national football team]] during the 2010s.
+
+==Results==
+===2010===
+{{football box collapsible
+| format = 1
+|date    = 2 March 2010
+|round   = [[Exhibition match|Friendly]]
+|time    =
+|team1   = {{fb-rt|IRL}}
+|score   = 0–2
+|report  = [https://news.bbc.co.uk/sport2/hi/football/irish/8546506.stm Report]
+|team2   = {{fb|BRA}}
+|goals1  =
+|goals2  = [[Keith Andrews (footballer)|Andrews]] {{goal|44|o.g.}}<br />[[Robinho]] {{goal|76}}
+|stadium = [[Emirates Stadium]]
+|location= [[London]], England
+|attendance = 40,082
+|referee = [[Mike Dean (referee)|Mike Dean]] ([[The Football Association|England]])
+|result  = L
+}}
+{{football box collapsible
+| format = 1
+|date   = 25 May 2010
+|round   = [[Exhibition match|Friendly]]
+|time   =
+|team1  = {{fb-rt|IRL}}
+|score  = 2–1
+|report = [https://news.bbc.co.uk/sport2/hi/football/irish/8701396.stm Report]
+|team2  = {{fb|PAR|1990}}
+|goals1 = [[Kevin Doyle (footballer)|Doyle]] {{goal|7}}<br />[[Liam Lawrence|Lawrence]] {{goal|39}}
+|goals2 = [[Lucas Barrios|Barrios]] {{goal|58}}
+|stadium = [[RDS Arena]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 16,722
+|referee = [[Jerome Laperriere]] ([[Swiss Football Association|Switzerland]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 28 May 2010
+|round   = [[Exhibition match|Friendly]]
+|time    =
+|team1   = {{fb-rt|IRL}}
+|score   = 3–0
+|report  = [https://news.bbc.co.uk/sport2/hi/football/irish/8712258.stm Report]
+|team2   = {{fb|ALG}}
+|goals1  = [[Paul Green (footballer born 1983)|Green]] {{goal|32}}<br />[[Robbie Keane|Keane]] {{goal|52||85|pen.}}
+|goals2  =
+|stadium = [[RDS Arena]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 16,800
+|referee = [[Eric Braamhaar]] ([[Royal Dutch Football Association|Netherlands]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date=11 August 2010
+|round   = [[Exhibition match|Friendly]]
+|team1={{fb-rt|IRL}}
+|score=0–1
+|report=[https://news.bbc.co.uk/sport2/hi/football/irish/8905915.stm Report]
+|team2={{fb|ARG|1861}}
+|goals1=
+|goals2=[[Ángel Di María|Di María]] {{goal|20}}
+|stadium=[[Aviva Stadium]]
+|location=[[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance=49,500
+|referee=[[Peter Rasmussen (referee)|Peter Rasmussen]] ([[Danish Football Association|Denmark]])
+|result  = L
+}}
+{{football box collapsible
+| format = 1
+|date    = 3 September 2010
+|time    = 20:00 [[UTC+5]]
+|round   = [[UEFA Euro 2012 qualifying Group B]]
+|team1   = {{fb-rt|ARM}}
+|score   = 0–1
+|report  = [https://www.uefa.com/uefaeuro/match/2002239--armenia-vs-republic-of-ireland/ Report]
+|team2   = {{fb|IRL}}
+|goals1  =
+|goals2  = [[Keith Fahey|Fahey]] {{goal|76}}
+|stadium = [[Hanrapetakan Stadium|Republican Stadium]]
+|location=[[Yerevan]], [[Armenia]]
+|attendance = 8,682
+|referee = [[Zsolt Szabó (referee)|Zsolt Szabo]] ([[Hungarian Football Federation|Hungary]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 7 September 2010
+|time    = 19:45 [[UTC]]
+|round   = [[UEFA Euro 2012 qualifying Group B]]
+|team1   = {{fb-rt|IRL}}
+|score   = 3–1
+|report  = [https://www.uefa.com/uefaeuro/match/2002231--republic-of-ireland-vs-andorra/ Report]
+|team2   = {{fb|AND}}
+|goals1  = [[Kevin Kilbane|Kilbane]] {{goal|14}}<br />[[Kevin Doyle (footballer)|Doyle]] {{goal|41}}<br />[[Robbie Keane|Keane]] {{goal|54}}
+|goals2  = [[Cristian Martínez (Andorran footballer)|Martínez]] 45'
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 40,283
+|referee = Leontios Trattou ([[Cyprus Football Association|Cyprus]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 8 October 2010
+|time    = 19:45 [[UTC+1]]
+|round   = [[UEFA Euro 2012 qualifying Group B]]
+|team1   = {{fb-rt|IRL}}
+|score   = 2–3
+|report  = [https://www.uefa.com/uefaeuro/match/2002227--republic-of-ireland-vs-russia/ Report]
+|team2   = {{fb|RUS}}
+|goals1  = [[Robbie Keane|Keane]] {{goal|72|pen.}}<br />[[Shane Long|Long]] {{goal|78}}
+|goals2  = [[Aleksandr Kerzhakov|Kerzhakov]] {{goal|11}}<br />[[Alan Dzagoev|Dzagoev]] {{goal|29}}<br />[[Roman Shirokov|Shirokov]] {{goal|50}}
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 50,411
+|referee = [[Kevin Blom]] ([[Royal Dutch Football Association|Netherlands]])
+|result  = L
+}}
+{{football box collapsible
+| format = 1
+|date    = 12 October 2010
+|time    = 20:30 [[UTC+2]]
+|round   = [[UEFA Euro 2012 qualifying Group B]]
+|team1   = {{fb-rt|SVK}}
+|score   = 1–1
+|report  = [https://www.uefa.com/uefaeuro/match/2002223--slovakia-vs-republic-of-ireland/ Report]
+|team2   = {{Fb|IRL}}
+|goals1  = [[Ján Ďurica|Ďurica]] {{goal|36}}
+|goals2  = [[Sean St Ledger|St Ledger]] {{goal|16}}
+|stadium = [[Štadión Pod Dubňom]]
+|location= [[Žilina]], [[Slovakia]]
+|attendance =
+|referee = [[Alberto Undiano Mallenco]] ([[Royal Spanish Football Federation|Spain]])
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 17 November 2010
+|time    = 19.45
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 1–2
+|report  =
+|team2   = {{Fb|NOR}}
+|goals1  = [[Shane Long|Long]] {{goal|5|pen.}}
+|goals2  = [[Morten Gamst Pedersen|Pedersen]] {{goal|34}} <br /> [[Erik Huseklepp|Huseklepp]] {{goal|86}}
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance =
+|referee =  [[Kristinn Jakobsson]] ([[Iceland national football team|Iceland]])
+|result  = L
+}}
+
+===2011===
+{{football box collapsible
+| format = 1
+|date    = 8 February 2011
+|time    = 19:45
+|round   = [[2011 Nations Cup]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 3–0
+|report  = [https://web.archive.org/web/20110211022530/http://www.rte.ie/sport/soccer/2011/0208/ireland_wales_carlingnationscup.html Report]
+|team2   = {{Fb|WAL}}
+|goals1  = [[Darron Gibson|Gibson]] {{goal|60}}<br />[[Damien Duff|Duff]] {{goal|67}}<br />[[Keith Fahey|Fahey]] {{goal|82}}
+|goals2  =
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 19,783
+|referee = Mark Courtney ([[Irish Football Association|Northern Ireland]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 26 March 2011
+|time    = 19:45
+|round   = [[UEFA Euro 2012 qualifying Group B]]
+|team1   = {{fb-rt|IRL}}
+|score   = 2–1
+|report  = [http://www.rte.ie/sport/soccer/2011/0326/ireland_macedonia_report.html Report]
+|team2   = {{fb|MKD|name=Macedonia}}
+|goals1  = [[Aiden McGeady|McGeady]] {{goal|2}}<br />[[Robbie Keane|Keane]] {{goal|21}}
+|goals2  = [[Ivan Trickovski|Trickovski]] {{goal|45}}
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 33,200
+|referee = [[István Vad]] ([[Hungarian Football Federation|Hungary]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 29 March 2011
+|time    = 19:45
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 2–3
+|report  = [http://www.rte.ie/sport/soccer/2011/0329/republicofireland_uruguay.html Report]
+|team2   = {{Fb|URU}}
+|goals1  = [[Shane Long|Long]] {{goal|15}}<br />[[Keith Fahey|Fahey]] {{goal|48}}
+|goals2  = [[Diego Lugano|Lugano]] {{goal|12}}<br />[[Edinson Cavani|Cavani]] {{goal|22}}<br />[[Abel Hernández|Hernández]] {{goal|39}}
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 25,611
+|referee = [[Said Ennjimi]] ([[French Football Association|France]])
+|result  = L
+ }}
+{{football box collapsible
+| format = 1
+|date    = 24 May 2011
+|time    = 19:45
+|round   = [[2011 Nations Cup]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 5–0
+|report  = [http://www.rte.ie/sport/soccer/2011/0524/ireland_northernireland.html Report]
+|team2   = {{Fb|NIR}}
+|goals1  = [[Stephen Ward (footballer)|Ward]] {{goal|24}}<br />[[Robbie Keane|Keane]] {{goal|37||54|pen.}}<br />[[Craig Cathcart|Cathcart]] {{goal|45|o.g.}}<br />[[Simon Cox (footballer born 1987)|Cox]] {{goal|80}}
+|goals2  =
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 15,083
+|referee = [[Craig Thomson (referee)|Craig Thomson]] ([[Scottish Football Association|Scotland]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 29 May 2011
+|time    = 18:30
+|round   = [[2011 Nations Cup]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 1–0
+|report  = [http://www.rte.ie/sport/soccer/2011/0529/ireland_scotland_nations.html Report]
+|team2   = {{Fb|SCO}}
+|goals1  = [[Robbie Keane|Keane]] {{goal|23}}
+|goals2  =
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 17,694
+|referee = [[Mark Whitby (referee)|Mark Whitby]] ([[Football Association of Wales|Wales]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 4 June 2011
+|time    = 20.30
+|round   = [[UEFA Euro 2012 qualifying Group B]]
+|team1   = {{fb-rt|MKD|name=Macedonia}}
+|score   = 0–2
+|report  = [http://www.rte.ie/sport/soccer/2011/0604/macedonia_ireland_keaner.html Report]
+|team2   = {{fb|IRL}}
+|goals1  =
+|goals2  = [[Robbie Keane|Keane]] {{goal|7||37}}
+|stadium = [[Philip II Arena]]
+|attendance = 30,000
+|location= [[Skopje]], [[Republic of Macedonia|Macedonia]]
+|referee = [[Florian Meyer (referee)|Florian Meyer]] ([[German Football Association|Germany]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 7 June 2011
+|time    = 20:45 [[UTC+1]]
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|ITA}}
+|score   = 0–2
+|report  = [http://www.rte.ie/sport/soccer/2011/0607/italy_ireland.html Report]
+|team2   = {{Fb|IRL}}
+|goals1  =
+|goals2  = [[Keith Andrews (footballer)|Andrews]] {{goal|36}}<br />[[Simon Cox (footballer born 1987)|Cox]] {{goal|90}}
+|stadium = [[Stade Maurice Dufrasne]]
+|location= [[Liège]], [[Belgium]]
+|attendance =
+|referee = [[Serge Gumienny]] ([[Royal Belgian Football Association|Belgium]])
+|result  = W
+ }}
+{{football box collapsible
+| format = 1
+|date    = 10 August 2011
+|time    = 19:45
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 0–0
+|report  = [https://web.archive.org/web/20120312122218/http://www.rte.ie/sport/soccer/2011/0810/repofireland_croatia.html Report]
+|team2   = {{Fb|CRO}}
+|goals1  =
+|goals2  =
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 20,179
+|referee = [[Tom Harald Hagen]] ([[Football Association of Norway|Norway]])
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 2 September 2011
+|time    =
+|round   = [[UEFA Euro 2012 qualifying Group B]]
+|team1   = {{fb-rt|IRL}}
+|score   = 0–0
+|report  =
+|team2   = {{fb|SVK}}
+|goals1  =
+|goals2  =
+|stadium = [[Aviva Stadium]]
+|attendance = 44,761
+|location=[[Dublin]], [[Republic of Ireland|Ireland]]
+|referee =
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 6 September 2011
+|time    =
+|round   = [[UEFA Euro 2012 qualifying Group B]]
+|team1   = {{fb-rt|RUS}}
+|score   = 0–0
+|report  =
+|team2   = {{fb|IRL}}
+|goals1  =
+|goals2  =
+|stadium = [[Luzhniki Stadium]]
+|attendance = 49,515
+|location= [[Moscow]], [[Russia]]
+|referee =
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 7 October 2011
+|time    =
+|round   = [[UEFA Euro 2012 qualifying Group B]]
+|team1   = {{fb-rt|AND}}
+|score   = 0–2
+|report  = [https://www.uefa.com/uefaeuro/history/news/0254-0d7d35d10bd3-1412549601e0-1000--ireland-win-in-andorra-sets-up-armenia-showdown/ Report]
+|team2   = {{fb|IRL}}
+|goals1  =
+|goals2  = [[Kevin Doyle (footballer)|Doyle]] {{goal|8}}<br />[[Aiden McGeady|McGeady]] {{goal|20}}
+|stadium = [[Estadi Comunal d'Aixovall]]
+|location= [[Andorra la Vella]], [[Andorra]]
+|attendance = 500
+|referee = [[Libor Kovařík]] ([[Czech Football Association|Czech Republic]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 11 October 2011
+|time    =
+|round   = [[UEFA Euro 2012 qualifying Group B]]
+|team1   = {{fb-rt|IRL}}
+|score   = 2–1
+|report  = [https://www.uefa.com/uefaeuro/history/news/0253-0d7d227559d7-353b0761639d-1000--ireland-secure-play-off-berth-at-armenia-s-expense/ Report]
+|team2   = {{fb|ARM}}
+|goals1  = [[Valeri Aleksanyan|Aleksanyan]] {{goal|43|o.g.}}<br />[[Richard Dunne|Dunne]] {{goal|59}}
+|goals2  = [[Henrikh Mkhitaryan|Mkhitaryan]] {{goal|62}}
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 45,200
+|referee = [[Eduardo Iturralde González]] ([[Royal Spanish Football Federation|Spain]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 11 November 2011
+|time    = 21:45 [[UTC+2]]
+|round   = [[UEFA Euro 2012 qualifying play-offs]]
+|team1   = {{fb-rt|EST}}
+|score   = 0–4
+|report  = [https://www.uefa.com/uefaeuro/history/news/0253-0d7d23e89254-d7634c3f7e56-1000--ireland-put-four-past-nine-man-estonia/ Report]
+|team2   = {{fb|IRL}}
+|goals1  =
+|goals2  = [[Keith Andrews (footballer)|Andrews]] {{goal|13}}<br />[[Jon Walters|Walters]] {{goal|67}}<br />[[Robbie Keane|Keane]] {{goal|71||88|pen.}}
+|stadium = [[A. Le Coq Arena|Lilleküla Stadium]]
+|location= [[Tallinn]], [[Estonia]]
+|attendance = 10,500
+|referee = [[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 15 November 2011
+|time    = 19:45 [[UTC±0]]
+|round   = [[UEFA Euro 2012 qualifying play-offs]]
+|team1   = {{fb-rt|IRL}}
+|score   = 1–1
+|aggregatescore = 5–1
+|report  = [https://www.uefa.com/uefaeuro/match/2008829--republic-of-ireland-vs-estonia/ Report]
+|team2   = {{fb|EST}}
+|goals1  = [[Stephen Ward (footballer)|Ward]] {{goal|31}}
+|goals2  = [[Konstantin Vassiljev|Vassiljev]] {{goal|57}}
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 51,151
+|referee = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|result  = D
+}}
+
+===2012===
+{{football box collapsible
+| format = 1
+|date    = 29 February 2012
+|time    = 19:45 [[UTC±0]]
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 1–1
+|report  = [https://web.archive.org/web/20120302184428/http://www.rte.ie/sport/soccer/2012/0229/ireland_czechrep.html Report]
+|team2   = {{Fb|CZE}}
+|goals1  = [[Simon Cox (footballer born 1987)|Simon Cox]] {{goal|86}}
+|goals2  = [[Milan Baroš]] {{goal|49}}
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 37,741
+|referee = [[:pt:Manuel Jorge Neves Moreira Sousa|Manuel Jorge Neves Moreira de Sousa]] ([[Portuguese Football Federation|Portugal]])
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 26 May 2012
+|time    = 15:00 [[UTC+01:00|UTC+1]]
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 1–0
+|report  = [http://www.rte.ie/sport/soccer/international/2012/0526/322499-long-goal-gives-ireland-the-victory/ Report]
+|team2   = {{Fb|BIH}}
+|goals1  = [[Shane Long]] {{goal|79}}
+|goals2  =
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 37,100
+|referee = [[Nikolaj Hänni]] ([[Swiss Football Association|Switzerland]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 4 June 2012
+|time    = 20:50 [[UTC+2]]
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|HUN}}
+|score   = 0–0
+|report  = [http://www.rte.ie/sport/soccer/euro-2012/2012/0604/323531-republic-extend-their-unbeaten-run/ Report]
+|team2   = {{Fb|IRL}}
+|goals1  =
+|goals2  =
+|stadium = [[Ferenc Puskás Stadium (1953)|Ferenc Puskás Stadium]]
+|location= [[Budapest]], [[Hungary]]
+|attendance = 17,000
+|referee = [[:dk:Kenn Hansen|Kenn Hansen]] ([[Danish Football Association|Denmark]])
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 10 June 2012
+|time    = 20:45 [[UTC+02:00|UTC+2]]
+|round   = [[UEFA Euro 2012 Group C]]
+|team1   = {{fb-rt|IRL}}
+|score   = 1–3
+|report  = [https://www.uefa.com/uefaeuro/match/2003324--republic-of-ireland-vs-croatia/ Report]
+|team2   = {{fb|CRO}}
+|goals1  = [[Sean St. Ledger]] {{goal|19}}
+|goals2  = [[Mario Mandžukić]] {{goal|3}}, {{goal|48}}<br />[[Nikica Jelavić]] {{goal|43}}
+|stadium = [[Stadion Miejski (Poznań)|Municipal Stadium]]
+|location= [[Poznań]], [[Poland]]
+|attendance = 39,550
+|referee = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|result  = L
+}}
+{{football box collapsible
+| format = 1
+|date    = 14 June 2012
+|time    = 20:45 [[UTC+02:00|UTC+2]]
+|round   = [[UEFA Euro 2012 Group C]]
+|team1   = {{fb-rt|ESP}}
+|score   = 4–0
+|report  = [https://www.uefa.com/uefaeuro/match/2003332--spain-vs-republic-of-ireland/ Report]
+|team2   = {{fb|IRL}}
+|goals1  = [[Fernando Torres]] {{goal|4}}, {{goal|70}}<br />[[David Silva]] {{goal|49}}<br />[[Cesc Fàbregas]] {{goal|83}}
+|goals2  =
+|stadium = [[PGE Arena Gdańsk|PGE Arena]]
+|location= [[Gdańsk]], [[Poland]]
+|attendance = 39,150
+|referee = [[Pedro Proença]] ([[Portuguese Football Federation|Portugal]])
+|result  = L
+}}
+{{football box collapsible
+| format = 1
+|date    = 18 June 2012
+|time    = 20:45 [[UTC+02:00|UTC+2]]
+|round   = [[UEFA Euro 2012 Group C]]
+|team1   = {{fb-rt|ITA}}
+|score   = 2–0
+|report  = [https://www.uefa.com/uefaeuro/match/2003340--italy-vs-republic-of-ireland/ Report]
+|team2   = {{fb|IRL}}
+|goals1  = [[Antonio Cassano]] {{goal|35}}<br />[[Mario Balotelli]] {{goal|90}}
+|goals2  =
+|stadium = [[Stadion Miejski (Poznań)|Municipal Stadium]]
+|location= [[Poznań]], [[Poland]]
+|attendance = 38,794
+|referee = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|result  = L
+}}
+{{football box collapsible
+| format = 1
+|date    = 15 August 2012
+|time    =
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|SRB}}
+|score   = 0–0
+|report  =
+|team2   = {{Fb|IRL}}
+|goals1  =
+|goals2  =
+|stadium = [[Red Star Stadium]]
+|location= [[Belgrade]], [[Serbia]]
+|attendance = 7,800
+|referee = [[Alexandru Tudor|Alexandru Dan Tudor]] ([[Romanian Football Federation|Romania]])
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 7 September 2012
+|time    = 22:00 [[UTC+06:00|UTC+6]]
+|round   = [[2014 FIFA World Cup qualification – UEFA Group C|2014 FIFA World Cup qualification Group C]]
+|team1   = {{fb-rt|KAZ}}
+|score   = 1–2
+|report  = [https://web.archive.org/web/20120909223643/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182470/index.html Report]
+|team2   = {{fb|IRL}}
+|goals1  = [[Kairat Nurdauletov]] {{goal|37}}
+|goals2  = [[Robbie Keane]] {{goal|89|pen.}} <br /> [[Kevin Doyle (footballer)|Kevin Doyle]] {{goal|90}}
+|stadium = [[Astana Arena]]
+|location= [[Astana]], [[Kazakhstan]]
+|attendance = 9,500
+|referee = [[Ionut Avram]] ([[Romanian Football Federation|Romania]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 11 September 2012
+|time    =
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 4–1
+|report  =
+|team2   = {{Fb|OMN}}
+|goals1  = [[Shane Long]] {{goal|7}}<br />[[Robbie Brady]] {{goal|23}}<br />[[Kevin Doyle (footballer)|Kevin Doyle]] {{goal|36}}<br />[[Alex Pearce (footballer, born 1988)|Alex Pearce]] {{goal|85}}
+|goals2  = [[Eid Al-Farsi]] {{goal|72}}
+|stadium = [[Craven Cottage]]
+|location= [[Fulham]], [[England]]
+|attendance = 6,420
+|referee = [[Andre Marriner]] ([[West Midlands (county)|West Midlands]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 12 October 2012
+|time    = 19:45 [[UTC+01:00|UTC+1]]
+|round   = [[2014 FIFA World Cup qualification – UEFA Group C|2014 FIFA World Cup qualification Group C]]
+|team1   = {{fb-rt|IRL}}
+|score   = 1–6
+|report  = [https://web.archive.org/web/20121012232326/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182478/index.html Report]
+|team2   = {{fb|GER}}
+|goals1  = [[Andy Keogh]] {{goal|92}}
+|goals2  = [[Marco Reus]] {{goal|32||40}}<br />[[Mesut Özil]] {{goal|55|pen.}}<br />[[Miroslav Klose]] {{goal|58}}<br />[[Toni Kroos]] {{goal|61||83}}
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 49,850<ref name="ROI GER 2012">{{cite web |title=Republic of Ireland - Germany |url=http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182478/report.html |website=FIFA World Cup |archive-url = https://web.archive.org/web/20121017013357/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182478/report.html|access-date=11 January 2022|archive-date = 17 October 2012}}</ref>
+|referee =[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+|result  = L
+}}
+{{football box collapsible
+| format = 1
+|date    = 16 October 2012
+|time    = 19:00 [[UTC+01:00|UTC+1]]
+|round   = [[2014 FIFA World Cup qualification – UEFA Group C|2014 FIFA World Cup qualification Group C]]
+|team1   = {{fb-rt|FRO}}
+|score   = 1–4
+|report  = [https://web.archive.org/web/20121014235454/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182476/index.html Report]
+|team2   = {{fb|IRL}}
+|goals1  = [[Arnbjørn Hansen|A. Hansen]] {{goal|68}}
+|goals2  = [[Marc Wilson (Irish footballer)|Marc Wilson]] {{goal|46}}<br />[[Jonathan Walters]] {{goal|53}}<br />[[Pól Jóhannus Justinussen]] {{goal|73|o.g.}}<br />[[Darren O'Dea]] {{goal|88}}
+|stadium = [[Tórsvøllur]]
+|location= [[Tórshavn]], [[Faroe Islands]]
+|attendance = 4,400
+|referee = [[Lorenc Jemini]] ([[Albanian Football Association|Albania]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 14 November 2012
+|time    = 19:45 [[UTC±0]]
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 0–1
+|report  = [http://www.rte.ie/sport/soccer/international/2012/1114/345694-greece-defeat-ireland-in-dour-aviva-encounter/ Report]
+|team2   = {{Fb|GRE}}
+|goals1  =
+|goals2  = [[José Holebas]] {{goal|29}}
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 16,256
+|referee = Eitan Shemeulevitch [[Israel Football Association]]
+|result  = L
+}}
+
+===2013===
+{{football box collapsible
+| format = 1
+|date    = 6 February 2013
+|time    = 19:45 [[UTC±0]]
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 2–0
+|report  = [https://www.theguardian.com/football/2013/feb/06/republic-ireland-poland-friendly Report]
+|team2   = {{Fb|POL}}
+|goals1  = [[Ciaran Clark]] {{goal|35}}<br />[[Wes Hoolahan]] {{goal|76}}
+|goals2  =
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 43,112
+|referee = [[Sébastien Delferiere]] ([[Royal Belgian Football Association|Belgium]])
+|result  = w
+}}
+{{football box collapsible
+| format = 1
+|date    = 22 March 2013
+|time    = 20:45 [[UTC+01:00|UTC+1]]
+|round   = [[2014 FIFA World Cup qualification – UEFA Group C|2014 FIFA World Cup qualification Group C]]
+|team1   = {{fb-rt|SWE}}
+|score   = 0–0
+|report  = [https://web.archive.org/web/20130322221916/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182464/index.html Report]
+|team2   = {{fb|IRL}}
+|goals1  =
+|goals2  =
+|stadium = [[Friends Arena]]
+|location= [[Solna Municipality|Solna]], [[Sweden]]
+|attendance = 49,436
+|referee = [[Alberto Undiano Mallenco]] ([[Royal Spanish Football Federation|Spain]])
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 26 March 2013
+|time    = 19:45 [[UTC±0]]
+|round   = [[2014 FIFA World Cup qualification – UEFA Group C|2014 FIFA World Cup qualification Group C]]
+|team1   = {{fb-rt|IRL}}
+|score   = 2–2
+|report=[https://web.archive.org/web/20130328114019/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182485/index.html Report]
+|team2   = {{fb|AUT}}
+|goals1=[[Jonathan Walters]] {{goal|25|pen.|45+1}}
+|goals2=[[Martin Harnik]] {{goal|11}}<br />[[David Alaba]]  {{goal|90+2}}
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 50,000
+|referee=[[Marijo Strahonja]] ([[Croatian Football Federation|Croatia]])
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 29 May 2013
+|time    = 20:00 [[UTC+01:00|UTC+1]]
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|ENG}}
+|score   = 1–1
+|report  = [https://web.archive.org/web/20131024052743/http://www.fifa.com/worldfootball/news/newsid=2086411.html Report]
+|team2   = {{Fb|IRL}}
+|goals1  = [[Frank Lampard]] {{goal|23}}
+|goals2  = [[Shane Long]] {{goal|13}}
+|stadium = [[Wembley Stadium]]
+|location= [[London]], England
+|attendance = 80,126
+|referee = [[Willie Collum|William Collum]] ([[Scottish Football Association|Scotland]])
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 2 June 2013
+|time    = 17:30 [[UTC+01:00|UTC+1]]
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 4–0
+|report  = [https://www.theguardian.com/football/2013/jun/02/republic-ireland-georgia-friendly-report Report]
+|team2   = {{Fb|GEO}}
+|goals1  = [[Richard Keogh]] {{goal|42}}<br />[[Simon Cox (footballer born 1987)|Simon Cox]] {{goal|48}}<br />[[Robbie Keane]] {{goal|77||88}}
+|goals2  =
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 20,000
+|referee = [[Sebastian Colţescu]] ([[Romanian Football Federation|Romania]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 7 June 2013
+|time    = 19:45 [[UTC+01:00|UTC+1]]
+|round   = [[2014 FIFA World Cup qualification – UEFA Group C|2014 FIFA World Cup qualification Group C]]
+|team1   = {{fb-rt|IRL}}
+|score   = 3–0
+|report  = [https://web.archive.org/web/20130611064404/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182479/index.html Report]
+|team2   = {{fb|FRO}}
+|goals1  = [[Robbie Keane]] {{goal|5||56||81}}
+|goals2  =
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 19,000{{citation needed|date=June 2020}}
+|referee = [[Mattias Gestranius]] ([[Football Association of Finland|Finland]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 11 June 2013
+|time    = 20:00 [[UTC-4]]
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|ESP}}
+|score   = 2–0
+|report  = [https://www.irishtimes.com/sport/soccer/spain-s-dominance-pays-off-in-the-end-at-yankee-stadium-1.1425682 Report]
+|team2   = {{Fb|IRL}}
+|goals1  = [[Roberto Soldado|Soldado]] {{goal|68}}<br />[[Juan Mata|Mata]] {{goal|88}}
+|goals2  =
+|stadium = [[Yankee Stadium]]
+|location= [[New York City|New York]], [[United States|USA]]
+|attendance = 39,368
+|referee = [[Jair Marrufo]] ([[United States Soccer Federation|U.S.A.]])
+|result  = L
+}}
+{{football box collapsible
+| format = 1
+|date    = 14 August 2013
+|time    = 19:45
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|WAL}}
+|score   = 0–0
+|report  = [http://www.rte.ie/sport/soccer/international/2013/0814/468180-wales-ireland/ Report]
+|team2   = {{Fb|IRL}}
+|goals1  =
+|goals2  =
+|stadium = [[Cardiff City Stadium]]
+|location= [[Cardiff]], [[Wales]]
+|attendance = 20,000{{citation needed|date=June 2020}}
+|referee = [[Pavel Královec]] ([[Football Association of the Czech Republic|Czech Republic]])
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 6 September 2013
+|time    = 19:45 [[UTC+01:00|UTC+1]]
+|round   = [[2014 FIFA World Cup qualification – UEFA Group C|2014 FIFA World Cup qualification Group C]]
+|team1   = {{fb-rt|IRL}}
+|score   = 1–2
+|report  = [https://web.archive.org/web/20130903225415/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182474/index.html Report]
+|team2   = {{fb|SWE}}
+|goals1  = [[Robbie Keane]] {{goal|22}}
+|goals2  = [[Johan Elmander]] {{goal|33}}<br />[[Anders Svensson (footballer, born 1976)|Anders Svensson]] {{goal|57}}
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 49,500
+|referee = [[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|result  = L
+}}
+{{football box collapsible
+| format = 1
+|date    = 10 September 2013
+|time    = 20:45 [[UTC+02:00|UTC+2]]
+|round   = [[2014 FIFA World Cup qualification – UEFA Group C|2014 FIFA World Cup qualification Group C]]
+|team1   = {{fb-rt|AUT}}
+|score   = 1–0
+|report  = [https://web.archive.org/web/20130905081042/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182458/index.html Report]
+|team2   = {{fb|IRL}}
+|goals1  = [[David Alaba]] {{goal|84}}
+|goals2  =
+|stadium = [[Ernst-Happel-Stadion]]
+|location= [[Vienna]], [[Austria]]
+|attendance = 48,545
+|referee = [[Olegário Benquerença]] ([[Portuguese Football Federation|Portugal]])
+|result  = L
+}}
+{{football box collapsible
+| format = 1
+|date    = 11 October 2013
+|time    = 20:45 [[UTC+02:00|UTC+2]]
+|round   = [[2014 FIFA World Cup qualification – UEFA Group C|2014 FIFA World Cup qualification Group C]]
+|team1   = {{fb-rt|GER}}
+|score   = 3–0
+|report  = [https://web.archive.org/web/20131004213837/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182480/index.html Report]
+|team2   = {{fb|IRL}}
+|goals1  = [[Sami Khedira]] {{goal|12}}<br />[[André Schürrle]] {{goal|58}}<br />[[Mesut Özil]] {{goal|90+1}}
+|goals2  =
+|stadium = [[RheinEnergieStadion]]
+|location= [[Cologne]], [[Germany]]
+|attendance =
+|referee = [[Serge Gumienny]] ([[Royal Belgian Football Association|Belgium]])
+|result  = L
+}}
+{{football box collapsible
+| format = 1
+|date    = 15 October 2013
+|time    = 19:45 [[UTC+01:00|UTC+1]]
+|round   = [[2014 FIFA World Cup qualification – UEFA Group C|2014 FIFA World Cup qualification Group C]]
+|team1   = {{fb-rt|IRL}}
+|score   = 3–1
+|report  = [https://web.archive.org/web/20131004215325/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182472/index.html Report]
+|team2   = {{fb|KAZ}}
+|goals1  = [[Robbie Keane]] {{goal|17|pen.}}<br />[[John O'Shea]] {{goal|26}}<br />[[Dmitriy Shomko]] {{goal|77|o.g.}}
+|goals2  = [[Dmitriy Shomko]] {{goal|13}}
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 21,700<ref name="ROI KAZ">{{cite web |title=Republic of Ireland 3 - 1 Kazakhstan |url=https://www.extratime.com/articles/11254/republic-of-ireland-3---1-kazakhstan/ |website=extra time |access-date=12 January 2022 |archive-date=13 January 2022 |archive-url=https://web.archive.org/web/20220113015407/https://www.extratime.com/articles/11254/republic-of-ireland-3---1-kazakhstan/ |url-status=live }}</ref>
+|referee = Vadims Direktorenko [[Latvian Football Federation|(Latvia)]]
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 15 November 2013
+|time    = 19:45
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 3–0
+|report  = [http://www.rte.ie/sport/soccer/international/2013/1115/486916-ireland-v-latvia/ Report]
+|team2   = {{Fb|LAT}}
+|goals1  = [[Robbie Keane]] {{goal|22}}<br />[[Aiden McGeady]] {{goal|68}}<br />[[Shane Long]] {{goal|79}}
+|goals2  =
+|stadium = [[Aviva Stadium]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 37,100
+|referee = [[Andreas Ekberg]] ([[Sweden men's national football team|Sweden]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 19 November 2013
+|time    = 20:45
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|POL}}
+|score   = 0–0
+|report  = [http://www.rte.ie/sport/soccer/international/2013/1119/487671-poland-v-ireland/ Report]
+|team2   = {{Fb|IRL}}
+|goals1  =
+|goals2  =
+|stadium = [[Stadion Miejski (Poznań)|Stadion Miejski]]
+|location= [[Poznań]], [[Poland]]
+|attendance = 3,500
+|referee = [[Richard Trutz]] ([[Slovakia national football team|Slovakia]])
+|result  = D
+}}
+
+===2014===
+{{football box collapsible
+| format = 1
+|date    = 5 March 2014
+|time    = 19:45 [[UTC±0]]
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 1–2
+|report  = [http://www.rte.ie/sport/soccer/2014/0305/600397-republic-of-ireland-v-serbia/ Report]
+|team2   = {{Fb|SRB}}
+|goals1  = [[Shane Long]] {{goal|7}}
+|goals2  = [[James McCarthy (footballer)|James McCarthy]] {{goal|47|o.g.}}<br />[[Filip Đorđević]] {{goal|59}}
+|stadium = [[Aviva Stadium|Lansdowne Road]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 37,595
+|referee = [[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+|result  = L
+}}
+{{football box collapsible
+| format = 1
+|date    = 25 May 2014
+|time    = 19:45 [[UTC+01:00|UTC+1]]
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 1–2
+|report  = [http://www.rte.ie/sport/soccer/irish/2014/0525/619577-ireland-v-turkey/ Report]
+|team2   = {{Fb|TUR}}
+|goals1  = [[Jonathan Walters]] {{goal|78}}
+|goals2  = [[Ahmet İlhan Özek]] {{goal|17}}<br />[[Tarık Çamdal]] {{goal|75}}
+|stadium = [[Aviva Stadium|Lansdowne Road]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 25,191
+|referee = [[Ruddy Buquet]] ([[French Football Federation|France]])
+|result  = L
+}}
+{{football box collapsible
+| format = 1
+|date    = 31 May 2014
+|time    = 19:45 [[UTC+01:00|UTC+1]]
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|ITA}}
+|score   = 0–0
+|report  = [http://www.rte.ie/sport/soccer/international/2014/0531/620852-republic-of-ireland-v-italy/ Report]
+|team2   = {{Fb|IRL}}
+|goals1  =
+|goals2  =
+|stadium = [[Craven Cottage]]
+|location= [[Fulham]], [[England]]
+|attendance = 22,879
+|referee = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 6 June 2014
+|time    = 20:00 [[UTC-4]]
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|CRC}}
+|score   = 1–1
+|report  = [http://www.rte.ie/sport/soccer/international/2014/0607/622203-doyle-on-the-mark-in-fiery-draw/ Report]
+|team2   = {{Fb|IRL}}
+|goals1  =  [[Celso Borges]] {{goal|64|pen}}
+|goals2  = [[Kevin Doyle (footballer)|Kevin Doyle]] {{goal|17}}
+|stadium = [[PPL Park]]
+|location= [[Chester, Pennsylvania|Chester]], [[United States]]
+|attendance = 7,000
+|referee = Raúl Castro ([[National Autonomous Federation of Football of Honduras|Honduras]])
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 10 June 2014
+|time    = 19:45 [[UTC-4]]
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 1–5
+|report  = [http://www.rte.ie/sport/soccer/worldcup/2014/0611/622969-ireland-portugal/ Report]
+|team2   = {{Fb|POR}}
+|goals1  = [[James McClean]] {{goal|47}}
+|goals2  = [[Hugo Almeida]] {{goal|3||37}}<br />[[Richard Keogh]] {{goal|20|o.g.}}<br />[[Vieirinha]] {{goal|77}}<br />[[Fábio Coentrão]] {{goal|83}}
+|stadium = [[MetLife Stadium]]
+|location= [[East Rutherford, New Jersey|East Rutherford]], [[United States]]
+|attendance = 46,063
+|referee = Baldomero Toledo ([[United States Soccer Federation|United States]])
+|result  = L
+}}
+{{football box collapsible
+| format = 1
+|date    = 3 September 2014
+|time    = 19:45 [[UTC+01:00|UTC+1]]
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 2–0
+|report  = [http://www.rte.ie/sport/soccer/international/2014/0903/641286-ireland-v-oman-report/ Report]
+|team2   = {{Fb|OMA}}
+|goals1  = [[Kevin Doyle (footballer)|Kevin Doyle]] {{goal|20}}<br />[[Alex Pearce (footballer, born 1988)|Alex Pearce]] {{goal|81}}
+|goals2  =
+|stadium = [[Aviva Stadium|Lansdowne Road]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]<ref>[http://www.rte.ie/sport/soccer/international/2014/0513/617108-oman-fixture-confirmed-for-aviva-stadium/ Oman fixture confirmed for Aviva Stadium] {{Webarchive|url=https://web.archive.org/web/20140514053309/http://www.rte.ie/sport/soccer/international/2014/0513/617108-oman-fixture-confirmed-for-aviva-stadium/ |date=14 May 2014 }} RTÉ Sport, 13 May 2014.</ref>
+|attendance = 14,376
+|referee = [[Ilias Spathas]] ([[Hellenic Football Federation|Greece]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 7 September 2014
+|time    = 20:00 [[UTC+04:00|UTC+4]]
+|round   = [[UEFA Euro 2016 qualifying Group D]]
+|team1   = {{fb-rt|GEO}}
+|score   = 1–2
+|report  = [https://www.uefa.com/european-qualifiers/news/0253-0d7f68d4f184-6b4541c67e2e-1000--mcgeady-in-the-goals-for-ireland-in-georgia/ Report]
+|team2   = {{fb|IRL}}
+|goals1  = [[Tornike Okriashvili]] {{goal|38}}
+|goals2  = [[Aiden McGeady]] {{goal|24, 90}}
+|stadium = [[Boris Paichadze Dinamo Arena|Dinamo Arena]]
+|location= [[Tbilisi]], [[Georgia (country)|Georgia]]
+|attendance = 22,000
+|referee = [[Kevin Blom]] ([[Royal Dutch Football Association|Netherlands]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 11 October 2014
+|time    = 17:00
+|round   = [[UEFA Euro 2016 qualifying Group D]]
+|team1   = {{fb-rt|IRL}}
+|score   = 7–0
+|report  = [https://www.uefa.com/european-qualifiers/news/0253-0d7f74bbbd0c-dcc164bb5bd2-1000--keane-leads-the-way-as-ireland-thump-gibraltar/ Report]
+|team2   = {{fb|GIB}}
+|goals1  = [[Robbie Keane]] {{goal|6||14||18|pen}}<br />[[James McClean]] {{goal|46||53}}<br />[[Jordan Perez]] {{goal|52|o.g.}}<br />[[Wes Hoolahan]] {{goal|56}}
+|goals2  =
+|stadium = [[Aviva Stadium|Lansdowne Road]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 35,123
+|referee = Leontios Trattou ([[Cyprus Football Association|Cyprus]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 14 October 2014
+|time    = 20:45
+|round   = [[UEFA Euro 2016 qualifying Group D]]
+|team1   = {{fb-rt|GER}}
+|score   = 1–1
+|report  = [https://www.uefa.com/european-qualifiers/news/0253-0d7f64d089d7-a66a98711ae9-1000--ireland-centurion-o-shea-denies-germany/ Report]
+|team2   = {{fb|IRL}}
+|goals1  = [[Toni Kroos]] {{goal|71}}
+|goals2  = [[John O'Shea]] {{goal|90+4}}
+|stadium = [[Veltins-Arena]]
+|location= [[Gelsenkirchen]], [[Germany]]<ref>[https://www.uefa.com/uefaeuro/match/2013883--germany-vs-republic-of-ireland/ Germany–Republic of Ireland]  UEFA, 24 February 2014.</ref>
+|attendance = 51,204
+|referee = [[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 14 November 2014
+|time    = 19:45 [[UTC+01:00|UTC+1]]
+|round   = [[UEFA Euro 2016 qualifying Group D]]
+|team1   = {{fb-rt|SCO}}
+|score   = 1–0
+|report  = [http://www.rte.ie/sport/soccer/international/2014/1114/659603-maloney-strike-secures-scotland-win-in-glasgow/ Report]
+|team2   = {{fb|IRL}}
+|goals1  = [[Shaun Maloney]] {{goal|75}}
+|goals2  =
+|stadium = [[Celtic Park]]
+|location= [[Glasgow]], [[Scotland]]<ref>[https://www.uefa.com/uefaeuro/match/2013894--scotland-vs-republic-of-ireland/ Scotland–Republic of Ireland]  UEFA, 24 February 2014.</ref>
+|attendance = 55,000
+|referee = [[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|result  = L
+}}
+{{football box collapsible
+| format = 1
+|date    = 18 November 2014
+|time    = 19:45 [[UTC±0]]
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 4–1
+|report  = [http://www.rte.ie/sport/soccer/international/2014/1118/660591-ireland-smash-four-past-usa/ Report]
+|team2   = {{Fb|USA}}
+|goals1  = [[Anthony Pilkington]] {{goal|7}}<br />[[Robbie Brady]] {{goal|55||86}}<br />[[James McClean]] {{goal|82}}
+|goals2  = [[Mix Diskerud]] {{goal|39}}
+|stadium = [[Aviva Stadium|Lansdowne Road]]
+|location= [[Dublin]], [[Republic of Ireland|Ireland]]<ref>[http://www.fai.ie/ireland/match/19/2014/999938520 Two for Brady as Ireland beat USA] {{Webarchive|url=https://web.archive.org/web/20141120092316/http://www.fai.ie/ireland/match/19/2014/999938520 |date=20 November 2014 }} Football Association of Ireland, 18 November 2014.</ref>
+|attendance = 33,332
+|referee = [[Paweł Raczkowski]] ([[Poland national football team|Poland]])
+|result  = W
+}}
+
+===2015===
+{{football box collapsible
+| format = 1
+|date    = 29 March 2015
+|time    = 19:45
+|round   = [[UEFA Euro 2016 qualifying Group D]]
+|team1   = {{fb-rt|IRL}}
+|score   = 1–1
+|report  = [http://www.rte.ie/sport/soccer/international/2015/0329/690703-ireland-strike-late-to-claim-draw-against-poland/ Report]
+|team2   = {{fb|POL}}
+|goals1  = [[Shane Long]] {{goal|90+1}}
+|goals2  = [[Sławomir Peszko]] {{goal|26}}
+|stadium = [[Aviva Stadium|Lansdowne Road]]
+|location= [[Dublin]], Ireland<ref>[https://www.uefa.com/uefaeuro/match/2013938--republic-of-ireland-vs-poland/ Republic of Ireland–Poland]  UEFA, 24 February 2014.</ref>
+|attendance = 50,000
+|referee = [[Jonas Eriksson (referee)|Jonas Eriksson]], [[Swedish Football Association|(Sweden)]]
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 4 June 2015
+|time    = 13:00
+|round   = [[Exhibition match|Unofficial friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 0–0
+|report  = [http://www.rte.ie/sport/soccer/2015/0604/705905-all-ireland-friendly-finishes-scoreless/ Report]
+|team2   = {{Fb|NIR}}
+|goals1  =
+|goals2  =
+|stadium = [[Aviva Stadium|Lansdowne Road]]
+|location= [[Dublin]], Ireland<ref>[http://www.fai.ie/ireland/news/republic-of-ireland-to-join-northern-ireland-in-training-game Republic of Ireland to join Northern Ireland in training game] {{Webarchive|url=https://web.archive.org/web/20150502001708/http://www.fai.ie/ireland/news/republic-of-ireland-to-join-northern-ireland-in-training-game |date=2 May 2015 }} Football Association of Ireland, 27 April 2015.</ref><ref>[http://www.rte.ie/sport/soccer/2015/0604/705905-all-ireland-friendly-finishes-scoreless/ All-Ireland friendly finishes scoreless] {{Webarchive|url=https://web.archive.org/web/20150715042209/http://www.rte.ie/sport/soccer/2015/0604/705905-all-ireland-friendly-finishes-scoreless/ |date=15 July 2015 }} RTÉ Sport, 4 June 2015.</ref><ref>[http://www.independent.ie/sport/soccer/international-soccer/fifty-supporters-witness-behind-closed-doors-goalless-draw-at-aviva-31278559.html Fifty supporters witness 'behind closed doors' goalless draw at Aviva] {{Webarchive|url=https://web.archive.org/web/20151216135336/http://www.independent.ie/sport/soccer/international-soccer/fifty-supporters-witness-behind-closed-doors-goalless-draw-at-aviva-31278559.html |date=16 December 2015 }} Irish Independent, 4 June 2015.</ref>
+|attendance = 50 (closed-door match)
+|referee = [[:hu:Paul McLaughlin (játékvezető)|Paul McLaughlin]] ([[Football Association of Ireland|Ireland]])
+|bg = EEEEFF <!-- Unofficial (training match) -->
+}}
+{{football box collapsible
+| format = 1
+|date    = 7 June 2015
+|time    = 13:00
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 0–0
+|report  = [http://www.rte.ie/sport/soccer/2015/0607/706478-ireland-v-england/ Report]
+|team2   = {{Fb|ENG}}
+|goals1  =
+|goals2  =
+|stadium = [[Aviva Stadium|Lansdowne Road]]
+|location= [[Dublin]], Ireland<ref>[http://www.independent.ie/sport/ireland-to-host-england-in-friendly-at-the-aviva-in-june-2015-30166333.html Ireland to host England in friendly at the Aviva in June 2015] {{Webarchive|url=https://web.archive.org/web/20140408221140/http://www.independent.ie/sport/ireland-to-host-england-in-friendly-at-the-aviva-in-june-2015-30166333.html |date=8 April 2014 }} Irish Independent, 8 April 2014.</ref><ref>[http://www.rte.ie/sport/soccer/2015/0607/706478-ireland-v-england/ Ireland and England play out stalemate in Dublin] {{Webarchive|url=https://web.archive.org/web/20150608053432/http://www.rte.ie/sport/soccer/2015/0607/706478-ireland-v-england/ |date=8 June 2015 }} RTÉ Sport, 7 June 2015.</ref>
+|attendance = 43,486
+|referee = [[Arnold Hunter]] ([[Irish Football Association|Northern Ireland]])<ref>[https://twitter.com/FM104/status/607507313788878848/ Teams have just been released] {{Webarchive|url=https://web.archive.org/web/20160305230233/https://twitter.com/FM104/status/607507313788878848/ |date=5 March 2016 }} FM104, 7 June 2015.</ref>
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 13 June 2015
+|time    = 17:00
+|round   = [[UEFA Euro 2016 qualifying Group D]]
+|team1   = {{fb-rt|IRL}}
+|score   = 1–1
+|report  = [http://www.rte.ie/sport/soccer/2015/0613/707928-ireland-scotland-report/ Report]
+|team2   = {{fb|SCO}}
+|goals1  = [[Jonathan Walters]] {{goal|38}}
+|goals2  = [[John O'Shea]] {{goal|47|o.g.}}
+|stadium = [[Aviva Stadium|Lansdowne Road]]
+|location= [[Dublin]], Ireland<ref>[https://www.uefa.com/uefaeuro/match/2013954--republic-of-ireland-vs-scotland/ Republic of Ireland–Scotland]  UEFA, 24 February 2014.</ref>
+|attendance = 49,063
+|referee = [[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 4 September 2015
+|time    = 20:45
+|round   = [[UEFA Euro 2016 qualifying Group D]]
+|team1   = {{fb-rt|GIB}}
+|score   = 0–4
+|report  = [http://www.rte.ie/sport/soccer/international/2015/0904/725745-gibraltar-v-republic-of-ireland/ Report]
+|team2   = {{fb|IRL}}
+|goals1  =
+|goals2  = [[Cyrus Christie]] {{goal|27}}<br />[[Robbie Keane]] {{goal|49||51|pen}}<br />[[Shane Long]] {{goal|79}}
+|stadium = [[Estádio Algarve]]
+|location= [[Faro, Portugal]]<ref>[https://www.uefa.com/uefaeuro/match/2013981--gibraltar-vs-republic-of-ireland/ Gibraltar–Republic of Ireland]  UEFA, 24 February 2014.</ref>
+|attendance =
+|referee =
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 7 September 2015
+|time    = 19:45
+|round   = [[UEFA Euro 2016 qualifying Group D]]
+|team1   = {{fb-rt|IRL}}
+|score   = 1–0
+|report  = [https://www.uefa.com/european-qualifiers/news/0253-0d805e35297a-dd6c89d27e48-1000--ireland-edge-past-georgia-to-stay-in-contention/ Report]
+|team2   = {{fb|GEO}}
+|goals1  = [[Jonathan Walters]] {{goal|69}}
+|goals2  =
+|stadium = [[Aviva Stadium|Lansdowne Road]]
+|location= [[Dublin]], Ireland
+|attendance = 27,000<ref>{{Cite web|url=https://www.uefa.com/european-qualifiers/news/0253-0d805e35297a-dd6c89d27e48-1000--ireland-edge-past-georgia-to-stay-in-contention/|title=Ireland edge past Georgia to stay in contention|date=7 September 2015|access-date=7 September 2015|archive-date=9 September 2015|archive-url=https://web.archive.org/web/20150909104644/http://www.uefa.com/uefaeuro/qualifiers/season=2016/matches/round=2000446/match=2014006/postmatch/report/index.html|url-status=live}}</ref><ref>[http://www.rte.ie/sport/soccer/international/2015/0907/726331-r/ Jon Walters on target in priceless Irish victory] {{Webarchive|url=https://web.archive.org/web/20150908182906/http://www.rte.ie/sport/soccer/international/2015/0907/726331-r/ |date=8 September 2015 }} RTÉ Sport, 8 September 2015.</ref><ref>[https://www.irishtimes.com/sport/soccer/international/relieved-o-neill-looks-to-future-tests-after-georgia-victory-1.2343730 Relieved O’Neill looks to future tests after Georgia victory] {{Webarchive|url=https://web.archive.org/web/20160407091045/http://www.irishtimes.com/sport/soccer/international/relieved-o-neill-looks-to-future-tests-after-georgia-victory-1.2343730 |date=7 April 2016 }} Irish Times, 7 September 2015.</ref>
+|referee = [[István Vad]] ([[Hungarian Football Federation|Hungary]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 8 October 2015
+|time    = 19:45
+|round   = [[UEFA Euro 2016 qualifying Group D]]
+|team1   = {{fb-rt|IRL}}
+|score   = 1–0
+|report  = [https://www.uefa.com/uefaeuro/match/2014023--republic-of-ireland-vs-germany/  Report]
+|team2   = {{fb|GER}}
+|goals1  = [[Shane Long]] {{goal|71}}
+|goals2  =
+|stadium = [[Aviva Stadium|Lansdowne Road]]
+|location= [[Dublin]], Ireland<ref>[https://www.uefa.com/uefaeuro/match/2014023--republic-of-ireland-vs-germany/ Republic of Ireland–Germany]  UEFA, 24 February 2014.</ref>
+|attendance = 50,064
+|referee = [[Carlos Velasco Carballo]] ([[Royal Spanish Football Federation|Spain]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 11 October 2015
+|time    = 20:45
+|round   = [[UEFA Euro 2016 qualifying Group D]]
+|team1   = {{fb-rt|POL}}
+|score   = 2–1
+|report  = [https://www.uefa.com/uefaeuro/match/2014050--poland-vs-republic-of-ireland/ Report]
+|team2   = {{fb|IRL}}
+|goals1  = [[Grzegorz Krychowiak]] {{goal|13}}<br />[[Robert Lewandowski]] {{goal|42}}
+|goals2  = [[Jonathan Walters]] {{goal|16|pen}}
+|stadium = [[National Stadium, Warsaw|National Stadium]]
+|location= [[Warsaw]], Poland<ref>[https://www.uefa.com/uefaeuro/match/2014050--poland-vs-republic-of-ireland/ Poland–Republic of Ireland]  UEFA, 24 February 2014.</ref>
+|attendance =
+|referee = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|result  = L
+}}
+{{football box collapsible
+| format = 1
+|date    = 13 November 2015
+|time    = 20:45
+|round   = [[UEFA Euro 2016 qualifying play-offs]]
+|team1   = {{fb-rt|Bosnia and Herzegovina}}
+|score   = 1–1
+|report  =
+|team2   = {{fb|IRL}}
+|goals1  = [[Edin Džeko]] {{goal|85}}
+|goals2  = [[Robbie Brady]] {{goal|82}}
+|stadium = [[Bilino Polje Stadium]]
+|location= [[Zenica]], Bosnia and Herzegovina<ref name="rte.ie">[http://www.rte.ie/sport/soccer/2015/1018/735626-euro-2016-play-off-draw/ Ireland face Bosnia and Herzegovina in play-off] {{Webarchive|url=https://web.archive.org/web/20151019140025/http://www.rte.ie/sport/soccer/2015/1018/735626-euro-2016-play-off-draw/ |date=19 October 2015 }} RTÉ Sport, 18 October 2015.</ref><ref>[https://www.uefa.com/uefaeuro/match/2018078--bosnia-and-herzegovina-vs-republic-of-ireland/ European Qualifiers 2016 - Bosnia and Herzegovina-Republic of Ireland Head-to-head]  UEFA, 18 October 2015.</ref>
+|attendance =
+|referee =
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 16 November 2015
+|time    = 19:45
+|round   = [[UEFA Euro 2016 qualifying play-offs]]
+|team1   = {{fb-rt|IRL}}
+|score   = 2–0
+|aggregatescore = 3–1
+|report  = [http://www.rte.ie/sport/soccer/2015/1116/742283-live-ireland-v-bosnia-herzegovina/ Report]
+|team2   = {{fb|Bosnia and Herzegovina}}
+|goals1  = [[Jonathan Walters]] {{goal|24|pen|70}}
+|goals2  =
+|stadium = [[Aviva Stadium|Lansdowne Road]]
+|location= [[Dublin]], Ireland<ref name="rte.ie"/><ref>[https://www.uefa.com/uefaeuro/match/2018082--republic-of-ireland-vs-bosnia-and-herzegovina/ European Qualifiers 2016 - Republic of Ireland-Bosnia and Herzegovina Head-to-head]  UEFA, 18 October 2015.</ref>
+|attendance =
+|referee = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|result  = W
+}}
+
+===2016===
+{{football box collapsible
+| format = 1
+|date    = 25 March 2016
+|time    =
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 1–0
+|report  = http://www.uefa.com/friendlies/season=2016/matches/round=2000582/match=2019534/postmatch/commentary/index.html
+|team2   = {{Fb|SWI}}
+|goals1  = [[Ciaran Clark|Ciarán Clark]] {{goal|3}}<ref name="UEFA">{{cite web |title=Friendlies 2014-16 - Republic of Ireland-Switzerland |url=http://www.uefa.com/friendlies/season=2016/matches/round=2000582/match=2019534/postmatch/commentary/index.html |website=[[UEFA]] |archive-url=https://web.archive.org/web/20160329073530/http://www.uefa.com/friendlies/season=2016/matches/round=2000582/match=2019534/postmatch/commentary/index.html |archive-date=2016-03-29 |url-status=dead}}</ref>
+|goals2  =
+|stadium = [[Aviva Stadium|Lansdowne Road]]
+|location= [[Dublin]], Ireland<ref>[http://www.rte.ie/sport/soccer/2015/1023/736994-republic-of-ireland-set-switzerland-friendly-date/ Republic of Ireland set Switzerland friendly date] {{Webarchive|url=https://web.archive.org/web/20151024145734/http://www.rte.ie/sport/soccer/2015/1023/736994-republic-of-ireland-set-switzerland-friendly-date/ |date=24 October 2015 }} RTÉ Sport, 23 October 2015.</ref>
+|attendance=35,450<ref>{{Cite news|url=https://liveblog.irishtimes.com/e48e9c0ed2/Ireland-v-Switzerland/|title=Ireland v Switzerland|newspaper=The Irish Times|access-date=7 September 2021|archive-date=7 September 2021|archive-url=https://web.archive.org/web/20210907213835/https://liveblog.irishtimes.com/e48e9c0ed2/Ireland-v-Switzerland/|url-status=live}}</ref>
+|referee = Miroslav Zelinka (CZE)<ref name="UEFA"/>
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|date    = 29 March 2016
+|time    =
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 2–2
+|report  =
+|team2   = {{Fb|SVK}}
+|goals1  = [[Shane Long]] {{goal|22|pen.}}<br />[[James McClean]] {{goal|24|pen.}}
+|goals2  = [[Miroslav Stoch]] {{goal|14}}<br />[[Paul McShane (footballer)|Paul McShane]] {{goal|45|og.}}
+|stadium = [[Aviva Stadium|Lansdowne Road]]
+|location= [[Dublin]], Ireland<ref>{{Cite web |url=https://www.rte.ie/sport/soccer/2015/1213/753212-republic-of-ireland-line-up-friendly-with-slovakia/|title=Republic of Ireland line up friendly with Slovakia|date=13 December 2015|via=www.rte.ie|journal=|access-date=7 September 2021|archive-date=7 September 2021|archive-url=https://web.archive.org/web/20210907213821/https://www.rte.ie/sport/soccer/2015/1213/753212-republic-of-ireland-line-up-friendly-with-slovakia/|url-status=live}}</ref>
+|attendance=
+|referee=
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 27 May 2016
+|time    =
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 1–1
+|report  =
+|team2   = {{Fb|NED}}
+|goals1  = [[Shane Long]] {{goal|30}}
+|goals2  = [[Luuk de Jong]] {{goal|85}}
+|stadium = [[Aviva Stadium|Lansdowne Road]]
+|location= [[Dublin]], Ireland<ref>{{Cite web|url=http://www.fai.ie/ireland/news/ireland-to-host-netherlands-in-three-international-friendly|title=Ireland to host Netherlands in 'Three' International Friendly &#124; Football Association of Ireland|access-date=17 December 2015|archive-date=17 December 2015|archive-url=https://web.archive.org/web/20151217170418/http://www.fai.ie/ireland/news/ireland-to-host-netherlands-in-three-international-friendly|url-status=live}}</ref>
+|attendance=
+|referee=
+|result  = D
+}}
+{{football box collapsible
+| format = 1
+|date    = 31 May 2016
+|time    =
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 1–2
+|report  =
+|team2   = {{Fb|BLR}}
+|goals1  = [[Stephen Ward (footballer)|Stephen Ward]] {{goal|72}}
+|goals2  = [[Mikhail Gordeichuk]] {{goal|20}}<br />[[Maksim Valadzko]] {{goal|63}}
+|stadium = [[Turners Cross (stadium)|Turners Cross]]
+|location= [[Cork (city)|Cork]], Ireland
+|attendance=
+|referee=
+|result  = L
+}}
+{{football box collapsible
+| format = 1
+|date=13 June 2016
+|time=18:00
+|round= [[UEFA Euro 2016 Group E]]
+|team1={{fb-rt|IRL}}
+|score=1–1
+|report=[https://www.uefa.com/uefaeuro/match/2017954--republic-of-ireland-vs-sweden/ Report]
+|team2={{fb|SWE}}
+|goals1=[[Wes Hoolahan|Hoolahan]] {{goal|48}}
+|goals2=[[Ciaran Clark|Clark]] {{goal|71|o.g.}}
+|stadium=[[Stade de France]]
+|location= [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France<ref>[https://www.uefa.com/uefaeuro/match/2017954--republic-of-ireland-vs-sweden/ Republic of Ireland v Sweden]  UEFA, 12 December 2015.</ref>
+|attendance= 73,419
+|referee = [[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|result = D
+}}
+{{football box collapsible
+| format = 1
+|date=18 June 2016
+|time=15:00
+|round   = [[UEFA Euro 2016 Group E]]
+|team1={{fb-rt|BEL}}
+|score=3–0
+|report=[https://www.uefa.com/uefaeuro/match/2017955--belgium-vs-republic-of-ireland/ Report]
+|team2={{fb|IRL}}
+|goals1= [[Romelu Lukaku|R. Lukaku]] {{goal|48||70}}<br />[[Axel Witsel|Witsel]] {{goal|61}}
+|goals2=
+|stadium= [[Nouveau Stade de Bordeaux]]
+|location= Bordeaux, France<ref>[https://www.uefa.com/uefaeuro/match/2017955--belgium-vs-republic-of-ireland/ Belgium v Republic of Ireland]  UEFA, 12 December 2015.</ref>
+|attendance= 39,493
+|referee= [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|result  = L
+}}
+{{football box collapsible
+| format = 1
+|date=22 June 2016
+|time=21:00
+|round   = [[UEFA Euro 2016 Group E]]
+|team1={{fb-rt|ITA}}
+|score= 0–1
+|report=[https://www.uefa.com/uefaeuro/match/2017958--italy-vs-republic-of-ireland/ Report]
+|team2={{fb|IRL}}
+|goals1=
+|goals2= [[Robbie Brady|Brady]] {{goal|85}}
+|stadium= [[Stade Pierre-Mauroy]]
+|location= Lille, France<ref>[https://www.uefa.com/uefaeuro/match/2017958--italy-vs-republic-of-ireland/ Italy v Republic of Ireland]  UEFA, 12 December 2015.</ref>
+|attendance=  44,268
+|referee= [[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|round=[[UEFA Euro 2016 knockout phase#France vs Republic of Ireland|UEFA Euro 2016 Round of 16]]
+|date=26 June 2016
+|time=15:00 [[UTC+02:00|CEST]]
+|team1={{fb-rt|FRA|1974}}
+|score=2–1
+|report=http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2017999/index.html
+|team2={{fb|IRL}}
+|goals1=[[Antoine Griezmann|Griezmann]] {{goal|58||61}}
+|goals2=[[Robbie Brady|Brady]] {{goal|2|pen.}} <br />[[Shane Duffy|Duffy]] {{sentoff|0|66}}
+|location=[[Lyon]], [[France]]
+|stadium=[[Parc Olympique Lyonnais]]
+|attendance=56,279
+|referee=[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+|result=L
+}}
+{{football box collapsible
+| format = 1
+|date    = 31 August 2016
+|time    =
+|round   = [[Exhibition match|Friendly]]
+|team1   = {{Fb-rt|IRL}}
+|score   = 4–0
+|report  =
+|team2   = {{Fb|OMA}}
+|goals1  = [[Robbie Brady|Brady]] {{goal|8}}<br />[[Robbie Keane|Keane]] {{goal|30}}<br />[[Jonathan Walters|Walters]] {{goal|34||63}}
+|goals2  =
+|stadium = [[Aviva Stadium|Landsdowne Road]]
+|location= [[Dublin]], Ireland<ref>{{cite web|url=http://www.fai.ie/ireland/news/ireland-to-host-oman-in-three-friendly|title=Ireland to host Oman in 'Three' friendly|publisher=[[Football Association of Ireland|FAI]]|date=23 June 2016|access-date=27 June 2016|archive-date=26 June 2016|archive-url=https://web.archive.org/web/20160626163754/http://www.fai.ie/ireland/news/ireland-to-host-oman-in-three-friendly|url-status=live}}</ref>
+|attendance=
+|referee = [[Demetris Masias]] ([[Cyprus Football Association|Cyprus]])
+|result  = W
+}}
+{{football box collapsible
+| format = 1
+|round= [[2018 FIFA World Cup qualification – UEFA Group D|2018 FIFA World Cup qualification Group D]]
+|date={{Start date|2016|9|5|df=y}}
+|time=20:45<br />(20:45 [[UTC+02:00|UTC+2]])
+|team1={{fb-rt|SRB}}
+|score=2–2
+|report=[https://web.archive.org/web/20150924231424/http://www.fifa.com/worldcup/matches/round=276483/match=300331991/index.html Report (FIFA)]<br />[http://www.uefa.com/worldcup/season=2018/matches/round=2000717/match=2017779/index.html Report (UEFA)]{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}
+|team2={{fb|IRL}}
+|goals1=[[Filip Kostić|Kostić]] {{goal|62}}<br />[[Dušan Tadić|Tadić]] {{goal|69|pen.}}
+|goals2=[[Jeff Hendrick|Hendrick]] {{goal|3}}<br />[[Daryl Murphy|Murphy]] {{goal|80}}
+|stadium= [[Belgrade]], Serbia
+|attendance=7,896
+|referee=[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+|result = D
+}}
+
+{{football box collapsible
+| format = 1
+|round= [[2018 FIFA World Cup qualification – UEFA Group D|2018 FIFA World Cup qualification Group D]]
+|date={{Start date|2016|10|6|df=y}}
+|time=20:45<br />(19:45 [[UTC+01:00|UTC+1]])
+|team1={{fb-rt|IRL}}
+|score=1–0
+|report=[https://web.archive.org/web/20150924231330/http://www.fifa.com/worldcup/matches/round=276483/match=300331957/index.html Report (FIFA)]<br />[http://www.uefa.com/worldcup/season=2018/matches/round=2000717/match=2017786/index.html Report (UEFA)]{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}
+|team2={{fb|GEO}}
+|goals1=[[Séamus Coleman|Coleman]] {{goal|56}}
+|goals2=
+|stadium= [[Dublin]], Ireland
+|attendance=39,793
+|referee=[[Tony Chapron]] ([[French Football Federation|France]])
+|result = W
+}}
+
+{{football box collapsible
+| format = 1
+|round= [[2018 FIFA World Cup qualification – UEFA Group D|2018 FIFA World Cup qualification Group D]]
+|date={{Start date|2016|10|9|df=y}}
+|time=20:45<br />(21:45 [[UTC+03:00|UTC+3]])
+|team1={{fb-rt|MDA}}
+|score=1–3
+|report=[https://web.archive.org/web/20150924231320/http://www.fifa.com/worldcup/matches/round=276483/match=300331951/index.html Report (FIFA)]<br />[http://www.uefa.com/worldcup/season=2018/matches/round=2000717/match=2017790/index.html Report (UEFA)]{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}
+|team2={{fb|IRL}}
+|goals1=[[Igor Bugaiov|Bugaiov]] {{goal|45+1}}
+|goals2=[[Shane Long|Long]] {{goal|2}}<br />[[James McClean|McClean]] {{goal|69||76}}
+|stadium= [[Chișinău]], Moldova
+|attendance=6,089
+|referee=[[Jakob Kehlet]] ([[Danish Football Association|Denmark]])
+|result = W
+}}
+
+{{football box collapsible
+| format = 1
+|date=12 November 2016
+|time=18:00<br />(18:00 [[UTC+01:00|UTC+1]])
+|round= [[2018 FIFA World Cup qualification – UEFA Group D|2018 FIFA World Cup qualification Group D]]
+|team1={{fb-rt|AUT}}
+|score=0–1
+|report=[http://www.uefa.com/worldcup/season=2018/matches/round=2000717/match=2017774/index.html Report]{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}
+|team2={{fb|IRL}}
+|goals1=
+|goals2=[[James McClean|McClean]] {{goal|48}}
+|stadium=[[Ernst-Happel-Stadion]]
+|location= [[Vienna]], Austria<ref name="wcq-2018-fixtures" />
+|attendance=
+|referee=[[Sergei Karasev]] ([[Russian Football Union|Russia]])
+|result  =W
+}}
+
+===2017===
+{{football box collapsible
+| format = 1
+|date=24 March 2017
+|time=20:45<br />(19:45 [[UTC±00:00|UTC±0]])
+|round=[[2018 FIFA World Cup qualification – UEFA Group D|2018 FIFA World Cup qualification Group D]]
+|team1={{fb-rt|IRL}}
+|score=0–0
+|report=[https://web.archive.org/web/20150924231400/http://www.fifa.com/worldcup/matches/round=276483/match=300331976/index.html Report (FIFA)]<br />[https://www.uefa.com/worldcup/season=2018/matches/round=2000717/match=2017782/index.html Report (UEFA)]{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}
+|team2={{fb|WAL}}
+|goals1=
+|goals2=
+|stadium=[[Aviva Stadium|Lansdowne Road]]
+|location=[[Dublin]], Ireland<ref name="wcq-2018-fixtures" />
+|attendance=49,989
+|referee=[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+|result=D
+}}
+{{football box collapsible
+| format = 1
+|date=28 March 2017
+|time=19:45 ([[UTC+01:00|UTC+1]])
+|round   = [[Exhibition match|Friendly]]
+|team1={{fb-rt|IRL}}
+|score=0–1
+|report=[https://int.soccerway.com/matches/2017/03/28/world/friendlies/ireland-republic/iceland/2366744/ Report]
+|team2={{fb|ISL}}
+|goals1=
+|goals2=[[Hörður Björgvin Magnússon|Magnússon]] {{goal|21}}
+|stadium=[[Aviva Stadium|Lansdowne Road]]
+|location=[[Dublin]], Ireland
+|attendance=37,241
+|referee=[[Jakob Kehlet]] ([[Danish Football Association|Denmark]])
+|result=L
+}}
+{{football box collapsible
+| format = 1
+|date=1 June 2017
+|time=20:30 ([[UTC−04:00|UTC−4]])
+|round   = [[Exhibition match|Friendly]]
+|team1={{fb-rt|MEX}}
+|score=3–1
+|report=[https://int.soccerway.com/matches/2017/06/01/world/friendlies/mexico/ireland-republic/2422313/ Report]
+|team2={{fb|IRL}}
+|goals1=[[Jesús Manuel Corona|J. M. Corona]] {{goal|16}}<br />[[Raúl Jiménez|Jiménez]] {{goal|25|pen.}}<br />[[Carlos Vela|Vela]] {{goal|54}}
+|goals2=[[Stephen Gleeson|Gleeson]] {{goal|76}}
+|stadium=[[MetLife Stadium]]
+|location=[[East Rutherford, New Jersey|East Rutherford]], United States
+|attendance=42,017
+|referee=Ted Unkel ([[United States Soccer Federation|United States]])
+|result=L
+}}
+{{football box collapsible
+|format = 1
+|date=4 June 2017
+|time=18:00 ([[UTC+01:00|UTC+1]])
+|round = [[Exhibition match|Friendly]]
+|team1={{fb-rt|IRL}}
+|score=3–1
+|report=[https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma8342656/ireland_uruguay/lineup/ Report]
+|team2={{fb|URU}}
+|goals1=[[Jonathan Walters|Walters]] {{goal|28}}<br />[[Cyrus Christie|Christie]] {{goal|51}}<br />[[James McClean|McClean]] {{goal|77}}
+|goals2=[[José Giménez|Giménez]] {{goal|38}}
+|stadium=[[Aviva Stadium|Lansdowne Road]]
+|location=[[Dublin]], Ireland
+|attendance=27,193
+|referee=[[Craig Thomson (referee)|Craig Thomson]] ([[Scottish Football Association|Scotland]])
+|result=W
+}}
+{{football box collapsible
+| format = 1
+|date=11 June 2017
+|time=18:00<br />(17:00 [[UTC+01:00|UTC+1]])
+|round=[[2018 FIFA World Cup qualification – UEFA Group D|2018 FIFA World Cup qualification Group D]]
+|team1={{fb-rt|IRL}}
+|score=1–1
+|report=[https://web.archive.org/web/20150924231408/http://www.fifa.com/worldcup/matches/round=276483/match=300331981/index.html Report (FIFA)]<br />[https://www.uefa.com/worldcup/season=2018/matches/round=2000717/match=2017783/index.html Report (UEFA)]{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}
+|team2={{fb|AUT}}
+|goals1=[[Jonathan Walters|Walters]] {{goal|85}}
+|goals2=[[Martin Hinteregger|Hinteregger]] {{goal|31}}
+|stadium=[[Aviva Stadium|Lansdowne Road]]
+|location=[[Dublin]], Ireland<ref name="wcq-2018-fixtures" />
+|attendance=50,000
+|referee=[[David Fernández Borbalán]] ([[Royal Spanish Football Federation|Spain]])
+|result=D
+}}
+
+{{football box collapsible
+| format = 1
+|date=2 September 2017
+|time=18:00<br />(20:00 [[UTC+04:00|UTC+4]])
+|round=[[2018 FIFA World Cup qualification – UEFA Group D|2018 FIFA World Cup qualification Group D]]
+|team1={{fb-rt|GEO}}
+|score=1–1
+|report=[https://web.archive.org/web/20150924231334/http://www.fifa.com/worldcup/matches/round=276483/match=300331960/index.html Report (FIFA)]<br />[https://www.uefa.com/worldcup/season=2018/matches/round=2000717/match=2017795/index.html Report (UEFA)]{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}
+|team2={{fb|IRL}}
+|goals1=[[Valeri Qazaishvili|Qazaishvili]] {{goal|34}}
+|goals2=[[Shane Duffy|Duffy]] {{goal|4}}
+|stadium=[[Boris Paichadze Dinamo Arena]]
+|location=[[Tbilisi]], Georgia<ref name="wcq-2018-fixtures" />
+|attendance=19,669
+|referee=[[Ivan Kružliak]] ([[Slovak Football Association|Slovakia]])
+|result=D
+}}
+
+{{football box collapsible
+| format = 1
+|date=5 September 2017
+|time=20:45<br />(19:45 [[UTC+01:00|UTC+1]])
+|round=[[2018 FIFA World Cup qualification – UEFA Group D|2018 FIFA World Cup qualification Group D]]
+|team1={{fb-rt|IRL}}
+|score=0–1
+|report=[https://web.archive.org/web/20150924231430/http://www.fifa.com/worldcup/matches/round=276483/match=300331995/index.html Report (FIFA)]<br />[https://www.uefa.com/worldcup/season=2018/matches/round=2000717/match=2017784/index.html Report (UEFA)]{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}
+|team2={{fb|SRB}}
+|goals1=
+|goals2=[[Aleksandar Kolarov|Kolarov]] {{goal|55}}
+|stadium=[[Aviva Stadium|Lansdowne Road]]
+|location=[[Dublin]], Ireland<ref name="wcq-2018-fixtures" />
+|attendance=50,153
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|result=L
+}}
+
+{{football box collapsible
+| format = 1
+|date=6 October 2017
+|time=20:45<br />(19:45 [[UTC+01:00|UTC+1]])
+|round=[[2018 FIFA World Cup qualification – UEFA Group D|2018 FIFA World Cup qualification Group D]]
+|team1={{fb-rt|IRL}}
+|score=2–0
+|report=[https://web.archive.org/web/20150924231349/http://www.fifa.com/worldcup/matches/round=276483/match=300331969/index.html Report (FIFA)]<br />[https://www.uefa.com/worldcup/season=2018/matches/round=2000717/match=2017785/index.html Report (UEFA)]{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}
+|team2={{fb|MDA}}
+|goals1=[[Daryl Murphy|Murphy]] {{goal|2||19}}
+|goals2=
+|stadium=[[Aviva Stadium|Lansdowne Road]]
+|location=[[Dublin]], Ireland<ref name="wcq-2018-fixtures" />
+|attendance=50,560
+|referee=[[Bas Nijhuis]] ([[Royal Dutch Football Association|Netherlands]])
+|result=W
+}}
+
+{{football box collapsible
+| format = 1
+|date=9 October 2017
+|time=20:45<br />(19:45 [[UTC+01:00|UTC+1]])
+|round=[[2018 FIFA World Cup qualification – UEFA Group D|2018 FIFA World Cup qualification Group D]]
+|team1={{fb-rt|WAL}}
+|score=0–1
+|report=[https://web.archive.org/web/20150924231419/http://www.fifa.com/worldcup/matches/round=276483/match=300331988/index.html Report (FIFA)]<br />[https://www.uefa.com/worldcup/season=2018/matches/round=2000717/match=2017769/index.html Report (UEFA)]{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}
+|team2={{fb|IRL}}
+|goals1=
+|goals2=[[James McClean|McClean]] {{goal|57}}
+|stadium=[[Cardiff City Stadium]]
+|location=[[Cardiff]], Wales<ref name="wcq-2018-fixtures">[https://www.uefa.com//MultimediaFiles/Download/competitions/Draws/02/26/73/73/2267373_DOWNLOAD.pdf European Qualifiers, Fixture List, 2018 FIFA World Cup Preliminary Competition]  Union of European Football Associations, 26 July 2015.</ref>
+|attendance=32,711
+|referee=[[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|result=W
+}}
+{{football box collapsible
+| format = 1
+|date=11 November 2017
+|time=20:45<br />(20:45 [[UTC+01:00|UTC+1]])
+|round=[[2018 FIFA World Cup qualification – UEFA second round|2018 FIFA World Cup qualification Play-offs]]
+|team1={{fb-rt|DEN}}
+|score=0–0
+|report=[https://web.archive.org/web/20171017202731/http://www.fifa.com/worldcup/matches/round=276503/match=300417853/index.html Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2023299--denmark-vs-republic-of-ireland/ Report (UEFA)]
+|team2={{fb|IRL}}
+|goals1=
+|goals2=
+|stadium=[[Parken Stadium]]
+|location=[[Copenhagen]], Denmark
+|attendance=36,189
+|referee=[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|result=D
+}}
+{{football box collapsible
+| format = 1
+|date=14 November 2017
+|time=20:45<br />(19:45 [[UTC±00:00|UTC±0]])
+|round=[[2018 FIFA World Cup qualification – UEFA second round|2018 FIFA World Cup qualification Play-offs]]
+|team1={{fb-rt|IRL}}
+|score=1–5
+|aggregatescore=1–5
+|report=[https://web.archive.org/web/20171017202251/http://www.fifa.com/worldcup/matches/round=276503/match=300417849/index.html Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2023303--republic-of-ireland-vs-denmark/ Report (UEFA)]
+|team2={{fb|DEN}}
+|goals1=[[Shane Duffy|Duffy]] {{goal|6}}
+|goals2=[[Andreas Christensen|A. Christensen]] {{goal|29}}<br />[[Christian Eriksen|Eriksen]] {{goal|32||63||74}}<br />[[Nicklas Bendtner|Bendtner]] {{goal|90|pen.}}
+|stadium=[[Aviva Stadium|Lansdowne Road]]
+|location=[[Dublin]], Ireland
+|attendance=50,000
+|referee=[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result=L
+}}
+
+===2018===
+{{football box collapsible
+| format = 1
+|date=23 March 2018
+|time=21:30 ([[UTC+03:00|UTC+3]])
+|round   = [[Exhibition match|Friendly]]
+|team1={{fb-rt|TUR}}
+|score=1–0
+|report=[https://www.fai.ie/ireland/match/19/2018/2024161 Report (FAI)]<br />[https://int.soccerway.com/matches/2018/03/23/world/friendlies/turkey/ireland-republic/2704216/ Report]
+|team2={{fb|IRL}}
+|goals1=[[Mehmet Topal|Topal]] {{goal|52}}
+|goals2=
+|stadium=[[New Antalya Stadium|Antalya Arena]]
+|location=[[Antalya]], Turkey
+|attendance=32,000
+|referee=[[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|result=L
+}}
+{{football box collapsible
+| format = 1
+|round=[[Exhibition game|Unofficial friendly]]
+|date=20 May 2018
+|time=
+|team1=[[Celtic F.C.|Celtic]] {{flagicon|SCO}}
+|score=2–2
+|report=http://www.the42.ie/celtic-ireland-xi-scott-brown-testimonial-4023993-May2018/
+|team2={{flagicon|IRL}} [[Republic of Ireland national football team|Republic of Ireland XI]]
+|goals1=[[Leigh Griffiths|Griffiths]] {{goal}}<br />[[Patrick Roberts|Roberts]] {{goal}}
+|goals2=[[Alan Browne (footballer)|Browne]] {{goal}}<br />[[Ross Doohan|Doohan]] {{goal||o.g.}}
+|stadium=[[Celtic Park]]
+|location=[[Glasgow]], Scotland
+|attendance=
+|referee=
+|bg=EEEEFF <!-- Scott Brown Testimonial match -->
+}}
+{{football box collapsible
+| format = 1
+|date=28 May 2018
+|time=21:00 ([[UTC+02:00|UTC+2]])
+|round   = [[Exhibition match|Friendly]]
+|team1={{fb-rt|FRA|1974}}
+|score=2–0
+|team2={{fb|IRL}}
+|report=[https://web.archive.org/web/20180529130018/http://www.uefa.com/friendlies/season=2018/matches/round=2000741/match=2023916/postmatch/commentary/index.html Report (UEFA)]<br />[https://int.soccerway.com/matches/2018/05/28/world/friendlies/france/ireland-republic/2702099/ Report]
+|goals1=[[Olivier Giroud|Giroud]] {{goal|40}}<br />[[Nabil Fekir|Fekir]] {{goal|44}}
+|goals2=
+|stadium=[[Stade de France]]
+|location=[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France
+|attendance=70,000
+|referee=[[Georgi Kabakov]] ([[Bulgarian Football Union|Bulgaria]])
+|result=L
+}}
+{{football box collapsible
+| format = 1
+|date=2 June 2018
+|time=20:00 ([[UTC+01:00|UTC+1]])
+|round   = [[Exhibition match|Friendly]]
+|team1={{fb-rt|IRL}}
+|score=2–1
+|report=[https://www.ussoccer.com/stories/2018/06/02/22/21/20180602-recap-mnt-young-usa-downed-2-1-by-last-minute-goal-from-ireland-in-dublin Report (USSF)]<br />[https://int.soccerway.com/matches/2018/06/02/world/friendlies/ireland-republic/united-states-of-america/2737272/ Report]
+|team2={{fb|USA}}
+|goals1=[[Graham Burke|Burke]] {{goal|57}}<br />[[Alan Judge (Irish footballer)|Judge]] {{goal|90}}
+|goals2=[[Bobby Wood (soccer)|Wood]] {{goal|45+1}}
+|stadium=[[Aviva Stadium|Lansdowne Road]]
+|location=[[Dublin]], Ireland
+|attendance=32,300
+|referee=Andrew Dallas ([[Scottish Football Association|Scotland]])
+|result=W
+}}
+{{football box collapsible
+| format = 1
+|date=6 September 2018
+|time=20:45<br />(19:45 [[UTC+01:00|UTC+1]])
+|round=[[2018–19 UEFA Nations League B#Group 4|2018–19 UEFA Nations League B Group 4]]
+|team1={{fb-rt|WAL}}
+|score=4–1
+|report=[https://www.uefa.com/uefanationsleague/match/2024116--wales-vs-republic-of-ireland/ Report (UEFA)]
+|team2={{fb|IRL}}
+|goals1=[[Tom Lawrence|Lawrence]] {{goal|6}}<br />[[Gareth Bale|Bale]] {{goal|18}}<br />[[Aaron Ramsey|Ramsey]] {{goal|37}}<br />[[Connor Roberts (footballer, born 1995)|C. Roberts]] {{goal|55}}
+|goals2=[[Shaun Williams (footballer)|S. Williams]] {{goal|66}}
+|stadium=[[Cardiff City Stadium]]
+|location=[[Cardiff]], Wales
+|attendance=25,657<ref>{{cite web |url=https://int.soccerway.com/matches/2018/09/06/europe/uefa-nations-league/wales/ireland-republic/2720463/ |title=Wales vs. Republic of Ireland |website=soccerway.com |publisher=Soccerway |date=6 September 2018 |access-date=1 December 2018 |archive-date=2 December 2018 |archive-url=https://web.archive.org/web/20181202083522/https://int.soccerway.com/matches/2018/09/06/europe/uefa-nations-league/wales/ireland-republic/2720463/ |url-status=live }}</ref>
+|referee=[[Clément Turpin]] ([[French Football Federation|France]])
+|result=L
+}}
+{{football box collapsible
+| format = 1
+|date=11 September 2018
+|time=20:45 ([[UTC+02:00|UTC+2]])
+|round   = [[Exhibition match|Friendly]]
+|team1={{fb-rt|POL}}
+|score=1–1
+|report=[https://int.soccerway.com/matches/2018/09/11/world/friendlies/poland/ireland-republic/2730495/ Report]
+|team2={{fb|IRL}}
+|goals1=[[Mateusz Klich|Klich]] {{goal|87}}
+|goals2=[[Aiden O'Brien|O'Brien]] {{goal|53}}
+|stadium=[[Stadion Miejski (Wrocław)|Stadion Miejski]]
+|location=[[Wrocław]], Poland
+|attendance=25,455
+|referee=Boris Marhefka ([[Slovak Football Association|Slovakia]])
+|result=D
+}}
+{{football box collapsible
+| format = 1
+|date=13 October 2018
+|time=20:45<br />(19:45 [[UTC+01:00|UTC+1]])
+|round=[[2018–19 UEFA Nations League B#Group 4|2018–19 UEFA Nations League B Group 4]]
+|team1={{fb-rt|IRL}}
+|score=0–0
+|report=[https://www.uefa.com/uefanationsleague/match/2024115--republic-of-ireland-vs-denmark/ Report (UEFA)]
+|team2={{fb|DEN}}
+|goals1=
+|goals2=
+|stadium=[[Aviva Stadium|Lansdowne Road]]
+|location=[[Dublin]], Ireland
+|attendance=41,220<ref>{{cite web |url=https://int.soccerway.com/matches/2018/10/13/europe/uefa-nations-league/ireland-republic/denmark/2720465/ |title=Republic of Ireland vs. Denmark |website=soccerway.com |publisher=Soccerway |date=13 October 2018 |access-date=1 December 2018 |archive-date=2 December 2018 |archive-url=https://web.archive.org/web/20181202080506/https://int.soccerway.com/matches/2018/10/13/europe/uefa-nations-league/ireland-republic/denmark/2720465/ |url-status=live }}</ref>
+|referee=[[Xavier Estrada Fernández]] ([[Royal Spanish Football Federation|Spain]])
+|result=D
+}}
+{{football box collapsible
+| format = 1
+|date=16 October 2018
+|time=20:45<br />(19:45 [[UTC+01:00|UTC+1]])
+|round=[[2018–19 UEFA Nations League B#Group 4|2018–19 UEFA Nations League B Group 4]]
+|team1={{fb-rt|IRL}}
+|score=0–1
+|report=[https://www.uefa.com/uefanationsleague/match/2024120--republic-of-ireland-vs-wales/ Report (UEFA)]
+|team2={{fb|WAL}}
+|goals1=
+|goals2=[[Harry Wilson (footballer, born 1997)|Wilson]] {{goal|58}}
+|stadium=[[Aviva Stadium|Lansdowne Road]]
+|location=[[Dublin]], Ireland
+|attendance=38,321<ref>{{cite web |url=https://int.soccerway.com/matches/2018/10/16/europe/uefa-nations-league/ireland-republic/wales/2720466/ |title=Republic of Ireland vs. Wales |website=soccerway.com |publisher=Soccerway |date=16 October 2018 |access-date=1 December 2018 |archive-date=2 December 2018 |archive-url=https://web.archive.org/web/20181202092023/https://int.soccerway.com/matches/2018/10/16/europe/uefa-nations-league/ireland-republic/wales/2720466/ |url-status=live }}</ref>
+|referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|result=L
+}}
+{{football box collapsible
+| format = 1
+|date=15 November 2018
+|time=20:45 ([[UTC±00:00|UTC±0]])
+|round   = [[Exhibition match|Friendly]]
+|team1={{fb-rt|IRL}}
+|score=0–0
+|report=[https://int.soccerway.com/matches/2018/11/15/world/friendlies/ireland-republic/northern-ireland/2730493/ Report]
+|team2={{fb|NIR}}
+|goals1=
+|goals2=
+|stadium=[[Aviva Stadium|Lansdowne Road]]
+|location=[[Dublin]], Ireland
+|attendance=31,241
+|referee=[[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|result=D
+}}
+{{football box collapsible
+| format = 1
+|date=19 November 2018
+|time=20:45 ([[UTC+01:00|UTC+1]])
+|round=[[2018–19 UEFA Nations League B#Group 4|2018–19 UEFA Nations League B Group 4]]
+|team1={{fb-rt|DEN}}
+|score=0–0
+|report=[https://www.uefa.com/uefanationsleague/match/2024119--denmark-vs-republic-of-ireland/ Report (UEFA)]
+|team2={{fb|IRL}}
+|goals1=
+|goals2=
+|stadium=[[Aarhus Idrætspark|Idrætspark]]
+|location=[[Aarhus]], Denmark
+|attendance=11,130<ref>{{cite web |url=https://int.soccerway.com/matches/2018/11/19/europe/uefa-nations-league/denmark/ireland-republic/2720468/ |title=Denmark vs. Republic of Ireland |website=soccerway.com |publisher=Soccerway |date=19 November 2018 |access-date=1 December 2018 |archive-date=2 December 2018 |archive-url=https://web.archive.org/web/20181202075002/https://int.soccerway.com/matches/2018/11/19/europe/uefa-nations-league/denmark/ireland-republic/2720468/ |url-status=live }}</ref>
+|referee=[[Aliyar Aghayev]] ([[Association of Football Federations of Azerbaijan|Azerbaijan]])
+|result=D
+}}
+
+===2019===
+{{football box collapsible
+| format = 1
+|date=23 March 2019
+|time=18:00 ([[UTC+01:00|UTC+1]])
+|round=[[UEFA Euro 2020 qualifying Group D]]
+|team1={{fb-rt|GIB}}
+|score=0–1
+|report=[https://www.uefa.com/uefaeuro/match/2026034--gibraltar-vs-republic-of-ireland/ Report (UEFA)]
+|team2={{fb|IRL}}
+|goals1=
+|goals2=[[Jeff Hendrick|Hendrick]] {{goal|49}}
+|stadium=[[Victoria Stadium (Gibraltar)|Victoria Stadium]]
+|location=[[Gibraltar]]
+|attendance=2,000<ref>{{cite web|title=UEFA Euro 2020 qualifying – Group D–Gibraltar vs. Republic of Ireland|url=https://int.soccerway.com/matches/2019/03/23/europe/european-championship-qualification/gibraltar/ireland-republic/2942768/|website=soccerway.com|publisher=Soccerway|date=23 March 2019|access-date=7 June 2019|archive-date=29 August 2021|archive-url=https://web.archive.org/web/20210829085532/https://int.soccerway.com/matches/2019/03/23/europe/european-championship-qualification/gibraltar/ireland-republic/2942768/|url-status=live}}</ref>
+|referee=Anastasios Papapetrou ([[Hellenic Football Federation|Greece]])
+|result=W
+}}
+{{football box collapsible
+| format = 1
+|date=26 March 2019
+|time=20:45<br />(19:45 [[UTC±00:00|UTC±0]])
+|round=[[UEFA Euro 2020 qualifying Group D]]
+|team1={{fb-rt|IRL}}
+|score=1–0
+|report=[https://www.uefa.com/uefaeuro/match/2026059--republic-of-ireland-vs-georgia/ Report (UEFA)]
+|team2={{fb|GEO}}
+|goals1=[[Conor Hourihane|Hourihane]] {{goal|36}}
+|goals2=
+|stadium=[[Aviva Stadium|Lansdowne Road]]
+|location=[[Dublin]], Ireland
+|attendance=40,317<ref>{{cite web|title=UEFA Euro 2020 qualifying – Group D–Republic of Ireland vs. Georgia|url=https://int.soccerway.com/matches/2019/03/26/europe/european-championship-qualification/ireland-republic/georgia/2942794/|website=soccerway.com|publisher=Soccerway|date=26 March 2019|access-date=7 June 2019|archive-date=21 December 2019|archive-url=https://web.archive.org/web/20191221150157/https://int.soccerway.com/matches/2019/03/26/europe/european-championship-qualification/ireland-republic/georgia/2942794/|url-status=live}}</ref>
+|referee=[[Serdar Gözübüyük]] ([[Royal Dutch Football Association|Netherlands]])
+|result=W
+}}
+{{football box collapsible
+| format = 1
+|date=7 June 2019
+|time=20:45<br />(19:45 [[UTC+01:00|UTC+1]])
+|round=[[UEFA Euro 2020 qualifying Group D]]
+|team1={{fb-rt|DEN}}
+|score=1–1
+|report=[https://www.uefa.com/uefaeuro/match/2026071--denmark-vs-republic-of-ireland/ Report (UEFA)]
+|team2={{fb|IRL}}
+|goals1=[[Pierre-Emile Højbjerg|Højbjerg]] {{goal|76}}
+|goals2=[[Shane Duffy|Duffy]] {{goal|85}}
+|stadium=[[Parken Stadium]]
+|location=[[Copenhagen]], Denmark
+|attendance=34,610<ref>{{cite web|title=UEFA Euro 2020 qualifying – Group D–Denmark vs. Republic of Ireland|url=https://int.soccerway.com/matches/2019/06/07/europe/european-championship-qualification/denmark/ireland-republic/2942805/|website=soccerway.com|publisher=Soccerway|date=7 June 2019|access-date=12 October 2019|archive-date=23 August 2019|archive-url=https://web.archive.org/web/20190823090229/https://int.soccerway.com/matches/2019/06/07/europe/european-championship-qualification/denmark/ireland-republic/2942805/|url-status=live}}</ref>
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|result=D
+}}
+{{football box collapsible
+| format = 1
+|date=10 June 2019
+|time=20:45<br />(19:45 [[UTC+01:00|UTC+1]])
+|round=[[UEFA Euro 2020 qualifying Group D]]
+|team1={{fb-rt|IRL}}
+|score=2–0
+|report=[https://www.uefa.com/uefaeuro/match/2026146--republic-of-ireland-vs-gibraltar/ Report (UEFA)]
+|team2={{fb|GIB}}
+|goals1=[[Joseph Chipolina|J. Chipolina]] {{goal|29|o.g.}}<br />[[Robbie Brady|Brady]] {{goal|90+3}}
+|goals2=
+|stadium=[[Aviva Stadium|Lansdowne Road]]
+|location=[[Dublin]], Ireland
+|attendance=36,281<ref>{{cite web|title=UEFA Euro 2020 qualifying – Group D–Republic of Ireland vs. Gibraltar|url=https://int.soccerway.com/matches/2019/06/10/europe/european-championship-qualification/ireland-republic/gibraltar/2942829/|website=soccerway.com|publisher=Soccerway|date=10 June 2019|access-date=12 October 2019|archive-date=29 March 2022|archive-url=https://web.archive.org/web/20220329082650/https://us.soccerway.com/matches/2019/06/10/europe/european-championship-qualification/ireland-republic/gibraltar/2942829/|url-status=live}}</ref>
+|referee=[[Radu Petrescu (referee, born 1982)|Radu Petrescu]] ([[Romanian Football Federation|Romania]])
+|result=W
+}}
+{{football box collapsible
+| format = 1
+|date=5 September 2019
+|time=20:45<br />(19:45 [[UTC+01:00|UTC+1]])
+|round=[[UEFA Euro 2020 qualifying Group D]]
+|team1={{fb-rt|IRL}}
+|score=1–1
+|report=[https://www.uefa.com/uefaeuro/match/2026168--republic-of-ireland-vs-switzerland/ Report (UEFA)]
+|team2={{fb|SUI}}
+|goals1=[[David McGoldrick|McGoldrick]] {{goal|85}}
+|goals2=[[Fabian Schär|Schär]] {{goal|74}}
+|stadium=[[Aviva Stadium|Lansdowne Road]]
+|location=[[Dublin]], Ireland
+|attendance=44,111<ref>{{cite web|title=UEFA Euro 2020 qualifying – Group D–Republic of Ireland vs. Switzerland|url=https://int.soccerway.com/matches/2019/09/05/europe/european-championship-qualification/ireland-republic/switzerland/2942851/|website=soccerway.com|publisher=Soccerway|date=5 September 2019|access-date=12 October 2019|archive-date=19 September 2019|archive-url=https://web.archive.org/web/20190919083432/https://int.soccerway.com/matches/2019/09/05/europe/european-championship-qualification/ireland-republic/switzerland/2942851/|url-status=live}}</ref>
+|referee=[[Carlos del Cerro Grande]] ([[Royal Spanish Football Federation|Spain]])
+|result=D
+}}
+{{football box collapsible
+| format = 1
+|date=10 September 2019
+|time=19:45 ([[UTC+01:00|UTC+1]])
+|round = [[Exhibition match|Friendly]]
+|team1={{fb-rt|IRL}}
+|score=3–1
+|report=[https://www.the42.ie/republic-of-ireland-bulgaria-4803876-Sep2019/ Report]
+|team2={{fb|BUL}}
+|goals1=[[Alan Browne (footballer)|Browne]] {{goal|56}}<br />[[Kevin Long (footballer)|Long]] {{goal|83}}<br />[[James Collins (footballer, born 1990)|Collins]] {{goal|86}}
+|goals2=[[Ivelin Popov|I. Popov]] {{goal|67|pen.}}
+|stadium=[[Aviva Stadium|Lansdowne Road]]
+|location=[[Dublin]], Ireland
+|attendance=18,259
+|referee=[[Tobias Welz]] ([[German Football Association|Germany]])
+|result=W
+}}
+{{football box collapsible
+| format = 1
+|date=12 October 2019
+|time=15:00<br />(17:00 [[UTC+04:00|UTC+4]])
+|round=[[UEFA Euro 2020 qualifying Group D]]
+|team1={{fb-rt|GEO}}
+|score=0–0
+|report=[https://www.uefa.com/uefaeuro/match/2026233--georgia-vs-republic-of-ireland/ Report (UEFA)]
+|team2={{fb|IRL}}
+|goals1=
+|goals2=
+|stadium=[[Boris Paichadze Dinamo Arena]]
+|location=[[Tbilisi]], Georgia
+|attendance=24,385
+|referee=[[Marco Guida]] ([[Italian Football Federation|Italy]])
+|result=D
+}}
+{{football box collapsible
+| format = 1
+|date=15 October 2019
+|time=20:45<br />(19:45 [[UTC+01:00|UTC+1]])
+|round=[[UEFA Euro 2020 qualifying Group D]]
+|team1={{fb-rt|SUI}}
+|score=2–0
+|report=[https://www.uefa.com/uefaeuro/match/2026133--switzerland-vs-republic-of-ireland/ Report (UEFA)]
+|team2={{fb|IRL}}
+|goals1=[[Haris Seferovic|Seferovic]] {{goal|16}}<br />[[Edimilson Fernandes|Fernandes]] {{goal|90+3}}
+|goals2=
+|stadium=[[Stade de Genève]]
+|location=[[Geneva]], Switzerland
+|attendance=24,766
+|referee=[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result=L
+}}
+{{football box collapsible
+| format = 1
+|date=14 November 2019
+|time=19:45 ([[UTC±00:00|UTC±0]])
+|round = [[Exhibition match|Friendly]]
+|team1={{fb-rt|IRL}}
+|score=3–1
+|report=[https://www.bbc.com/sport/football/50321181 Report]
+|team2={{fb|NZL}}
+|goals1=[[Derrick Williams (footballer)|Williams]] {{goal|45}}<br />[[Sean Maguire (footballer)|Maguire]] {{goal|52}}<br />[[Callum Robinson|Robinson]] {{goal|75}}
+|goals2=[[Callum McCowatt|McCowatt]] {{goal|30}}
+|stadium=[[Aviva Stadium|Lansdowne Road]]
+|location=[[Dublin]], Ireland
+|attendance=
+|referee=
+|result=W
+}}
+{{football box collapsible
+| format = 1
+|date=18 November 2019
+|time=20:45<br />(19:45 [[UTC±00:00|UTC±0]])
+|round=[[UEFA Euro 2020 qualifying Group D]]
+|team1={{fb-rt|IRL}}
+|score=1–1
+|report=[https://www.uefa.com/uefaeuro/match/2026001--republic-of-ireland-vs-denmark/ Report (UEFA)]
+|team2={{fb|DEN}}
+|goals1=[[Matt Doherty (footballer, born 1992)|Doherty]] {{goal|85}}
+|goals2=[[Martin Braithwaite|Braithwaite]] {{goal|73}}
+|stadium=[[Aviva Stadium|Lansdowne Road]]
+|location=[[Dublin]], Ireland
+|attendance=
+|referee=[[Felix Brych]] ([[German Football Association|Germany]])
+|result=D
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.fai.ie/index.php Republic of Ireland official website]
+* [https://web.archive.org/web/20070615042514/http://www.fifa.com/associations/association=irl/index.html Republic of Ireland on FIFA.com]
+
+{{Republic of Ireland national football team}}
+{{2010 in Republic of Ireland association football}}
+{{2011 in Republic of Ireland association football}}
+{{2012 in Republic of Ireland association football}}
+{{2013 in Republic of Ireland association football}}
+{{2014 in Republic of Ireland association football}}
+{{2015 in Republic of Ireland association football}}
+{{2016 in Republic of Ireland association football}}
+{{2017 in Republic of Ireland association football}}
+{{2018 in Republic of Ireland association football}}
+{{2019 in Republic of Ireland association football}}
+{{Football results UEFA}}
+
+{{DEFAULTSORT:national}}
+[[Category:Republic of Ireland national football team results|2010-19]]
+[[Category:2010 in Republic of Ireland association football]]
+[[Category:2011 in Republic of Ireland association football]]
+[[Category:2012 in Republic of Ireland association football]]
+[[Category:2013 in Republic of Ireland association football]]
+[[Category:2014 in Republic of Ireland association football]]
+[[Category:2015 in Republic of Ireland association football]]
+[[Category:2016 in Republic of Ireland association football]]
+[[Category:2017 in Republic of Ireland association football]]

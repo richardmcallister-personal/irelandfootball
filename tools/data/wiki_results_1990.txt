@@ -1,0 +1,1540 @@
+{{Short description|none}}
+{{Republic of Ireland national football team results|key=2}}
+This article contains the results of the [[Republic of Ireland national football team]] during the 1990s.
+
+==Results==
+===1990===
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 28 March 1990
+|team1 = {{fb-rt|IRL}}
+|score = 1–0
+|report= Report
+|team2 = {{fb|WAL}}
+|goals1 = [[Bernie Slaven|Slaven]] {{goal|86}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 41,350
+| referee = [[Alan Gunn|Gunn]] (England)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 25 April 1990
+|team1 = {{fb-rt|IRL}}
+|score = 1–0
+|report= Report
+|team2 = {{fb|URS}}
+|goals1 = [[Steve Staunton|Staunton]] {{goal|59}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 43,990
+| referee = [[Alfred Kleinaitis|Kleinaitis]] (USA)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 16 May 1990
+|team1 = {{fb-rt|IRL}}
+|score = 1–1
+|report= Report
+|team2 = {{fb|FIN}}
+|goals1 = [[Kevin Sheedy (Irish footballer)|Sheedy]] {{goal|85}}
+|goals2 = [[Vesa Tauriainen|Tauriainen]] {{goal|76}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 31,556
+| referee = [[Roger Gifford|Gifford]] (Wales)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 26 May 1990
+|team1 = {{fb-rt|TUR}}
+|score = 0–0
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 =
+|stadium = [[İzmir Atatürk Stadium]]
+|location = [[İzmir]], Turkey
+| attendance = 5,000
+| referee = [[Roger Aleksandar Kirkof|Kirkof]] ([[USSR]])
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 2 June 1990
+|team1 = {{fb-rt|MLT}}
+|score = 0–3
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Niall Quinn|Quinn]] {{goal|43}}<br>[[Andy Townsend|Townsend]] {{goal|72}}<br>[[Frank Stapleton|Stapleton]] {{goal|87}}
+|stadium = [[Ta'Qali Stadium|National Stadium]]
+|location = [[Ta'Qali]], [[Malta]]
+| attendance = 800
+| referee = [[Edward Azzopardi|Azzopardi]] ([[Malta]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1990 FIFA World Cup Group F]]
+|date = 11 June 1990
+|time = {{UTZ|21:00|2}}
+|team1 = {{fb-rt|ENG}}
+|report = [http://fifaworldcup.yahoo.com/06/en/w/pwc/mr_161.html Report]
+|score = 1–1
+|team2 = {{fb|IRL}}
+|goals1 = [[Gary Lineker|Lineker]] {{goal|8}}
+|goals2 = [[Kevin Sheedy (Irish footballer)|Sheedy]] {{goal|73}}
+|stadium = [[Stadio Sant'Elia]]
+|location = [[Cagliari]], Italy
+| attendance = 35,238
+| referee = [[Aron Schmidhuber|Schmidhuber]] (West Germany)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1990 FIFA World Cup Group F]]
+|date = 17 June 1990
+|time = {{UTZ|17:00|2}}
+|team1 = {{fb-rt|IRL}}
+|report = [http://fifaworldcup.yahoo.com/06/en/w/pwc/mr_152.html Report]
+|score = 0–0
+|team2 = {{fb|EGY}}
+|goals1 =
+|goals2 =
+|stadium = [[Stadio Renzo Barbera|Stadio La Favorita]]
+|location = [[Palermo]], Italy
+| attendance = 33,288
+| referee = [[Marcel van Langenhove (referee)|Langenhove]] (Belgium)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1990 FIFA World Cup Group F]]
+|date = 21 June 1990
+|time = {{UTZ|21:00|2}}
+|team1 = {{fb-rt|NED}}
+|report = [http://fifaworldcup.yahoo.com/06/en/w/pwc/mr_228.html Report]
+|score = 1–1
+|team2 = {{fb|IRL}}
+|goals1 = [[Ruud Gullit|Gullit]] {{goal|10}}
+|goals2 = [[Niall Quinn|Quinn]] {{goal|71}}
+|stadium = [[Stadio Renzo Barbera|Stadio La Favorita]]
+|location = [[Palermo]], Italy
+| attendance = 33,288
+| referee = [[Michel Vautrot|Vautrot]] (France)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1990 FIFA World Cup knockout stage|1990 FIFA World Cup Round of 16]]
+|date = 25 June 1990
+|time = {{UTZ|17:00|2}}
+|team1 = {{fb-rt|IRL}}
+|report = [http://fifaworldcup.yahoo.com/06/en/w/pwc/mr_248.html Report]
+|score = 0–0
+|aet = yes
+|team2 = {{fb|ROU}}
+|goals1 = &nbsp;
+|goals2 = &nbsp;
+|stadium = [[Stadio Luigi Ferraris]]
+|location = [[Genoa]], Italy
+| attendance = 31,818
+| referee = [[Jose Wright|Wright]] (Brazil)
+|penalties1 = [[Kevin Sheedy (Irish footballer)|Sheedy]] {{pengoal}}<br />[[Ray Houghton|Houghton]] {{pengoal}}<br />[[Andy Townsend|Townsend]] {{pengoal}}<br />[[Tony Cascarino|Cascarino]] {{pengoal}}<br />[[David O'Leary|O'Leary]] {{pengoal}}
+|penaltyscore = 5–4
+|penalties2 = [[Gheorghe Hagi|Hagi]] {{pengoal}}<br />[[Dănuţ Lupu|Lupu]] {{pengoal}}<br />[[Iosif Rotariu|Rotariu]] {{pengoal}}<br />[[Ioan Lupescu|Lupescu]] {{pengoal}}<br />[[Daniel Timofte|Timofte]] {{penmiss}}
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1990 FIFA World Cup knockout stage|1990 FIFA World Cup quarter-finals]]
+|date = 30 June 1990
+|time = {{UTZ|21:00|2}}
+|team1 = {{fb-rt|ITA}}
+|report = [http://fifaworldcup.yahoo.com/06/en/w/pwc/mr_243.html Report]
+|score = 1–0
+|team2 = {{fb|IRL}}
+|goals1 = [[Salvatore Schillaci|Schillaci]] {{goal|38}}
+|goals2 = &nbsp;
+|stadium = [[Stadio Olimpico]]
+|location = [[Rome]], Italy
+| attendance = 73,303
+| referee = [[Carlos Alberto Silva Valente|Valente]] (Portugal)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 12 September 1990
+|team1 = {{fb-rt|IRL}}
+|score = 1–0
+|report= Report
+|team2 = {{fb|MAR}}
+|goals1 = [[David Kelly (association footballer)|David Kelly]] {{goal|74}}
+|goals2 =
+|stadium = [[Dalymount Park]]
+|location = [[Dublin]], Ireland
+| attendance = 19,450
+| referee = [[Frederick McKnight|McKnight]] ([[Northern Ireland]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1992 qualifying Group 7]]
+| date = 17 October 1990
+|team1 = {{fb-rt|IRL}}
+|score = 5–0
+|report= Report
+|team2 = {{fb|TUR}}
+|goals1 = [[John Aldridge|Aldridge]] {{goal|15||57||72|pen.}}<br>[[David O'Leary|O'Leary]] {{goal|40}}<br>[[Niall Quinn|Quinn]] {{goal|65}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 46,000
+| referee = [[Erik Fredriksson|Fredriksson]] (Sweden)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1992 qualifying Group 7]]
+| date = 14 November 1990
+|team1 = {{fb-rt|IRL}}
+|score = 1–1
+|report= Report
+|team2 = {{fb|ENG}}
+|goals1 = [[Tony Cascarino|Cascarino]] {{goal|80}}
+|goals2 = [[David Platt (footballer)|Platt]] {{goal|67}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 46,000
+| referee = [[Pietro D'Elia|D'Elia]] (Italy)
+|result = W
+}}
+
+===1991===
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 6 February 1991
+|team1 = {{fb-rt|WAL}}
+|score = 0–3
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Niall Quinn|Quinn]] {{goal|23||66}}<br>[[John Byrne (footballer, born 1961)|John Byrne]] {{goal|86}}
+|stadium = [[Racecourse Ground]]
+|location = [[Wrexham]], Wales
+| attendance = 9,168
+| referee = [[Frederick McKnight|McKnight]] ([[Northern Ireland]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1992 qualifying Group 7]]
+| date = 27 March 1991
+|team1 = {{fb-rt|ENG}}
+|score = 1–1
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 = [[Lee Dixon|Dixon]] {{goal|9}}
+|goals2 = [[Niall Quinn|Quinn]] {{goal|29}}
+|stadium = [[Wembley Stadium (1923)|Wembley Stadium]]
+|location = London, England
+| attendance = 77,753
+| referee = [[Kurt Röthlisberger|Röthlisberger]] (Switzerland)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1992 qualifying Group 7]]
+| date = 1 May 1991
+|team1 = {{fb-rt|IRL}}
+|score = 0–0
+|report= Report
+|team2 = {{fb|POL}}
+|goals1 =
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 45,000
+| referee = [[John Blankenstein|Blankenstein]] (Netherlands)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 22 May 1991
+|team1 = {{fb-rt|IRL}}
+|score = 1–1
+|report= Report
+|team2 = {{fb|CHI}}
+|goals1 = [[David Kelly (association footballer)|David Kelly]] {{goal|81}}
+|goals2 = [[Fabián Estay|Estay]] {{goal|64}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 32,000
+| referee = [[Daniel Roduit|Roduit]] (Switzerland)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[World Series of Soccer]]
+| date = 1 June 1991
+|team1 = {{fb-rt|USA}}
+|score = 1–1
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 = [[Eric Wynalda|Wynalda]] {{goal|68}}
+|goals2 = [[Tony Cascarino|Cascarino]] {{goal|55}}
+|stadium = [[Foxboro Stadium]]
+|location = [[Foxborough, Massachusetts]], United States
+| attendance = 51,273
+| referee = [[Gordon Arrowsmith|Arrowsmith]] (Canada)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 11 September 1991
+|team1 = {{fb-rt|HUN}}
+|score = 1–2
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 = [[Kálmán Kovács (footballer, born 1965)|Kovács]] {{goal|59}}
+|goals2 = [[David Kelly (association footballer)|David Kelly]] {{goal|61}}<br>[[Kevin Sheedy (Irish footballer)|Sheedy]] {{goal|69}}
+|stadium = [[Stadion ETO]]
+|location = [[Győr]], Hungary
+| attendance = 5,000
+| referee = [[Periklis Vassilakis|Vassilakis]] (Greece)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1992 qualifying Group 7]]
+| date = 16 October 1991
+|team1 = {{fb-rt|POL}}
+|score = 3–3
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 = [[Piotr Czachowski|Czachowski]] {{goal|54}}<br>[[Jan Furtok|Furtok]] {{goal|74}}<br>[[Jan Urban|Urban]] {{goal|85}}
+|goals2 = [[Paul McGrath (footballer)|McGrath]] {{goal|12}}<br>[[Andy Townsend|Townsend]] {{goal|60}}<br>[[Tony Cascarino|Cascarino]] {{goal|69}}
+|stadium = [[Stadion Lecha]]
+|location = [[Poznań]], Poland
+| attendance = 20,000
+| referee = [[Guy Goethals|Goethals]] (Belgium)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1992 qualifying Group 7]]
+| date = 13 November 1991
+|team1 = {{fb-rt|TUR}}
+|score = 1–3
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 = [[Rıza Çalımbay|Çalımbay]] {{goal|13|pen.}}
+|goals2 = [[John Byrne (footballer, born 1961)|John Byrne]] {{goal|8||57}}<br>[[Tony Cascarino|Cascarino]] {{goal|54}}
+|stadium = [[BJK İnönü Stadium|İnönü Stadium]]
+|location = [[Istanbul]], Turkey
+| attendance = 40,000
+| referee = [[Zoran Petrović (referee)|Petrović]] ([[Yugoslavia]])
+|result = W
+}}
+
+===1992===
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 19 February 1992
+|team1 = {{fb-rt|IRL}}
+|score = 0–1
+|report= Report
+|team2 = {{fb|WAL}}
+|goals1 =
+|goals2 = [[Mark Pembridge|Pembridge]] {{goal|72}}
+|stadium = [[RDS Arena]]
+|location = [[Dublin]], Ireland
+| attendance = 15,100
+| referee = [[Serge Muhmenthaler|Muhmenthaler]] (Switzerland)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 25 March 1992
+|team1 = {{fb-rt|IRL}}
+|score = 2–1
+|report= Report
+|team2 = {{fb|SUI}}
+|goals1 = [[Tommy Coyne|Coyne]] {{goal|27}}<br>[[John Aldridge|Aldridge]] {{goal|88|pen.}}
+|goals2 = [[Ronnie Whelan|Whelan]] {{goal|25|o.g.}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 23,601
+| referee = [[Raúl Domínguez (referee)|Domínguez]] (USA)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 29 April 1992
+|team1 = {{fb-rt|IRL}}
+|score = 4–1
+|report= Report
+|team2 = {{fb|USA}}
+|goals1 = [[Andy Townsend|Townsend]] {{goal|47}}<br>[[Denis Irwin|Irwin]] {{goal|52}}<br>[[Niall Quinn|Quinn]] {{goal|68}}<br>[[Tony Cascarino|Cascarino]] {{goal|87}}
+|goals2 = [[Eric Wynalda|Wynalda]] {{goal|89}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 27,000
+| referee = [[Michel Piraux|Piraux]] (Belgium)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1994 FIFA World Cup qualification – UEFA Group 3|1994 FIFA World Cup qualification Group 3]]
+| date = 26 May 1992
+|team1 = {{fb-rt|IRL}}
+|score = 2–0
+|report= Report
+|team2 = {{fb|ALB}}
+|goals1 = [[John Aldridge|Aldridge]] {{goal|60}}<br>[[Paul McGrath (footballer)|McGrath]] {{goal|80}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 29,727
+| referee = [[Jaap Uilenberg|Uilenberg]] (Netherlands)
+|result = W
+}}
+{{football box collapsible|format=1
+| round = [[1992 U.S. Cup]]
+| date = 30 May 1992
+|team1 = {{fb-rt|USA}}
+|score = 3–1
+|report=  Report
+|team2 = {{fb|IRL}}
+|goals1 = [[Hugo Pérez (soccer, born 1963)|Pérez]] {{goal|54}}<br />[[Marcelo Balboa|Balboa]] {{goal|70}}<br />[[John Harkes|Harkes]] {{goal|87}}
+|goals2 = [[Mick McCarthy|McCarthy]] {{goal|51}}
+|stadium = [[RFK Stadium]]
+|location = [[Washington, D.C.]], United States
+| attendance = 35,696
+| referee = [[Mike Seiffert|Seiffert]] ([[Canadian Soccer Association|Canada]])
+|result = L
+}}
+{{football box collapsible|format=1
+| round = [[1992 U.S. Cup]]
+| date = 4 June 1992
+| time = {{UTZ|22:00|-4}}
+|team1 = {{fb-rt|ITA}}
+|score = 2–0
+|report=  Report
+|team2 = {{fb|IRL}}
+|goals1 = [[Giuseppe Signori|Signori]] {{goal|17}}<br />[[Alessandro Costacurta|Costacurta]] {{goal|56}}
+|goals2 =
+|stadium = [[Foxboro Stadium]]
+|location = [[Foxborough, Massachusetts]], United States
+| attendance = 34,797
+| referee = [[Jack D'Aquila|D'Aquila]] ([[United States Soccer Federation|USA]])
+|result = L
+}}
+{{football box collapsible|format=1
+| round = [[1992 U.S. Cup]]
+| date = 7 June 1992
+|team1 = {{fb-rt|IRL}}
+|score = 2–0
+|report=  Report
+|team2 = {{fb|POR}}
+|goals1 = [[Steve Staunton|Staunton]] {{goal|39}}<br />[[Tommy Coyne|Coyne]] {{goal|89}}
+|goals2 =
+|stadium = [[Foxboro Stadium]]
+|location = [[Foxborough, Massachusetts]], United States
+| attendance = 41,227
+| referee = [[Helder Dias|Dias]] ([[United States Soccer Federation|USA]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1994 FIFA World Cup qualification – UEFA Group 3|1994 FIFA World Cup qualification Group 3]]
+| date = 9 September 1992
+|team1 = {{fb-rt|IRL}}
+|score = 4–0
+|report= Report
+|team2 = {{fb|LVA}}
+|goals1 = [[Kevin Sheedy (Irish footballer)|Sheedy]] {{goal|31}}<br>[[John Aldridge|Aldridge]] {{goal|59||81|pen.|88}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 32,000
+| referee = [[Anders Frisk|Frisk]] (Sweden)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1994 FIFA World Cup qualification – UEFA Group 3|1994 FIFA World Cup qualification Group 3]]
+| date = 14 October 1992
+|team1 = {{fb-rt|DEN}}
+|score = 0–0
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 =
+|stadium = [[Parken Stadium]]
+|location = [[Copenhagen]], Denmark
+| attendance = 40,100
+| referee = [[Ryszard Wojcik|Wojcik]] (Poland)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1994 FIFA World Cup qualification – UEFA Group 3|1994 FIFA World Cup qualification Group 3]]
+| date = 18 November 1992
+|team1 = {{fb-rt|ESP}}
+|score = 0–0
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 =
+|stadium = [[Estadio Ramón Sánchez Pizjuán|Sánchez Pizjuan]]
+|location = [[Seville]], Spain
+| attendance = 50,000
+| referee = [[Alphonse Constantin|Constantin]] (Belgium)
+|result = D
+}}
+
+===1993===
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 17 February 1993
+|team1 = {{fb-rt|IRL}}
+|score = 2–1
+|report= Report
+|team2 = {{fb|WAL}}
+|goals1 = [[Kevin Sheedy (Irish footballer)|Sheedy]] {{goal|76}}<br>[[Tommy Coyne|Coyne]] {{goal|81}}
+|goals2 = [[Mark Hughes|Hughes]] {{goal|18}}
+|stadium = [[Tolka Park]]
+|location = [[Dublin]], Ireland
+| attendance = 9,500
+| referee = [[Bo Karlsson|Karlson]] (Sweden)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1994 FIFA World Cup qualification – UEFA Group 3|1994 FIFA World Cup qualification Group 3]]
+| date = 31 March 1993
+|team1 = {{fb-rt|IRL}}
+|score = 3–0
+|report= Report
+|team2 = {{fb|NIR}}
+|goals1 = [[Andy Townsend|Townsend]] {{goal|20}}<br>[[Niall Quinn|Quinn]] {{goal|22}}<br>[[Steve Staunton|Staunton]] {{goal|28}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 33,000
+| referee = [[Kurt Röthlisberger|Röthlisberger]] (Switzerland)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1994 FIFA World Cup qualification – UEFA Group 3|1994 FIFA World Cup qualification Group 3]]
+| date = 28 April 1993
+|team1 = {{fb-rt|IRL}}
+|score = 1–1
+|report= Report
+|team2 = {{fb|DEN}}
+|goals1 = [[Niall Quinn|Quinn]] {{goal|75}}
+|goals2 = [[Kim Vilfort|Vilfort]] {{goal|27}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 33,000
+| referee = [[Rémi Harrel|Harrel]] (France)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1994 FIFA World Cup qualification – UEFA Group 3|1994 FIFA World Cup qualification Group 3]]
+| date = 26 May 1993
+|team1 = {{fb-rt|ALB}}
+|score = 1–2
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 = [[Sokol Kushta|Kushta]] {{goal|7}}|goals2 = [[Steve Staunton|Staunton]] {{goal|13}}<br>[[Tony Cascarino|Cascarino]] {{goal|77}}
+|stadium = [[Qemal Stafa]]
+|location = [[Tirana]], [[Albania]]
+| attendance = 15,000
+| referee = [[Walter Cinciripini|Cinciripini]] (Italy)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1994 FIFA World Cup qualification – UEFA Group 3|1994 FIFA World Cup qualification Group 3]]
+| date = 9 June 1993
+|team1 = {{fb-rt|LVA}}
+|score = 0–2
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[John Aldridge|Aldridge]] {{goal|14}}<br>[[Paul McGrath (footballer)|McGrath]] {{goal|43}}
+|stadium = [[Daugava Stadium (Riga)|Daugava]]
+|location = [[Riga]], [[Latvia]]
+| attendance = 5,113
+| referee = [[Dick Jol|Jol]] (Netherlands)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1994 FIFA World Cup qualification – UEFA Group 3|1994 FIFA World Cup qualification Group 3]]
+| date = 16 June 1993
+|team1 = {{fb-rt|LTU|1988}}
+|score = 0–1
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Steve Staunton|Staunton]] {{goal|40}}
+|stadium = [[Žalgiris Stadium]]
+|location = [[Vilnius]], [[Lithuania]]
+| attendance = 6,000
+| referee = [[Roger Philippi|Philippi]] ([[Luxembourg]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1994 FIFA World Cup qualification – UEFA Group 3|1994 FIFA World Cup qualification Group 3]]
+| date = 8 September 1993
+|team1 = {{fb-rt|IRL}}
+|score = 2–0
+|report= Report
+|team2 = {{fb|LTU|1988}}
+|goals1 = [[John Aldridge|Aldridge]] {{goal|5}}<br>[[Alan Kernaghan|Kernaghan]] {{goal|26}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 33,000
+| referee = [[Rune Pedersen (referee)|Pedersen]] (Norway)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1994 FIFA World Cup qualification – UEFA Group 3|1994 FIFA World Cup qualification Group 3]]
+| date = 13 October 1993
+|team1 = {{fb-rt|IRL}}
+|score = 1–3
+|report= Report
+|team2 = {{fb|ESP}}
+|goals1 = [[John Sheridan (footballer)|Sheridan]] {{goal|72}}
+|goals2 = [[Jose Luis Caminero|Caminero]] {{goal|11}}<br>[[Julio Salinas|Salinas]] {{goal|14||26}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 50,000
+| referee = [[Fabio Baldas|Baldas]] (Italy)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[1994 FIFA World Cup qualification – UEFA Group 3|1994 FIFA World Cup qualification Group 3]]
+| date = 17 November 1993
+|team1 = {{fb-rt|NIR}}
+|score = 1–1
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 = [[Jimmy Quinn (Northern Irish footballer)|Jimmy Quinn]] {{goal|73}}
+|goals2 = [[Alan McLoughlin|McLoughlin]] {{goal|76}}
+|stadium = [[Windsor Park]]
+|location = [[Belfast]], [[Northern Ireland]]
+| attendance = 10,500
+| referee = [[Ahmet Çakar|Çakar]] (Turkey)
+|result = D
+}}
+
+===1994===
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 23 March 1994
+|team1 = {{fb-rt|IRL}}
+|score = 0–0
+|report= Report
+|team2 = {{fb|RUS}}
+|goals1 =
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 36,000
+| referee = [[Christer Fallström|Fallström]] (Sweden)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 20 April 1994
+|team1 = {{fb-rt|NED}}
+|score = 0–1
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Tommy Coyne|Coyne]] {{goal|57}}
+|stadium = [[Willem II Stadion]]
+|location = [[Tilburg]], Netherlands
+| attendance = 14,000
+| referee = [[Hartmut Strampe|Strampe]] (Germany)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 24 May 1994
+|team1 = {{fb-rt|IRL}}
+|score = 1–0
+|report= Report
+|team2 = {{fb|BOL}}
+|goals1 = [[John Sheridan (footballer)|Sheridan]] {{goal|85}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 32,500
+| referee = [[Alan Howells|Howells]] (Wales)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 29 May 1994
+|team1 = {{fb-rt|GER}}
+|score = 0–2
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Tony Cascarino|Cascarino]] {{goal|31}}<br>[[Gary Kelly (footballer born 1974)|Gary Kelly]] {{goal|68}}
+|stadium = [[Niedersachsenstadion]]
+|location = [[Hanover]], Germany<ref>[https://www.the42.ie/germany-republic-of-ireland-1994-1721097-Oct2015/ Hanover 1994: the day Ireland went to Germany and won], Eoin O'Callaghan, ''The 42'', 7 October 2015</ref>
+| attendance = 50,000
+| referee = [[José Manuel García-Aranda Encinar|Encinar]] (Spain)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 5 June 1994
+|time = {{UTZ|15:00|1}}
+|team1 = {{fb-rt|IRL}}
+|score = 1–3
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=299 Report]
+|team2 = {{fb|CZE}}
+|goals1 = [[Andy Townsend|Townsend]] {{goal|43}}
+|goals2 = [[Pavel Kuka|Kuka]] {{goal|25|pen.|54}}<br>[[Jan Suchopárek|Suchopárek]] {{goal|83}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 43,465
+| referee = [[Leif Sundell|Sundell]] (Sweden)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[1994 FIFA World Cup Group E]]
+|date = 18 June 1994
+|time = {{UTZ|16:00|-4}}
+|team1 = {{fb-rt|ITA}}
+|score = 0–1
+|report = [http://fifaworldcup.yahoo.com/06/en/w/pwc/mr_3052.html Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Ray Houghton|Houghton]] {{goal|11}}
+|stadium = [[Giants Stadium]]
+|location = [[East Rutherford, New Jersey]], United States
+| attendance = 75,338
+| referee = [[Mario van der Ende|van der Ende]] (Netherlands)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1994 FIFA World Cup Group E]]
+|date = 24 June 1994
+|time = {{UTZ|12:30|-4}}
+|team1 = {{fb-rt|MEX}}
+|score = 2–1
+|report = [http://fifaworldcup.yahoo.com/06/en/w/pwc/mr_3066.html Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Luis García Postigo|García]] {{goal|42||65}}
+|goals2 = [[John Aldridge|Aldridge]] {{goal|84}}
+|stadium = [[Camping World Stadium|Citrus Bowl]]
+|location = [[Orlando, Florida]], United States
+| attendance = 60,790
+| referee = [[Kurt Röthlisberger|Röthlisberger]] (Switzerland)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[1994 FIFA World Cup Group E]]
+|date = 28 June 1994
+|time = {{UTZ|12:30|-4}}
+|team1 = {{fb-rt|IRL}}
+|score = 0–0
+|report = [http://fifaworldcup.yahoo.com/06/en/w/pwc/mr_3077.html Report]
+|team2 = {{fb|NOR}}
+|goals1 =
+|goals2 =
+|stadium = [[Giants Stadium]]
+|location = [[East Rutherford, New Jersey]], United States
+| attendance = 72,404
+| referee = [[José Torres Cadena|Cadena]] ([[Colombia]])
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1994 FIFA World Cup knockout stage|1994 FIFA World Cup Round of 16]]
+|date = 4 July 1994
+|time = {{UTZ|12:00|-4}}
+|team1 = {{fb-rt|NED}}
+|score = 2–0
+|report = [http://fifaworldcup.yahoo.com/06/en/w/pwc/mr_3089.html Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Dennis Bergkamp|Bergkamp]] {{goal|11}}<br />[[Wim Jonk|Jonk]] {{goal|41}}
+|goals2 =
+|stadium = [[Citrus Bowl]]
+|location = [[Orlando, Florida]], United States
+| attendance = 61,355
+| referee = [[Peter Mikkelsen (referee)|Mikkelsen]] (Denmark)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1996 qualifying Group 6]]
+| date = 7 September 1994
+|team1 = {{fb-rt|LVA}}
+|score = 0–3
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[John Aldridge|Aldridge]] {{goal|16||75|pen.}}<br>[[John Sheridan (footballer)|Sheridan]] {{goal|29}}
+|stadium = [[Daugava Stadium (Riga)|Daugava Stadium]]
+|location = [[Riga]], [[Latvia]]
+| attendance = 2,300
+| referee = [[Anders Frisk|Frisk]] (Sweden)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1996 qualifying Group 6]]
+| date = 12 October 1994
+|team1 = {{fb-rt|IRL}}
+|score = 4–0
+|report= Report
+|team2 = {{fb|LIE}}
+|goals1 = [[Tommy Coyne|Coyne]] {{goal|2||4}}<br>[[Niall Quinn|Quinn]] {{goal|30||82}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 32,980
+| referee = [[Bragi Bergmann|Bergmann]] ([[Iceland]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1996 qualifying Group 6]]
+| date = 16 November 1994
+|team1 = {{fb-rt|NIR}}
+|score = 0–4
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[John Aldridge|Aldridge]] {{goal|6}}<br>[[Roy Keane]] {{goal|11}}<br>[[John Sheridan (footballer)|Sheridan]] {{goal|38}}<br>[[Andy Townsend|Townsend]] {{goal|54}}
+|stadium = [[Windsor Park]]
+|location = [[Belfast]], [[Northern Ireland]]
+| attendance = 10,336
+| referee = [[Serge Muhmenthaler|Muhmenthaler]] (Switzerland)
+|result = W
+}}
+
+===1995===
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 15 February 1995
+|team1 = {{fb-rt|IRL}}
+|score = [[Lansdowne Road football riot|(1–0)]]
+|report= '''Match Abandoned''' <small>27'</small><br>{{refn|group=note|Match abandoned after 27 minutes following crowd trouble.<ref>[https://www.theguardian.com/football/2013/may/25/england-ireland-1995-rioting-international Rioting, violence and shame – memories of Ireland v England in 1995] The Observer, 2013-05-25.</ref>}}
+|team2 = {{fb|ENG}}
+|goals1 = [[David Kelly (association footballer)|David Kelly]] {{goal|22}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 46,000
+| referee = [[Dick Jol|Jol]] (Netherlands)
+|result = P
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1996 qualifying Group 6]]
+| date = 29 March 1995
+|team1 = {{fb-rt|IRL}}
+|score = 1–1
+|report= Report
+|team2 = {{fb|NIR}}
+|goals1 = [[Niall Quinn|Quinn]] {{goal|47}}
+|goals2 = [[Iain Dowie|Dowie]] {{goal|72}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 32,200
+| referee = [[Mario van der Ende|van der Ende]] (Netherlands)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1996 qualifying Group 6]]
+| date = 26 April 1995
+|team1 = {{fb-rt|IRL}}
+|score = 1–0
+|report= Report
+|team2 = {{fb|POR}}
+|goals1 = [[Vítor Baía|Baía]] {{goal|44|o.g.}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 33,500
+| referee = [[Christer Faellström|Faellström]] (Sweden)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1996 qualifying Group 6]]
+| date = 3 June 1995
+|team1 = {{fb-rt|LIE}}
+|score = 0–0
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 =
+|stadium = [[Sportpark Eschen-Mauren]]
+|location = [[Eschen]], [[Liechtenstein]]
+| attendance = 4,500
+| referee = [[Charles Agius|Agius]] ([[Malta]])
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1996 qualifying Group 6]]
+| date = 11 June 1995
+|team1 = {{fb-rt|IRL}}
+|score = 1–3
+|report= Report
+|team2 = {{fb|AUT}}
+|goals1 = [[Ray Houghton|Houghton]] {{goal|65}}
+|goals2 = [[Anton Polster|Polster]] {{goal|69||78}}<br>[[Andreas Ogris|Ogris]] {{goal|72}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 33,000
+| referee = [[Markus Merk|Merk]] (Germany)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1996 qualifying Group 6]]
+| date = 6 September 1995
+|team1 = {{fb-rt|AUT}}
+|score = 3–1
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 = [[Peter Stöger|Stöger]] {{goal|3||64||77}}
+|goals2 = [[Paul McGrath (footballer)|McGrath]] {{goal|74}}
+|stadium = [[Ernst Happel Stadion]]
+|location = [[Vienna]], Austria<ref>[http://home.online.no/~smogols/ifcp/archive/northernirelandarchive/europeanchampionshipqualification/euro96qualification.htm "Northern Ireland Football Project] {{webarchive|url=https://web.archive.org/web/20110421075242/http://home.online.no/~smogols/ifcp/archive/northernirelandarchive/europeanchampionshipqualification/euro96qualification.htm |date=2011-04-21 }}</ref>
+| attendance = 24,000
+| referee = [[Ahmet Çakar|Çakar]] (Turkey)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1996 qualifying Group 6]]
+| date = 11 October 1995
+|team1 = {{fb-rt|IRL}}
+|score = 2–1
+|report= Report
+|team2 = {{fb|LVA}}
+|goals1 = [[John Aldridge|Aldridge]] {{goal|61|pen.|64}}
+|goals2 = [[Vits Rimkus|Rimkus]] {{goal|78}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 33,500
+| referee = [[Juan Antonio Fernandez Marin|Marin]] (Spain)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1996 qualifying Group 6]]
+| date = 15 November 1995
+|team1 = {{fb-rt|POR}}
+|score = 3–0
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 = [[Rui Costa]] {{goal|60}}<br>[[Hélder Postiga|Postiga]] {{goal|74}}<br>[[Jorge Cadete|Cadete]] {{goal|89}}
+|goals2 =
+|stadium = [[Estádio da Luz (1954)|Estádio da Luz]]
+|location = [[Lisbon]], Portugal
+| attendance = 71,766
+| referee = [[Piero Ceccarini|Ceccarini]] (Italy)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1996 qualifying play-off]]
+| date = 13 December 1995
+|team1 = {{fb-rt|NED}}
+|score = 2–0
+|report= Report
+|team2 = {{fb|IRL}}
+|goals1 = [[Patrick Kluivert|Kluivert]] {{goal|30||86}}
+|goals2 =
+|stadium = [[Anfield]]
+|location = [[Liverpool]], England<ref>[http://www.independent.ie/sport/soccer/the-day-irish-football-was-changed-forever-111774.html "The Day Irish Football was changed forever"], Gerry McDermott, ''Irish Independent'', February 7, 2006</ref>
+| attendance = 40,000
+| referee = [[Vadim Zhuk|Zhuk]] ([[Belarus]])
+|result = L
+}}
+
+===1996===
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 27 March 1996
+|team1 = {{fb-rt|IRL}}
+|score = 0–2
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=316 Report]
+|team2 = {{fb|RUS}}
+|goals1 =
+|goals2 = [[Alexandr Mostovoi|Mostovoi]] {{goal|35}}<br>[[Igor Kolyvanov|Kolyvanov]] {{goal|54}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 41,600
+| referee = [[Hugo Luyten|Luyten]] (Netherlands)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 24 April 1996
+|time = {{UTZ|17:00|2}}
+|team1 = {{fb-rt|CZE}}
+|score = 2–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=317 Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Martin Frýdek|Frýdek]] {{goal|61}}<br>[[Pavel Kuka|Kuka]] {{goal|68}}
+|goals2 =
+|stadium = [[Stadion Evžena Rošického]]
+|location = [[Prague]], Czech Republic
+| attendance = 6,118
+| referee = [[Hartmut Strampe|Strampe]] (Germany)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 29 May 1996
+|team1 = {{fb-rt|IRL}}
+|score = 0–1
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=318 Report]
+|team2 = {{fb|POR}}
+|goals1 =
+|goals2 = [[Antonio Folha|Folha]] {{goal|39}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 26,576
+| referee = [[Claude Detruche|Detruche]] (Switzerland)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 2 June 1996
+|team1 = {{fb-rt|IRL}}
+|score = 2–2
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=319 Report]
+|team2 = {{fb|CRO}}
+|goals1 = [[Keith O'Neill (footballer)|Keith O'Neill]] {{goal|24}}<br>[[Niall Quinn|Quinn]] {{goal|89}}
+|goals2 = [[Davor Šuker|Šuker]] {{goal|14}}<br>[[Zvonimir Boban|Boban]] {{goal|45}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 29,100
+| referee = [[Phillipe Leduc|Leduc]] (France
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 4 June 1996
+|team1 = {{fb-rt|NED}}
+|score = 3–1
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=320 Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Dennis Bergkamp|Bergkamp]] {{goal|27}}<br>[[Clarence Seedorf|Seedorf]] {{goal|77}}<br>[[Phillip Cocu|Cocu]] {{goal|88}}
+|goals2 = [[Gary Breen|Breen]] {{goal|15}}
+|stadium = [[De Kuip]]
+|location = [[Rotterdam]], Netherlands
+| attendance = 15,000
+| referee = [[Finn Lambek|Lambek]] (Denmark)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[1996 U.S. Cup]]
+| date = 9 June 1996
+|team1 = {{fb-rt|USA}}
+|score = 2–1
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=322 Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Tab Ramos|Ramos]] {{goal|58}}<br />[[Claudio Reyna|Reyna]] {{goal|76}}
+|goals2 = [[David Connolly|Connolly]] {{goal|57}}
+|stadium = [[Foxboro Stadium]]
+|location = [[Foxborough, Massachusetts]], United States
+| attendance = 25,332
+| referee = [[Peter Prendergast (referee)|Prendergast]] ([[Jamaica Football Federation|Jamaica]])
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[1996 U.S. Cup]]
+| date = 12 June 1996
+|team1 = {{fb-rt|MEX}}
+|score = 2–2
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=322 Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Luis García Postigo|García]] {{goal|40||70}}
+|goals2 = [[David Connolly|Connolly]] {{goal|44}}<br />[[Duilio Davino|Davino]] {{goal|49|o.g.}}
+|stadium = [[Giants Stadium]]
+|location = [[East Rutherford, New Jersey]], United States
+| attendance = 21,322
+| referee = [[Raúl Domínguez (referee)|Dominguez]] ([[United States Soccer Federation|USA]])
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1996 U.S. Cup]]
+| date = 15 June 1996
+|team1 = {{fb-rt|IRL}}
+|score = 3–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=323 Report]
+|team2 = {{fb|BOL}}
+|goals1 = [[Keith O'Neill (footballer)|Keith O'Neill]] {{goal|12||33}}<br />[[Ian Harte|Harte]] {{goal|45}}
+|goals2 =
+|stadium = [[Giants Stadium]]
+|location = [[East Rutherford, New Jersey]], United States
+| attendance = 14,624
+| referee = [[Esfandiar Baharmast|Baharmast]] ([[United States Soccer Federation|USA]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1998 FIFA World Cup qualification – UEFA Group 8|1998 FIFA World Cup qualification Group 8]]
+| date = 31 August 1996
+|team1 = {{fb-rt|LIE}}
+|score = 0–5
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=324 Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Andy Townsend|Townsend]] {{goal|5}}<br>[[Keith O'Neill (footballer)|Keith O'Neill]] {{goal|9}}<br>[[Niall Quinn|Quinn]] {{goal|12||61}}<br>[[Ian Harte|Harte]] {{goal|20}}
+|stadium = [[Sportpark Eschen-Mauren]]
+|location = [[Eschen]], [[Liechtenstein]]
+| attendance = 3,900
+| referee = Shmolik ([[Belarus]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1998 FIFA World Cup qualification – UEFA Group 8|1998 FIFA World Cup qualification Group 8]]
+| date = 9 October 1996
+|team1 = {{fb-rt|IRL}}
+|score = 3–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=325 Report]
+|team2 = {{fb|MKD|name=Macedonia}}
+|goals1 = [[Jason McAteer|McAteer]] {{goal|8}}<br>[[Tony Cascarino|Cascarino]] {{goal|46||70}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 31,671
+| referee = [[Knud Erik Fisker|Fisker]] (Denmark)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1998 FIFA World Cup qualification – UEFA Group 8|1998 FIFA World Cup qualification Group 8]]
+| date = 10 November 1996
+|team1 = {{fb-rt|IRL}}
+|score = 0–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=326 Report]
+|team2 = {{fb|ISL}}
+|goals1 =
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 33,069
+| referee = [[Stefan Ormandjiev|Ormandjiev]] ([[Bulgaria]])
+|result = D
+}}
+
+===1997===
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 11 February 1997
+|team1 = {{fb-rt|WAL}}
+|score = 0–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=327 Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 =
+|stadium = [[Ninian Park]]
+|location = [[Cardiff]], Wales
+| attendance = 7,000 
+| referee = [[William Young (referee)|Young]] (Scotland)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1998 FIFA World Cup qualification – UEFA Group 8|1998 FIFA World Cup qualification Group 8]]
+| date = 2 April 1997
+|team1 = {{fb-rt|MKD|name=Macedonia}}
+|score = 3–2
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=328 Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Mitko Stojkovski|Stojkovski]] {{goal|28|pen.|44|pen.}}<br>[[Gjorgji Hristov|Hristov]] {{goal|59}}
+|goals2 = [[Alan McLoughlin|McLoughlin]] {{goal|8}}<br>[[David Kelly (association footballer)|David Kelly]] {{goal|78}}
+|stadium = [[Skopje City Stadium|City Stadium]]
+|location = [[Skopje]], [[North Macedonia|Macedonia]]
+| attendance = 11,000
+| referee = [[Alfredo Trentalange|Trentalange]] (Italy)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[1998 FIFA World Cup qualification – UEFA Group 8|1998 FIFA World Cup qualification Group 8]]
+| date = 30 April 1997
+|team1 = {{fb-rt|ROU}}
+|score = 1–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=329 Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Adrian Ilie|Ilie]] {{goal|33}}
+|goals2 =
+|stadium = [[Steaua Stadium]]
+|location = [[Bucharest]], [[Romania]]
+| attendance = 25,000
+| referee = [[Mario van der Ende|van der Ende]] (Netherlands)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[1998 FIFA World Cup qualification – UEFA Group 8|1998 FIFA World Cup qualification Group 8]]
+| date = 21 May 1997
+|team1 = {{fb-rt|IRL}}
+|score = 5–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=330 Report]
+|team2 = {{fb|LIE}}
+|goals1 = [[David Connolly|Connolly]] {{goal|28||34||41}}<br>[[Tony Cascarino|Cascarino]] {{goal|61||80}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 33,200
+| referee = [[Andrei Boutenko|Boutenko]] (Russia)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1998 FIFA World Cup qualification – UEFA Group 8|1998 FIFA World Cup qualification Group 8]]
+| date = 20 August 1997
+|team1 = {{fb-rt|IRL}}
+|score = 0–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=331 Report]
+|team2 = {{fb|LTU|1988}}
+|goals1 =
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 32,620
+| referee = [[Jorge E. Monteiro Coroado|Monteiro Coroado]] (Portugal)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1998 FIFA World Cup qualification – UEFA Group 8|1998 FIFA World Cup qualification Group 8]]
+| date = 6 September 1997
+|team1 = {{fb-rt|ISL}}
+|score = 2–4
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=332 Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Brynjar Gunnarsson|Gunnarsson]] {{goal|45}}<br>[[Helgi Sigurðsson|Sigurðsson]] {{goal|47}}
+|goals2 = [[David Connolly|Connolly]] {{goal|13}}<br>[[Roy Keane]] {{goal|55||65}}<br>[[Mark Kennedy (footballer, born 1976)|Kennedy]] {{goal|79}}
+|stadium = [[Laugardalsvöllur]]
+|location = [[Reykjavík]], [[Iceland]]
+| attendance = 3,981
+| referee = [[Ante Kulušić (referee)|Kulusic]] ([[Croatia]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1998 FIFA World Cup qualification – UEFA Group 8|1998 FIFA World Cup qualification Group 8]]
+| date = 10 September 1997
+|team1 = {{fb-rt|LTU|1988}}
+|score = 1–2
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=333 Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Tomas Ziukas|Ziukas]] {{goal|51}}
+|goals2 = [[Tony Cascarino|Cascarino]] {{goal|17||72}}
+|stadium = [[Žalgiris Stadium]]
+|location = [[Vilnius]], [[Lithuania]]
+| attendance = 7,000
+| referee = [[Georgios Bikas|Bikas]] (Greece)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1998 FIFA World Cup qualification – UEFA Group 8|1998 FIFA World Cup qualification Group 8]]
+| date = 11 October 1997
+|team1 = {{fb-rt|IRL}}
+|score = 1–1
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=334 Report]
+|team2 = {{fb|ROU}}
+|goals1 = [[Tony Cascarino|Cascarino]] {{goal|83}}
+|goals2 = [[Gheorghe Hagi|Hagi]] {{goal|53}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 34,500
+| referee = [[Nikolai Levnikov|Levnikov]] (Russia)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1998 FIFA World Cup qualification – UEFA second round|1998 FIFA World Cup qualification play-off]]
+| date = 29 October 1997
+|team1 = {{fb-rt|IRL}}
+|score = 1–1
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=335 Report]
+|team2 = {{fb|BEL}}
+|goals1 = [[Denis Irwin|Irwin]] {{goal|7}}
+|goals2 = [[Luc Nilis|Nilis]] {{goal|69}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 32,305
+| referee = [[László Vágner|Vágner]] (Hungary)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1998 FIFA World Cup qualification – UEFA second round|1998 FIFA World Cup qualification play-off]]
+| date = 15 November 1997
+|team1 = {{fb-rt|BEL}}
+|score = 2–1
+|aggregatescore = 3–2
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=336 Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Luis Oliveira|Oliveira]] {{goal|25}}<br>[[Luc Nilis|Nilis]] {{goal|69}}
+|goals2 = [[Ray Houghton|Houghton]] {{goal|58}}
+|stadium = [[Stade Roi Baudouin]]
+|location = [[Brussels]], Belgium
+| attendance = 31,455
+| referee = [[Günther Benkö|Benkö]] (Austria)
+|result = L
+}}
+
+===1998===
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 25 March 1998
+|time = {{UTZ|17:00|2}}
+|team1 = {{fb-rt|CZE}}
+|score = 2–1
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=337 Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Vladimír Šmicer|Šmicer]] {{goal|50}}<br>[[Edvard Lasota|Lasota]] {{goal|76}}
+|goals2 = [[Gary Breen|Breen]] {{goal|10}}
+|stadium = [[Andruv Stadium|Andruv Stadion]]
+|location = [[Olomouc]], Czech Republic
+| attendance = 9,405
+| referee = [[Attila Juhos|Juhos]] (Hungary)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 22 April 1998
+|team1 = {{fb-rt|IRL}}
+|score = 0–2
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=338 Report]
+|team2 = {{fb|ARG}}
+|goals1 =
+|goals2 = [[Gabriel Batistuta|Batistuta]] {{goal|26}}<br>[[Ariel Ortega|Ortega]] {{goal|40}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 38,500
+| referee = [[Stuart Dougal|Dougal]] (Scotland)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 23 May 1998
+|team1 = {{fb-rt|IRL}}
+|score = 0–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=339 Report]
+|team2 = {{fb|MEX}}
+|goals1 =
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 28,500
+| referee = [[John Ashman (referee)|Ashman]] (Wales)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2000 qualifying Group 8]]
+| date = 5 September 1998
+|team1 = {{fb-rt|IRL}}
+|score = 2–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=340 Report]
+|team2 = {{fb|CRO}}
+|goals1 = [[Denis Irwin|Irwin]] {{goal|2|pen.}}<br>[[Roy Keane]] {{goal|16}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 35,000
+| referee = [[Vitor Manuel Melo Pereira|Pereira]] (Portugal)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2000 qualifying Group 8]]
+| date = 14 October 1998
+|team1 = {{fb-rt|IRL}}
+|score = 5–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=341 Report]
+|team2 = {{fb|MLT}}
+|goals1 = [[Robbie Keane]] {{goal|17||19}}<br>[[Roy Keane]] {{goal|54}}<br>[[Niall Quinn|Quinn]] {{goal|62}}<br>[[Gary Breen|Breen]] {{goal|82}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 34,500
+| referee = [[Roy Helge Olsen|Olsen]] (Norway)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2000 qualifying Group 8]]
+| date = 18 November 1998
+|team1 = {{fb-rt|FR Yugoslavia}}
+|score = 1–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=342 Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Predrag Mijatović|Mijatović]] {{goal|64}}
+|goals2 =
+|stadium = [[Stadion Crvene Zvezde]]
+|location = [[Beograd]], [[Yugoslavia]]
+| attendance = 28,250
+| referee = [[Karl Erik Nielson|Nielson]] (Sweden)
+|result = L
+}}
+
+===1999===
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 10 February 1999
+|team1 = {{fb-rt|IRL}}
+|score = 2–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=343 Report]
+|team2 = {{fb|PAR}}
+|goals1 = [[Denis Irwin|Irwin]] {{goal|37|pen.}}<br>[[David Connolly|Connolly]] {{goal|74}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 27,600
+| referee = [[Gylfi Orrason|Orrason]] ([[Iceland]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 28 April 1999
+|team1 = {{fb-rt|IRL}}
+|score = 2–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=344 Report]
+|team2 = {{fb|SWE}}
+|goals1 = [[Graham Kavanagh|Kavanagh]] {{goal|75}}<br>[[Mark Kennedy (footballer, born 1976)|Kennedy]] {{goal|77}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 29,000
+| referee = [[Pascal Garibian|Garibian]] (France)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition match|Friendly]]
+| date = 29 May 1999
+|team1 = {{fb-rt|IRL}}
+|score = 0–1
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=345 Report]
+|team2 = {{fb|NIR}}
+|goals1 =
+|goals2 = [[Danny Griffin (footballer)|Griffin]] {{goal|83}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 12,100
+| referee = [[Ceri Richards (referee)|Richards]] (Wales)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2000 qualifying Group 8]]
+| date = 9 June 1999
+|team1 = {{fb-rt|IRL}}
+|score = 1–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=346 Report]
+|team2 = {{fb|MKD|name=Macedonia}}
+|goals1 = [[Niall Quinn|Quinn]] {{goal|60}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 28,108
+| referee = [[Urs Meier|Meier]] (Switzerland)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2000 qualifying Group 8]]
+| date = 1 September 1999
+|team1 = {{fb-rt|IRL}}
+|score = 2–1
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=347 Report]
+|team2 = {{fb|FR Yugoslavia}}
+|goals1 = [[Robbie Keane]] {{goal|54}}<br>[[Mark Kennedy (footballer, born 1976)|Kennedy]] {{goal|69}}
+|goals2 = [[Dejan Stanković|Stanković]] {{goal|61}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 31,400
+| referee = [[Pierluigi Collina|Collina]] (Italy)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2000 qualifying Group 8]]
+| date = 4 September 1999
+|team1 = {{fb-rt|CRO}}
+|score = 1–0
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=348 Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Davor Šuker|Šuker]] {{goal|90+1}}
+|goals2 =
+|stadium = [[Maksimir]]
+|location = [[Zagreb]], [[Croatia]]
+| attendance = 30,000
+| referee = [[Manuel Díaz Vega|Vega]] (Spain)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2000 qualifying Group 8]]
+| date = 9 September 1999
+|team1 = {{fb-rt|MLT}}
+|score = 2–3
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=349 Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Brian Said|Said]] {{goal|61}}<br>[[David Carabott|Carabott]] {{goal|68|pen.}}
+|goals2 = [[Robbie Keane]] {{goal|13}}<br>[[Gary Breen|Breen]] {{goal|20}}<br>[[Steve Staunton|Staunton]] {{goal|72}}
+|stadium = [[Ta'Qali Stadium|National Stadium]]
+|location = [[Ta'Qali]], [[Malta]]
+| attendance = 4,018
+| referee = [[Sorin Carpodean|Carpodean]] ([[Romania]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2000 qualifying Group 8]]
+| date = 9 October 1999
+|team1 = {{fb-rt|MKD|name=Macedonia}}
+|score = 1–1
+|report=[http://www.soccerscene.ie/ss_gen/matchdetails.php?id=350&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Goran Stavrevski|Stavrevski]] {{goal|90}}
+|goals2 = [[Niall Quinn|Quinn]] {{goal|18}}
+|stadium = [[Skopje City Stadium|City Stadium]]
+|location = [[Skopje]], [[North Macedonia|Macedonia]]
+| attendance = 6,000
+| referee = [[Juan Antonio Fernández Marín|Marín]] (Spain)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2000 qualifying play-offs]]
+| date = 13 November 1999
+|team1 = {{fb-rt|IRL}}
+|score = 1–1
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=351 Report]
+|team2 = {{fb|TUR}}
+|goals1 = [[Robbie Keane]] {{goal|79}}
+|goals2 = [[Tayfur Havutçu|Havutçu]] {{goal|83|pen.}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 33,610
+| referee = [[Manuel Anders Frisk|Frisk]] (Sweden)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 2000 qualifying play-offs]]
+| date = 17 November 1999
+|team1 = {{fb-rt|TUR}}
+|score = 0–0
+|aggregatescore = 1–1
+|report=[http://www.soccerscene.ie/sssenior/matchdetails.php?id=352 Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 =
+|stadium = [[Bursa Atatürk Stadium]]
+|location = [[Bursa]], Turkey
+| attendance = 19,900
+| referee = [[Gilles Veissière|Veissière]] (France)
+|result = D
+|note = Turkey won on away goals.
+}}
+
+==See also==
+* [[Republic of Ireland national football team - 1980s Results]]
+* [[Republic of Ireland national football team - Results 2000-09]]
+
+==Notes==
+{{notelist|group=note}}
+
+==References==
+{{reflist}}
+
+{{Republic of Ireland national football team}}
+{{Football results UEFA}}
+
+{{DEFAULTSORT:National Football Team 1990s Results}}
+[[Category:Republic of Ireland national football team results|1990s]]
+[[Category:1989–90 in Republic of Ireland association football]]
+[[Category:1990–91 in Republic of Ireland association football]]
+[[Category:1991–92 in Republic of Ireland association football]]
+[[Category:1992–93 in Republic of Ireland association football]]
+[[Category:1993–94 in Republic of Ireland association football]]
+[[Category:1994–95 in Republic of Ireland association football]]
+[[Category:1995–96 in Republic of Ireland association football]]
+[[Category:1996–97 in Republic of Ireland association football]]
+[[Category:1997–98 in Republic of Ireland association football]]
+[[Category:1998–99 in Republic of Ireland association football]]
+[[Category:1999–2000 in Republic of Ireland association football]]

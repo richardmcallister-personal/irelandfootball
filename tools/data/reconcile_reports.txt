@@ -1,0 +1,27 @@
+Match reports: where Wikipedia's results boxes and the archive disagree (build_reports.py)
+
+1993-05-26 v Albania: Wikipedia lists 0+3 goals for 2–1; goals left out
+1995-02-15: no score in the box
+1999-09-09: Wikipedia's date; the archive has 1999-09-08 v Malta, used that game
+2002-04-16: Wikipedia's date; the archive has 2002-04-17 v United States, used that game
+2003-09-09 v Turkey: Wikipedia lists 1+2 goals for 2–2; goals left out
+2004-03-31 v Czech Republic: Wikipedia lists 1+1 goals for 2–1; goals left out
+2004-06-05 v Netherlands: Wikipedia lists 0+0 goals for 1–0; goals left out
+2008-11-19 v Poland: Wikipedia lists 5+0 goals for 2–3; goals left out
+2010-09-07 v Andorra: Wikipedia lists 3+0 goals for 3–1; goals left out
+2014-09-07 v Georgia: Wikipedia lists 0+1 goals for 2–1; goals left out
+2015-06-04: on Wikipedia, not in the archive (IRL v NIR)
+2018-05-20: on Wikipedia, not in the archive (Celtic SCO v IRL Republic of Ireland XI)
+2026-05-12: on Wikipedia, not in the archive (Real Murcia Imperial ESP v Republic of Ireland)
+2026-11-14: on Wikipedia, not in the archive (AUT v Republic of Ireland)
+2026-11-17: on Wikipedia, not in the archive (Republic of Ireland v KOS)
+1993-05-29 v Hungary: no football box on Wikipedia; report built from the archive only
+1995-02-15 v England: no football box on Wikipedia; report built from the archive only
+2023-03-22 v Latvia: no football box on Wikipedia; report built from the archive only
+2023-11-21 v New Zealand: no football box on Wikipedia; report built from the archive only
+2024-03-23 v Belgium: no football box on Wikipedia; report built from the archive only
+2024-03-26 v Switzerland: no football box on Wikipedia; report built from the archive only
+2024-06-04 v Hungary: no football box on Wikipedia; report built from the archive only
+2024-06-11 v Portugal: no football box on Wikipedia; report built from the archive only
+2025-06-06 v Senegal: no football box on Wikipedia; report built from the archive only
+2025-06-10 v Luxembourg: no football box on Wikipedia; report built from the archive only

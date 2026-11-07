@@ -1,0 +1,1197 @@
+{{Short description|none}}
+{{Use dmy dates|date=August 2023}}
+{{Republic of Ireland national football team results|key=1}}
+
+This article contains the results of the [[Republic of Ireland national football team]] during the 1980s.
+
+==Results==
+===1980===
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1980 qualifying Group 1]]
+| date = 6 February 1980
+|team1 = {{fb-rt|ENG}}
+|score = 2–0
+|report=[http://www.soccerscene.ie/ss_gen/matchdetails.php?id=179&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Kevin Keegan|Keegan]] {{goal|34||74}}
+|goals2 =
+|stadium = [[Wembley Stadium (1923)|Wembley Stadium]]
+|location = [[London]], England
+| attendance = 91,043
+| referee = [[Klaus Scheurell|Scheurell]] ([[East Germany]])
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[1982 FIFA World Cup qualification – UEFA Group 2|1982 FIFA World Cup qualification Group 2]]
+| date = 26 March 1980
+|team1 = {{fb-rt|CYP|1960}}
+|score = 2–3
+|report=[http://www.soccerscene.ie/ss_gen/matchdetails.php?id=180&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Nikos Pantziaras|Pantziaras]] {{goal|29}}<br>[[Sotiris Kaiafas|Kaiafas]] {{goal|74|pen.}}
+|goals2 = [[Paul McGee (footballer born 1954)|McGee]] {{goal|8||38}}<br>[[Mark Lawrenson|Lawrenson]] {{goal|23}}
+|stadium = [[Makario Stadium]]
+|location = [[Nicosia]], [[Cyprus]]
+| attendance = 10,000
+| referee = [[Zvi Sharir|Sharir]] ([[Israel]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 30 April 1980
+|team1 = {{fb-rt|IRL}}
+|score = 2–0
+|report=[http://www.soccerscene.ie/ss_gen/matchdetails.php?id=181&level=sssenior Report]
+|team2 = {{fb|SUI}}
+|goals1 = [[Don Givens|Givens]] {{goal|12}}<br>[[Gerry Daly|Daly]] {{goal|41}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 15,000
+| referee = [[Clive Thomas (football)|Thomas]] (Wales)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 16 May 1980
+|team1 = {{fb-rt|IRL}}
+|score = 0–1
+|report=[http://www.soccerscene.ie/ss_gen/matchdetails.php?id=182&level=sssenior Report]
+|team2 = {{fb|ARG}}
+|goals1 =
+|goals2 = [[José Daniel Valencia|Valencia]] {{goal|28}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 30,100
+| referee = [[George Courtney|Courtney]] (England)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[1982 FIFA World Cup qualification – UEFA Group 2|1982 FIFA World Cup qualification Group 2]]
+| date = 10 September 1980
+|team1 = {{fb-rt|IRL}}
+|score = 2–1
+|report=[http://www.soccerscene.ie/ss_gen/matchdetails.php?id=183&level=sssenior Report]
+|team2 = {{fb|NED}}
+|goals1 = [[Gerry Daly|Daly]] {{goal|78}}<br>[[Mark Lawrenson|Lawrenson]] {{goal|85}}
+|goals2 = [[Simon Tahamata|Tahamata]] {{goal|57}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 25,000
+| referee = [[Henning Lund-Sørensen|Lund-Sørensen]] (Denmark)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1982 FIFA World Cup qualification – UEFA Group 2|1982 FIFA World Cup qualification Group 2]]
+| date = 15 October 1980
+|team1 = {{fb-rt|IRL}}
+|score = 1–1
+|report=[http://www.soccerscene.ie/ss_gen/matchdetails.php?id=184&level=sssenior Report]
+|team2 = {{fb|BEL}}
+|goals1 = [[Tony Grealish|Grealish]] {{goal|42}}
+|goals2 = [[Albert Cluytens|Cluytens]] {{goal|13}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 40,000
+| referee = [[Norbert Rolles|Rolles]] ([[Luxembourg]])
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1982 FIFA World Cup qualification – UEFA Group 2|1982 FIFA World Cup qualification Group 2]]
+| date = 28 October 1980
+|team1 = {{fb-rt|FRA|1974}}
+|score = 2–0
+|report=[http://www.soccerscene.ie/ss_gen/matchdetails.php?id=185&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Michel Platini|Platini]] {{goal|11}}<br>[[Jacques Zimako|Zimako]] {{goal|77}}
+|goals2 =
+|stadium = [[Parc des Princes]]
+|location = [[Paris]], France
+| attendance = 44,800
+| referee = [[Augusto Lamo Castillo|Castillo]] (France)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[1982 FIFA World Cup qualification – UEFA Group 2|1982 FIFA World Cup qualification Group 2]]
+| date = 19 November 1980
+|team1 = {{fb-rt|IRL}}
+|score = 6–0
+|report=[http://www.soccerscene.ie/ss_gen/matchdetails.php?id=186&level=sssenior Report]
+|team2 = {{fb|CYP|1960}}
+|goals1 = [[Gerry Daly|Daly]] {{goal|10|pen.|23}}<br>[[Tony Grealish|Grealish]] {{goal|24}}<br>[[Michael Robinson (footballer)|Robinson]] {{goal|28}}<br>[[Frank Stapleton|Stapleton]] {{goal|46}}<br>[[Chris Hughton|Hughton]] {{goal|65}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 25,000
+| referee = [[Eysteinn Guðmundsson|Guðmundsson]] ([[Iceland]])
+|result = W
+}}
+
+===1981===
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 24 February 1981
+|team1 = {{fb-rt|IRL}}
+|score = 1–3
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=187&level=sssenior Report]
+|team2 = {{fb|WAL}}
+|goals1 = [[Tony Grealish|Grealish]] {{goal|25}}
+|goals2 = [[Paul Price (footballer)|Price]] {{goal|34}}<br>[[Terrence Boyle|Boyle]] {{goal|38}}<br>[[Terry Yorath|Yorath]] {{goal|89}}
+|stadium = [[Tolka Park]]
+|location = [[Dublin]], Ireland
+| attendance = 15,000
+| referee = [[Peter Reeves|Reeves]] (England)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[1982 FIFA World Cup qualification – UEFA Group 2|1982 FIFA World Cup qualification Group 2]]
+| date = 25 March 1981
+|team1 = {{fb-rt|BEL}}
+|score = 1–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=188&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Jan Ceulemans|Ceulemans]] {{goal|88}}
+|goals2 =
+|stadium = [[Heysel Stadium|Stade du Heysel]]
+|location = [[Brussels]], Belgium
+| attendance = 37,978
+| referee = [[Raúl Joaquim Fernandes Nazare|Nazare]] (Portugal)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 29 April 1981
+|time = {{UTZ|19:00|1}}
+|team1 = {{fb-rt|IRL}}
+|score = 3–1
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=189&level=sssenior Report]
+|team2 = {{fb|TCH}}
+|goals1 = [[Kevin Moran (footballer)|Moran]] {{goal|18||69}}<br>[[Frank Stapleton|Stapleton]] {{goal|75}}
+|goals2 = [[Marián Masný|Masný]] {{goal|55}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 8,000
+| referee = [[Alf Grey|Grey]] (England)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 21 May 1981
+|team1 = {{fb-rt|FRG|name=West Germany B}}
+|score = 3–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=190&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Karl Del'Haye|Del'Haye]] {{goal|50}}<br>[[Friedhelm Funkel|Funkel]] {{goal|62}}<br>[[Helmut Schröder|Schröder]] {{goal|64}}
+|goals2 =
+|stadium = [[Weserstadion]]
+|location = [[Bremen]], West Germany
+| attendance = 4,000
+| referee = [[Peer Frickmann|Frickmann]] (Denmark)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 23 May 1981
+|team1 = {{fb-rt|POL}}
+|score = 3–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=191&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Andrzej Iwan|Iwan]] {{goal|2}}<br>[[David O'Leary|O'Leary]] {{goal|38|o.g.}}<br>[[Roman Ogaza|Ogaza]] {{goal|66}}
+|goals2 =
+|stadium = [[Zdzisław Krzyszkowiak Stadium|Zawisza]]
+|location = [[Bydgoszcz]], Poland
+| attendance = 15,000
+| referee = [[Vasile Tătar|Tătar]] ([[Romania]])
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[1982 FIFA World Cup qualification – UEFA Group 2|1982 FIFA World Cup qualification Group 2]]
+| date = 9 September 1981
+|team1 = {{fb-rt|NED}}
+|score = 2–2
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=192&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Frans Thijssen|Thijssen]] {{goal|11}}<br>[[Arnold Mühren|Mühren]] {{goal|64|pen.}}
+|goals2 = [[Michael Robinson (footballer)|Robinson]] {{goal|40}}<br>[[Frank Stapleton|Stapleton]] {{goal|71}}
+|stadium = [[De Kuip]]
+|location = [[Rotterdam]], Netherlands
+| attendance = 48,000
+| referee = [[Vojtěch Christov|Christov]] ([[Czechoslovakia]])
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1982 FIFA World Cup qualification – UEFA Group 2|1982 FIFA World Cup qualification Group 2]]
+| date = 14 October 1981
+|team1 = {{fb-rt|IRL}}
+|score = 3–2
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=193&level=sssenior Report]
+|team2 = {{fb|FRA|1974}}
+|goals1 = [[Philippe Mahut|Mahut]] {{goal|3|o.g.}}<br>[[Frank Stapleton|Stapleton]] {{goal|23}}<br>[[Michael Robinson (footballer)|Robinson]] {{goal|39}}
+|goals2 = [[Bruno Bellone|Bellone]] {{goal|9}}<br>[[Michel Platini|Platini]] {{goal|83}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 55,000
+| referee = [[Ulf Eriksson (referee)|Eriksson]] (Sweden)
+|result = W
+}}
+
+===1982===
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 28 April 1982
+|team1 = {{fb-rt|ALG}}
+|score = 2–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=194&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Salah Assad|Assad]] {{goal|15}}<br>[[Rabah Madjer|Madjer]] {{goal|64}}
+|goals2 =
+|stadium = [[Stade 5 Juillet 1962|Olympic Stadium]]
+|location = [[Algiers]], [[Algeria]]
+| attendance = 65,000
+| referee = [[Daniel Lambert (referee)|Lambert]] (France)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 22 May 1982
+|team1 = {{fb-rt|CHI}}
+|score = 1–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=195&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Miguel Ángel Gamboa|Gamboa]] {{goal|1}}
+|goals2 =
+|stadium = [[Estadio Nacional de Chile|Estadio Nacional]]
+|location = [[Santiago]], Chile
+| attendance = 16,000
+| referee = [[Guillermo Ojeda|Ojeda]] ([[Chile]])
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 27 May 1982
+|team1 = {{fb-rt|BRA|1968}}
+|score = 7–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=196&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Falcão]] {{goal|32}}<br>[[Sócrates]] {{goal|53||73}}<br>[[Serginho Chulapa|Serginho]] {{goal|64||75}}<br>[[Luíz Carlos Ferreira|Luizinho]] {{goal|68}}<br>[[Zico (footballer)|Zico]] {{goal|78}}
+|goals2 =
+|stadium = [[Estádio Parque do Sabiá]]
+|location = [[Uberlândia]], Brazil
+| attendance = 72,733
+| referee = [[Romualdo Arppi Filho|Filho]] (Brazil)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 30 May 1982
+|team1 = {{fb-rt|TRI}}
+|score = 2–1
+|report=[http://www.soccerscene.ie/ss_gen/matchdetails.php?id=197&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Ralph Nelson (footballer)|Nelson]] {{goal}}<br>[[Frank Haynes (footballer)|Haynes]] {{goal}}
+|goals2 = [[Liam Brady|Brady]] {{goal}}
+|stadium = [[Arima Stadium]]
+|location = [[Port of Spain]], [[Trinidad and Tobago]]
+| attendance =  6,000
+| referee =
+|note = It has been subsequently claimed by manager [[Eoin Hand]] that the Republic of Ireland actually lost 1–2 to a local club side on 30 May, then defeated [[Trinidad and Tobago national football team|Trinidad and Tobago]] 3–0 on 3 June, but the [[Trinidad and Tobago Football Association]] swapped around the results so that the first game was the "official" international and the second game reclassified as a friendly. In the absence of any media reports or [[Football Association of Ireland|FAI]] officials, there was no-one to gainsay them<ref>{{Cite news |url-status=live |archive-date=Jun 19, 2018 |archive-url=https://web.archive.org/web/20180619163456/https://www.pressreader.com/ireland/irish-independent/20111006/283785670602817 |url=https://www.pressreader.com/ireland/irish-independent/20111006/283785670602817 |title=Minnows Bite |date=2011-10-06 |first=David |last=Kelly |publisher=[[Irish Independent]] |language=en |access-date=23 August 2023 |via=[[PressReader]]}}</ref><ref>{{cite web|url=https://www.irishexaminer.com/sport/soccer/the-kieran-shannon-interview-eoin-was-never-handed-anything-462636.html|title=The Kieran Shannon Interview: Eoin was never handed anything|date=11 November 2017}}</ref>
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1984 qualifying Group 7]]
+| date = 22 September 1982
+|team1 = {{fb-rt|NED}}
+|score = 2–1
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=198&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Dick Schoenaker|Schoenaker]] {{goal|1}}<br>[[Ruud Gullit|Gullit]] {{goal|64}}
+|goals2 = [[Gerry Daly|Daly]] {{goal|79}}
+|stadium = [[De Kuip]]
+|location = [[Rotterdam]], Netherlands
+| attendance = 20,500
+| referee = [[Ivan Gregr|Gregr]] ([[Czechoslovakia]])
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1984 qualifying Group 7]]
+| date = 13 October 1982
+|team1 = {{fb-rt|IRL}}
+|score = 2–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=199&level=sssenior Report]
+|team2 = {{fb|ISL}}
+|goals1 = [[Frank Stapleton|Stapleton]] {{goal|36}}<br>[[Tony Grealish|Grealish]] {{goal|75}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 23,371
+| referee = [[Paul Rion|Rion]] (Belgium)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1984 qualifying Group 7]]
+| date = 17 November 1982
+|team1 = {{fb-rt|IRL}}
+|score = 3–3
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=200&level=sssenior Report]
+|team2 = {{fb|ESP}}
+|goals1 = [[Ashley Grimes (Irish footballer)|Grimes]] {{goal|2}}<br>[[Frank Stapleton|Stapleton]] {{goal|64||76}}
+|goals2 = [[Antonio Maceda|Maceda]] {{goal|31}}<br>[[Mick Martin|Martin]] {{goal|47|o.g.}}<br>[[Víctor Muñoz (footballer, born 1957)|Muñoz]] {{goal|60}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 35,000
+| referee = [[Jan Redelfs|Redelfs]] (West Germany)
+|result = D
+}}
+
+===1983===
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1984 qualifying Group 7]]
+| date = 30 March 1983
+|team1 = {{fb-rt|MLT}}
+|score = 0–1
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=201&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Frank Stapleton|Stapleton]] {{goal|89}}
+|stadium = [[Ta'Qali Stadium|National Stadium]]
+|location = [[Ta'Qali]], [[Malta]]
+| attendance = 6,487
+| referee = [[Adolf Mathias|Mathias]] (Austria)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1984 qualifying Group 7]]
+| date = 27 April 1983
+|team1 = {{fb-rt|ESP}}
+|score = 2–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=202&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Santillana (footballer)|Santillana]] {{goal|49}}<br>[[Hipólito Rincón|Rincón]] {{goal|89}}
+|goals2 =
+|stadium = [[Estadio La Romareda]]
+|location = [[Zaragoza]], Spain
+| attendance = 45,000
+| referee = [[Valeri Butenko|Butenko]] (Soviet Union)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1984 qualifying Group 7]]
+| date = 21 September 1983
+|team1 = {{fb-rt|ISL}}
+|score = 0–3
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=203&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Gary Waddock|Waddock]] {{goal|16}}<br>[[Michael Robinson (footballer)|Robinson]] {{goal|21}}<br>[[Mickey Walsh|Walsh]] {{goal|81}}
+|stadium = [[Laugardalsvöllur]]
+|location = [[Reykjavík]], [[Iceland]]
+| attendance = 13,706
+| referee = [[Gérard Biguet|Biguet]] (France)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1984 qualifying Group 7]]
+| date = 12 October 1983
+|team1 = {{fb-rt|IRL}}
+|score = 2–3
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=204&level=sssenior Report]
+|team2 = {{fb|NED}}
+|goals1 = [[Gary Waddock|Waddock]] {{goal|7}}<br>[[Liam Brady|Brady]] {{goal|35|pen.}}
+|goals2 = [[Ruud Gullit|Gullit]] {{goal|51||75}}<br>[[Marco van Basten|van Basten]] {{goal|65}}
+|stadium = [[Dalymount Park]]
+|location = [[Dublin]], Ireland
+| attendance = 28,000
+| referee = [[André Daina|Daina]] (Switzerland)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1984 qualifying Group 7]]
+| date = 16 November 1983
+|team1 = {{fb-rt|IRL}}
+|score = 8–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=205&level=sssenior Report]
+|team2 = {{fb|MLT}}
+|goals1 = [[Mark Lawrenson|Lawrenson]] {{goal|25||63}}<br>[[Frank Stapleton|Stapleton]] {{goal|28|pen.}}<br>[[Kevin O'Callaghan|O'Callaghan]] {{goal|35}}<br>[[Kevin Sheedy (Irish footballer)|Sheedy]] {{goal|74}}<br>[[Liam Brady|Brady]] {{goal|76||88}}<br>[[Gerry Daly|Daly]] {{goal|86}}
+|goals2 =
+|stadium = [[Dalymount Park]]
+|location = [[Dublin]], Ireland
+| attendance = 11,000
+| referee = [[Ole Amundsen|Amundsen]] (Denmark)
+|result = W
+}}
+
+===1984===
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 4 April 1984
+|team1 = {{fb-rt|ISR}}
+|score = 3–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=206&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Eli Ohana|Ohana]] {{goal|3}}<br>[[Zahi Armeli|Armeli]] {{goal|62}}<br>[[Moshe Sinai|Sinai]] {{goal|65}}
+|goals2 =
+|stadium = [[Bloomfield Stadium]]
+|location = [[Tel Aviv]], [[Israel]]
+| attendance = 10,000
+| referee = [[Jean-Marie Lartigot|Lartigot]] (France)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 23 May 1984
+|team1 = {{fb-rt|IRL}}
+|score = 0–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=207&level=sssenior Report]
+|team2 = {{fb|POL}}
+|goals1 =
+|goals2 =
+|stadium = [[Dalymount Park]]
+|location = [[Dublin]], Ireland
+| attendance = 8,000
+| referee = [[George Courtney|Courtney]] (England)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Kirin Cup|1984 Japan Cup]]
+| date = 3 June 1984
+|team1 = {{fb-rt|CHN}}
+|score = 0–1
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=208&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Eamonn O'Keefe|O'Keefe]] {{goal|57}}
+|stadium = [[Maruyama Stadium]]
+|location = [[Sapporo]], Japan
+| attendance =
+|referee =
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 8 August 1984
+|team1 = {{fb-rt|IRL}}
+|score = 0–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=209&level=sssenior Report]
+|team2 = {{fb|MEX}}
+|goals1 =
+|goals2 =
+|stadium = [[Dalymount Park]]
+|location = [[Dublin]], Ireland
+| attendance = 5,100
+| referee = [[Jakob Baumann|Baumann]] (Switzerland)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1986 FIFA World Cup qualification – UEFA Group 6|1986 FIFA World Cup qualification Group 6]]
+| date = 12 September 1984
+|team1 = {{fb-rt|IRL}}
+|score = 1–0
+|report=[http://www.soccerscene.ie/ss_gen/matchdetails.php?id=210&level=sssenior Report]
+|team2 = {{fb|URS}}
+|goals1 = [[Mickey Walsh|Walsh]] {{goal|64}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 45,000
+| referee = [[Jan Keizer (referee)|Keizer]] (Netherlands)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1986 FIFA World Cup qualification – UEFA Group 6|1986 FIFA World Cup qualification Group 6]]
+| date = 17 October 1984
+|team1 = {{fb-rt|NOR}}
+|score = 1–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=211&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Pål Jacobsen|Jacobsen]] {{goal|42}}
+|goals2 =
+|stadium = [[Ullevaal]]
+|location = [[Oslo]], Norway
+| attendance = 15,379
+| referee = [[Klaus Scheurell|Scheurell]] ([[East Germany]])
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[1986 FIFA World Cup qualification – UEFA Group 6|1986 FIFA World Cup qualification Group 6]]
+| date = 14 November 1984
+|team1 = {{fb-rt|DEN}}
+|score = 3–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=212&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Preben Elkjær|Elkjær]] {{goal|30||46}}<br>[[Søren Lerby|Lerby]] {{goal|55}}
+|goals2 =
+|stadium = [[Idrætsparken]]
+|location = [[Copenhagen]], Denmark
+| attendance = 45,300
+| referee = [[Robert Würtz|Würtz]] (France)
+|result = L
+}}
+
+===1985===
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 5 February 1985
+|team1 = {{fb-rt|IRL}}
+|score = 1–2
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=213&level=sssenior Report]
+|team2 = {{fb|ITA}}
+|goals1 = [[Gary Waddock|Waddock]] {{goal|53}}
+|goals2 = [[Paolo Rossi|Rossi]] {{goal|5|pen.}}<br>[[Alessandro Altobelli|Altobelli]] {{goal|18}}
+|stadium = [[Dalymount Park]]
+|location = [[Dublin]], Ireland
+| attendance = 40,000
+| referee = [[Jan Keizer (referee)|Keizer]] (Netherlands)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 27 February 1985
+|team1 = {{fb-rt|ISR}}
+|score = 0–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=214&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 =
+|stadium = [[Ramat Gan Stadium]]
+|location = [[Ramat Gan]], [[Israel]]
+| attendance = 3,000
+| referee = [[Pietro d'Elia|d'Elia]] (Italy)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 26 March 1985
+|team1 = {{fb-rt|ENG}}
+|score = 2–1
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=215&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Trevor Steven|Steven]] {{goal|45}}<br>[[Gary Lineker|Lineker]] {{goal|76}}
+|goals2 = [[Liam Brady|Brady]] {{goal|88}}
+|stadium = [[Wembley Stadium (1923)|Wembley Stadium]]
+|location = London, England
+| attendance = 34,793
+| referee = [[George Smith (referee)|Smith]] (Scotland)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[1986 FIFA World Cup qualification – UEFA Group 6|1986 FIFA World Cup qualification Group 6]]
+| date = 1 May 1985
+|team1 = {{fb-rt|IRL}}
+|score = 0–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=216&level=sssenior Report]
+|team2 = {{fb|NOR}}
+|goals1 =
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 18,500
+| referee = [[Lajos Németh|Németh]] (Hungary)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 26 May 1985
+|team1 = {{fb-rt|IRL}}
+|score = 0–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=217&level=sssenior Report]
+|team2 = {{fb|ESP}}
+|goals1 =
+|goals2 =
+|stadium = [[Flower Lodge]]
+|location = [[Cork (city)|Cork]], Ireland
+| attendance = 15,000
+| referee = [[Franz Gächter|Gächter]] (Switzerland)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1986 FIFA World Cup qualification – UEFA Group 6|1986 FIFA World Cup qualification Group 6]]
+| date = 2 June 1985
+|team1 = {{fb-rt|IRL}}
+|score = 3–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=218&level=sssenior Report]
+|team2 = {{fb|SUI}}
+|goals1 = [[Frank Stapleton|Stapleton]] {{goal|7}}<br>[[Tony Grealish|Grealish]] {{goal|33}}<br>[[Kevin Sheedy (Irish footballer)|Sheedy]] {{goal|57}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 17,300
+| referee = [[Paolo Bergamo|Bergamo]] (Italy)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1986 FIFA World Cup qualification – UEFA Group 6|1986 FIFA World Cup qualification Group 6]]
+| date = 11 September 1985
+|team1 = {{fb-rt|SUI}}
+|score = 0–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=219&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 =
+|stadium = [[Wankdorf Stadion]]
+|location = [[Bern]], Switzerland
+| attendance = 24,000
+| referee = [[Emilio Soriano Aladren|Aladrén]] (Spain)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1986 FIFA World Cup qualification – UEFA Group 6|1986 FIFA World Cup qualification Group 6]]
+| date = 16 October 1985
+|team1 = {{fb-rt|URS}}
+|score = 2–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=220&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Fyodor Cherenkov|Cherenkov]] {{goal|61}}<br>[[Oleg Protasov|Protasov]] {{goal|90}}
+|goals2 =
+|stadium = [[Central Lenin Stadium|Lenin Stadium]]
+|location = Moscow, Soviet Union
+| attendance = 100,000
+| referee = [[Paolo Casarin|Casarin]] (Italy)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[1986 FIFA World Cup qualification – UEFA Group 6|1986 FIFA World Cup qualification Group 6]]
+| date = 13 November 1985
+|team1 = {{fb-rt|IRL}}
+|score = 1–4
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=221&level=sssenior Report]
+|team2 = {{fb|DEN}}
+|goals1 = [[Frank Stapleton|Stapleton]] {{goal|6}}
+|goals2 = [[Preben Elkjær|Elkjær]] {{goal|7||76}}<br>[[Michael Laudrup|Laudrup]] {{goal|49}}<br>[[John Sivebæk|Sivebæk]] {{goal|57}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 12,000
+| referee = [[Franz Wöhrer|Wöhrer]] (Austria)
+|result = L
+}}
+
+===1986===
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 26 March 1986
+|team1 = {{fb-rt|IRL}}
+|score = 0–1
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=222&level=sssenior Report]
+|team2 = {{fb|WAL}}
+|goals1 =
+|goals2 = [[Ian Rush|Rush]] {{goal|17}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 16,500
+| referee = [[Kenneth Hope|Hope]] (Scotland)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 23 April 1986
+|team1 = {{fb-rt|IRL}}
+|score = 1–1
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=222&level=sssenior Report]
+|team2 = {{fb|URU}}
+|goals1 = [[Gerry Daly|Daly]] {{goal|38|pen.}}
+|goals2 = [[Rubén Paz|Paz]] {{goal|22}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 14,000
+| referee = [[John Martin (referee)|Martin]] (England)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Iceland Triangular Tournament]]
+| date = 25 May 1986
+|time = {{UTZ|19:00|0}}
+|team1 = {{fb-rt|ISL}}
+|score = 1–2
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=224&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Arnór Guðjohnsen|Guðjohnsen]] {{goal|40}}
+|goals2 = [[Paul McGrath (footballer)|McGrath]] {{goal|34}}<br>[[Gerry Daly|Daly]] {{goal|84}}
+|stadium = [[Laugardalsvöllur]]
+|location = [[Reykjavík]], [[Iceland]]
+| attendance = 4,246
+| referee = [[Joe Worrall (referee)|Worrall]] (England)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Iceland Triangular Tournament]]
+| date = 27 May 1986
+|time = {{UTZ|19:00|0}}
+|team1 = {{fb-rt|TCH}}
+|score = 0–1
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=225&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Frank Stapleton|Stapleton]] {{goal|82}}
+|stadium = [[Laugardalsvöllur]]
+|location = [[Reykjavík]], [[Iceland]]
+| attendance = 1,000
+| referee = [[Óli Olsen|Olsen]] ([[Iceland]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1988 qualifying Group 7]]
+| date = 10 September 1986
+|team1 = {{fb-rt|BEL}}
+|score = 2–2
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=226&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Nicolas Claesen|Claesen]] {{goal|14}}<br>[[Enzo Scifo|Scifo]] {{goal|71}}
+|goals2 = [[Frank Stapleton|Stapleton]] {{goal|18}}<br>[[Liam Brady|Brady]] {{goal|89|pen.}}
+|stadium = [[Constant Vanden Stock]]
+|location = [[Brussels]], Belgium
+| attendance = 22,212
+| referee = [[Ioan Igna|Igna]] ([[Romania]])
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1988 qualifying Group 7]]
+| date = 15 October 1986
+|team1 = {{fb-rt|IRL}}
+|score = 0–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=227&level=sssenior Report]
+|team2 = {{fb|SCO}}
+|goals1 =
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 49,000
+| referee = [[Einar Halle|Halle]] (Norway)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 12 November 1986
+|team1 = {{fb-rt|POL}}
+|score = 1–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=228&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Marek Koniarek|Koniarek]] {{goal|43}}
+|goals2 =
+|stadium = [[Stadion Wojska Polskiego]]
+|location = [[Warsaw]], Poland
+| attendance = 8,000
+| referee = [[Lajos Németh|Németh]] (Hungary)
+|result = L
+}}
+
+===1987===
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1988 qualifying Group 7]]
+| date = 18 February 1987
+|team1 = {{fb-rt|SCO}}
+|score = 0–1
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=229&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Mark Lawrenson|Lawrenson]] {{goal|8}}
+|stadium = [[Hampden Park]]
+|location = [[Glasgow]], Scotland
+| attendance = 45,081
+| referee = [[Henrik van Ettekoven|van Ettekoven]] (Netherlands)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1988 qualifying Group 7]]
+| date = 1 April 1987
+|team1 = {{fb-rt|BUL|1971}}
+|score = 2–1
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=230&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Anio Sadkov|Sadkov]] {{goal|41}}<br>[[Lachezar Tanev|Tanev]] {{goal|81|pen.}}
+|goals2 = [[Frank Stapleton|Stapleton]] {{goal|53}}
+|stadium = [[Vasil Levski]]
+|location = [[Sofia]], [[Bulgaria]]
+| attendance = 35,247
+| referee = [[Carlos Alberto da Silva Valente|Da Silva Valente]] (Portugal)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1988 qualifying Group 7]]
+| date = 29 April 1987
+|team1 = {{fb-rt|IRL}}
+|score = 0–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=231&level=sssenior Report]
+|team2 = {{fb|BEL}}
+|goals1 =
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 49,000
+| referee = [[Heinz Holzmann|Holzmann]] (Austria)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 23 May 1987
+|team1 = {{fb-rt|IRL}}
+|score = 1–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=232&level=sssenior Report]
+|team2 = {{fb|BRA|1968}}
+|goals1 = [[Liam Brady|Brady]] {{goal|30}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 18,000
+| referee = [[Georges Sandoz|Sandoz]] (Austria)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1988 qualifying Group 7]]
+| date = 28 May 1987
+|team1 = {{fb-rt|LUX}}
+|score = 0–2
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=233&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Tony Galvin|Galvin]] {{goal|44}}<br>[[Ronnie Whelan|Whelan]] {{goal|64}}
+|stadium = [[Stade Josy Barthel]]
+|location = [[Luxembourg City|Luxembourg]], [[Luxembourg]]
+| attendance = 4,965
+| referee = [[Renzo Peduzzi|Peduzzi]] (Switzerland)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1988 qualifying Group 7]]
+| date = 9 September 1987
+|team1 = {{fb-rt|IRL}}
+|score = 2–1
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=234&level=sssenior Report]
+|team2 = {{fb|LUX}}
+|goals1 = [[Frank Stapleton|Stapleton]] {{goal|31}}<br>[[Paul McGrath (footballer)|McGrath]] {{goal|74}}
+|goals2 = [[Armin Krings|Krings]] {{goal|29}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 18,000
+| referee = [[Keith Cooper (referee)|Cooper]] (Wales)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1988 qualifying Group 7]]
+| date = 14 October 1987
+|team1 = {{fb-rt|IRL}}
+|score = 2–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=235&level=sssenior Report]
+|team2 = {{fb|BUL|1971}}
+|goals1 = [[Paul McGrath (footballer)|McGrath]] {{goal|52}}<br>[[Kevin Moran (footballer)|Moran]] {{goal|83}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 26,000
+| referee = [[Jan Keizer (referee)|Keizer]] (Netherlands)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 10 November 1987
+|team1 = {{fb-rt|IRL}}
+|score = 5–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=236&level=sssenior Report]
+|team2 = {{fb|ISR}}
+|goals1 = [[John Byrne (footballer, born 1961)|John Byrne]] {{goal|25}}<br>[[David Kelly (association footballer)|David Kelly]] {{goal|46||56||71|pen.}}<br>[[Niall Quinn|Quinn]] {{goal|83}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 9,500
+| referee = [[Neil Midgley (referee)|Midgley]] (England)
+|result = W
+}}
+
+===1988===
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 23 March 1988
+|team1 = {{fb-rt|IRL}}
+|score = 2–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=237&level=sssenior Report]
+|team2 = {{fb|ROU|1965}}
+|goals1 = [[Kevin Moran (footballer)|Moran]] {{goal|30}}<br>[[David Kelly (association footballer)|David Kelly]] {{goal|90}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 30,000
+| referee = [[John Martin (referee)|Martin]] (England)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 27 April 1988
+|team1 = {{fb-rt|IRL}}
+|score = 2–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=238&level=sssenior Report]
+|team2 = {{fb|YUG}}
+|goals1 = [[Mick McCarthy|McCarthy]] {{goal|24}}<br>[[Kevin Moran (footballer)|Moran]] {{goal|65}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 12,000
+| referee = [[George Smith (referee)|Smith]] (Scotland)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 22 May 1988
+|team1 = {{fb-rt|IRL}}
+|score = 3–1
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=239&level=sssenior Report]
+|team2 = {{fb|POL}}
+|goals1 = [[Kevin Sheedy (Irish footballer)|Sheedy]] {{goal|12}}<br>[[Tony Cascarino|Cascarino]] {{goal|31}}<br>[[John Sheridan (footballer)|Sheridan]] {{goal|40}}
+|goals2 = [[Robert Warzycha|Warzycha]] {{goal|65}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 18,500
+| referee = [[Ffrangcon Roberts|Roberts]] (Wales)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 1 June 1988
+|team1 = {{fb-rt|NOR}}
+|score = 0–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=240&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 =
+|stadium = [[Ullevaal]]
+|location = [[Oslo]], Norway
+| attendance = 9,494
+| referee = [[Henning Lund-Sørensen|Lund-Sørensen]] (Denmark)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1988 Group 2]]
+|date=12 June 1988
+|time = {{UTZ|15:30|2}}
+|team1={{fb-rt|ENG}}
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=241&level=sssenior Report]
+|score=0–1
+|team2={{fb|IRL}}
+|goals1=
+|goals2=[[Ray Houghton|Houghton]] {{goal|6}}
+|stadium=[[Gottlieb-Daimler-Stadion|Neckarstadion]]
+|location = [[Stuttgart]], Germany
+| attendance = 51,573
+| referee = [[Siegfried Kirschen|Kirschen]] ([[East Germany]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1988 Group 2]]
+|date=15 June 1988
+|time = {{UTZ|20:15|2}}
+|team1={{fb-rt|IRL}}
+|report=[http://www.soccerscene.ie/ss_gen/matchdetails.php?id=242&level=sssenior Report]
+|score=1–1
+|team2={{fb|URS}}
+|goals1=[[Ronnie Whelan|Whelan]] {{goal|38}}
+|goals2=[[Oleg Protassov|Protassov]] {{goal|74}}
+|stadium=[[Niedersachsenstadion]]
+|location = [[Hanover]], Germany
+| attendance = 38,308
+| referee = [[Emilio Soriano Aladren|Soriano Aladren]] (Spain)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[UEFA Euro 1988 Group 2]]
+|date=18 June 1988
+|time = {{UTZ|15:30|2}}
+|team1={{fb-rt|IRL}}
+|report=[http://www.soccerscene.ie/ss_gen/matchdetails.php?id=243&level=sssenior Report]
+|score=0–1
+|team2={{fb|NED}}
+|goals1=
+|goals2=[[Wim Kieft|Kieft]] {{goal|82}}
+|stadium=[[Parkstadion]]
+|location = [[Gelsenkirchen]], Germany
+| attendance = 60,800
+| referee = [[Horst Brummeier|Brummeier]] (Austria)
+|result = L
+}}
+{{football box collapsible|format=1
+|round = [[1990 FIFA World Cup qualification – UEFA Group 6|1990 FIFA World Cup qualification Group 6]]
+| date = 14 September 1988
+|team1 = {{fb-rt|NIR}}
+|score = 0–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=244&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 =
+|stadium = [[Windsor Park]]
+|location = [[Belfast]], [[Northern Ireland]]
+| attendance = 19,873
+| referee = [[Michel Vautrot|Vautrot]] (France)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 19 October 1988
+|team1 = {{fb-rt|IRL}}
+|score = 4–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=245&level=sssenior Report]
+|team2 = {{fb|TUN|1959}}
+|goals1 = [[Tony Cascarino|Cascarino]] {{goal|26||44}}<br>[[John Aldridge|Aldridge]] {{goal|45}}<br>[[Kevin Sheedy (Irish footballer)|Sheedy]] {{goal|87}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 12,000
+| referee = [[Alan Snoddy|Snoddy]] ([[Northern Ireland]])
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1990 FIFA World Cup qualification – UEFA Group 6|1990 FIFA World Cup qualification Group 6]]
+| date = 16 November 1988
+|team1 = {{fb-rt|ESP}}
+|score = 2–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=246&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 = [[Manolo (footballer, born 1965)|Manolo]] {{goal|52}}<br>[[Emilio Butragueño|Butragueño]] {{goal|66}}
+|goals2 =
+|stadium = [[Estadio Benito Villamarín]]
+|location = [[Seville]], Spain
+| attendance = 50,000
+| referee = [[Yuri Savchenko|Savchenko]] ([[USSR]])
+|result = L
+}}
+
+===1989===
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 7 February 1989
+|team1 = {{fb-rt|IRL}}
+|score = 0–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=247&level=sssenior Report]
+|team2 = {{fb|FRA|1974}}
+|goals1 =
+|goals2 =
+|stadium = [[Dalymount Park]]
+|location = [[Dublin]], Ireland
+| attendance = 22,000
+| referee = [[John Lloyd (referee)|Lloyd]] (Wales)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1990 FIFA World Cup qualification – UEFA Group 6|1990 FIFA World Cup qualification Group 6]]
+| date = 8 March 1989
+|team1 = {{fb-rt|HUN|1957}}
+|score = 0–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=248&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 =
+|stadium = [[Nepstadion]]
+|location = [[Budapest]], Hungary
+| attendance = 33,966
+| referee = [[Zoran Petrović (referee)|Petrović]] ([[Yugoslavia]])
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1990 FIFA World Cup qualification – UEFA Group 6|1990 FIFA World Cup qualification Group 6]]
+| date = 26 April 1989
+|team1 = {{fb-rt|IRL}}
+|score = 1–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=249&level=sssenior Report]
+|team2 = {{fb|ESP}}
+|goals1 = [[José Miguel González Martín|Míchel]] {{goal|16|o.g.}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 49,600
+| referee = [[Horst Brummeier|Brummeier]] (Austria)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1990 FIFA World Cup qualification – UEFA Group 6|1990 FIFA World Cup qualification Group 6]]
+| date = 28 May 1989
+|team1 = {{fb-rt|IRL}}
+|score = 2–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=250&level=sssenior Report]
+|team2 = {{fb|MLT}}
+|goals1 = [[Ray Houghton|Houghton]] {{goal|32}}<br>[[Kevin Moran (footballer)|Moran]] {{goal|55}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 48,000
+| referee = [[José Rosa dos Santos|dos Santos]] (Portugal)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1990 FIFA World Cup qualification – UEFA Group 6|1990 FIFA World Cup qualification Group 6]]
+| date = 4 June 1989
+|team1 = {{fb-rt|IRL}}
+|score = 2–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=251&level=sssenior Report]
+|team2 = {{fb|HUN|1957}}
+|goals1 = [[Paul McGrath (footballer)|McGrath]] {{goal|34}}<br>[[Tony Cascarino|Cascarino]] {{goal|80}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 48,600
+| referee = [[Erik Nervik|Nervik]] (Norway)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[Exhibition game|Friendly]]
+| date = 6 September 1989
+|team1 = {{fb-rt|IRL}}
+|score = 1–1
+|report= https://italia1990.com/friendlies/republic-ireland-west-germany-2/
+|team2 = {{fb|FRG}}
+|goals1 = [[Frank Stapleton|Stapleton]] {{goal|10}}
+|goals2 = [[Hans Dorfner|Dorfner]] {{goal|33}}
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 48,000
+| referee = [[Frans Van den Wijngaert|Van den Wijngaert]] (Belgium)
+|result = D
+}}
+{{football box collapsible|format=1
+|round = [[1990 FIFA World Cup qualification – UEFA Group 6|1990 FIFA World Cup qualification Group 6]]
+| date = 11 October 1989
+|team1 = {{fb-rt|IRL}}
+|score = 3–0
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=253&level=sssenior Report]
+|team2 = {{fb|NIR}}
+|goals1 = [[Ronnie Whelan|Whelan]] {{goal|43}}<br>[[Tony Cascarino|Cascarino]] {{goal|47}}<br>[[Ray Houghton|Houghton]] {{goal|57}}
+|goals2 =
+|stadium = [[Lansdowne Road]]
+|location = [[Dublin]], Ireland
+| attendance = 45,800
+| referee = [[Pietro D'Elia|D'Elia]] (Italy)
+|result = W
+}}
+{{football box collapsible|format=1
+|round = [[1990 FIFA World Cup qualification – UEFA Group 6|1990 FIFA World Cup qualification Group 6]]
+| date = 15 November 1989
+|team1 = {{fb-rt|MLT}}
+|score = 0–2
+|report= [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=254&level=sssenior Report]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[John Aldridge|Aldridge]] {{goal|30||68|pen.}}
+|stadium = [[Ta'Qali Stadium|National Stadium]]
+|location = [[Ta'Qali]], [[Malta]]
+| attendance = 5,000
+| referee = [[Jaap Uilenberg|Uilenberg]] (Netherlands)
+|result = W
+}}
+
+==References==
+{{reflist}}
+
+==See also==
+* [[Republic of Ireland national football team 1970s results]]
+* [[Republic of Ireland national football team 1990s results]]
+
+{{Republic of Ireland national football team}}
+{{Football results UEFA}}
+
+{{DEFAULTSORT:National Football Team 1980s Results}}
+[[Category:Republic of Ireland national football team results|1980s]]
+[[Category:1979–80 in Republic of Ireland association football]]
+[[Category:1980–81 in Republic of Ireland association football]]
+[[Category:1981–82 in Republic of Ireland association football]]
+[[Category:1982–83 in Republic of Ireland association football]]
+[[Category:1983–84 in Republic of Ireland association football]]
+[[Category:1984–85 in Republic of Ireland association football]]
+[[Category:1985–86 in Republic of Ireland association football]]
+[[Category:1986–87 in Republic of Ireland association football]]
+[[Category:1987–88 in Republic of Ireland association football]]
+[[Category:1988–89 in Republic of Ireland association football]]
+[[Category:1989–90 in Republic of Ireland association football]]
