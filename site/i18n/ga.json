@@ -423,9 +423,9 @@
 "All results": "Gach toradh",
 ", which now opens on DAZN.": ", a osclaíonn anois ar DAZN.",
 "Italia ’90: Ireland v Romania": "Italia ’90: Éire v an Rómáin",
-"Euro ’88: how Ireland got there": "Euro ’88: mar a bhain Éire amach é",
-"O’Leary’s penalty and a first World Cup quarter-final": "Cic pionóis O’Leary agus an chéad chluiche ceathrú ceannais i gCorn an Domhain",
-"Mackay’s goal in Sofia, Houghton’s in Stuttgart": "Cúl Mackay in Sóifia, cúl Houghton in Stuttgart",
+"Euro ’88: how Ireland got there": "Euro ’88: conas a shroich Éire é",
+"O’Leary’s penalty and a first World Cup quarter-final": "Cic éirice O’Leary agus an chéad cheathrú ceannais i gCorn an Domhain",
+"Mackay’s goal in Sofia, Houghton’s in Stuttgart": "Cúl Mackay i Sóifia, cúl Houghton in Stuttgart",
 "Euro ’88 campaign": "Feachtas Euro ’88",
 "The full story": "An scéal iomlán",
 "Ireland 0–0 Romania, 5–4 on penalties: Italia ’90": "Éire 0–0 an Rómáin, 5–4 ar chiceanna pionóis: Italia ’90",
@@ -496,7 +496,46 @@
 "Search results": "Cuardaigh na torthaí",
 "Decade": "Deich mbliana",
 "Result": "Toradh",
-"Rome. Salvatore Schillaci for Italy": "An Róimh. Salvatore Schillaci don Iodáil"
+"Rome. Salvatore Schillaci for Italy": "An Róimh. Salvatore Schillaci don Iodáil",
+"Add to calendar": "Cuir le féilire",
+"This match only": "An cluiche seo amháin",
+"A one-off download": "Íoslódáil aonuaire",
+"Subscribe to every fixture": "Liostáil do gach cluiche",
+"Updates itself when kick-offs move": "Nuashonraítear é nuair a athraítear amanna tosaithe",
+"Subscribe in Google Calendar": "Liostáil i bhFéilire Google",
+"Opens Google Calendar": "Osclaíonn sé Féilire Google",
+"Download every fixture": "Íoslódáil gach cluiche",
+"A one-off .ics file": "Comhad .ics aonuaire",
+"Explore Ireland": "Éire a fhiosrú",
+"The team": "An fhoireann",
+"Coming up": "Le teacht",
+"All fixtures →": "Gach cluiche →",
+"All results →": "Gach toradh →",
+"Full table →": "An tábla iomlán →",
+"Records →": "Taifid →",
+"Squad →": "Scuad →",
+"History →": "Stair →",
+"Last five": "Na cúig cinn is déanaí",
+"Form": "Foirm",
+"Live": "Beo",
+"Half-time": "Leath-am",
+"Tomorrow": "Amárach",
+"Today": "Inniu",
+"Now": "Anois",
+"UK time": "Am na RA",
+"Fixtures and tables": "Cluichí agus táblaí",
+"This campaign, every group table and the calendar": "An feachtas seo, gach tábla grúpa agus an féilire",
+"The latest squad, and how they are doing at their clubs": "An scuad is déanaí, agus conas atá ag éirí leo lena gclubanna",
+"Every game since 1924, with scorers": "Gach cluiche ó 1924, leis na scórálaithe",
+"Caps, goals and debuts": "Caipíní, cúil agus céad chluichí",
+"The record against every country": "An taifead in aghaidh gach tíre",
+"Biggest wins, top scorers, most caps": "Na buanna is mó, na scórálaithe is fearr, an líon caipíní is mó",
+"Every manager and the Selection Committee years": "Gach bainisteoir agus blianta an Choiste Roghnúcháin",
+"The James Nolan collection, and your own": "Bailiúchán James Nolan, agus do bhailiúchán féin",
+"Nothing else announced yet.": "Níl aon chluiche eile fógartha fós.",
+"The season so far": "An séasúr go dtí seo",
+"Loading the table…": "Ag lódáil an tábla…",
+"No results yet.": "Níl aon torthaí ann fós."
 },
 "patterns": [
 [
@@ -738,6 +777,42 @@
 [
 "^· (.+) UK$",
 "· $1 RA"
+],
+[
+"^In (\\d+) days$",
+"I gceann $1 lá"
+],
+[
+"^In (\\d+) min$",
+"I gceann $1 nóim."
+],
+[
+"^in (\\d+)h$",
+"i gceann $1 u."
+],
+[
+"^(\\d+)(?:st|nd|rd|th)$",
+"$1ú"
+],
+[
+"^(\\d+) pts$",
+"$1 pointe"
+],
+[
+"^(\\d+)W (\\d+)D (\\d+)L$",
+"$1B $2C $3Ca"
+],
+[
+"^(\\d+) played$",
+"$1 imeartha"
+],
+[
+"^One Ireland match on (.+)\\.$",
+"Cluiche amháin ag Éirinn ar {T1}."
+],
+[
+"^(\\d+) Ireland matches on (.+)\\.$",
+"Cluichí ag Éirinn ar {T2}: $1."
 ]
 ],
 "blocks": {

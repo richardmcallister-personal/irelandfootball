@@ -1,4 +1,4 @@
-# Ireland Football: where things stand (2 Nov 2026)
+# Ireland Football: where things stand (7 Nov 2026)
 
 Read CLAUDE.md first.
 
@@ -26,6 +26,10 @@ Static pages from `tools/build_stories.py`: `/matches/ireland-romania-1990/`, `/
 ## Kit library
 
 The Kits page has a new section of 215 shirts (420 photos) from the James Nolan Memorial Collection, added alongside the existing kits. Design and own, wishlist, notes and Buy links come from manutd.wiki's shirts page, with the store at `/collection` (hashed key, this site's KV). Buy links search for the year and type, not the exact shirt. Shirts from 2021 on are listed in `tools/data/kits_extra.csv`, most awaiting photos from Richard. No permission from Eddie O'Mahony yet; Richard has a draft request. Not used for training or leisure tops, prototypes or the LA Galaxy shirts.
+
+## Design
+
+Moved to manutd.wiki's November 2026 design: `site/mu.css` is its stylesheet with Ireland's green and a red for defeats (`--loss`), then Ireland's own rules after the "Ireland additions" marker. Green masthead that stays at the top, Anton for the name, scores and kick-off times, Inter for text, sentence case, white cards on grey, the phone tab bar. One "Add to calendar" menu (`MU.calMenu`) on the hub, match centre and season pages. The hub follows manutd.wiki's: match card with both crests, form and table tiles, Coming up, latest result report with the last five, on this day, the group table and an Explore list (Great days now live there). To take a later manutd.wiki CSS fix, copy its rule across and keep the tokens.
 
 ## Irish version
 

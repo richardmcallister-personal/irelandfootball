@@ -40,38 +40,97 @@
 <link rel="apple-touch-startup-image" media="screen and (device-width: 810px) and (device-height: 1080px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="/assets/splash/2160x1620.png">
 <link rel="apple-touch-startup-image" media="screen and (device-width: 744px) and (device-height: 1133px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="/assets/splash/1488x2266.png">
 <link rel="apple-touch-startup-image" media="screen and (device-width: 744px) and (device-height: 1133px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="/assets/splash/2266x1488.png">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@300;400;500;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;600;700&display=swap">
 <link rel="stylesheet" href="/mu.css">
-<style></style>
+<style>
+.alertRow{display:flex;gap:10px;align-items:center;flex-wrap:wrap} .prefs{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:6px 18px;margin:12px 0 0;font-size:14px} .prefs label{display:flex;gap:8px;align-items:center} .prefs input{width:16px;height:16px;accent-color:var(--red-ink)} #alertStatus{font-size:13px}
+/* hub layout: one column on phones, three on desktop (same as manutd.wiki) */
+.hub{display:grid;grid-template-columns:1fr;gap:0} .hub .sheet{margin-top:12px}
+@media (min-width:900px){.hub{grid-template-columns:repeat(3,minmax(0,1fr));gap:0 16px;align-items:start} .hub .col{display:flex;flex-direction:column;min-width:0} .hub #alerts{grid-column:1/-1}}
+@media (max-width:899px){.hub .col{display:contents} .hub{display:flex;flex-direction:column}
+  #matchSheet{order:1} #lastSheet{order:2} #tiles{order:3} #upSheet{order:4} #miniSheet{order:5} #otdSheet{order:6} #clubform{order:7} #alltime{order:8} #secSheet{order:9} #alerts{order:10}}
+h2.row{display:flex;justify-content:space-between;align-items:baseline;gap:10px} h2.row>span{display:inline-flex;align-items:center;gap:6px}
+/* match card */
+.mc .k{font-size:13px;font-weight:600;color:var(--muted);display:flex;justify-content:space-between;align-items:center;gap:8px} .mc .k .cm{display:inline-flex;align-items:center;gap:6px;min-width:0}
+.mc .pill{font-size:11px;font-weight:600;color:var(--muted);background:var(--tint);padding:3px 8px;border-radius:10px;white-space:nowrap} .mc .pill.live{background:var(--red);color:var(--on-flag)}
+.mc .vs{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:10px;margin:14px 0 8px;font-family:var(--body);font-size:inherit}
+.mc .team{display:flex;flex-direction:column;align-items:center;gap:6px;font-size:14px;font-weight:600;text-align:center} .mc .team img{width:56px!important;height:56px!important;object-fit:contain;margin:0!important}
+.mc .score{font-size:56px;line-height:1;text-align:center} .mc .score small,.mc .time small{display:block;font-family:var(--body);font-size:11px;color:var(--muted);margin-top:4px}
+.mc .time{font-size:36px;line-height:1;text-align:center}
+.mc .line{font-size:13px;color:var(--muted);text-align:center;margin:0 0 12px}
+.mc .acts{display:grid;grid-template-columns:1fr 1fr;gap:8px} .mc .acts .btn,.mc .acts .calmenu>summary{width:100%;justify-content:center;text-align:center} .mc .acts .calmenu{display:block} .mc .acts .btn,.mc .acts .calmenu>summary{white-space:nowrap;padding-left:10px;padding-right:10px}
+.mc .watch{margin-top:12px}
+/* tiles */
+.tiles{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:12px} .tile{background:var(--paper);border-radius:var(--radius);padding:12px 14px;display:flex;flex-direction:column;gap:3px;color:var(--ink);text-decoration:none}
+.tile .k{font-size:12px;font-weight:600;color:var(--muted)} .tile .v{font-size:17px;font-weight:600} .tile .s{font-size:13px;color:var(--muted)}
+/* compact table */
+table.mini{width:100%;border-collapse:collapse;font-size:14px;font-variant-numeric:tabular-nums} table.mini th{font-weight:600;font-size:11px;color:var(--muted);text-align:left;padding:4px 6px} table.mini td{padding:8px 6px;border-top:1px solid var(--rule)} table.mini .n{text-align:right} table.mini tr.us td{background:var(--us);font-weight:700} table.mini td.pos{color:var(--muted)}
+/* rows: fixtures, last five, on this day */
+.uprow{display:grid;grid-template-columns:78px 20px minmax(0,1fr) auto;align-items:center;gap:8px;padding:10px 0;border-top:1px solid var(--rule)}
+.uprow .when{display:flex;flex-direction:column;line-height:1.15} .uprow .dt{font-size:13px;color:var(--muted);white-space:nowrap} .uprow .upko{font-family:var(--score);font-size:22px;line-height:1.1;font-weight:400;color:var(--ink)} .uprow .tz{font-size:12px;color:var(--muted)}
+.uprow .ha{font-size:11px;font-weight:700;color:var(--muted);background:var(--tint);border-radius:4px;text-align:center;padding:2px 0}
+.uprow .o{font-weight:600;font-size:15px;min-width:0} .uprow .o .on{display:inline-flex;align-items:center;gap:8px;color:var(--ink);text-decoration:none} .uprow .o a.on:hover{text-decoration:underline} .uprow .o .on img.crest{width:22px!important;height:22px!important;margin:0!important;flex:none}
+.uprow .o small{display:block;font-weight:400;font-size:13px;color:var(--muted);margin-top:2px} .uprow .cm{display:inline-flex;align-items:center;gap:6px;vertical-align:middle} .uprow .cm img.comp{margin:0!important}
+.uprow.done .dt{font-weight:600} .uprow .res{display:flex;align-items:center;gap:8px} .uprow .res a.sc,.uprow .res span.sc{font-family:var(--score);font-size:22px;color:var(--ink);text-decoration:none;min-width:44px;text-align:right}
+.uprow .yr{font-family:var(--score);font-size:22px;color:var(--red-ink)}
+.uprow .res small{font-size:11px;color:var(--muted)}
+#upcoming .uprow:first-child,#last .uprow:first-child,#otd .uprow:first-child{border-top:0}
+.calic{width:44px;height:44px;display:inline-flex;align-items:center;justify-content:center;border-radius:50%;color:var(--ink);background:var(--tint);cursor:pointer} .calic:hover{color:var(--red-ink)}
+#lastSheet h3.lf{font-size:15px;margin:18px 0 4px}
+/* explore */
+.xgroup h3{font-size:13px;color:var(--muted);font-weight:600;margin:16px 0 2px} .xgroup:first-of-type h3{margin-top:4px}
+.secs{list-style:none;margin:0;padding:0} .secs li{border-top:1px solid var(--rule)} .secs li:first-child{border-top:0} .secs a{display:flex;align-items:center;gap:12px;padding:12px 0;min-height:44px;color:var(--ink);text-decoration:none}
+.secs .ic{width:34px;height:34px;border-radius:8px;background:var(--us);color:var(--red-ink);display:flex;align-items:center;justify-content:center;flex:0 0 auto} .secs .ic svg{width:18px;height:18px} .secs b{display:block;font-size:15px} .secs small{font-size:12px;color:var(--muted)} .secs .ch{margin-left:auto;color:var(--muted)}
+/* space held while cards load */
+#matchSheet{min-height:300px} #lastSheet{min-height:420px} #upSheet{min-height:160px} #miniSheet{min-height:250px}
+@media (max-width:640px){#upcoming .uprow:nth-child(n+4){display:none}}
+</style>
 </head><body><a class="skip" href="#main-content">Skip to main content</a><div class="wrap">
 <header class="mu">
   <a class="brand" href="/"><img src="/assets/crest-88.png" alt="" width="44" height="44" decoding="async"><h1><small>Republic of Ireland</small>Ireland Football</h1></a>
   <div class="from" id="from">Ireland<span>Men's senior team</span></div>
 </header>
 <nav class="munav" aria-label="Sections"></nav>
-<main id="main-content" tabindex="-1">
-
-<div class="hubg">
- <div>
-  <div class="sheet nextm" id="next"><h2>Next match</h2><p class="sub">Loading…</p></div>
-  <div class="sheet" id="last" style="margin-top:12px"><h2>Latest result</h2><p class="sub">Loading…</p></div>
- </div>
- <div>
-  <div class="sheet" id="table"><h2>Group table</h2><p class="sub">Loading…</p></div>
-  <div class="sheet" id="stories" style="margin-top:12px"><h2>Great days</h2><ul class="fxlist"><li style="grid-template-columns:1fr"><span class="o"><a href="/matches/ireland-romania-1990/">Italia ’90: Ireland v Romania</a><small class="sc">O’Leary’s penalty and a first World Cup quarter-final</small></span></li><li style="grid-template-columns:1fr"><span class="o"><a href="/campaigns/euro-1988/">Euro ’88: how Ireland got there</a><small class="sc">Mackay’s goal in Sofia, Houghton’s in Stuttgart</small></span></li></ul></div>
-  <div class="sheet" id="otd" style="margin-top:12px"><h2>On this day</h2><p class="sub">Loading…</p></div>
-  <div class="sheet" id="clubform" style="margin-top:12px" hidden></div>
- </div>
- <div>
-  <div class="sheet" id="alltime"><h2>All-time record</h2><p class="sub">Loading…</p></div>
-  <div class="sheet" id="more" style="margin-top:12px"><h2>More</h2><div class="morelinks"><a href="/results/">Every result</a><a href="/players/">Every player</a><a href="/opponents/">Opponents</a><a href="/records/">Records</a><a href="/managers/">Managers</a><a href="/squad/">Squad</a><a href="/kits/">Kits and crests</a></div></div>
- </div>
-</div>
-
-<div class="sheet" id="alerts">
+<main class="hub" id="main-content" tabindex="-1">
+  <div class="col">
+  <div class="sheet mc" id="matchSheet"><div class="k">Next match</div><p class="line" style="margin-top:12px">Loading…</p></div>
+  <div class="tiles" id="tiles">
+    <a class="tile" id="tileForm" href="/results/"><span class="k">Form</span><span class="v">—</span><span class="s"></span></a>
+    <a class="tile" id="tileTable" href="/season/"><span class="k">Table</span><span class="v">—</span><span class="s"></span></a>
+  </div>
+  <div class="sheet" id="upSheet"><h2 class="row">Coming up <a href="/season/">All fixtures →</a></h2><div id="upcoming"><p class="sub">Loading…</p></div></div>
+  </div>
+  <div class="col">
+  <div class="sheet" id="lastSheet"><h2 class="row">Latest result <a href="/results/">All results →</a></h2><div id="report"><p class="sub">Loading…</p></div><h3 class="lf">Last five</h3><div id="last"></div></div>
+  <div class="sheet" id="otdSheet"><h2 class="row">On this day <a href="/results/">History →</a></h2><p class="sub" id="otdNote" style="margin:0 0 6px"></p><div id="otd"></div></div>
+  </div>
+  <div class="col">
+  <div class="sheet" id="miniSheet"><h2 class="row"><span id="miniName">Group table</span> <a href="/season/">Full table →</a></h2><div id="mini"><p class="sub">Loading the table…</p></div></div>
+  <div class="sheet" id="clubform" hidden></div>
+  <div class="sheet" id="alltime"><h2 class="row">All-time record <a href="/records/">Records →</a></h2><p class="sub">Loading…</p></div>
+  <div class="sheet" id="secSheet"><a id="more"></a><h2 class="row">Explore Ireland</h2>
+    <div class="xgroup"><h3>The team</h3><ul class="secs">
+      <li><a href="/squad/"><span class="ic"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4 4-6 8-6s8 2 8 6"/></svg></span><span><b>Squad</b><small>The latest squad, and how they are doing at their clubs</small></span><span class="ch">›</span></a></li>
+      <li><a href="/season/"><span class="ic"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4"/></svg></span><span><b>Fixtures and tables</b><small>This campaign, every group table and the calendar</small></span><span class="ch">›</span></a></li>
+    </ul></div>
+    <div class="xgroup"><h3>Great days</h3><ul class="secs">
+      <li><a href="/matches/ireland-romania-1990/"><span class="ic"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3 4 6v6c0 5 3.5 8 8 9 4.5-1 8-4 8-9V6l-8-3Z"/></svg></span><span><b>Italia ’90: Ireland v Romania</b><small>O’Leary’s penalty and a first World Cup quarter-final</small></span><span class="ch">›</span></a></li>
+      <li><a href="/campaigns/euro-1988/"><span class="ic"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 21V4M6 4h11l-2 4 2 4H6"/></svg></span><span><b>Euro ’88: how Ireland got there</b><small>Mackay’s goal in Sofia, Houghton’s in Stuttgart</small></span><span class="ch">›</span></a></li>
+    </ul></div>
+    <div class="xgroup"><h3>History</h3><ul class="secs">
+      <li><a href="/results/"><span class="ic"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span><span><b>Every result</b><small>Every game since 1924, with scorers</small></span><span class="ch">›</span></a></li>
+      <li><a href="/players/"><span class="ic"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 11a4 4 0 1 0-8 0M3 21c0-3 3-5 6-5h6c3 0 6 2 6 5"/></svg></span><span><b>Every player</b><small>Caps, goals and debuts</small></span><span class="ch">›</span></a></li>
+      <li><a href="/opponents/"><span class="ic"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4l16 16M20 4 4 20"/></svg></span><span><b>Opponents</b><small>The record against every country</small></span><span class="ch">›</span></a></li>
+      <li><a href="/records/"><span class="ic"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0V4ZM7 6H4a3 3 0 0 0 3 4M17 6h3a3 3 0 0 1-3 4"/></svg></span><span><b>Records</b><small>Biggest wins, top scorers, most caps</small></span><span class="ch">›</span></a></li>
+      <li><a href="/managers/"><span class="ic"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 5h16v11H9l-5 4V5Z"/></svg></span><span><b>Managers</b><small>Every manager and the Selection Committee years</small></span><span class="ch">›</span></a></li>
+      <li><a href="/kits/"><span class="ic"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 4 4 7l2 4 2-1v10h8V10l2 1 2-4-4-3a4 4 0 0 1-8 0Z"/></svg></span><span><b>Kits and crests</b><small>The James Nolan collection, and your own</small></span><span class="ch">›</span></a></li>
+    </ul></div>
+  </div>
+  </div>
+  <div class="sheet" id="alerts">
   <h2>Match alerts</h2>
   <p class="sub" id="alertNote" style="margin:0 0 10px">Team news an hour before kick-off, every goal as it goes in, half-time and the final score, pushed to this device.</p>
-  <div class="alertRow"><button class="btn red" id="alertBtn" type="button">Turn on alerts</button><button class="btn" id="alertTest" type="button" hidden>Send a test</button><span id="alertStatus" class="sub"></span></div>
+  <div class="alertRow"><button class="btn" id="alertBtn" type="button">Turn on alerts</button><button class="btn ghost" id="alertTest" type="button" hidden>Send a test</button><span id="alertStatus" class="sub"></span></div>
   <div class="prefs" id="alertPrefs" hidden>
     <label><input type="checkbox" data-p="kickoff" checked> Kick-off reminder, an hour before</label>
     <label><input type="checkbox" data-p="lineups" checked> Team news when the line-ups are out</label>
@@ -119,34 +178,70 @@ MU.nav('Hub'); MU.checked("archive",document.getElementById("stamp"),"Archive bu
 var $=function(i){return document.getElementById(i)}, E=MU.esc;
 function dt(d,o){return new Date(d+"T12:00:00Z").toLocaleDateString("en-GB",o||{day:"numeric",month:"short",year:"numeric",timeZone:"UTC"})}
 function rc(m){return m.gf>m.ga?"rw":m.gf<m.ga?"rl":"rd"}
-function score(m){return '<span class="'+rc(m)+'">'+m.gf+'–'+m.ga+'</span>'+(m.pw!=null?' <small>'+(m.pw?"won":"lost")+' on pens</small>':'')}
-function ven(h){return h===1?"H":h===-1?"A":"N"}
-function scs(m){var a=(m.sc||[]).map(function(s){return E(s[0])+(s[1]?" "+E(s[1])+"′":"")+(s[2]==="p"?" (pen)":s[2]==="og"?" (og)":"")}); return a.join(", ")}
-function wl(t){return t.w+"W "+t.d+"D "+t.l+"L"}
-function pct(t){return t.p?Math.round(100*t.w/t.p):0}
+function nm(t){return t.name==="Rep. Of Ireland"?"Ireland":t.name}
+function crest(t,size){return MU.crest(t.name,size)||(t.logo?'<img class="crest" src="'+E(t.logo)+'" alt="" width="'+size+'" height="'+size+'" loading="lazy">':'')}
+function comp(name){return '<span class="cm">'+(MU.comp(name,14)||"")+E(String(name||"").replace(/^UEFA /,""))+'</span>'}
+function when(iso){var ms=new Date(iso)-new Date(), d=Math.floor(ms/864e5), h=Math.floor(ms%864e5/36e5); if(ms<0)return "Now"; if(d===0)return h<1?"In "+Math.max(1,Math.floor(ms/6e4))+" min":"Today · in "+h+"h"; if(d===1)return "Tomorrow"; return "In "+d+" days"}
+function ord(n){var s=["th","st","nd","rd"], v=n%100; return n+(s[(v-20)%10]||s[v]||s[0])}
 
-var DONE=/FT|AET|PEN/, DEAD=/CANC|PST|ABD|AWD|WO/;
-function line(f){var us=f.teams.home.id===MU.TEAM, o=us?f.teams.away:f.teams.home; return {o:o,us:us}}
+var DONE=/FT|AET|PEN/, DEAD=/CANC|PST|ABD|AWD|WO/, LIVE=/1H|HT|2H|ET|P|BT|LIVE|INT/;
+function side(f){var home=f.teams.home.id===MU.TEAM; return {home:home,opp:home?f.teams.away:f.teams.home,gf:home?f.goals.home:f.goals.away,ga:home?f.goals.away:f.goals.home}}
+
+// ---- the match card: the live game if there is one, otherwise the next fixture
+function card(f,live){var ko=f.fixture.date, v=f.fixture.venue||{}, H=f.teams.home, A=f.teams.away;
+  var mid=live?'<div class="score">'+f.goals.home+'–'+f.goals.away+'<small>'+E(f.fixture.status.short==="HT"?"Half-time":(f.fixture.status.elapsed||"")+"′")+'</small></div>'
+    :'<div class="time">'+MU.fmtLocal(ko)+'<small>'+(MU.IN_UK?"UK time":MU.fmtUK(ko)+" UK")+'</small></div>';
+  $("matchSheet").innerHTML='<div class="k">'+comp(f.league.name)+'<span class="pill'+(live?" live":"")+'" id="pill">'+(live?"Live":when(ko))+'</span></div>'+
+    '<div class="vs"><div class="team">'+crest(H,56)+E(nm(H))+'</div>'+mid+'<div class="team">'+crest(A,56)+E(nm(A))+'</div></div>'+
+    '<p class="line">'+MU.fmtDate(ko,{weekday:"long",year:"numeric"})+(v.name?' · '+E(v.name):'')+'</p>'+
+    '<div class="acts"><a class="btn" href="/match/?id='+f.fixture.id+'">Match centre</a>'+(live?'<a class="btn ghost" href="/season/">Season</a>':MU.calMenu(f.fixture.id))+'</div>'+
+    '<div class="watch" id="nextWatch" hidden></div>';
+  if(!live&&window.MUWatch)MUWatch.render($("nextWatch"),{comp:f.league.name,ko:ko});
+  if(!live)setInterval(function(){var p=$("pill"); if(p)p.textContent=when(ko)},30000)}
+
+function upRow(f){var s=side(f), ko=f.fixture.date, meta=[comp(f.league.name)]; if(!s.home&&f.fixture.venue&&f.fixture.venue.city)meta.push(E(f.fixture.venue.city));
+  return '<div class="uprow"><span class="when"><span class="dt">'+MU.fmtDate(ko)+'</span><b class="upko">'+MU.fmtLocal(ko)+'</b>'+(MU.IN_UK?'':'<small class="tz">'+MU.fmtUK(ko)+' UK</small>')+'</span><span class="ha">'+(s.home?"H":"A")+'</span>'+
+    '<span class="o"><a class="on" href="/match/?id='+f.fixture.id+'">'+crest(s.opp,22)+E(nm(s.opp))+'</a><small>'+meta.join(' · ')+'</small></span>'+MU.calMenu(f.fixture.id,{icon:true})+'</div>'}
+function doneRow(f){var s=side(f), r=s.gf>s.ga?"W":s.gf<s.ga?"L":"D";
+  return '<div class="uprow done"><span class="when"><span class="dt">'+MU.fmtDate(f.fixture.date)+'</span></span><span class="ha">'+(s.home?"H":"A")+'</span>'+
+    '<span class="o"><a class="on" href="/match/?id='+f.fixture.id+'">'+crest(s.opp,22)+E(nm(s.opp))+'</a><small>'+comp(f.league.name)+'</small></span>'+
+    '<span class="res"><a class="sc" href="/match/?id='+f.fixture.id+'">'+s.gf+'–'+s.ga+'</a>'+MU.form(r)+'</span></div>'}
+
 MU.api("fixtures").then(function(j){var L=(j.response||[]).slice().sort(function(a,b){return a.fixture.timestamp-b.fixture.timestamp});
-  var nx=L.filter(function(f){return !DONE.test(f.fixture.status.short)&&!DEAD.test(f.fixture.status.short)})[0], ls=L.filter(function(f){return DONE.test(f.fixture.status.short)}).pop();
-  if(nx){var x=line(nx), ko=nx.fixture.date; $("next").innerHTML='<h2>Next match</h2><div class="vs">'+(x.us?"Ireland v "+MU.club(x.o.name,20):MU.club(x.o.name,20)+" v Ireland")+'</div><div class="when">'+MU.comp(nx.league.name,20)+E(nx.league.name)+(nx.league.round?" · "+E(nx.league.round):"")+'<br>'+MU.fmtDate(ko,{year:"numeric"})+" · "+MU.fmtKO(ko,true)+(nx.fixture.venue&&nx.fixture.venue.name?"<br>"+E(nx.fixture.venue.name):"")+'</div><p><a class="btn" href="/match/?id='+nx.fixture.id+'">Match centre</a> '+MU.calLink(nx.fixture.id)+'</p><div class="watch" id="nextWatch" hidden></div>'; if(window.MUWatch)MUWatch.render($("nextWatch"),{comp:nx.league.name,ko:ko})}
-  else $("next").innerHTML='<h2>Next match</h2><p class="sub">No fixture announced yet.</p>';
-  if(ls){var y=line(ls), g=ls.goals; $("last").innerHTML='<h2>Latest result</h2><div class="vs">'+E(ls.teams.home.name.replace("Rep. Of Ireland","Ireland"))+" "+g.home+"–"+g.away+" "+E(ls.teams.away.name.replace("Rep. Of Ireland","Ireland"))+'</div><div class="when">'+MU.comp(ls.league.name,20)+E(ls.league.name)+" · "+MU.fmtDate(ls.fixture.date,{year:"numeric"})+'</div><p><a class="btn" href="/match/?id='+ls.fixture.id+'">Report</a> <a class="btn" href="/season/">Season</a></p>'}
-}).catch(function(e){MU.apiDown($("next"),e); $("last").innerHTML='<h2>Latest result</h2><p class="sub">See <a href="/results/">every result</a>.</p>'});
+  var live=L.filter(function(f){return LIVE.test(f.fixture.status.short)&&!DONE.test(f.fixture.status.short)})[0];
+  var up=L.filter(function(f){return !DONE.test(f.fixture.status.short)&&!DEAD.test(f.fixture.status.short)&&!LIVE.test(f.fixture.status.short)});
+  var played=L.filter(function(f){return DONE.test(f.fixture.status.short)}).reverse();
+  if(live)card(live,1); else if(up[0])card(up[0]); else $("matchSheet").innerHTML='<div class="k">Next match</div><p class="line" style="margin-top:12px">No fixture announced yet. <a href="/season/">The season so far</a>.</p>';
+  var rest=up.slice(live?0:1,live?5:6); $("upcoming").innerHTML=rest.length?rest.map(upRow).join(""):'<p class="sub">Nothing else announced yet.</p>';
+  $("last").innerHTML=played.slice(0,5).map(doneRow).join("")||'<p class="sub">No results yet.</p>';
+  var five=played.slice(0,5).map(function(f){var s=side(f); return s.gf>s.ga?"W":s.gf<s.ga?"L":"D"}).reverse().join("");
+  if(five){var t=$("tileForm"), c=function(x){return five.split(x).length-1}; t.querySelector(".v").textContent=c("W")+"W "+c("D")+"D "+c("L")+"L"; t.querySelector(".s").innerHTML="Last five "+MU.form(five)}
+  var ls=played[0]; if(!ls){$("report").innerHTML='<p class="sub">See <a href="/results/">every result</a>.</p>'; return}
+  MU.api("match",{fixture:ls.fixture.id}).then(function(k){var f=k.response&&k.response[0]; $("report").innerHTML=MU.report(f||ls,{label:"Match report"})}).catch(function(){$("report").innerHTML=MU.report(ls,{label:"Match report"})});
+}).catch(function(e){MU.apiDown($("matchSheet"),e); $("report").innerHTML='<p class="sub">See <a href="/results/">every result</a>.</p>'; $("upcoming").innerHTML=''});
+
 MU.api("standings").then(function(j){var rs=(j.response||[]).slice().reverse(), g=null, lg=null;
   rs.forEach(function(r){if(g)return; (r.league.standings||[]).forEach(function(s){if(!g&&s.some(function(t){return t.team.id===MU.TEAM})){g=s; lg=r.league}})});
-  if(!g){$("table").innerHTML='<h2>Group table</h2><p class="sub">No table at the moment.</p>';return}
-  $("table").innerHTML='<h2>'+MU.comp(lg.name,24)+E(lg.name)+'</h2><p class="sub" style="margin:0 0 8px">'+E(g[0].group||"")+'</p><table class="mu"><thead><tr><th></th><th>Team</th><th class="n">P</th><th class="n">GD</th><th class="n">Pts</th></tr></thead><tbody>'+g.map(function(t){var us=t.team.id===MU.TEAM; return '<tr'+(us?' style="background:var(--us);font-weight:600"':'')+'><td>'+t.rank+'</td><td>'+MU.club(t.team.name,14)+'</td><td class="n">'+t.all.played+'</td><td class="n">'+t.goalsDiff+'</td><td class="n"><b>'+t.points+'</b></td></tr>'}).join("")+'</tbody></table>'
-}).catch(function(e){MU.apiDown($("table"),e)});
+  if(!g){$("mini").innerHTML='<p class="sub">No table at the moment.</p>'; $("tileTable").querySelector(".s").textContent="No table at the moment"; return}
+  var me=g.filter(function(t){return t.team.id===MU.TEAM})[0];
+  $("miniName").innerHTML=MU.comp(lg.name,20)+E(lg.name.replace(/^UEFA /,""));
+  $("mini").innerHTML=(g[0].group?'<p class="sub" style="margin:0 0 6px">'+E(g[0].group)+'</p>':'')+'<table class="mini"><thead><tr><th>#</th><th>Team</th><th class="n">P</th><th class="n">GD</th><th class="n">Pts</th></tr></thead><tbody>'+g.map(function(t){return '<tr'+(t.team.id===MU.TEAM?' class="us"':'')+'><td class="pos">'+t.rank+'</td><td>'+MU.club(t.team.name,14)+'</td><td class="n">'+t.all.played+'</td><td class="n">'+(t.goalsDiff>0?"+":"")+t.goalsDiff+'</td><td class="n"><b>'+t.points+'</b></td></tr>'}).join("")+'</tbody></table>';
+  if(me){var t=$("tileTable"); t.querySelector(".v").textContent=ord(me.rank)+" · "+me.points+" pts"; t.querySelector(".s").textContent=(g[0].group||lg.name)+" · "+me.all.played+" played"}
+}).catch(function(e){MU.apiDown($("mini"),e)});
+
 fetch("/history/matches.json").then(function(r){return r.json()}).then(function(L){var t=new Date(), md=String(t.getMonth()+1).padStart(2,"0")+"-"+String(t.getDate()).padStart(2,"0"), hit=L.filter(function(m){return m.d.slice(5)===md}).reverse();
-  $("otd").innerHTML='<h2>On this day</h2>'+(hit.length?'<ul class="fxlist">'+hit.slice(0,5).map(function(m){return '<li class="'+(m.h===1?"home":"away")+'"><span class="d">'+m.d.slice(0,4)+'</span><span class="o">'+MU.club(m.o,14)+'<small class="sc">'+MU.compRow(m,14)+E(m.t)+'</small></span><span class="r" style="font-size:18px">'+score(m)+'</span></li>'}).join("")+'</ul>':'<p class="sub">Ireland have never played on this date.</p>')});
+  $("otdNote").textContent=hit.length?(hit.length===1?"One Ireland match":hit.length+" Ireland matches")+" on "+t.toLocaleDateString("en-GB",{day:"numeric",month:"long"})+".":"Ireland have never played on this date.";
+  $("otd").innerHTML=hit.slice(0,5).map(function(m){var r=m.gf>m.ga?"W":m.gf<m.ga?"L":"D";
+    return '<div class="uprow done"><span class="yr">'+m.d.slice(0,4)+'</span><span class="ha">'+(m.h===1?"H":m.h===-1?"A":"N")+'</span><span class="o">'+MU.club(m.o,22)+'<small>'+MU.compRow(m,14)+E(m.t)+'</small></span><span class="res"><span class="sc">'+m.gf+'–'+m.ga+'</span>'+MU.form(r)+'</span></div>'}).join("")});
+
 fetch("/history/records.json").then(function(r){return r.json()}).then(function(R){var a=R.all;
-  $("alltime").innerHTML='<h2>All-time record</h2><div class="h2h"><div><b>'+a.p+'</b><span>Played</span></div><div class="w"><b>'+a.w+'</b><span>Won</span></div><div><b>'+a.d+'</b><span>Drawn</span></div><div class="l"><b>'+a.l+'</b><span>Lost</span></div></div><p class="sub">Since '+dt(R.span[0])+'. '+a.gf+' scored, '+a.ga+' conceded. Top scorer: <a href="/player/?p='+R.scorers[0].slug+'">'+E(R.scorers[0].name)+'</a> ('+R.scorers[0].goals+'). Most caps: <a href="/player/?p='+R.caps[0].slug+'">'+E(R.caps[0].name)+'</a> ('+R.caps[0].caps+').</p>'});
+  $("alltime").innerHTML='<h2 class="row">All-time record <a href="/records/">Records →</a></h2><div class="h2h"><div><b>'+a.p+'</b><span>Played</span></div><div class="w"><b>'+a.w+'</b><span>Won</span></div><div><b>'+a.d+'</b><span>Drawn</span></div><div class="l"><b>'+a.l+'</b><span>Lost</span></div></div><p class="sub">Since '+dt(R.span[0])+'. '+a.gf+' scored, '+a.ga+' conceded. Top scorer: <a href="/player/?p='+R.scorers[0].slug+'">'+E(R.scorers[0].name)+'</a> ('+R.scorers[0].goals+'). Most caps: <a href="/player/?p='+R.caps[0].slug+'">'+E(R.caps[0].name)+'</a> ('+R.caps[0].caps+').</p>'});
+
 Promise.all([MU.api("squad"),fetch("/api/form").then(function(r){return r.json()})]).then(function(a){var F=a[1].players||{}, pl=(a[0].response&&a[0].response[0]&&a[0].response[0].players)||[], wk=Date.now()-10*864e5;
   var R=pl.map(function(p){return {p:p,x:F[p.id]}}).filter(function(r){var l=r.x&&r.x.last; return l&&l.inSquad&&l.min>0&&new Date(l.d)>wk}).sort(function(u,v){var a=u.x.last,b=v.x.last; return (b.goals*3+b.assists*2)-(a.goals*3+a.assists*2)||parseFloat(b.rating||0)-parseFloat(a.rating||0)}).slice(0,6);
   if(!R.length)return; var e=$("clubform"); e.hidden=false;
-  e.innerHTML='<h2>At their clubs</h2><ul class="fxlist">'+R.map(function(r){var l=r.x.last, s=l.gf>l.ga?"rw":l.gf<l.ga?"rl":"rd"; return '<li style="grid-template-columns:1fr auto"><span class="o">'+E(r.p.name)+'<small class="sc">'+E(r.x.club.name)+' v '+E(l.opp)+' <span class="'+s+'">'+l.gf+'–'+l.ga+'</span></small></span><span style="font-size:13px;text-align:right">'+l.min+'′'+(l.goals?"<br>"+l.goals+(l.goals>1?" goals":" goal"):"")+(l.assists?"<br>"+l.assists+(l.assists>1?" assists":" assist"):"")+'</span></li>'}).join("")+'</ul><p class="sub"><a href="/squad/">The whole squad</a></p>'}).catch(function(){});
+  e.innerHTML='<h2 class="row">At their clubs <a href="/squad/">Squad →</a></h2>'+R.map(function(r){var l=r.x.last, res=l.gf>l.ga?"W":l.gf<l.ga?"L":"D", bits=[l.min+"′"]; if(l.goals)bits.push(l.goals+(l.goals>1?" goals":" goal")); if(l.assists)bits.push(l.assists+(l.assists>1?" assists":" assist"));
+    return '<div class="uprow done" style="grid-template-columns:minmax(0,1fr) auto"><span class="o">'+E(r.p.name)+'<small>'+E(r.x.club.name)+' v '+E(l.opp)+' · '+bits.join(", ")+'</small></span><span class="res"><span class="sc">'+l.gf+'–'+l.ga+'</span>'+MU.form(res)+'</span></div>'}).join("")}).catch(function(){});
 var mh=location.hash==="#more"&&$("more"); if(mh)mh.scrollIntoView();
-
 })();
 </script></body></html>
