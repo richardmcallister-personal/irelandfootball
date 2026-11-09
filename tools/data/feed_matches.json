@@ -780,6 +780,73 @@
 "T. Parrott"
 ]
 },
+"1323292": {
+"bench": [
+"G. Bazunu",
+"M. Travers",
+"A. Idah",
+"J. Dunne",
+"K. Phillips",
+"M. Johnston",
+"L. Scales",
+"K. McAteer",
+"B. Lawal",
+"J. Kenny",
+"C. Ogbene",
+"J. Taylor"
+],
+"city": "Dublin",
+"coach": "Heimir Hallgrímsson",
+"d": "2025-09-06",
+"form": "4-4-2",
+"ga": 2,
+"gf": 2,
+"goals": [
+{
+"d": "Normal Goal",
+"m": 49,
+"n": "E. Ferguson",
+"x": null
+},
+{
+"d": "Normal Goal",
+"m": 90,
+"n": "A. Idah",
+"x": null
+}
+],
+"home": true,
+"id": 1323292,
+"league": "World Cup - Qualification Europe",
+"opp": "Hungary",
+"st": "FT",
+"subs": [
+"M. Doherty",
+"C. Ogbene",
+"J. Cullen",
+"J. Taylor",
+"F. Azaz",
+"A. Idah",
+"S. Szmodics",
+"M. Johnston",
+"J. Knight",
+"K. McAteer"
+],
+"venue": "Aviva Stadium",
+"xi": [
+"C. Kelleher",
+"J. O'Brien",
+"D. O'Shea",
+"N. Collins",
+"M. Doherty",
+"S. Szmodics",
+"J. Cullen",
+"J. Knight",
+"R. Manning",
+"E. Ferguson",
+"F. Azaz"
+]
+},
 "1323306": {
 "bench": [
 "G. Bazunu",
