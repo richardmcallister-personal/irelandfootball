@@ -27,6 +27,12 @@ Static pages from `tools/build_stories.py`: `/matches/ireland-romania-1990/`, `/
 
 The Kits page has a new section of 215 shirts (420 photos) from the James Nolan Memorial Collection, added alongside the existing kits. Design and own, wishlist, notes and Buy links come from manutd.wiki's shirts page, with the store at `/collection` (hashed key, this site's KV). Buy links search for the year and type, not the exact shirt. Shirts from 2021 on are listed in `tools/data/kits_extra.csv`, most awaiting photos from Richard. No permission from Eddie O'Mahony yet; Richard has a draft request. Not used for training or leisure tops, prototypes or the LA Galaxy shirts.
 
+## Ireland in your lifetime
+
+`/lifetime/?y=1975` (add `&vs=2001` to compare two people). Enter a birth year and get: played, won, drawn, lost since then, the first game of that year (or the next one if Ireland didn't play), biggest win and heaviest defeat since, major finals, the opponents faced most often, top scorers (with how many goals have a named scorer) and the managers. Years before 1924 start at the first game. Built in the browser from the archive. The Worker rewrites the page title and preview tags for `?y=`, so a shared link shows that person's numbers in WhatsApp or iMessage. Linked from Explore on the hub and from Records.
+
+The latest manutd.wiki design changes (bordered cards, uppercase section labels, next match leading the hub) were started on 7 Nov and stopped; they sit in `git stash` ("latest manutd design port"), not live.
+
 ## Match reports
 
 `/report/?d=YYYY-MM-DD` for every game from 1986 (416), linked from the score and a "Match report" note on Results, from Opponent pages and from On this day on the hub. Built in the browser from the archive plus `reports.json`: score card with ground, crowd and referee, goals at both ends in order with the running score, shoot-outs kick by kick, debuts, final caps, scorers' Ireland totals, manager, the line-up where the feed has one (2012 on), the record against that opponent with previous and next meetings, and previous and next game. 406 games have a Wikipedia box; 399 have goals that agree with the archive. The rest show the archive's own scorers; see `tools/data/reconcile_reports.txt`. Fixed on the way: Wikipedia's short month names ("2 Jun 2013") were not read, so some debut dates came from the feed instead (Stephen Quinn's was wrong).

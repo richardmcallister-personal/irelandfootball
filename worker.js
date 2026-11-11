@@ -288,12 +288,32 @@ async function calendar(url, env) {
   return new Response(L.map(icsFold).join("\r\n") + "\r\n", { headers: { "content-type": "text/calendar; charset=utf-8", "cache-control": "public, max-age=1800", "content-disposition": (one ? "attachment" : "inline") + '; filename="' + (one ? "ireland-" + one : "ireland-fixtures") + '.ics"', "access-control-allow-origin": "*" } });
 }
 
+// "Ireland in your lifetime": a shared link previews the sender's numbers (WhatsApp, iMessage, Slack read these tags)
+async function lifetimeMeta(html, y, env, u) {
+  try {
+    const L = await (await env.ASSETS.fetch(new Request(u.origin + "/history/matches.json"))).json();
+    const from = Math.max(y, 1924), S = L.filter(m => +m.d.slice(0, 4) >= from);
+    if (y > new Date().getFullYear() || !S.length) return html;
+    const w = S.filter(m => m.gf > m.ga), big = w.slice().sort((a, b) => (b.gf - b.ga) - (a.gf - a.ga) || b.gf - a.gf || (a.d < b.d ? -1 : 1))[0];
+    const esc = s => String(s).replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;");
+    const title = "Ireland since " + y;
+    const desc = S.length + " games, " + w.length + " won" + (big ? ". Biggest win: " + big.gf + "–" + big.ga + " v " + big.o + ", " + big.d.slice(0, 4) : "") + ". Enter your own birth year.";
+    return html.replace(/<title>[^<]*<\/title>/, "<title>" + esc(title) + " · Ireland Football</title>")
+      .replace(/<meta name="description" content="[^"]*">/, '<meta name="description" content="' + esc(desc) + '">')
+      .replace(/<meta property="og:title" content="[^"]*">/, '<meta property="og:title" content="' + esc(title) + '">')
+      .replace(/<meta property="og:description" content="[^"]*">/, '<meta property="og:description" content="' + esc(desc) + '">');
+  } catch (e) { return html }
+}
+
 // Pages and data files. HTML gets the visitor's country for "where to watch" and consent later, so it is never shared from the edge cache.
 async function page(request, env) {
   const res = await env.ASSETS.fetch(request);
   const ct = res.headers.get("content-type") || "";
   if (!/text\/html/.test(ct)) return res;
-  const body = (await res.text()).replace("<head>", '<head><meta name="mu-country" content="' + ((request.cf && request.cf.country) || "").replace(/[^A-Z]/g, "") + '">' + LANG_HEAD);
+  let html = await res.text();
+  const u = new URL(request.url);
+  if (u.pathname === "/lifetime/" && /^\d{4}$/.test(u.searchParams.get("y") || "")) html = await lifetimeMeta(html, +u.searchParams.get("y"), env, u);
+  const body = html.replace("<head>", '<head><meta name="mu-country" content="' + ((request.cf && request.cf.country) || "").replace(/[^A-Z]/g, "") + '">' + LANG_HEAD);
   const h = new Headers(res.headers); h.delete("content-length"); h.set("cache-control", "private, max-age=0, must-revalidate");
   return new Response(body, { status: res.status, headers: h });
 }

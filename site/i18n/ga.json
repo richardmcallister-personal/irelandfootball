@@ -554,7 +554,31 @@
 "The scorers are not on record here.": "Níl na scórálaithe ar taifead anseo.",
 "Goals, ground, crowd and referee: Wikipedia,": "Cúil, staid, slua agus réiteoir: Vicipéid Bhéarla,",
 "Report elsewhere": "Tuairisc in áit eile",
-"No Ireland game on that date.": "Níor imir Éire ar an dáta sin."
+"No Ireland game on that date.": "Níor imir Éire ar an dáta sin.",
+"Ireland in your lifetime": "Éire le linn do shaoil",
+"Enter the year you were born. The results go back to Ireland’s first game in 1924, so it works for parents and grandparents too.": "Cuir isteach an bhliain a rugadh thú. Téann na torthaí siar go dtí an chéad chluiche ag Éirinn i 1924, mar sin oibríonn sé do thuismitheoirí agus do sheantuismitheoirí freisin.",
+"Year you were born": "An bhliain a rugadh thú",
+"Compare with": "Cuir i gcomparáid le",
+"Show me": "Taispeáin",
+"Compare with someone": "Cuir i gcomparáid le duine eile",
+"Share this page": "Roinn an leathanach seo",
+"Link copied.": "Cóipeáladh an nasc.",
+"Two lifetimes": "Dhá shaol",
+"Goals a game": "Cúil sa chluiche",
+"Major finals": "Mórchomórtais",
+"Most often": "Is minice",
+"Biggest win since": "An bua is mó ó shin",
+"Heaviest defeat since": "An briseadh is troime ó shin",
+"Opponents faced most often": "Na foirne is minice a imríodh",
+"Top scorers since": "Príomhscórálaithe ó shin",
+"The first game after you were born": "An chéad chluiche tar éis do bhreithe",
+"Ireland’s first game": "An chéad chluiche ag Éirinn",
+"The story →": "An scéal →",
+"No wins yet.": "Gan bhua fós.",
+"No defeats yet.": "Gan bhriseadh fós.",
+"Swap them:": "Malartaigh iad:",
+"Enter your birth year, then send it to a parent": "Cuir isteach bliain do bhreithe, ansin seol chuig tuismitheoir é",
+"Ireland in your lifetime: enter the year you were born →": "Éire le linn do shaoil: cuir isteach an bhliain a rugadh thú →"
 },
 "patterns": [
 [
@@ -864,6 +888,62 @@
 [
 "^(.+) \\(neutral\\)$",
 "$1 (neodrach)"
+],
+[
+"^Born in (\\d{4})$",
+"Rugadh i $1"
+],
+[
+"^Born in (\\d{4}), before Ireland’s first game$",
+"Rugadh i $1, roimh an gcéad chluiche ag Éirinn"
+],
+[
+"^Ireland since (\\d{4})$",
+"Éire ó $1"
+],
+[
+"^Since (\\d{4})$",
+"Ó $1"
+],
+[
+"^(\\d+) scored, (\\d+) conceded\\. Won (\\d+)% of games\\. (\\d+) major finals\\.$",
+"$1 scóráilte, $2 ligthe isteach. Bua i $3% de na cluichí. Mórchomórtais: $4."
+],
+[
+"^(\\d+) scored, (\\d+) conceded\\. Won (\\d+)% of games\\. No major finals yet\\.$",
+"$1 scóráilte, $2 ligthe isteach. Bua i $3% de na cluichí. Gan mhórchomórtas fós."
+],
+[
+"^born in (\\d{4})$",
+"rugadh i $1"
+],
+[
+"^The first game of (\\d{4})$",
+"An chéad chluiche i $1"
+],
+[
+"^Ireland didn’t play in (\\d{4})\\.$",
+"Níor imir Éire i $1."
+],
+[
+"^(\\d+) different opponents in all\\.$",
+"Foirne éagsúla san iomlán: $1."
+],
+[
+"^Named scorers for (\\d+) of (\\d+) goals\\. Some friendly scorers, mostly before 2017, are not on record\\.$",
+"Scórálaithe ainmnithe do $1 as $2 cúl. Níl roinnt scórálaithe i gcluichí cairdiúla, roimh 2017 den chuid is mó, ar taifead."
+],
+[
+"^Ireland haven’t reached a World Cup or Euro finals since (\\d{4})\\.$",
+"Níor shroich Éire Corn an Domhain ná Euro ó $1."
+],
+[
+"^Enter a year between 1850 and (\\d{4})\\.$",
+"Cuir isteach bliain idir 1850 agus $1."
+],
+[
+"^No Ireland games yet since (\\d{4})\\.$",
+"Gan chluiche ag Éirinn ó $1 fós."
 ]
 ],
 "blocks": {
