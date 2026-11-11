@@ -1,0 +1,367 @@
+{{Short description|International football delegation}}
+{{Use Hiberno-English|date=July 2026}}
+{{Use dmy dates|date=July 2026}}
+The '''[[UEFA European Championship]]''' is the main [[Association football|football]] competition of the men's [[List of men's national association football teams|national football team]]s governed by [[UEFA]] (the Union of European Football Associations). Held every four years since [[1960 European Nations' Cup|1960]], in the even-numbered year between [[FIFA World Cup|World Cup]] tournaments, it was originally called the '''UEFA European Nations' Cup''', changing to the current name in [[UEFA Euro 1968|1968]]. Starting with the [[UEFA Euro 1984|1996 tournament]], specific championships are often referred to in the form "[[UEFA Euro 2008|Euro 2008]]" or whichever year is appropriate.
+Prior to entering the tournament all teams other than the host nations (which qualify automatically) compete in a qualifying process.
+
+The [[Republic of Ireland national football team|Republic of Ireland]] have participated in three European Championship finals, those held in [[UEFA Euro 1988|1988]], [[UEFA Euro 2012|2012]] and [[UEFA Euro 2016|2016]].<ref>{{cite web|url=http://www.the42.ie/analysis-how-ireland-managed-pull-off-greatest-victory-2813592-Jun2016/|title= Analysis: How Ireland managed to pull off one of the greatest results in their history|date=10 June 2016|work=The 42|access-date=10 June 2016}}</ref><ref>{{cite web|url=http://www.the42.ie/euro-88-revisited-461584-Jun2013/|title= Euro '88 revisited: behind the scenes at Ireland's major tournament debut|date=12 June 2013|work=The 42|access-date=10 June 2016}}</ref><ref>{{cite web|url=https://www.independent.ie/sport/soccer/international-soccer/who-put-the-ball-in-the-england-net-ray-houghton-did-and-it-happened-thirty-years-ago-today-37000925.html|title =Who put the ball in the England net? Ray Houghton did – and it happened thirty years ago today|date=12 June 2018|work=Irish Independent|access-date=12 June 2018}}</ref><ref>{{cite web|url=https://www.independent.ie/sport/soccer/international-soccer/john-aldridge-the-dubliners-performance-in-the-team-hotel-summed-up-the-magic-of-beating-england-37002672.html|title = John Aldridge: The Dubliners' performance in the team hotel summed up the magic of beating England|date=12 June 2018|work=Irish Independent|access-date=13 June 2018}}</ref>	
+	
+The side have played ten matches: winning two, drawing two and losing six. They have scored six goals and conceded sixteen. In 2012, they equalled the worst performance by a team in European Championship history.<ref>{{cite news|first=Daniel|last=McDonnell|url=http://www.independent.ie/sport/soccer/euro-2012/irish-news/trap-sticks-to-tired-but-trusted-formula-3140723.html|title=Trap sticks to tired but trusted formula|date=18 June 2012|work=Irish Independent|publisher=Independent News & Media|access-date=18 June 2012}}</ref> They finished bottom of their group and were the first team eliminated from the tournament following a 4–0 defeat to [[Spain national football team|Spain]] in their second game. In 2016, the nation reached the second round for the first time, following a 1–0 group stage victory against [[Italy national football team|Italy]].
+
+==Overall record==
+{| class="wikitable" style="text-align: center;"
+!colspan=9|[[UEFA European Championship]] record
+!width=1% rowspan=39|
+!colspan=7|[[UEFA European Championship qualifying|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Position|Position}}
+|-
+|{{flagicon|France}} [[1960 European Nations' Cup|1960]]
+|rowspan=7 colspan=8|''Did not qualify''
+|2
+|1
+|0
+|1
+|2
+|4
+|[[1960 European Nations' Cup qualifying preliminary round|Preliminary round]]
+|-
+|{{flagicon|Spain|1945}} [[1964 European Nations' Cup|1964]]
+|6
+|2
+|2
+|2
+|9
+|12
+|[[1964 European Nations' Cup quarter-finals|Quarter-finals]]
+|-
+|{{flagicon|Italy}} [[UEFA Euro 1968|1968]]
+|6
+|2
+|1
+|3
+|5
+|8
+|[[UEFA Euro 1968 qualifying Group 1|3/4]]
+|-
+|{{flagicon|Belgium}} [[UEFA Euro 1972|1972]]
+|6
+|0
+|1
+|5
+|3
+|17
+|[[UEFA Euro 1972 qualifying#Group 6|4/4]]
+|-
+|{{flagicon|Yugoslavia}} [[UEFA Euro 1976|1976]]
+|6
+|3
+|1
+|2
+|11
+|5
+|[[UEFA Euro 1976 qualifying Group 6|2/4]]
+|-
+|{{flagicon|Italy}} [[UEFA Euro 1980|1980]]
+|8
+|2
+|3
+|3
+|9
+|8
+|[[UEFA Euro 1980 qualifying Group 1|3/5]]
+|-
+|{{flagicon|France|1974}} [[UEFA Euro 1984|1984]]
+|8
+|4
+|1
+|3
+|20
+|10
+|[[UEFA Euro 1984 qualifying Group 7|3/5]]
+|-
+|{{flagicon|West Germany}} [[UEFA Euro 1988|1988]]
+|Group stage
+|5th
+|3
+|1
+|1
+|1
+|2
+|2
+|8
+|4
+|3
+|1
+|10
+|5
+|[[UEFA Euro 1988 qualifying Group 7|1/5]]
+|-
+|{{flagicon|Sweden}} [[UEFA Euro 1992|1992]]
+|rowspan=5 colspan=8|''Did not qualify''
+|6
+|2
+|4
+|0
+|13
+|6
+|[[UEFA Euro 1992 qualifying Group 7|2/4]]
+|-
+|{{flagicon|England}} [[UEFA Euro 1996|1996]]
+|11
+|5
+|2
+|4
+|17
+|13
+|[[UEFA Euro 1996 qualifying Group 6|2/6]]; Lost [[UEFA Euro 1996 qualifying play-off|Play-off]]
+|-
+|{{flagicon|Belgium}} {{flagicon|Netherlands}} [[UEFA Euro 2000|2000]]
+|10
+|5
+|3
+|2
+|15
+|7
+|[[UEFA Euro 2000 qualifying Group 8|2/5]]; Lost [[UEFA Euro 2000 qualifying play-offs|Play-off]]
+|-
+|{{flagicon|Portugal}} [[UEFA Euro 2004|2004]]
+|8
+|3
+|2
+|3
+|10
+|11
+|[[UEFA Euro 2004 qualifying Group 10|3/5]]
+|-
+|{{flagicon|Austria}} {{flagicon|Switzerland}} [[UEFA Euro 2008|2008]]
+|12
+|4
+|5
+|3
+|17
+|14
+|[[UEFA Euro 2008 qualifying Group D|3/7]]
+|-
+|{{flagicon|Poland}} {{flagicon|Ukraine}} [[UEFA Euro 2012|2012]]
+|Group stage
+|16th
+|3
+|0
+|0
+|3
+|1
+|9
+|12
+|7
+|4
+|1
+|20
+|8
+|[[UEFA Euro 2012 qualifying Group B|2/6]]; Won [[UEFA Euro 2012 qualifying play-offs|Play-off]]
+|-
+|{{flagicon|France|1974}} [[UEFA Euro 2016|2016]]
+|Round of 16
+|15th
+|4
+|1
+|1
+|2
+|3
+|6
+|12
+|6
+|4
+|2
+|22
+|8
+|[[UEFA Euro 2016 qualifying Group D|3/6]]; Won [[UEFA Euro 2016 qualifying play-offs|Play-off]]
+|-
+|{{flagicon|Europe}} [[UEFA Euro 2020|2020]]
+|rowspan=2 colspan=8|''Did not qualify''
+|11
+|3
+|5
+|1
+|7
+|5
+|[[UEFA Euro 2020 qualifying Group D|3/5]]; Lost [[UEFA Euro 2020 qualifying play-offs|Play-off]]
+|-
+|{{flagicon|Germany}} [[UEFA Euro 2024|2024]]
+|8
+|2
+|0
+|6
+|9
+|10
+|[[UEFA Euro 2024 qualifying Group B|4/5]]
+|-
+|style="border: 3px solid red"|{{flagicon|United Kingdom}} {{flagicon|Republic of Ireland}} [[UEFA Euro 2028|2028]]
+|colspan=8 rowspan=2|''To be determined''
+|colspan=8 rowspan=2|''To be determined''
+|-
+|{{flagicon|Italy}} {{flagicon|Turkey}} [[UEFA Euro 2032|2032]]
+|-
+!'''Total'''
+!Round of 16
+!'''3/17'''
+!'''10'''
+!'''2'''
+!'''2'''
+!'''6'''
+!'''6'''
+!'''17'''
+!'''138'''
+!'''55'''
+!'''41'''
+!'''42'''
+!'''199'''
+!'''151'''
+!—
+|}
+
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=5| List of UEFA European Championship matches
+|-
+!Year!!Round!!Score!!Result!!Republic of Ireland scorers
+|-
+|rowspan=3| [[UEFA Euro 1988|1988]]
+|rowspan=3| Group stage || align="left"| {{fb|IRL}} '''1–0''' {{fb|ENG}} || bgcolor="#98FB98" | Win || [[Ray Houghton]] {{goal|6}}
+|-
+|align="left"| {{fb|IRL}} '''1–1''' {{fb|SOV}} || bgcolor="#FFFF99" | Draw || [[Ronnie Whelan]] {{goal|38}}
+|-
+|align="left"| {{fb|IRL}} '''0–1''' {{fb|NED}} || bgcolor="#FFA07A" | Loss || —
+|-
+|rowspan=3| [[UEFA Euro 2012|2012]]
+|rowspan=3| Group stage || align="left"| {{fb|IRL}} '''1–3''' {{fb|CRO}} || bgcolor="#FFA07A" | Loss || [[Sean St Ledger]] {{goal|19}}
+|-
+|align="left"| {{fb|SPA}} '''4–0''' {{fb|IRL}} || bgcolor="#FFA07A" | Loss || —
+|-
+|align="left"| {{fb|ITA}} '''2–0''' {{fb|IRL}} || bgcolor="#FFA07A" | Loss || —
+|-
+|rowspan=4| [[UEFA Euro 2016|2016]]
+|rowspan=3| Group stage || align="left"| {{fb|IRL}} '''1–1''' {{fb|SWE}} || bgcolor="#FFFF99" | Draw || [[Wes Hoolahan]] {{goal|49}}
+|-
+|align="left"| {{fb|BEL}} '''3–0''' {{fb|IRL}} || bgcolor="#FFA07A" | Loss || —
+|-
+|align="left"| {{fb|ITA}} '''0–1''' {{fb|IRL}} || bgcolor="#98FB98" | Win || [[Robbie Brady]] {{goal|86}}
+|-
+|Round of 16 || align="left"| {{fb|FRA|1974}} '''2–1''' {{fb|IRL}} || bgcolor="#FFA07A" | Loss || [[Robbie Brady]] {{goal|2|pen.}}
+|}
+
+==Euro 1988==
+{{main|UEFA Euro 1988}}
+
+===Qualification===
+{{main|UEFA Euro 1988 qualifying}}
+Ireland qualified for the finals after winning [[UEFA Euro 1988 qualifying Group 7|Group 7]] of the qualifying tournament. A late goal by [[Scotland national football team|Scotland's]] [[Gary Mackay]] against [[Bulgaria national football team|Bulgaria]] in [[Sofia]] ensured that Ireland won the group ahead of Bulgaria.<ref>{{Cite web|url=http://www.soccer-ireland.com/irish-qualifying-campaigns/euro-1988.htm|title=Euro 1988 Football Championship - Irish Qualifying Campaign|date= |work=soccer-Ireland.com|accessdate=14 December 2011}}</ref><ref>{{Cite web|url=http://www.thescore.ie/reeling-in-the-years-how-much-do-you-remember-about-the-day-ireland-qualified-for-euro-88-279009-Nov2011/ |title=Reeling in the years: Do you remember the day Ireland qualified for Euro 88? |date=14 November 2011 |work=thescore.ie |accessdate=14 December 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20111116032755/http://www.thescore.ie/reeling-in-the-years-how-much-do-you-remember-about-the-day-ireland-qualified-for-euro-88-279009-Nov2011/ |archivedate=16 November 2011 }}</ref>
+
+===Squad===
+{{Republic of Ireland squad UEFA Euro 1988}}
+
+===Tournament===
+;Group stage
+{{main|UEFA Euro 1988 Group 2}}
+{{UEFA Euro 1988 group tables|Group 2|showteam=IRL}}
+
+{{#lst:UEFA Euro 1988 Group 2|2-1}}
+----
+{{#lst:UEFA Euro 1988 Group 2|2-4}}
+----
+{{#lst:UEFA Euro 1988 Group 2|2-6}}
+
+==Euro 2012==
+{{main|UEFA Euro 2012}}
+
+===Qualification===
+{{main|UEFA Euro 2012 qualifying}}
+Ireland qualified for the finals after winning [[UEFA Euro 2012 qualifying play-offs|an unprecedented 5–1 aggregate play-off win]] against [[Estonia national football team|Estonia]] in the qualifying tournament. A 4–0 victory away in [[Tallinn]] and a 1–1 draw in Dublin ensured Ireland's qualification for UEFA Euro 2012.
+
+===Squad===
+{{Republic of Ireland squad UEFA Euro 2012}}
+
+On 7 May 2012, [[Giovanni Trapattoni]] announced his 23-man squad list for Euro 2012, along with a five-man stand-by list.<ref>{{cite news|url=https://www.uefa.com/uefaeuro/history/news/0254-0d7dcfa0ead4-ced9f3e153ec-1000--mccarthy-out-as-trapattoni-names-ireland-squad/|title=McCarthy out as Trapattoni names Ireland squad|date=7 May 2012|work=Union of European Football Associations }}</ref> [[Keith Fahey]] withdrew with a groin injury on 26 May and was replaced by [[Paul Green (footballer born 1983)|Paul Green]].<ref>{{cite news|url=https://www.uefa.com/uefaeuro/history/news/0254-0d7de7ac2c6b-006e2de0072b-1000--uefa-euro-2012-dream-over-for-ireland-s-fahey/|title=UEFA EURO 2012 dream over for Ireland's Fahey|date=26 May 2012|work=Union of European Football Associations}}</ref> On 29 May 2012, [[Kevin Foley (footballer, born 1984)|Kevin Foley]] was replaced by [[Paul McShane (Irish footballer)|Paul McShane]].<ref>{{cite news|url=https://www.theguardian.com/football/2012/may/29/euro-2012-republic-ireland-squad|title=Kevin Foley dropped from Republic of Ireland squad|date=29 May 2012|work=The Guardian|accessdate=29 May 2012}}</ref> The Ireland team was the only squad at the tournament to consist entirely of players from foreign leagues.
+
+===Tournament===
+;Group stage
+{{main|UEFA Euro 2012 Group C}}
+{{:UEFA Euro 2012 Group C|transcludesection=standings|showteam=IRL}}
+
+{{:UEFA Euro 2012 Group C|transcludesection=c2}}
+----
+{{:UEFA Euro 2012 Group C|transcludesection=c4}}
+----
+{{:UEFA Euro 2012 Group C|transcludesection=c6}}
+
+==Euro 2016==
+{{main|UEFA Euro 2016}}
+
+===Squad===
+{{Republic of Ireland squad UEFA Euro 2016}}
+
+The Republic of Ireland announced their final squad for Euro 2016 on 31 May 2016.<ref>{{cite web|title=Republic of Ireland Name Squad|url=http://www.joe.ie/sport/reaction-to-the-ireland-squad-named-for-euro-2016/547353|website=Joe.ie|publisher=Joe|accessdate=31 May 2016}}</ref> The group contained eight players who began their senior careers in Ireland's [[League of Ireland|domestic league]], the most for any Irish squad at a major tournament.
+
+===Tournament===
+Ireland began their campaign on 13 June at the [[Stade de France]] against [[Sweden men's national football team|Sweden]]. In the first half, [[John O'Shea]] almost got on the end of a set-piece in front of goal and [[Jeff Hendrick]]  smashed the crossbar with a long range shot. The match was scoreless at half-time. In the 48th minute [[Séamus Coleman]] got down the right wing and crossed for [[Wes Hoolahan]] to catch the ball on the half volley with his right foot from twelve yards out to put Ireland in front.<ref>{{cite web|url=https://www.bbc.com/sport/football/36457309|title= Ireland 1 Sweden |date=13 June 2016|work=BBC Sport|accessdate=14 June 2016}}</ref>	
+In the 71st minute [[Zlatan Ibrahimović]] cut in on the left side and crossed dangerously with [[Ciaran Clark]] heading the ball into his own net from close range.<ref>{{cite web|url=https://www.theguardian.com/football/live/2016/jun/13/republic-of-ireland-v-sweden-euro-2016-live|title= Ireland 1 Sweden 1|date=13 June 2016|work=Guardian|accessdate=14 June 2016}}</ref>	
+The match finished in a 1–1 draw.<ref>{{cite web|url=http://www.independent.ie/sport/soccer/euro-2016/euro-2016-teams/republic-of-ireland/match-report-hoolahan-scores-a-beauty-but-ireland-left-to-rue-missed-chances-in-11-with-sweden-34797223.html|title= Hoolahan scores a beauty but Ireland left to rue missed chances in 1-1 with Sweden|date=13 June 2016|work=Irish Independent|accessdate=14 June 2016}}</ref>
+
+On 18 June, Ireland lost 3–0 to [[Belgium national football team|Belgium]] in their second group game in [[Nouveau Stade de Bordeaux|Bordeaux]].<ref>{{cite web|url=https://www.rte.ie/sport/euro-2016/2016/0618/796546-lukaku-leads-rampant-belgium-past-outclassed-irela/|title=Romelu Lukaku leads Belgium past outclassed Ireland|date=18 June 2016|work=RTE Sport|accessdate=24 June 2016}}</ref>	
+The match was 0–0 at half-time before [[Romelu Lukaku]] opened the scoring in the 48th minute with a low shot to the right corner. It was 2–0 in the 61st minute when [[Axel Witsel]] headed into the net from a [[Thomas Meunier]] cross from the right.<ref>{{cite web|url=https://www.bbc.com/sport/football/36505833|title=Belgium 3 Ireland 0|date=18 June 2016|work=BBC Sport|accessdate=24 June 2016}}</ref>	
+The third goal came in the 70th minute, again from Romelu Lukaku who finished easily with a low shot to the right of the goalkeeper after a break away from [[Eden Hazard]] on the right.<ref>{{cite web|url=https://www.theguardian.com/football/2016/jun/18/belgium-republic-of-ireland-euro-2016-match-report|title=Belgium get going as Romelu Lukaku punishes Republic of Ireland|date=18 June 2016|work=Guardian|accessdate=24 June 2016}}</ref>	
+
+On 22 June, Ireland defeated [[Italy national football team|Italy]] 1–0 in their final [[UEFA Euro 2016 Group E|group]] game to qualify for the [[UEFA Euro 2016 knockout stage|knockout stage]] and a round of 16 match against hosts [[France national football team|France]].<ref>{{cite web|url=https://www.theguardian.com/football/2016/jun/23/euro-2016-power-rankings-croatia-go-top-but-problems-for-france|title=Euro 2016 power rankings: Croatia go top but problems for France|date=23 June 2016|work=Guardian|accessdate=24 June 2016}}</ref>	
+The only goal came in the 85th minute, a header by [[Robbie Brady]] after a cross from [[Wes Hoolahan]] on the right.<ref>{{cite web|url=http://www.independent.ie/sport/soccer/euro-2016/daniel-mcdonnell-no-time-to-dwell-on-famous-win-for-irelands-tired-heroes-34828736.html|title=No time to dwell on famous win for Ireland's tired heroes|date=24 June 2016|work=Irish Independent|accessdate=24 June 2016}}</ref><ref>{{cite web|url=https://www.theguardian.com/football/2016/jun/22/italy-republic-of-ireland-euro-2016-match-report|title=Robbie Brady's header earns Ireland win over Italy and last-16 spot|date=22 June 2016|work=Guardian|accessdate=24 June 2016}}</ref>
+
+On 26 June, Ireland played France in the [[UEFA Euro 2016 knockout stage#Round of 16|round of 16]], at the [[Parc Olympique Lyonnais]] in [[Lyon]].<ref>{{cite web|url=https://www.telegraph.co.uk/football/2016/06/26/france-2-republic-of-ireland-1---heartbreak-for-the-irish-as-ant/|title=France 2 Republic of Ireland 1 - Heartbreak for the Irish as Antoine Griezmann brace knocks them out of Euro 2016|date=26 June 2016|work=Daily Telegraph|accessdate=29 June 2016}}</ref>	
+They took an early lead in the 2nd minute when [[Robbie Brady]] scored with a penalty, shooting low to the right of the goalkeeper and in off the post, after [[Shane Long]] had been fouled by [[Paul Pogba]].<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/36569511|title=France 2-1 Republic of Ireland|work=BBC Sport}}</ref> [[Antoine Griezmann]] leveled the match in the 58th minute with a header after a cross from [[Bacary Sagna]] on the right and then scored a second three minutes later with a low shot to the goalkeepers left. [[Shane Duffy]] was sent-off in the 66th minutes when he fouled Griezmann as the last man.<ref>{{cite web|url=https://www.bbc.com/sport/football/36569511|title=France 2 Ireland 1|date=26 June 2016|work=BBC Sport|accessdate=29 June 2016}}</ref>	
+France went on to win the game 2–1 to advance to the quarter-finals.<ref>{{cite web|url=https://www.theguardian.com/football/2016/jun/26/france-republic-ireland-euro-2016-match-report|title=Antoine Griezmann leads French fightback to end Ireland's Euro 2016|date=26 June 2016|work=Guardian|accessdate=29 June 2016}}</ref>	
+
+;Group stage
+{{main|UEFA Euro 2016 Group E}}
+{{:UEFA Euro 2016 Group E|transcludesection=standings|showteam=IRL}}
+
+{{:UEFA Euro 2016 Group E|transcludesection=e1}}
+----
+{{:UEFA Euro 2016 Group E|transcludesection=e4}}
+----
+{{:UEFA Euro 2016 Group E|transcludesection=e5}}
+
+;Ranking of third-placed teams 
+{{:UEFA Euro 2016|transcludesection=third|showteam=GrE}}
+
+;Knockout stage
+{{main|UEFA Euro 2016 knockout stage}}
+
+;;Round of 16
+{{#lst:UEFA Euro 2016 knockout stage|g4}}
+
+==See also==
+* [[Republic of Ireland at the FIFA World Cup]]
+* [[Republic of Ireland at the UEFA Nations League]]
+
+==References==
+{{Reflist}}
+
+{{Republic of Ireland national football team}}
+{{UEFA Euro Countries}}
+
+[[Category:Republic of Ireland at the UEFA European Championship| ]]
+[[Category:Countries at the UEFA European Championship]]
+[[Category:Republic of Ireland national football team – record in major tournaments|Europe]]

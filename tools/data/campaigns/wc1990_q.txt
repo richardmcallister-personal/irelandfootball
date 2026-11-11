@@ -1,0 +1,408 @@
+{{Short description|Football tournament qualification stage}}
+{{main|1990 FIFA World Cup qualification (UEFA)}}
+The '''1990 FIFA World Cup qualification UEFA Group 6''' was a [[UEFA]] qualifying group for the [[1990 FIFA World Cup]]. The group consisted of [[Hungary national football team|Hungary]], [[Malta national football team|Malta]], [[Northern Ireland national football team|Northern Ireland]], [[Spain national football team|Spain]] and the [[Republic of Ireland national football team|Republic of Ireland]].
+
+The group was won by Spain, who qualified for the 1990 FIFA World Cup. The Republic of Ireland also qualified as runners-up for their first ever World Cup Finals.<ref>[https://italia1990.com/uefa/group-6/ 1990 Qualification – UEFA Group 6], Italia1990.com</ref>
+
+== Standings ==
+<onlyinclude>{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+
+|team1=ESP|name_ESP={{fb|ESP}}
+|team2=IRL|name_IRL={{fb|IRL}}
+|team3=HUN|name_HUN={{fb|HUN}}
+|team4=NIR|name_NIR={{fb|NIR}}
+|team5=MLT|name_MLT={{fb|MLT}}
+|win_ESP=6|draw_ESP=1|loss_ESP=1|gf_ESP=20|ga_ESP=3
+|win_IRL=5|draw_IRL=2|loss_IRL=1|gf_IRL=10|ga_IRL=2
+|win_HUN=2|draw_HUN=4|loss_HUN=2|gf_HUN=8|ga_HUN=12
+|win_NIR=2|draw_NIR=1|loss_NIR=5|gf_NIR=6|ga_NIR=12
+|win_MLT=0|draw_MLT=2|loss_MLT=6|gf_MLT=3|ga_MLT=18
+
+|result1=WC|result2=WC
+|col_WC=green1  |text_WC=Qualification to {{nowrap|[[1990 FIFA World Cup]]}}
+
+|show_matches=y
+|short_style=flag
+
+|match_ESP_IRL=[[#Spain v Republic of Ireland|2-0]]
+|match_ESP_HUN=[[#Spain v Hungary|4–0]]
+|match_ESP_NIR=[[#Spain v Northern Ireland|4–0]]
+|match_ESP_MLT=[[#Spain v Malta|4–0]]
+
+|match_IRL_ESP=[[#Republic of Ireland v Spain|1–0]]
+|match_IRL_HUN=[[#Republic of Ireland v France|2–0]]
+|match_IRL_NIR=[[#Republic of Ireland v Northern Ireland|3-0]]
+|match_IRL_MLT=[[#Republic of Ireland v Malta|2-0]]
+
+|match_HUN_ESP=[[#Hungary v Spain|2–2]]
+|match_HUN_IRL=[[#Hungary v Republic of Ireland|0–0]]
+|match_HUN_NIR=[[#Hungary v Northern Ireland|1–0]]
+|match_HUN_MLT=[[#Hungary v Malta|1–1]]
+
+|match_NIR_ESP=[[#Northern Ireland v Spain|0–2]]
+|match_NIR_IRL=[[#Northern Ireland v Republic of Ireland|0–0]]
+|match_NIR_HUN=[[#Northern Ireland v Hungary|1–2]]
+|match_NIR_MLT=[[#Northern Ireland v Malta|3–0]]
+
+|match_MLT_ESP=[[#Malta v Spain|0–2]]
+|match_MLT_IRL=[[#Malta v Republic of Ireland|0–2]]
+|match_MLT_HUN=[[#Malta v Hungary|2–2]]
+|match_MLT_NIR=[[#Malta v Northern Ireland|0–2]]
+
+|winpoints=2
+|drawpoints=1
+|losspoints=0
+
+|update=complete|source=<ref name="RSSSF 90qual">{{cite web |last1=Stokkermans |first1=Karel |last2=Henrique Jarreta |first2=Sergio |title=World Cup 1990 Qualifying |url=https://www.rsssf.org/tables/90q.html |publisher=[[RSSSF]] |date=14 March 2024 |access-date=20 June 2025}}</ref>
+}}</onlyinclude>
+
+=== Results===
+
+{{footballbox
+|id = Northern Ireland v Malta
+|date = 21 May 1988
+|time = 
+|team1 = {{fb-rt|NIR}}
+|score = 3 – 0
+|report = [http://allworldcup.narod.ru/1990/PROTOCOL/QUALIF/UEFA/G6/NIRVSMLT.HTM (Report)]
+|team2 = {{fb|MLT}}
+|goals1 = [[Jimmy Quinn (Northern Ireland footballer)|Quinn]] {{goal|14}}<br />[[Steve Penney (footballer)|Penney]] {{goal|23}}<br />[[Colin Clarke (footballer, born 1962)|Clarke]]{{goal|25}}
+|goals2 = 
+|stadium = [[Windsor Park]], [[Belfast]]
+|attendance = 9,000
+|referee = [[Carlos da Silva Valente]] ([[Portuguese Football Federation|Portugal]])}}
+----
+{{footballbox
+|id = Northern Ireland v Republic of Ireland
+|date = 14 September 1988
+|time = 
+|team1 = {{fb-rt|NIR}}
+|score = 0 – 0
+|report = [http://www.soccerscene.ie/ss_gen/matchdetails.php?id=244&level=sssenior (Report)]
+|team2 = {{fb|IRL}}
+|stadium = [[Windsor Park]], [[Belfast]]
+|attendance = 19,873
+|referee = [[Michel Vautrot]] ([[French Football Federation|France]])}}
+----
+{{footballbox
+|id = Hungary v Northern Ireland
+|date = 19 October 1988
+|time = 
+|team1 = {{fb-rt|HUN}}
+|score = 1 – 0
+|report = [http://allworldcup.narod.ru/1990/PROTOCOL/QUALIF/UEFA/G6/HUNVSNIR.HTM (Report)]
+|team2 = {{fb|NIR}}
+|goals1 = [[István Vincze|Vincze]] {{goal|84}}
+|goals2 = 
+|stadium = [[Stadium Puskás Ferenc|Népstadion]], [[Budapest]]
+|attendance = 18,000
+|referee = [[Kurt Röthlisberger]] ([[Swiss Football Association|Switzerland]])}}
+----
+{{footballbox
+|id = Spain v Republic of Ireland
+|date = 16 November 1988
+|time = 
+|team1 = {{fb-rt|ESP}}
+|score = 2 – 0
+|report = [https://web.archive.org/web/20161217194254/http://www.allworldcup.narod.ru/1990/PROTOCOL/QUALIF/UEFA/G6/ESPVSIRL.HTM (Report)]
+|team2 = {{fb|IRL}}
+|goals1 = [[Manolo (footballer, born 1965)|Manolo]] {{goal|52}}<br />[[Emilio Butragueño|Butragueño]] {{goal|66}}
+|goals2 = 
+|stadium = [[Estadio Manuel Ruiz de Lopera|Estadio Benito Villamarín]], [[Seville]]
+|attendance = 50,000
+|referee = [[Yuri Savchenko]] ([[Football Federation of the Soviet Union|Soviet Union]])}}
+----
+{{footballbox
+|id = Malta v Hungary
+|date = 11 December 1988
+|time = 
+|team1 = {{fb-rt|MLT}}
+|score = 2 – 2
+|report = [http://allworldcup.narod.ru/1990/PROTCOL/QUALIF/UEFA/G6/MLTVSHUN.HTM (Report)]{{Dead link|date=February 2019 |bot=InternetArchiveBot |fix-attempted=yes }}
+|team2 = {{fb|HUN}}
+|goals1 = [[Carmel Busuttil|Busuttil]] {{goal|46||90}}
+|goals2 = [[István Vincze|Vincze]] {{goal|5}}<br />[[József Kiprich|Kiprich]] {{goal|56}}
+|stadium = [[Ta' Qali National Stadium]], [[Attard]]
+|attendance = 9,964
+|referee = [[Georgios Koukoulakis]] ([[Hellenic Football Federation|Greece]])}}
+----
+{{footballbox
+|id = Spain v Northern Ireland
+|date = 21 December 1988
+|time = 
+|team1 = {{fb-rt|ESP}}
+|score = 4 – 0
+|report = [http://allworldcup.narod.ru/1990/PROTOCOL/QUALIF/UEFA/G6/ESPVSNIR.HTM (Report)]
+|team2 = {{fb|NIR}}
+|goals1 = [[Anton Rogan|Rogan]] {{goal|30|o.g.}}<br />[[Emilio Butragueño|Butragueño]] {{goal|55}}<br />[[Míchel (footballer, born 1963)|Míchel]] {{goal|60|pen.}}<br />[[Alan McDonald (Northern Ireland footballer)|McDonald]] {{goal|64|o.g.}}
+|goals2 = 
+|stadium = [[Estadio Ramón Sánchez Pizjuán]], [[Seville]]
+|attendance = 70,000
+|referee = [[Marcel van Langenhove (referee)|Marcel van Langenhove]] ([[Royal Belgian Football Association|Belgium]])}}
+----
+{{footballbox
+|id = Malta v Spain
+|date = 22 January 1989
+|time = 
+|team1 = {{fb-rt|MLT}}
+|score = 0 – 2
+|report = [http://allworldcup.narod.ru/1990/PROTOCOL/QUALIF/UEFA/G6/MLTVSESP.HTM (Report)]
+|team2 = {{fb|ESP}}
+|goals1 = 
+|goals2 = [[Míchel (footballer, born 1963)|Míchel]] {{goal|15|pen.}}<br />[[Txiki Begiristain|Beguiristain]] {{goal|49}}
+|stadium = [[Ta' Qali National Stadium]], [[Attard]]
+|attendance = 15,797
+|referee = [[David Syme (referee)|David Syme]] ([[Scottish Football Association|Scotland]])}}
+----
+{{footballbox
+|id = Northern Ireland v Spain
+|date = 8 February 1989
+|time = 
+|team1 = {{fb-rt|NIR}}
+|score = 0 – 2
+|report = [http://allworldcup.narod.ru/1990/PROTOCOL/QUALIF/UEFA/G6/NIRVSESP.HTM (Report)]
+|team2 = {{fb|ESP}}
+|goals1 = 
+|goals2 = [[Genar Andrinúa|Andrinúa]] {{goal|3}}<br />[[Manolo (footballer, born 1965)|Manolo]] {{goal|84}}
+|stadium = [[Windsor Park]], [[Belfast]]
+|attendance = 15,000
+|referee = [[Dieter Pauly]] ([[German Football Association|West Germany]])}}
+----
+{{footballbox
+|id = Hungary v Republic of Ireland
+|date = 8 March 1989
+|time = 
+|team1 = {{fb-rt|HUN}}
+|score = 0 – 0
+|report = [http://allworldcup.narod.ru/1990/PROTOCOL/QUALIF/UEFA/G6/HUNVSIRL.HTM (Report)]
+|team2 = {{fb|IRL}}
+|stadium = [[Stadium Puskás Ferenc|Népstadion]], [[Budapest]]
+|attendance = 33,966
+|referee = [[Zoran Petrović (referee)|Zoran Petrović]] ([[Football Association of Yugoslavia|Yugoslavia]])}}
+----
+{{footballbox
+|id = Spain v Malta
+|date = 23 March 1989
+|time = 
+|team1 = {{fb-rt|ESP}}
+|score = 4 – 0
+|report = [http://allworldcup.narod.ru/1990/PROTOCOL/QUALIF/UEFA/G6/ESPVSMLT.HTM (Report)]
+|team2 = {{fb|MLT}}
+|goals1 = [[Míchel (footballer, born 1963)|Míchel]] {{goal|38||68|pen.}}<br />[[Manolo (footballer, born 1965)|Manolo]] {{goal|71||80}}
+|goals2 = 
+|stadium = [[Estadio Manuel Ruiz de Lopera|Estadio Benito Villamarín]], [[Seville]]
+|attendance = 41,500
+|referee = [[Georges Sandoz]] ([[Swiss Football Association|Switzerland]])}}
+----
+{{footballbox
+|id = Hungary v Malta
+|date = 12 April 1989
+|time = 
+|team1 = {{fb-rt|HUN}}
+|score = 1 – 1
+|report = [https://web.archive.org/web/20200830155853/http://allworldcup.narod.ru/1990/PROTOCOL/QUALIF/UEFA/G6/HUNVSMLT.HTM (Report)]
+|team2 = {{fb|MLT}}
+|goals1 = [[Imre Boda|Boda]] {{goal|49|pen.}}
+|goals2 = [[Carmel Busuttil|Busuttil]] {{goal|7}}
+|stadium = [[Stadium Puskás Ferenc|Népstadion]], [[Budapest]]
+|attendance = 25,000
+|referee = [[Arie Frost]] ([[Israel Football Association|Israel]])}}
+----
+{{footballbox
+|id = Malta v Northern Ireland
+|date = 26 April 1989
+|time = 
+|team1 = {{fb-rt|MLT}}
+|score = 0 – 2
+|report = [http://allworldcup.narod.ru/1990/PROTOCOL/QUALIF/UEFA/G6/MLTVSNIR.HTM (Report)]
+|team2 = {{fb|NIR}}
+|goals1 = 
+|goals2 = [[Colin Clarke (footballer, born 1962)|Clarke]] {{goal|55}}<br />[[Michael O'Neill (footballer)|O'Neill]] {{goal|73}}
+|stadium = [[Ta' Qali National Stadium]], [[Attard]]
+|attendance = 15,150
+|referee =[[Stefan Dan Petrescu]] ([[Romanian Football Federation|Romania]])}}
+
+{{footballbox
+|id = Republic of Ireland v Spain
+|date = 26 April 1989
+|time = 
+|team1 = {{fb-rt|IRL}}
+|score = 1 – 0
+|report = [http://allworldcup.narod.ru/1990/PROTOCOL/QUALIF/UEFA/G6/IRLVSESP.HTM (Report)]
+|team2 = {{fb|ESP}}
+|goals1 = [[Míchel (footballer, born 1963)|Míchel]] {{goal|15|o.g.}}
+|goals2 = 
+|stadium = [[Lansdowne Road]], [[Dublin]]
+|attendance = 49,600
+|referee = [[Horst Brummeier]] ([[Austrian Football Association|Austria]])}}
+----
+{{footballbox
+|id = Republic of Ireland v Malta
+|date = 28 May 1989
+|time = 
+|team1 = {{fb-rt|IRL}}
+|score = 2 – 0
+|report = [http://allworldcup.narod.ru/1990/PROTOCOL/QUALIF/UEFA/G6/IRLVSMLT.HTM (Report)]
+|team2 = {{fb|MLT}}
+|goals1 = [[Ray Houghton|Houghton]] {{goal|32}}<br />[[Kevin Moran (footballer)|Moran]] {{goal|55}}
+|goals2 = 
+|stadium = [[Lansdowne Road]], [[Dublin]]
+|attendance = 48,928
+|referee = [[José Rosa dos Santos]] ([[Portuguese Football Federation|Portugal]])}}
+----
+{{footballbox
+|id = Republic of Ireland v Hungary
+|date = 4 June 1989
+|time = 
+|team1 = {{fb-rt|IRL}}
+|score = 2 – 0
+|report = [https://web.archive.org/web/20161217194640/http://www.allworldcup.narod.ru/1990/PROTOCOL/QUALIF/UEFA/G6/IRLVSHUN.HTM (Report)]
+|team2 = {{fb|HUN}}
+|goals1 = [[Paul McGrath (footballer)|McGrath]] {{goal|33}}<br />[[Tony Cascarino|Cascarino]] {{goal|80}}
+|goals2 = 
+|stadium = [[Lansdowne Road]], [[Dublin]]
+|attendance = 48,600
+|referee = [[Egil Nervik]] ([[Football Association of Norway|Norway]])}}
+----
+{{footballbox
+|id = Northern Ireland v Hungary
+|date = 6 September 1989
+|time = 
+|team1 = {{fb-rt|NIR}}
+|score = 1 – 2
+|report = [http://allworldcup.narod.ru/1990/PROTOCOL/QUALIF/UEFA/G6/NIRVSHUN.HTM (Report)]
+|team2 = {{fb|HUN}}
+|goals1 = [[Norman Whiteside|Whiteside]] {{goal|89}}
+|goals2 = [[Kálmán Kovács (footballer, born 1965)|Kovács]] {{goal|13}}<br />[[György Bognár|Bognár]] {{goal|44}}
+|stadium = [[Windsor Park]], [[Belfast]]
+|attendance = 8,000
+|referee = [[Erik Fredriksson]] ([[Swedish Football Association|Sweden]])}}
+----
+{{footballbox
+|id = Republic of Ireland v Northern Ireland
+|date = 11 October 1989
+|time = 
+|team1 = {{fb-rt|IRL}}
+|score = 3 – 0
+|report = [http://allworldcup.narod.ru/1990/PROTOCOL/QUALIF/UEFA/G6/IRLVSNIR.HTM (Report)]
+|team2 = {{fb|NIR}}
+|goals1 = [[Ronnie Whelan|Whelan]] {{goal|42}}<br />[[Tony Cascarino|Cascarino]] {{goal|48}}<br />[[Ray Houghton|Houghton]] {{goal|57}}
+|goals2 = 
+|stadium = [[Lansdowne Road]], [[Dublin]]
+|attendance = 46,800
+|referee = [[Pietro D'Elia]] ([[Italian Football Federation|Italy]])}}
+
+{{footballbox
+|id = Hungary v Spain
+|date = 11 October 1989
+|time = 
+|team1 = {{fb-rt|HUN}}
+|score = 2 – 2
+|report = [http://allworldcup.narod.ru/1990/PROTOCOL/QUALIF/UEFA/G6/HUNVSESP.HTM (Report)]
+|team2 = {{fb|ESP}}
+|goals1 = [[Attila Pintér (footballer, born 1966)|Pintér]] {{goal|38||82}}
+|goals2 = [[Julio Salinas|Salinas]] {{goal|30}}<br />[[Míchel (footballer, born 1963)|Míchel]] {{goal|35}}
+|stadium = [[Stadium Puskás Ferenc|Népstadion]], [[Budapest]]
+|attendance = 30,000
+|referee = [[George Courtney]] ([[The Football Association|England]])}}
+----
+{{footballbox
+|id = Spain v Hungary
+|date = 15 November 1989
+|time = 
+|team1 = {{fb-rt|ESP}}
+|score = 4 – 0
+|report = [http://allworldcup.narod.ru/1990/PROTOCOL/QUALIF/UEFA/G6/ESPVSHUN.HTM (Report)]
+|team2 = {{fb|HUN}}
+|goals1 = [[Manolo (footballer, born 1965)|Manolo]] {{goal|7}}<br />[[Emilio Butragueño|Butragueño]] {{goal|24}}<br />[[Juan Francisco Rodríguez Herrera|Juanito]] {{goal|40}}<br />[[Fernando Gómez Colomer|Fernando]] {{goal|63}}
+|goals2 = 
+|stadium = [[Estadio Ramón Sánchez Pizjuán]], [[Seville]]
+|attendance = 20,000
+|referee = [[Gérard Biguet]] ([[French Football Federation|France]])}}
+
+{{footballbox
+|id = Malta v Republic of Ireland
+|date = 15 November 1989
+|time = 
+|team1 = {{fb-rt|MLT}}
+|score = 0 – 2
+|report = [http://allworldcup.narod.ru/1990/PROTOCOL/QUALIF/UEFA/G6/MLTVSIRL.HTM (Report)]
+|team2 = {{fb|IRL}}
+|goals1 = 
+|goals2 = [[John Aldridge|Aldridge]] {{goal|31||68|pen.}}
+|stadium = [[Ta' Qali National Stadium]], [[Attard]]
+|attendance = 21,942
+|referee = [[Jaap Uilenberg]] ([[Royal Dutch Football Association|Netherlands]])}}
+
+==Goalscorers==
+There were 47 goals scored during the 20 games, an average of 2.35 goals per game.
+
+;5 goals
+{{div col|colwidth=20em|small=yes}}
+*{{flag icon|ESP}} [[Manolo (footballer, born 1965)|Manolo]]
+*{{flag icon|ESP}} [[Míchel (footballer, born 1963)|Míchel]]
+{{div col end}}
+
+;3 goals
+{{div col|colwidth=20em|small=yes}}
+*{{flag icon|MLT}} [[Carmel Busuttil]]
+*{{flag icon|ESP}} [[Emilio Butragueño]]
+{{div col end}}
+
+;2 goals
+{{div col|colwidth=20em|small=yes}}
+*{{flag icon|HUN}} [[Attila Pintér (footballer, born 1966)|Attila Pintér]]
+*{{flag icon|HUN}} [[István Vincze]]
+*{{flag icon|IRL}} [[John Aldridge]]
+*{{flag icon|IRL}} [[Tony Cascarino]]
+*{{flag icon|IRL}} [[Ray Houghton]]
+*{{flag icon|NIR}} [[Colin Clarke (footballer, born 1962)|Colin Clarke]]
+{{div col end}}
+
+;1 goal
+{{div col|colwidth=20em|small=yes}}
+*{{flag icon|HUN}} [[Imre Boda]]
+*{{flag icon|HUN}} [[György Bognár]]
+*{{flag icon|HUN}} [[József Kiprich]]
+*{{flag icon|HUN}} [[Kálmán Kovács (footballer, born 1965)|Kálmán Kovács]]
+*{{flag icon|IRL}} [[Paul McGrath (footballer)|Paul McGrath]]
+*{{flag icon|IRL}} [[Kevin Moran (footballer)|Kevin Moran]]
+*{{flag icon|IRL}} [[Ronnie Whelan]]
+*{{flag icon|NIR}} [[Michael O'Neill (footballer)|Michael O'Neill]]
+*{{flag icon|NIR}} [[Steve Penney (footballer)|Steve Penney]]
+*{{flag icon|NIR}} [[Jimmy Quinn (Northern Ireland footballer)|Jimmy Quinn]]
+*{{flag icon|NIR}} [[Norman Whiteside]]
+*{{flag icon|ESP}} [[Genar Andrinúa]]
+*{{flag icon|ESP}} [[Txiki Begiristain]]
+*{{flag icon|ESP}} [[Fernando Gómez Colomer|Fernando]]
+*{{flag icon|ESP}} [[Juan Francisco Rodríguez Herrera|Juanito]]
+*{{flag icon|ESP}} [[Julio Salinas]]
+{{div col end}}
+
+;1 own goal
+{{div col|colwidth=20em|small=yes}}
+*{{flag icon|NIR}} [[Alan McDonald (Northern Ireland footballer)|Alan McDonald]] (playing against [[Spain national football team|Spain]])
+*{{flag icon|NIR}} [[Anton Rogan]] (playing against [[Spain national football team|Spain]])
+*{{flag icon|ESP}} [[Míchel (footballer, born 1963)|Míchel]] (playing against [[Republic of Ireland national football team|Ireland]])
+{{div col end}}
+
+==References==
+{{reflist}}
+
+{{1990 FIFA World Cup qualifiers}}
+
+{{DEFAULTSORT:World Cup}}
+[[Category:1990 FIFA World Cup qualification (UEFA)|6]]
+[[Category:1988–89 in Republic of Ireland association football]]
+[[Category:Republic of Ireland at the 1990 FIFA World Cup|Qual]]
+[[Category:1988–89 in Spanish football]]
+[[Category:Spain at the 1990 FIFA World Cup|Qual]]
+[[Category:1988–89 in Northern Ireland association football]]
+[[Category:1989–90 in Northern Ireland association football]]
+[[Category:1988–89 in Hungarian football]]
+[[Category:1989–90 in Hungarian football]]
+[[Category:1988–89 in Maltese football]]
+[[Category:1989–90 in Maltese football]]
+[[Category:1987–88 in Maltese football]]
+[[Category:1987–88 in Northern Ireland association football]]

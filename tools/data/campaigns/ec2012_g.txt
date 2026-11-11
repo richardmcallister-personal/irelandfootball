@@ -1,0 +1,973 @@
+{{Short description|Football tournament group stage}}
+'''Group C of [[UEFA Euro 2012]]''' began on 10 June 2012 and ended on 18 June 2012. 
+The pool consisted of defending (and eventual) champion [[Spain national football team|Spain]], [[Italy national football team|Italy]], [[Republic of Ireland national football team|Republic of Ireland]] and [[Croatia national football team|Croatia]]. The group was jokingly dubbed the "group of debt" by multiple media outlets, in reference to the [[European sovereign debt crisis]] facing some of its members.<ref>{{Cite web|url=https://bleacherreport.com/articles/1216488-euro-2012-championships-group-cs-italy-spain-and-crotia-provide-spark|title=Euro 2012: Group C's Italy, Spain and Croatia Provide Spark|first=Mike|last=Raffone|website=Bleacher Report}}</ref><ref>{{Cite web|url=https://www.goal.com/en/news/2898/euro-2012/2012/06/03/3144067/a-welcome-distraction-euro-2012-a-timely-respite-for|title=A welcome distraction: Euro 2012 a timely respite for depressed & debt-ridden Spain|website=Goal.com}}</ref> Spain and Italy progressed to the quarter-finals, while Croatia and Republic of Ireland were eliminated from the tournament. Republic of Ireland equalled the worst performance by a team in the group stage of the [[UEFA European Championship|European Championships]], finishing with no points and a goal difference of −8.<ref>{{cite news |last1=Fitzmaurice |first1=Aidan |title=Tired limbs, bored players and a hotel next to a lap-dancing club: Ireland's Euro 2012 campaign was doomed from the start |url=https://www.independent.ie/sport/when-a-nation-held-its-breath/tired-limbs-bored-players-and-a-hotel-next-to-a-lap-dancing-club-irelands-euro-2012-campaign-was-doomed-from-the-start-39279295.html |access-date=27 October 2020 |work=Irish Independent |date=12 June 2020}}</ref> Both Spain and Italy made it through the quarter-finals and semi-finals to reach the final for a second meeting in the tournament.
+
+In their final match, the Republic of Ireland wore black armbands to commemorate the 18th anniversary of the [[Loughinisland massacre]]. This was criticised by some unionists and members of the [[Ulster Volunteer Force|UVF]].<ref name="beltel2012">[http://www.belfasttelegraph.co.uk/news/local-national/northern-ireland/irelands-euro-2012-armband-match-tribute-to-uvf-massacre-victims-slammed-16172414.html "Ireland's Euro 2012 armband match tribute to UVF massacre victims slammed". ''Belfast Telegraph''. Brian Rowan. 14 June 2012] Retrieved 19 June 2012</ref> However, the victims' families fully supported the gesture.<ref name="beltel2012"/>
+
+Spain, Italy, and Croatia were later drawn in [[UEFA Euro 2024 Group B|Group B of the UEFA Euro 2024]]; coincidentally, Croatia would be eliminated in the group while Spain would also go on to win the tournament as well; Republic of Ireland did not qualify for this Euro.
+
+==Teams==
+{| class="wikitable sortable"
+|-
+! Draw position
+! Team
+! Pot
+! Method of<br />qualification
+! Date of<br />qualification
+! data-sort-type="number" | Finals<br />appearance
+! Last<br />appearance
+! Previous best<br />performance
+! [[UEFA coefficient#Men's national team coefficient|UEFA Rankings]]<br />November 2011{{refn|group=nb|The UEFA rankings of November 2011 were used for seeding for the final draw.}}
+! [[FIFA World Rankings|FIFA Rankings]]<br />June 2012
+|-
+| C1 || style="white-space:nowrap" | {{fb|ESP}} || 1 || [[UEFA Euro 2012 qualifying Group I|Group I]] winner || 6 September 2011 || 9th || [[UEFA Euro 2008|2008]] || data-sort-value="1" | '''Winners''' ([[1964 European Nations' Cup|1964]], [[UEFA Euro 2008|2008]]) || 1 || 1
+|-
+| C2 || style="white-space:nowrap" | {{fb|ITA}} || 2 || [[UEFA Euro 2012 qualifying Group C|Group C]] winner || 6 September 2011 || 8th || [[UEFA Euro 2008|2008]] || data-sort-value="1" | '''Winners''' ([[UEFA Euro 1968|1968]]) || 4 || 12
+|-
+| C3 || style="white-space:nowrap" | {{fb|IRL}} || 4 || [[UEFA Euro 2012 qualifying play-offs|Play-off]] winner || 15 November 2011 || 2nd || [[UEFA Euro 1988|1988]] || data-sort-value="7" | Group stage ([[UEFA Euro 1988|1988]]) || 14 || 18
+|-
+| C4 || style="white-space:nowrap" | {{fb|CRO}} || 3 || [[UEFA Euro 2012 qualifying play-offs|Play-off]] winner || 15 November 2011 || 4th || [[UEFA Euro 2008|2008]] || data-sort-value="5" | Quarter-finals ([[UEFA Euro 1996|1996]], [[UEFA Euro 2008|2008]]) || 7 || 8
+|}
+
+'''Notes'''
+{{reflist|group=nb}}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=standings
+|class_rules=[[UEFA Euro 2012#Tiebreakers|Group stage tiebreakers]]
+|update=complete
+|source=[https://web.archive.org/web/20180525033211/http://www.uefa.com/uefaeuro/season=2012/standings/round=15172/group=700966/index.html UEFA]
+
+|team1=ESP |team2=ITA |team3=CRO |team4=IRL
+|result1=KO |result2=KO
+
+|win_ESP=2 |draw_ESP=1 |loss_ESP=0 |gf_ESP=6 |ga_ESP=1
+|win_ITA=1 |draw_ITA=2 |loss_ITA=0 |gf_ITA=4 |ga_ITA=2
+|win_IRL=0 |draw_IRL=0 |loss_IRL=3 |gf_IRL=1 |ga_IRL=9
+|win_CRO=1 |draw_CRO=1 |loss_CRO=1 |gf_CRO=4 |ga_CRO=3
+
+|name_ESP={{fb|ESP}}
+|name_ITA={{fb|ITA}}
+|name_IRL={{fb|IRL}}
+|name_CRO={{fb|CRO}}
+
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to [[UEFA Euro 2012#Knockout stage|knockout stage]]
+}}</onlyinclude>
+
+In the [[UEFA Euro 2012 knockout stage#Quarter-finals|quarter-finals]],
+*The winner of Group C, Spain, advanced to play the runner-up of [[UEFA Euro 2012 Group D|Group D]], [[France national football team|France]].
+*The runner-up of Group C, Italy, advanced to play the winner of [[UEFA Euro 2012 Group D|Group D]], [[England national football team|England]].
+
+==Matches==
+{{Hatnote|All times [[Central European Summer Time]] ([[UTC+02:00|UTC+2]])}}
+
+===Spain vs Italy===
+{{see also|Italy–Spain football rivalry}}
+
+<onlyinclude>{{#invoke:Football box|main|section=c1
+|date={{Start date|2012|6|10|df=y}}
+|time=18:00 <includeonly>[[Central European Summer Time|CEST]]</includeonly>
+|team1={{fb-rt|ESP}}
+|score={{score link|UEFA Euro 2012 Group C#Spain vs Italy|1–1}}
+|report=https://www.uefa.com/uefaeuro/match/2003323/
+|team2={{fb|ITA}}
+|goals1=
+*[[Cesc Fàbregas|Fàbregas]] {{goal|64}}
+|goals2=
+*[[Antonio Di Natale|Di Natale]] {{goal|61}}
+|stadium=[[Stadion Gdańsk|PGE Arena]], [[Gdańsk]]
+|attendance=38,869<ref name="esp-ita report">{{cite news |title=Full-time report Spain-Italy |url=http://www.uefa.com/newsfiles/euro/2012/2003323_fr.pdf |archive-url=https://web.archive.org/web/20120803025214/http://www.uefa.com/newsfiles/euro/2012/2003323_fr.pdf |url-status=dead |archive-date=August 3, 2012 |work=Union of European Football Associations |date=10 June 2012 |access-date=10 June 2012 |format=PDF }}</ref>
+|referee=[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _esp12h
+ |pattern_b  = _esp12h
+ |pattern_ra = _esp12h
+ |pattern_sh = _esp12h
+ |pattern_so = _esp13hw
+ |leftarm    = E80113
+ |body       = FFFFFF
+ |rightarm   = E80113
+ |shorts     = FFFFFF
+ |socks      = E80113
+ |title      = Spain<ref name="esp-ita_line-ups">{{cite web |url=http://www.uefa.com/newsfiles/euro/2012/2003323_lu.pdf|archive-url=https://web.archive.org/web/20140512182052/http://www.uefa.com/newsfiles/euro/2012/2003323_lu.pdf|url-status=dead|archive-date=May 12, 2014|title=Tactical Line-up – Group C – Spain-Italy |date=10 June 2012 |work=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |access-date=10 June 2012}}</ref>
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _ita12home
+ |pattern_ra =
+ |pattern_sh = _colchester0809t
+ |pattern_so = _whitehorizontal
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = FFFFFF
+ |socks      = 0000FF
+ |title      = Italy<ref name="esp-ita_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Iker Casillas]] ([[Captain (association football)|c]])
+|-
+|RB ||'''17'''||[[Álvaro Arbeloa]] || {{yel|84}}
+|-
+|CB ||'''3''' ||[[Gerard Piqué]]
+|-
+|CB ||'''15'''||[[Sergio Ramos]]
+|-
+|LB ||'''18'''||[[Jordi Alba]] || {{yel|66}}
+|-
+|RM ||'''8''' ||[[Xavi (footballer, born 1980)|Xavi]]
+|-
+|CM ||'''16'''||[[Sergio Busquets]]
+|-
+|LM ||'''14'''||[[Xabi Alonso]]
+|-
+|RF ||'''21'''||[[David Silva]] || || {{suboff|64}}
+|-
+|CF ||'''10'''||[[Cesc Fàbregas]] || || {{suboff|74}}
+|-
+|LF ||'''6''' ||[[Andrés Iniesta]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''22'''||[[Jesús Navas]] || || {{subon|64}}
+|-
+|FW ||'''9''' ||[[Fernando Torres]] || {{yel|84}} || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Vicente del Bosque]]
+|}
+|valign="top"|[[File:ESP-ITA 2012-06-10.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Gianluigi Buffon]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Giorgio Chiellini]] || {{yel|79}}
+|-
+|CB ||'''16'''||[[Daniele De Rossi]]
+|-
+|CB ||'''19'''||[[Leonardo Bonucci]] || {{yel|66}}
+|-
+|RM ||'''13'''||[[Emanuele Giaccherini]]
+|-
+|CM ||'''8''' ||[[Claudio Marchisio]]
+|-
+|CM ||'''21'''||[[Andrea Pirlo]]
+|-
+|CM ||'''5''' ||[[Thiago Motta]] || || {{suboff|90}}
+|-
+|LM ||'''2''' ||[[Christian Maggio]] || {{yel|89}}
+|-
+|CF ||'''10'''||[[Antonio Cassano]] || || {{suboff|65}}
+|-
+|CF ||'''9''' ||[[Mario Balotelli]] || {{yel|37}} || {{suboff|56}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Antonio Di Natale]] || || {{subon|56}}
+|-
+|FW ||'''20'''||[[Sebastian Giovinco]] || || {{subon|65}}
+|-
+|MF ||'''23'''||[[Antonio Nocerino]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Cesare Prandelli]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Andrés Iniesta]] (Spain)<ref name="esp-ita report"/>
+
+'''Assistant referees:'''<ref>{{cite web |url=https://www.uefa.com/printoutfiles/competitions/euro/2012/e/e_2003323_pk.pdf |archive-url=https://web.archive.org/web/20120616204134/http://www.uefa.com/printoutfiles/competitions/euro/2012/E/E_2003323_pk.pdf |url-status=dead |archive-date=June 16, 2012 |title=Match Press Kit – Group C – Spain v Italy |work=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |date=8 June 2012 |access-date=21 February 2021}}</ref>
+<br />Gábor Erős ([[Hungarian Football Federation|Hungary]])
+<br />György Ring ([[Hungarian Football Federation|Hungary]])
+<br />'''Fourth official:'''
+<br />[[William Collum]] ([[Scottish Football Association|Scotland]])
+<br />'''Additional assistant referees:'''
+<br />[[István Vad]] ([[Hungarian Football Federation|Hungary]])
+<br />Tamás Bognár ([[Hungarian Football Federation|Hungary]])
+<br />'''Reserve assistant referee:'''
+<br />Alasdair Ross ([[Scottish Football Association|Scotland]])
+|}
+
+===Republic of Ireland vs Croatia===
+<onlyinclude>{{#invoke:Football box|main|section=c2
+|date={{Start date|2012|6|10|df=y}}
+|time=20:45 <includeonly>[[Central European Summer Time|CEST]]</includeonly>
+|team1={{fb-rt|IRL}}
+|score={{score link|UEFA Euro 2012 Group C#Republic of Ireland vs Croatia|1–3}}
+|report=https://www.uefa.com/uefaeuro/match/2003324/
+|team2={{fb|CRO}}
+|goals1=
+*[[Sean St Ledger|St Ledger]] {{goal|19}}
+|goals2=
+*[[Mario Mandžukić|Mandžukić]] {{goal|3||49}}
+*[[Nikica Jelavić|Jelavić]] {{goal|43}}
+|stadium=[[Stadion Poznań|Stadion Miejski]], [[Poznań]]
+|attendance=39,550<ref name="irl-cro report">{{cite web |url=http://www.uefa.com/newsfiles/euro/2012/2003324_fr.pdf |archive-url=https://web.archive.org/web/20120803025219/http://www.uefa.com/newsfiles/euro/2012/2003324_fr.pdf |url-status=dead |archive-date=August 3, 2012 |title=Full-time report Republic of Ireland-Croatia |work=Union of European Football Associations |date=10 June 2012 |access-date=10 June 2012 |format=PDF }}</ref>
+|referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _irl11h
+ |pattern_b  = _irl11h
+ |pattern_ra = _irl11h
+ |pattern_sh = _green_stripes
+ |pattern_so = _5_hoops_white
+ |leftarm    = 008000
+ |body       = FFFFFF
+ |rightarm   = 008000
+ |shorts     = FFFFFF
+ |socks      = 008000
+ |title      = {{nowrap|Republic of Ireland}}<ref name="irl-cro_line-ups">{{cite web |url=http://www.uefa.com/newsfiles/euro/2012/2003324_lu.pdf|archive-url=https://web.archive.org/web/20140512182102/http://www.uefa.com/newsfiles/euro/2012/2003324_lu.pdf|url-status=dead|archive-date=May 12, 2014|title=Tactical Line-up – Group C – Republic of Ireland-Croatia |date=10 June 2012 |work=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |access-date=10 June 2012}}</ref>
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _cro12a
+ |pattern_ra =
+ |pattern_sh =
+ |pattern_so = _croatia2012away
+ |leftarm    = 0000BF
+ |body       = 0000BF
+ |rightarm   = 0000BF
+ |shorts     = 0000BF
+ |socks      = 0000BF
+ |title      = Croatia<ref name="irl-cro_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Shay Given]]
+|-
+|RB ||'''4''' ||[[John O'Shea]]
+|-
+|CB ||'''2''' ||[[Sean St Ledger]]
+|-
+|CB ||'''5''' ||[[Richard Dunne]]
+|-
+|LB ||'''3''' ||[[Stephen Ward (footballer)|Stephen Ward]]
+|-
+|CM ||'''6''' ||[[Glenn Whelan]]
+|-
+|CM ||'''8''' ||[[Keith Andrews (footballer)|Keith Andrews]] || {{yel|45+1}}
+|-
+|RW ||'''7''' ||[[Aiden McGeady]] || || {{suboff|54}}
+|-
+|LW ||'''11'''||[[Damien Duff]]
+|-
+|CF ||'''9''' ||[[Kevin Doyle (footballer)|Kevin Doyle]] || || {{suboff|53}}
+|-
+|CF ||'''10'''||[[Robbie Keane]] ([[Captain (association football)|c]]) || || {{suboff|75}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14'''||[[Jonathan Walters]] || || {{subon|53}}
+|-
+|FW ||'''20'''||[[Simon Cox (footballer, born 1987)|Simon Cox]] || || {{subon|54}}
+|-
+|FW ||'''19'''||[[Shane Long]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ITA}} [[Giovanni Trapattoni]]
+|}
+|valign="top"|[[File:IRL-CRO 2012-06-10.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Stipe Pletikosa]]
+|-
+|RB ||'''11'''||[[Darijo Srna]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Vedran Ćorluka]]
+|-
+|CB ||'''13'''||[[Gordon Schildenfeld]]
+|-
+|LB ||'''2''' ||[[Ivan Strinić]]
+|-
+|DM ||'''8''' ||[[Ognjen Vukojević]]
+|-
+|RW ||'''7''' ||[[Ivan Rakitić]] || || {{suboff|90+2}}
+|-
+|AM ||'''10'''||[[Luka Modrić]] || {{yel|53}}
+|-
+|LW ||'''20'''||[[Ivan Perišić]] || || {{suboff|89}}
+|-
+|CF ||'''17'''||[[Mario Mandžukić]]
+|-
+|CF ||'''9''' ||[[Nikica Jelavić]] || || {{suboff|72}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''19'''||[[Niko Kranjčar]] || {{yel|84}} || {{subon|72}}
+|-
+|FW ||'''22'''||[[Eduardo da Silva|Eduardo]] || || {{subon|89}}
+|-
+|MF ||'''16'''||[[Tomislav Dujmović]] || || {{subon|90+2}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Slaven Bilić]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Mario Mandžukić]] (Croatia)<ref name="irl-cro report"/>
+
+'''Assistant referees:'''<ref>{{cite web |url=https://www.uefa.com/printoutfiles/competitions/euro/2012/e/e_2003324_pk.pdf |archive-url=https://web.archive.org/web/20120616231309/http://www.uefa.com/printoutfiles/competitions/euro/2012/E/E_2003324_pk.pdf |url-status=dead |archive-date=June 16, 2012 |title=Match Press Kit – Group C – Republic of Ireland v Croatia |work=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |date=14 June 2012 |access-date=21 February 2021}}</ref>
+<br />Sander van Roekel ([[Royal Dutch Football Association|Netherlands]])
+<br />Erwin Zeinstra ([[Royal Dutch Football Association|Netherlands]])
+<br />'''Fourth official:'''
+<br />Viktor Shvetsov ([[Football Federation of Ukraine|Ukraine]])
+<br />'''Additional assistant referees:'''
+<br />[[Pol van Boekel]] ([[Royal Dutch Football Association|Netherlands]])
+<br />Richard Liesveld ([[Royal Dutch Football Association|Netherlands]])
+<br />'''Reserve assistant referee:'''
+<br />Oleksandr Voytyuk ([[Football Federation of Ukraine|Ukraine]])
+|}
+
+===Italy vs Croatia===
+<onlyinclude>{{#invoke:Football box|main|section=c3
+|date={{Start date|2012|6|14|df=y}}
+|time=18:00 <includeonly>[[Central European Summer Time|CEST]]</includeonly>
+|team1={{fb-rt|ITA}}
+|score={{score link|UEFA Euro 2012 Group C#Italy vs Croatia|1–1}}
+|report=https://www.uefa.com/uefaeuro/match/2003331/
+|team2={{fb|CRO}}
+|goals1=
+*[[Andrea Pirlo|Pirlo]] {{goal|39}}
+|goals2=
+*[[Mario Mandžukić|Mandžukić]] {{goal|72}}
+|stadium=[[Stadion Poznań|Stadion Miejski]], [[Poznań]]
+|attendance=37,096<ref name="ita-cro report">{{cite web |url=http://www.uefa.com/newsfiles/euro/2012/2003331_fr.pdf |archive-url=https://web.archive.org/web/20120803025225/http://www.uefa.com/newsfiles/euro/2012/2003331_fr.pdf |url-status=dead |archive-date=August 3, 2012 |title=Full-time report Italy-Croatia |work=Union of European Football Associations |date=14 June 2012 |access-date=14 June 2012 |format=PDF }}</ref>
+|referee=[[Howard Webb]] ([[The Football Association|England]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _ita12home
+ |pattern_ra =
+ |pattern_sh = _colchester0809h
+ |pattern_so = _whitehorizontal
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = 0000FF
+ |title      = Italy<ref name="ita-cro_line-ups">{{cite web |url=http://www.uefa.com/newsfiles/euro/2012/2003331_lu.pdf|archive-url=https://web.archive.org/web/20140512182108/http://www.uefa.com/newsfiles/euro/2012/2003331_lu.pdf|url-status=dead|archive-date=May 12, 2014|title=Tactical Line-up – Group C – Italy-Croatia |date=14 June 2012 |work=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |access-date=14 June 2012}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _cro12h
+ |pattern_b  = _cro12h
+ |pattern_ra = _cro12h
+ |pattern_sh =
+ |pattern_so = _croatia2012home
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Croatia<ref name="ita-cro_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gianluigi Buffon]] ([[Captain (association football)|c]])
+|-
+|CB ||'''19'''||[[Leonardo Bonucci]]
+|-
+|CB ||'''16'''||[[Daniele De Rossi]]
+|-
+|CB ||'''3''' ||[[Giorgio Chiellini]]
+|-
+|RWB ||'''2''' ||[[Christian Maggio]]
+|-
+|LWB ||'''13'''||[[Emanuele Giaccherini]]
+|-
+|DM ||'''21'''||[[Andrea Pirlo]]
+|-
+|CM ||'''8''' ||[[Claudio Marchisio]]
+|-
+|CM ||'''5''' ||[[Thiago Motta]] || {{yel|56}} || {{suboff|62}}
+|-
+|CF ||'''9''' ||[[Mario Balotelli]] || || {{suboff|69}}
+|-
+|CF ||'''10'''||[[Antonio Cassano]] || || {{suboff|83}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Riccardo Montolivo]] || {{yel|80}} || {{subon|62}}
+|-
+|FW ||'''11'''||[[Antonio Di Natale]] || || {{subon|69}}
+|-
+|FW ||'''20'''||[[Sebastian Giovinco]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Cesare Prandelli]]
+|}
+|valign="top"|[[File:ITA-CRO 2012-06-14.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Stipe Pletikosa]]
+|-
+|RB ||'''11'''||[[Darijo Srna]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Vedran Ćorluka]]
+|-
+|CB ||'''13'''||[[Gordon Schildenfeld]] || {{yel|86}}
+|-
+|LB ||'''2''' ||[[Ivan Strinić]]
+|-
+|CM ||'''8''' ||[[Ognjen Vukojević]]
+|-
+|CM ||'''10'''||[[Luka Modrić]]
+|-
+|RW ||'''7''' ||[[Ivan Rakitić]]
+|-
+|LW ||'''20'''||[[Ivan Perišić]] || || {{suboff|68}}
+|-
+|CF ||'''9''' ||[[Nikica Jelavić]] || || {{suboff|83}}
+|-
+|CF ||'''17'''||[[Mario Mandžukić]] || || {{suboff|90+4}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''6''' ||[[Danijel Pranjić]] || || {{subon|68}}
+|-
+|FW ||'''22'''||[[Eduardo da Silva|Eduardo]] || || {{subon|83}}
+|-
+|MF ||'''19'''||[[Niko Kranjčar]] || || {{subon|90+4}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Slaven Bilić]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Andrea Pirlo]] (Italy)<ref name="ita-cro report"/>
+
+'''Assistant referees:'''<ref>{{cite web |url=https://www.uefa.com/printoutfiles/competitions/euro/2012/e/e_2003331_pk.pdf |archive-url=https://web.archive.org/web/20120616215125/http://www.uefa.com/printoutfiles/competitions/euro/2012/E/E_2003331_pk.pdf |url-status=dead |archive-date=June 16, 2012 |title=Match Press Kit – Group C – Italy v Croatia |work=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |date=14 June 2012 |access-date=21 February 2021}}</ref>
+<br />Michael Mullarkey ([[The Football Association|England]])
+<br />Peter Kirkup ([[The Football Association|England]])
+<br />'''Fourth official:'''
+<br />[[Pavel Královec]] ([[Czech Football Association|Czech Republic]])
+<br />'''Additional assistant referees:'''
+<br />[[Martin Atkinson]] ([[The Football Association|England]])
+<br />[[Mark Clattenburg]] ([[The Football Association|England]])
+<br />'''Reserve assistant referee:'''
+<br />Roman Slyško ([[Slovak Football Association|Slovakia]])
+|}
+
+===Spain vs Republic of Ireland===
+<onlyinclude>{{#invoke:Football box|main|section=c4
+|date={{Start date|2012|6|14|df=y}}
+|time=20:45 <includeonly>[[Central European Summer Time|CEST]]</includeonly>
+|team1={{fb-rt|ESP}}
+|score={{score link|UEFA Euro 2012 Group C#Spain vs Republic of Ireland|4–0}}
+|report=https://www.uefa.com/uefaeuro/match/2003332/
+|team2={{fb|IRL}}
+|goals1=
+*[[Fernando Torres|Torres]] {{goal|4||70}}
+*[[David Silva|Silva]] {{goal|49}}
+*[[Cesc Fàbregas|Fàbregas]] {{goal|83}}
+|goals2=
+|stadium=[[Stadion Gdańsk|PGE Arena]], [[Gdańsk]]
+|attendance=39,150<ref name="esp-irl report">{{cite web |url=http://www.uefa.com/newsfiles/euro/2012/2003332_fr.pdf |archive-url=https://web.archive.org/web/20120803025230/http://www.uefa.com/newsfiles/euro/2012/2003332_fr.pdf |url-status=dead |archive-date=August 3, 2012 |title=Full-time report Spain-Republic of Ireland |work=Union of European Football Associations |format=PDF |date=14 June 2012 |access-date=14 June 2012 }}</ref>
+|referee=[[Pedro Proença]] ([[Portuguese Football Federation|Portugal]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _esp12h
+ |pattern_b  = _esp12h
+ |pattern_ra = _esp12h
+ |pattern_sh = _esp12h
+ |pattern_so = _esp13hw
+ |leftarm    = E80113
+ |body       = FFFFFF
+ |rightarm   = E80113
+ |shorts     = FFFFFF
+ |socks      = E80113
+ |title      = Spain<ref name="ukr-swe_line-ups">{{cite web |url=http://www.uefa.com/newsfiles/euro/2012/2003332_lu.pdf|archive-url=https://web.archive.org/web/20140512182117/http://www.uefa.com/newsfiles/euro/2012/2003332_lu.pdf|url-status=dead|archive-date=May 12, 2014|title=Tactical Line-up – Group C – Spain-Republic of Ireland |date=14 June 2012 |work=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |access-date=14 June 2012}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _irl11h
+ |pattern_b  = _irl11h
+ |pattern_ra = _irl11h
+ |pattern_sh = _green_stripes
+ |pattern_so = _5_hoops_white
+ |leftarm    = 008000
+ |body       = FFFFFF
+ |rightarm   = 008000
+ |shorts     = FFFFFF
+ |socks      = 008000
+ |title      = {{nowrap|Republic of Ireland}}<ref name="ukr-swe_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Iker Casillas]] ([[Captain (association football)|c]])
+|-
+|RB ||'''17'''||[[Álvaro Arbeloa]]
+|-
+|CB ||'''3''' ||[[Gerard Piqué]]
+|-
+|CB ||'''15'''||[[Sergio Ramos]]
+|-
+|LB ||'''18'''||[[Jordi Alba]]
+|-
+|RM ||'''8''' ||[[Xavi (footballer, born 1980)|Xavi]]
+|-
+|CM ||'''16'''||[[Sergio Busquets]]
+|-
+|LM ||'''14'''||[[Xabi Alonso]] || {{yel|54}} || {{suboff|65}}
+|-
+|RF ||'''21'''||[[David Silva]]
+|-
+|CF ||'''9''' ||[[Fernando Torres]] || || {{suboff|74}}
+|-
+|LF ||'''6''' ||[[Andrés Iniesta]] || || {{suboff|80}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Javi Martínez]] || {{yel|76}} || {{subon|65}}
+|-
+|MF ||'''10'''||[[Cesc Fàbregas]] || || {{subon|74}}
+|-
+|MF ||'''20'''||[[Santi Cazorla]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Vicente del Bosque]]
+|}
+|valign="top"|[[File:ESP-IRL 2012-06-14.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Shay Given]]
+|-
+|RB ||'''4''' ||[[John O'Shea]]
+|-
+|CB ||'''2''' ||[[Sean St Ledger]] || {{yel|84}}
+|-
+|CB ||'''5''' ||[[Richard Dunne]]
+|-
+|LB ||'''3''' ||[[Stephen Ward (footballer)|Stephen Ward]]
+|-
+|RM ||'''11'''||[[Damien Duff]] || || {{suboff|76}}
+|-
+|CM ||'''8''' ||[[Keith Andrews (footballer)|Keith Andrews]]
+|-
+|CM ||'''6''' ||[[Glenn Whelan]] || {{yel|45+1}} || {{suboff|80}}
+|-
+|LM ||'''7''' ||[[Aiden McGeady]]
+|-
+|CF ||'''20'''||[[Simon Cox (footballer, born 1987)|Simon Cox]] || || {{suboff|46}}
+|-
+|CF ||'''10'''||[[Robbie Keane]] ([[Captain (association football)|c]]) || {{yel|36}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14'''||[[Jonathan Walters]] || || {{subon|46}}
+|-
+|MF ||'''22'''||[[James McClean]] || || {{subon|76}}
+|-
+|MF ||'''21'''||[[Paul Green (footballer, born 1983)|Paul Green]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ITA}} [[Giovanni Trapattoni]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Fernando Torres]] (Spain)<ref name="esp-irl report"/>
+
+'''Assistant referees:'''<ref>{{cite web |url=https://www.uefa.com/printoutfiles/competitions/euro/2012/e/e_2003332_pk.pdf |archive-url=https://web.archive.org/web/20120616215130/http://www.uefa.com/printoutfiles/competitions/euro/2012/E/E_2003332_pk.pdf |url-status=dead |archive-date=June 16, 2012 |title=Match Press Kit – Group C – Spain v Republic of Ireland |work=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |date=14 June 2012 |access-date=21 February 2021}}</ref>
+<br />Bertino Miranda ([[Portuguese Football Federation|Portugal]])
+<br />Ricardo Santos ([[Portuguese Football Federation|Portugal]])
+<br />'''Fourth official:'''
+<br />[[Marcin Borski]] ([[Polish Football Association|Poland]])
+<br />'''Additional assistant referees:'''
+<br />[[Jorge Sousa]] ([[Portuguese Football Federation|Portugal]])
+<br />[[Duarte Gomes]] ([[Portuguese Football Federation|Portugal]])
+<br />'''Reserve assistant referee:'''
+<br />Marcin Borkowski ([[Polish Football Association|Poland]])
+|}
+
+===Croatia vs Spain===
+<onlyinclude>{{#invoke:Football box|main|section=c5
+|date={{Start date|2012|6|18|df=y}}
+|time=20:45 <includeonly>[[Central European Summer Time|CEST]]</includeonly>
+|team1={{fb-rt|CRO}}
+|score={{score link|UEFA Euro 2012 Group C#Croatia vs Spain|0–1}}
+|report=https://www.uefa.com/uefaeuro/match/2003339/
+|team2={{fb|ESP}}
+|goals1=
+|goals2=
+*[[Jesús Navas|Navas]] {{goal|88}}
+|stadium=[[Stadion Gdańsk|PGE Arena]], [[Gdańsk]]
+|attendance=39,076<ref name="cro-esp report">{{cite web |url=http://www.uefa.com/newsfiles/euro/2012/2003339_fr.pdf |archive-url=https://web.archive.org/web/20120803025237/http://www.uefa.com/newsfiles/euro/2012/2003339_fr.pdf |url-status=dead |archive-date=August 3, 2012 |title=Full-time report Croatia-Spain |work=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |date=18 June 2012 |access-date=18 June 2012 }}</ref>
+|referee=[[Wolfgang Stark]] ([[German Football Association|Germany]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _cro12h
+ |pattern_b  = _cro12h
+ |pattern_ra = _cro12h
+ |pattern_sh =
+ |pattern_so = _croatia2012home
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Croatia<ref name="cro-esp_line-ups">{{cite web |url=http://www.uefa.com/newsfiles/euro/2012/2003339_lu.pdf|archive-url=https://web.archive.org/web/20140512182125/http://www.uefa.com/newsfiles/euro/2012/2003339_lu.pdf|url-status=dead|archive-date=May 12, 2014|title=Tactical Line-up – Group C – Croatia-Spain |date=18 June 2012 |work=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |access-date=18 June 2012}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _esp12a
+ |pattern_b  = _esp12a
+ |pattern_ra = _esp12a
+ |pattern_sh = _esp12a2
+ |pattern_so = _esp12al
+ |leftarm    = 87CEFA
+ |body       = 87CEFA
+ |rightarm   = 87CEFA
+ |shorts     = 000040
+ |socks      = 87CEFA
+ |title      = Spain<ref name="cro-esp_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Stipe Pletikosa]]
+|-
+|RB ||'''21'''||[[Domagoj Vida]] || || {{suboff|66}}
+|-
+|CB ||'''5''' ||[[Vedran Ćorluka]] || {{yel|27}}
+|-
+|CB ||'''13'''||[[Gordon Schildenfeld]]
+|-
+|LB ||'''2''' ||[[Ivan Strinić]] || {{yel|53}}
+|-
+|CM ||'''8''' ||[[Ognjen Vukojević]] || || {{suboff|81}}
+|-
+|CM ||'''7''' ||[[Ivan Rakitić]] || {{yel|90+3}}
+|-
+|RW ||'''11'''||[[Darijo Srna]] ([[Captain (association football)|c]]) || {{yel|44}}
+|-
+|AM ||'''10'''||[[Luka Modrić]]
+|-
+|LW ||'''6''' ||[[Danijel Pranjić]] || || {{suboff|66}}
+|-
+|CF ||'''17'''||[[Mario Mandžukić]] || {{yel|90}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||[[Ivan Perišić]] || || {{subon|66}}
+|-
+|FW ||'''9''' ||[[Nikica Jelavić]] || {{yel|90+1}} || {{subon|66}}
+|-
+|FW ||'''22'''||[[Eduardo da Silva|Eduardo]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Slaven Bilić]]
+|}
+|valign="top"|[[File:CRO-ESP 2012-06-18.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Iker Casillas]] ([[Captain (association football)|c]])
+|-
+|RB ||'''17'''||[[Álvaro Arbeloa]]
+|-
+|CB ||'''3''' ||[[Gerard Piqué]]
+|-
+|CB ||'''15'''||[[Sergio Ramos]]
+|-
+|LB ||'''18'''||[[Jordi Alba]]
+|-
+|RM ||'''8''' ||[[Xavi (footballer, born 1980)|Xavi]] || || {{suboff|89}}
+|-
+|CM ||'''16'''||[[Sergio Busquets]]
+|-
+|LM ||'''14'''||[[Xabi Alonso]]
+|-
+|RF ||'''21'''||[[David Silva]] || || {{suboff|73}}
+|-
+|CF ||'''9''' ||[[Fernando Torres]] || || {{suboff|61}}
+|-
+|LF ||'''6''' ||[[Andrés Iniesta]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''22'''||[[Jesús Navas]] || || {{subon|61}}
+|-
+|MF ||'''10'''||[[Cesc Fàbregas]] || || {{subon|73}}
+|-
+|FW ||'''11'''||[[Álvaro Negredo]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Vicente del Bosque]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Andrés Iniesta]] (Spain)<ref name="cro-esp report"/>
+
+'''Assistant referees:'''<ref>{{cite web |url=https://www.uefa.com/printoutfiles/competitions/euro/2012/e/e_2003339_pk.pdf |archive-url=https://web.archive.org/web/20120619125506/http://www.uefa.com/printoutfiles/competitions/euro/2012/e/e_2003339_pk.pdf |url-status=dead |archive-date=June 19, 2012 |title=Match Press Kit – Group C – Croatia v Spain |work=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |date=16 June 2012 |access-date=21 February 2021}}</ref>
+<br />Jan-Hendrik Salver ([[German Football Association|Germany]])
+<br />Mike Pickel ([[German Football Association|Germany]])
+<br />'''Fourth official:'''
+<br />Richard Liesveld ([[Royal Dutch Football Association|Netherlands]])
+<br />'''Additional assistant referees:'''
+<br />[[Florian Meyer (referee)|Florian Meyer]] ([[German Football Association|Germany]])
+<br />[[Deniz Aytekin]] ([[German Football Association|Germany]])
+<br />'''Reserve assistant referee:'''
+<br />Sander van Roekel ([[Royal Dutch Football Association|Netherlands]])
+|}
+
+===Italy vs Republic of Ireland===
+<onlyinclude>{{#invoke:Football box|main|section=c6
+|date={{Start date|2012|6|18|df=y}}
+|time=20:45 <includeonly>[[Central European Summer Time|CEST]]</includeonly>
+|team1={{fb-rt|ITA}}
+|score={{score link|UEFA Euro 2012 Group C#Italy vs Republic of Ireland|2–0}}
+|report=https://www.uefa.com/uefaeuro/match/2003340/
+|team2={{fb|IRL}}
+|goals1=
+*[[Antonio Cassano|Cassano]] {{goal|35}}
+*[[Mario Balotelli|Balotelli]] {{goal|90}}
+|goals2=
+|stadium=[[Stadion Poznań|Stadion Miejski]], [[Poznań]]
+|attendance=38,794<ref name="ita-irl report">{{cite web |url=http://www.uefa.com/newsfiles/euro/2012/2003340_fr.pdf |archive-url=https://web.archive.org/web/20120803025244/http://www.uefa.com/newsfiles/euro/2012/2003340_fr.pdf |url-status=dead |archive-date=August 3, 2012 |title=Full-time report Italy-Republic of Ireland |work=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |date=18 June 2012 |access-date=18 June 2012 }}</ref>
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _ita12home
+ |pattern_ra =
+ |pattern_sh = _colchester0809t
+ |pattern_so = _whitehorizontal
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = FFFFFF
+ |socks      = 0000FF
+ |title      = Italy<ref name="ita-irl_line-ups">{{cite web |url=http://www.uefa.com/newsfiles/euro/2012/2003340_lu.pdf|archive-url=https://web.archive.org/web/20140512182131/http://www.uefa.com/newsfiles/euro/2012/2003340_lu.pdf|url-status=dead|archive-date=May 12, 2014|title=Tactical Line-up – Group C – Italy-Republic of Ireland |date=18 June 2012 |work=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |access-date=18 June 2012}}</ref>
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _irl12a
+ |pattern_ra =
+ |pattern_sh = _white_stripes
+ |pattern_so = _irl12a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 076F24
+ |socks      = FFFFFF
+ |title      = {{nowrap|Republic of Ireland}}<ref name="ita-irl_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gianluigi Buffon]] ([[Captain (association football)|c]]) || {{yel|73}}
+|-
+|RB ||'''7''' ||[[Ignazio Abate]]
+|-
+|CB ||'''15'''||[[Andrea Barzagli]]
+|-
+|CB ||'''3''' ||[[Giorgio Chiellini]] || || {{suboff|57}}
+|-
+|LB ||'''6''' ||[[Federico Balzaretti]] || {{yel|28}}
+|-
+|DM ||'''21'''||[[Andrea Pirlo]]
+|-
+|RM ||'''8''' ||[[Claudio Marchisio]]
+|-
+|CM ||'''5''' ||[[Thiago Motta]]
+|-
+|LM ||'''16'''||[[Daniele De Rossi]] || {{yel|71}}
+|-
+|CF ||'''11'''||[[Antonio Di Natale]] || || {{suboff|74}}
+|-
+|CF ||'''10'''||[[Antonio Cassano]] || || {{suboff|63}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''19'''||[[Leonardo Bonucci]] || || {{subon|57}}
+|-
+|MF ||'''22'''||[[Alessandro Diamanti]] || || {{subon|63}}
+|-
+|FW ||'''9''' ||[[Mario Balotelli]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Cesare Prandelli]]
+|}
+|valign="top"|[[File:ITA-IRL 2012-06-18.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Shay Given]]
+|-
+|RB ||'''4''' ||[[John O'Shea]] || {{yel|39}}
+|-
+|CB ||'''5''' ||[[Richard Dunne]]
+|-
+|CB ||'''2''' ||[[Sean St Ledger]] || {{yel|84}}
+|-
+|LB ||'''3''' ||[[Stephen Ward (footballer)|Stephen Ward]]
+|-
+|RM ||'''7''' ||[[Aiden McGeady]] || || {{suboff|65}}
+|-
+|CM ||'''6''' ||[[Glenn Whelan]]
+|-
+|CM ||'''8''' ||[[Keith Andrews (footballer)|Keith Andrews]] || {{sent off|2|37|89}}
+|-
+|LM ||'''11'''||[[Damien Duff]] ([[Captain (association football)|c]])
+|-
+|CF ||'''10'''||[[Robbie Keane]] || || {{suboff|86}}
+|-
+|CF ||'''9''' ||[[Kevin Doyle (footballer)|Kevin Doyle]] || || {{suboff|76}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19'''||[[Shane Long]] || || {{subon|65}}
+|-
+|FW ||'''14'''||[[Jonathan Walters]] || || {{subon|76}}
+|-
+|FW ||'''20'''||[[Simon Cox (footballer, born 1987)|Simon Cox]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ITA}} [[Giovanni Trapattoni]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Antonio Cassano]] (Italy)<ref name="ita-irl report"/>
+
+'''Assistant referees:'''<ref>{{cite web |url=https://www.uefa.com/printoutfiles/competitions/euro/2012/e/e_2003340_pk.pdf |archive-url=https://web.archive.org/web/20120704060731/http://www.uefa.com/printoutfiles/competitions/euro/2012/e/e_2003340_pk.pdf |url-status=dead |archive-date=July 4, 2012 |title=Match Press Kit – Group C – Italy v Republic of Ireland |work=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |date=16 June 2012 |access-date=21 February 2021}}</ref>
+<br />Bahattin Duran ([[Turkish Football Federation|Turkey]])
+<br />Tarık Ongun ([[Turkish Football Federation|Turkey]])
+<br />'''Fourth official:'''
+<br />Viktor Shvetsov ([[Football Federation of Ukraine|Ukraine]])
+<br />'''Additional assistant referees:'''
+<br />[[Hüseyin Göçek]] ([[Turkish Football Federation|Turkey]])
+<br />[[Bülent Yıldırım (referee)|Bülent Yıldırım]] ([[Turkish Football Federation|Turkey]])
+<br />'''Reserve assistant referee:'''
+<br />Oleksandr Voytyuk ([[Football Federation of Ukraine|Ukraine]])
+|}
+
+==See also==
+*[[Croatia at the UEFA European Championship]]
+*[[Italy at the UEFA European Championship]]
+*[[Republic of Ireland at the UEFA European Championship]]
+*[[Spain at the UEFA European Championship]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20111116051920/http://www.uefa.com/uefaeuro/season=2012/standings/round=15172/group=700966/index.html UEFA Euro 2012 Group C]
+
+{{UEFA Euro 2012}}
+{{UEFA Euro 2012 finalists}}
+
+[[Category:UEFA Euro 2012|Group C]]
+[[Category:Republic of Ireland at UEFA Euro 2012|Group]]
+[[Category:Italy at UEFA Euro 2012|Group]]
+[[Category:Spain at UEFA Euro 2012|Group]]
+[[Category:Croatia at UEFA Euro 2012]]
+[[Category:UEFA European Championship group stages]]
+[[Category:2010s in Poznań]]
+[[Category:21st century in Gdańsk]]
+[[Category:Sports competitions in Gdańsk]]
+[[Category:Sports competitions in Poznań]]

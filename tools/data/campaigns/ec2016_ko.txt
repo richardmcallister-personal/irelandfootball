@@ -1,0 +1,2312 @@
+{{Short description|International football tournament stage}}
+{{Use dmy dates|date=April 2022}}
+The '''knockout stage of [[UEFA Euro 2016]]''' began on 25 June 2016 and ended on 10 July 2016 with the [[UEFA Euro 2016 Final|final]] in [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France, near [[Paris]].<ref>[https://www.uefa.com/uefaeuro/history/seasons/2016/matches/ UEFA Euro 2016 knockout stage]. UEFA.com.</ref><ref>[https://www.uefa.com/uefaeuro/history/seasons/2016/matches/ UEFA Euro 2016 final]. UEFA.com.</ref>
+
+''All times listed are [[Central European Summer Time]] ([[UTC+02:00|UTC+2]])''
+
+==Format==
+In the knockout stage, [[Overtime (sports)#Association football|extra time]] and a [[penalty shoot-out (association football)|penalty shoot-out]] were used to decide the winners if necessary.<ref name="Euro2016 Regulations"/> As with every tournament since [[UEFA Euro 1984]], there was no [[third place play-off]].
+
+UEFA set out the following schedule for the round of 16:<ref name="Euro2016 Regulations"/>
+* '''Match 1''': Runners-up Group A vs Runners-up Group C
+* '''Match 2''': Winners Group D vs 3rd Place Group B/E/F
+* '''Match 3''': Winners Group B vs 3rd Place Group A/C/D
+* '''Match 4''': Winners Group F vs Runners-up Group E
+* '''Match 5''': Winners Group C vs 3rd Place Group A/B/F
+* '''Match 6''': Winners Group E vs Runners-up Group D
+* '''Match 7''': Winners Group A vs 3rd Place Group C/D/E
+* '''Match 8''': Runners-up Group B vs Runners-up Group F
+
+===Combinations of matches in the Round of 16===
+The specific match-ups involving the third-placed teams depended on which four third-placed teams from 15 possible combinations qualified for the round of 16:<ref name="Euro2016 Regulations">{{cite news |title=Regulations of the UEFA European Football Championship 2014-16 |url=https://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/03/92/81/2039281_DOWNLOAD.pdf |archive-url=https://web.archive.org/web/20131219025616/http://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/03/92/81/2039281_DOWNLOAD.pdf |url-status=dead |archive-date=19 December 2013 |publisher=[[UEFA]] }}</ref>
+
+{{legend|#BBF3BB|Combination used according to the four qualified teams}}
+
+{| class="wikitable" style="text-align:center"
+|-
+! colspan=6 | Third-placed teams<br />qualify from groups
+! rowspan=16 |
+! 1A<br />vs
+! 1B<br />vs
+! 1C<br />vs
+! 1D<br />vs
+|-
+| '''A''' || '''B''' || '''C''' || '''D''' || || || 3C || 3D || 3A || 3B
+|-
+| '''A''' || '''B''' || '''C''' || || '''E''' || || 3C || 3A || 3B || 3E
+|-
+| '''A''' || '''B''' || '''C''' || || || '''F''' || 3C || 3A || 3B || 3F
+|-
+| '''A''' || '''B''' || || '''D''' || '''E''' || || 3D || 3A || 3B || 3E
+|-
+| '''A''' || '''B''' || || '''D''' || || '''F''' || 3D || 3A || 3B || 3F
+|-
+| '''A''' || '''B''' || || || '''E''' || '''F''' || 3E || 3A || 3B || 3F
+|-
+| '''A''' || || '''C''' || '''D''' || '''E''' || || 3C || 3D || 3A || 3E
+|-
+| '''A''' || || '''C''' || '''D''' || || '''F''' || 3C || 3D || 3A || 3F
+|-
+| '''A''' || || '''C''' || || '''E''' || '''F''' || 3C || 3A || 3F || 3E
+|-
+| '''A''' || || || '''D''' || '''E''' || '''F''' || 3D || 3A || 3F || 3E
+|-
+| || '''B''' || '''C''' || '''D''' || '''E''' || || 3C || 3D || 3B || 3E
+|-
+| || '''B''' || '''C''' || '''D''' || || '''F''' || 3C || 3D || 3B || 3F
+|- style="background:#BBF3BB;"
+| || '''B''' || '''C''' || || '''E''' || '''F''' || 3E || 3C || 3B || 3F
+|-
+| || '''B''' || || '''D''' || '''E''' || '''F''' || 3E || 3D || 3B || 3F
+|-
+| || || '''C''' || '''D''' || '''E''' || '''F''' || 3C || 3D || 3F || 3E
+|}
+
+==Qualified teams==
+The top two placed teams from each of the six groups qualified for the knockout stage, along with the four best third-placed teams.<ref name="Euro2016 Regulations" />
+
+{| class=wikitable
+|-
+! Group
+! width="150" | Winners
+! width="150" | Runners-up
+! width="150" | Third-placed teams<br>([[UEFA Euro 2016#Ranking of third-placed teams|Best four]] qualified)
+|-
+! [[UEFA Euro 2016 Group A|A]]
+| {{fb|FRA|1974}}
+| {{fb|SUI}}
+| {{N/a}}
+|-
+! [[UEFA Euro 2016 Group B|B]]
+| {{fb|WAL}}
+| {{fb|ENG}}
+| {{fb|SVK}}
+|-
+! [[UEFA Euro 2016 Group C|C]]
+| {{fb|GER}}
+| {{fb|POL}}
+| {{fb|NIR}}
+|-
+! [[UEFA Euro 2016 Group D|D]]
+| {{fb|CRO}}
+| {{fb|ESP}}
+| {{N/a}}
+|-
+! [[UEFA Euro 2016 Group E|E]]
+| {{fb|ITA}}
+| {{fb|BEL}}
+| {{fb|IRL}}
+|-
+! [[UEFA Euro 2016 Group F|F]]
+| {{fb|HUN}}
+| {{fb|ISL}}
+| {{fb|POR}}
+|}
+
+==Bracket==
+<section begin=bracket />{{#invoke:RoundN|N16
+|style=white-space:nowrap|widescore=yes|bold_winner=high|3rdplace=no
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+<!-- Date-Place|Team 1|Score 1|Team 2|Score 2 -->
+<!-- round of 16 -->
+|25 June – [[Stade Geoffroy-Guichard|Saint-Étienne]]|{{fb|SUI}}|1 (4)|{{fb|POL}} {{pso}}|1 (5)
+|25 June – [[Stade Bollaert-Delelis|Lens]]|{{fb|CRO}}|0|{{fb|POR}} {{aet}}|1
+|25 June – [[Parc des Princes|Paris]]|{{fb|WAL}}|1|{{fb|NIR}}|0
+|26 June – [[Stadium Municipal|Toulouse]]|{{fb|HUN}}|0|{{fb|BEL}}|4
+|26 June – [[Stade Pierre-Mauroy|Villeneuve-d'Ascq]]|{{fb|GER}}|3|{{fb|SVK}}|0
+|27 June – [[Stade de France|Saint-Denis]]|{{fb|ITA}}|2|{{fb|ESP}}|0
+|26 June – [[Parc Olympique Lyonnais|Décines-Charpieu]]|{{fb|FRA|1974}}|2|{{fb|IRL}}|1
+|27 June – [[Allianz Riviera|Nice]]|{{fb|ENG}}|1|{{fb|ISL}}|2
+<!-- quarter-finals -->
+|30 June – [[Stade Vélodrome|Marseille]]|{{fb|POL}}|1 (3)|{{fb|POR}} {{pso}}|1 (5)
+|1 July – [[Stade Pierre-Mauroy|Villeneuve-d'Ascq]]|{{fb|WAL}}|3|{{fb|BEL}}|1
+|2 July – [[Nouveau Stade de Bordeaux|Bordeaux]]|{{fb|GER}} {{pso}}|1 (6)|{{fb|ITA}}|1 (5)
+|3 July – [[Stade de France|Saint-Denis]]|{{fb|FRA|1974}}|5|{{fb|ISL}}|2
+<!-- semi-finals -->
+|6 July – [[Parc Olympique Lyonnais|Décines-Charpieu]]|{{fb|POR}}|2|{{fb|WAL}}|0
+|7 July – [[Stade Vélodrome|Marseille]]|{{fb|GER}}|0|{{fb|FRA|1974}}|2
+<!-- final -->
+|10 July – [[Stade de France|Saint-Denis]]|{{fb|POR}} {{aet}}|1|{{fb|FRA|1974}}|0
+}}<section end=bracket />
+
+==Round of 16==
+
+===Switzerland vs Poland===
+<section begin=g1 />{{Football box
+|date={{Start date|2016|6|25|df=y}}
+|time=15:00
+|team1={{fb-rt|SUI}}
+|score={{score link|UEFA Euro 2016 knockout stage#Switzerland vs Poland|1–1}}
+|aet=yes
+|report=https://www.uefa.com/uefaeuro/match/2017996/
+|team2={{fb|POL}}
+|goals1=
+*[[Xherdan Shaqiri|Shaqiri]] {{goal|82}}
+|goals2=
+*[[Jakub Błaszczykowski|Błaszczykowski]] {{goal|39}}
+|stadium=[[Stade Geoffroy-Guichard]], [[Saint-Étienne]]
+|attendance=38,842<ref>{{cite web |url=http://www.uefa.com/newsfiles/euro/2016/2017996_fr.pdf |archive-url=https://web.archive.org/web/20161109143432/http://www.uefa.com/newsfiles/euro/2016/2017996_fr.pdf |url-status=dead |archive-date=9 November 2016 |title=Full Time Summary – Switzerland v Poland |work=UEFA.com |publisher=Union of European Football Associations |date=25 June 2016 |access-date=25 June 2016}}</ref>
+|referee=[[Mark Clattenburg]] ([[The Football Association|England]])
+|penalties1=
+*[[Stephan Lichtsteiner|Lichtsteiner]] {{pengoal}}
+*[[Granit Xhaka|Xhaka]] {{penmiss}}
+*[[Xherdan Shaqiri|Shaqiri]] {{pengoal}}
+*[[Fabian Schär|Schär]] {{pengoal}}
+*[[Ricardo Rodriguez (footballer)|Rodriguez]] {{pengoal}}
+|penaltyscore=4–5
+|penalties2=
+*{{pengoal}} [[Robert Lewandowski|Lewandowski]]
+*{{pengoal}} [[Arkadiusz Milik|Milik]]
+*{{pengoal}} [[Kamil Glik|Glik]]
+*{{pengoal}} [[Jakub Błaszczykowski|Błaszczykowski]]
+*{{pengoal}} [[Grzegorz Krychowiak|Krychowiak]]
+}}<section end=g1 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _zwit16h
+ |pattern_b  = _zwit16home
+ |pattern_ra = _zwit16h
+ |pattern_sh = _whitesides
+ |pattern_so = _zwit16h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Switzerland<ref name="sui-pol_line-ups">{{cite web|url=http://www.uefa.com/newsfiles/euro/2016/2017996_lu.pdf|archive-url=https://web.archive.org/web/20170328143545/http://www.uefa.com/newsfiles/euro/2016/2017996_lu.pdf|url-status=dead|archive-date=28 March 2017|title=Tactical Line-ups – Switzerland v Poland|website=UEFA.com |publisher=Union of European Football Associations |date=25 June 2016|access-date=25 June 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _polen16h
+ |pattern_b  = _pol2016home
+ |pattern_ra = _polen16h
+ |pattern_sh = _stripesonwhite
+ |pattern_so = _polonia16h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = DE161C
+ |socks      = FFFFFF
+ |title      = Poland<ref name="sui-pol_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Yann Sommer]]
+|-
+|RB ||'''2''' ||[[Stephan Lichtsteiner]] ([[Captain (association football)|c]])
+|-
+|CB ||'''22'''||[[Fabian Schär]] || {{yel|55}}
+|-
+|CB ||'''20'''||[[Johan Djourou]] || {{yel|117}}
+|-
+|LB ||'''13'''||[[Ricardo Rodriguez (footballer)|Ricardo Rodriguez]]
+|-
+|CM ||'''11'''||[[Valon Behrami]] || || {{suboff|77}}
+|-
+|CM ||'''10'''||[[Granit Xhaka]]
+|-
+|RW ||'''23'''||[[Xherdan Shaqiri]]
+|-
+|AM ||'''15'''||[[Blerim Džemaili]] || || {{suboff|58}}
+|-
+|LW ||'''18'''||[[Admir Mehmedi]] || || {{suboff|70}}
+|-
+|CF ||'''9''' ||[[Haris Seferovic]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[Breel Embolo]] || || {{subon|58}}
+|-
+|FW ||'''19'''||[[Eren Derdiyok]] || || {{subon|70}}
+|-
+|MF ||'''16'''||[[Gelson Fernandes]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Vladimir Petković]]
+|}
+|valign="top"|[[File:SUI-POL 2016-06-25.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||[[Łukasz Fabiański]]
+|-
+|RB ||'''20'''||[[Łukasz Piszczek]]
+|-
+|CB ||'''15'''||[[Kamil Glik]]
+|-
+|CB ||'''2''' ||[[Michał Pazdan]] || {{yel|111}}
+|-
+|LB ||'''3''' ||[[Artur Jędrzejczyk]] || {{yel|58}}
+|-
+|RM ||'''16'''||[[Jakub Błaszczykowski]]
+|-
+|CM ||'''10'''||[[Grzegorz Krychowiak]]
+|-
+|CM ||'''5''' ||[[Krzysztof Mączyński]] || || {{suboff|101}}
+|-
+|LM ||'''11'''||[[Kamil Grosicki]] || || {{suboff|104}}
+|-
+|SS ||'''7''' ||[[Arkadiusz Milik]]
+|-
+|CF ||'''9''' ||[[Robert Lewandowski]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''6''' ||[[Tomasz Jodłowiec]] || || {{subon|101}}
+|-
+|MF ||'''17'''||[[Sławomir Peszko]] || || {{subon|104}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Adam Nawałka]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Xherdan Shaqiri]] (Switzerland)<ref>{{cite news |first=Chris |last=Burke |title=Poland edge past Switzerland on penalties |url=https://www.uefa.com/uefaeuro/history/news/0253-0d81b38fca9d-3e2e4ed4eda5-1000--poland-edge-past-switzerland-on-penalties-in-euro-2016-r/ |website=UEFA.com |publisher=Union of European Football Associations |date=25 June 2016 |access-date=25 June 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees">{{cite web |title=Who is the referee? UEFA EURO 2016 appointments |url=https://www.uefa.com/uefaeuro/history/news/0253-0d813bcef6a0-7b44d328d94c-1000--who-is-the-referee-uefa-euro-2016-appointments/ |website=UEFA.com |publisher=Union of European Football Associations |date=10 June 2016 |access-date=10 June 2016 }}</ref>
+<br />Simon Beck ([[The Football Association|England]])
+<br />Jake Collin ([[The Football Association|England]])
+<br />'''Fourth official:'''
+<br />[[Anastasios Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+<br />'''Additional assistant referees:'''
+<br />[[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+<br />[[Andre Marriner]] ([[The Football Association|England]])
+<br />'''Reserve assistant referee:'''
+<br />Damianos Efthymiadis ([[Hellenic Football Federation|Greece]])
+|}
+
+===Wales vs Northern Ireland===
+<section begin=g2 />{{Football box
+|date={{Start date|2016|6|25|df=y}}
+|time=18:00
+|team1={{fb-rt|WAL}}
+|score={{score link|UEFA Euro 2016 knockout stage#Wales vs Northern Ireland|1–0}}
+|report=https://www.uefa.com/uefaeuro/match/2017997/
+|team2={{fb|NIR}}
+|goals1=
+*[[Gareth McAuley|McAuley]] {{goal|75|o.g.}}
+|goals2=
+|stadium=[[Parc des Princes]], [[Paris]]
+|attendance=44,342<ref>{{cite web |url=http://www.uefa.com/newsfiles/euro/2016/2017997_fr.pdf |archive-url=https://web.archive.org/web/20161109093333/http://www.uefa.com/newsfiles/euro/2016/2017997_fr.pdf |url-status=dead |archive-date=9 November 2016 |title=Full Time Summary – Wales v Northern Ireland |work=UEFA.com |publisher=Union of European Football Associations |date=25 June 2016 |access-date=25 June 2016}}</ref>
+|referee=[[Martin Atkinson]] ([[The Football Association|England]])
+}}<section end=g2 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _wal16h
+ |pattern_b  = _wal16h
+ |pattern_ra = _wal16h
+ |pattern_sh = _adidasred
+ |pattern_so = _wal16H
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Wales<ref name="wal-nir_line-ups">{{cite web|url=http://www.uefa.com/newsfiles/euro/2016/2017997_lu.pdf|archive-url=https://web.archive.org/web/20170328133606/http://www.uefa.com/newsfiles/euro/2016/2017997_lu.pdf|url-status=dead|archive-date=28 March 2017|title=Tactical Line-ups – Wales v Northern Ireland|website=UEFA.com |publisher=Union of European Football Associations |date=25 June 2016|access-date=25 June 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _nier16a
+ |pattern_b  = _nir2016away
+ |pattern_ra = _nier16a
+ |pattern_sh = _adidaswhite
+ |pattern_so = _nier16a
+ |leftarm    = 082052
+ |body       = 00924A
+ |rightarm   = 082052
+ |shorts     = 00924A
+ |socks      = FFFFFF
+ |title      = {{nowrap|Northern Ireland}}<ref name="wal-nir_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Wayne Hennessey]]
+|-
+|CB ||'''5''' ||[[James Chester]]
+|-
+|CB ||'''6''' ||[[Ashley Williams (footballer)|Ashley Williams]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Ben Davies (footballer, born 1993)|Ben Davies]]
+|-
+|RM ||'''2''' ||[[Chris Gunter]]
+|-
+|CM ||'''7''' ||[[Joe Allen (footballer, born 1990)|Joe Allen]]
+|-
+|CM ||'''16'''||[[Joe Ledley]] || || {{suboff|63}}
+|-
+|CM ||'''10'''||[[Aaron Ramsey]] || {{yel|90+4}}
+|-
+|LM ||'''3''' ||[[Neil Taylor (footballer)|Neil Taylor]] || {{yel|58}}
+|-
+|CF ||'''18'''||[[Sam Vokes]] || || {{suboff|55}}
+|-
+|CF ||'''11'''||[[Gareth Bale]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''9''' ||[[Hal Robson-Kanu]] || || {{subon|55}}
+|-
+|MF ||'''20'''||[[Jonny Williams]] || || {{subon|63}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Chris Coleman (footballer)|Chris Coleman]]
+|}
+|valign="top"|[[File:WAL-NIR 2016-06-25.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Michael McGovern (footballer)|Michael McGovern]]
+|-
+|RB ||'''18'''||[[Aaron Hughes]]
+|-
+|CB ||'''4''' ||[[Gareth McAuley]] || || {{suboff|84}}
+|-
+|CB ||'''20'''||[[Craig Cathcart]]
+|-
+|LB ||'''5''' ||[[Jonny Evans]]
+|-
+|CM ||'''8''' ||[[Steven Davis]] ([[Captain (association football)|c]]) || {{yel|67}}
+|-
+|CM ||'''13'''||[[Corry Evans]]
+|-
+|CM ||'''16'''||[[Oliver Norwood]] || || {{suboff|79}}
+|-
+|RW ||'''19'''||[[Jamie Ward]] || || {{suboff|69}}
+|-
+|LW ||'''14'''||[[Stuart Dallas]] || {{yel|44}}
+|-
+|CF ||'''10'''||[[Kyle Lafferty]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Conor Washington]] || || {{subon|69}}
+|-
+|MF ||'''7''' ||[[Niall McGinn]] || || {{subon|79}}
+|-
+|FW ||'''21'''||[[Josh Magennis]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Michael O'Neill (footballer)|Michael O'Neill]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Gareth Bale]] (Wales)<ref>{{cite news |first=Jim |last=Foulerton |title=McAuley agony as Wales reach last eight |url=https://www.uefa.com/uefaeuro/history/news/0253-0d81b361c642-bdd7a4473818-1000--mcauley-agony-for-northern-ireland-as-wales-advance-to-euro-/ |website=UEFA.com |publisher=Union of European Football Associations |date=25 June 2016 |access-date=25 June 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees"/>
+<br />Michael Mullarkey ([[The Football Association|England]])
+<br />Stephen Child ([[The Football Association|England]])
+<br />'''Fourth official:'''
+<br />[[Felix Brych]] ([[German Football Association|Germany]])
+<br />'''Additional assistant referees:'''
+<br />[[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+<br />[[Craig Pawson]] ([[The Football Association|England]])
+<br />'''Reserve assistant referee:'''
+<br />Mark Borsch ([[German Football Association|Germany]])
+|}
+
+===Croatia vs Portugal===
+<section begin=g3 />{{Football box
+|date={{Start date|2016|6|25|df=y}}
+|time=21:00
+|team1={{fb-rt|CRO}}
+|score={{score link|UEFA Euro 2016 knockout stage#Croatia vs Portugal|0–1}}
+|aet=yes
+|report=https://www.uefa.com/uefaeuro/match/2017998/
+|team2={{fb|POR}}
+|goals1=
+|goals2=
+*[[Ricardo Quaresma|Quaresma]] {{goal|117}}
+|stadium=[[Stade Bollaert-Delelis]], [[Lens, Pas-de-Calais|Lens]]
+|attendance=33,523<ref>{{cite web |url=http://www.uefa.com/newsfiles/euro/2016/2017998_fr.pdf |archive-url=https://web.archive.org/web/20161108212915/http://www.uefa.com/newsfiles/euro/2016/2017998_fr.pdf |url-status=dead |archive-date=8 November 2016 |title=Full Time Summary – Croatia v Portugal |work=UEFA.com |publisher=Union of European Football Associations |date=25 June 2016 |access-date=25 June 2016}}</ref>
+|referee=[[Carlos Velasco Carballo]] ([[Royal Spanish Football Federation|Spain]])
+}}<section end=g3 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _kroat16h
+ |pattern_b  = _kroat16home
+ |pattern_ra = _kroat16h
+ |pattern_sh = _stripesonwhite
+ |pattern_so = _kroat16home
+ |leftarm    = D90D11
+ |body       = D90D11
+ |rightarm   = D90D11
+ |shorts     = 0A33F5
+ |socks      = D90D11
+ |title      = Croatia<ref name="cro-por_line-ups">{{cite web|url=http://www.uefa.com/newsfiles/euro/2016/2017998_lu.pdf|archive-url=https://web.archive.org/web/20170328133552/http://www.uefa.com/newsfiles/euro/2016/2017998_lu.pdf|url-status=dead|archive-date=28 March 2017|title=Tactical Line-ups – Croatia v Portugal|website=UEFA.com |publisher=Union of European Football Associations |date=25 June 2016|access-date=25 June 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _por16a
+ |pattern_b  = _por16A
+ |pattern_ra = _por16a
+ |pattern_sh = _por16a
+ |pattern_so = _por16a
+ |leftarm    = 153873
+ |body       = 153873
+ |rightarm   = 153873
+ |shorts     = 153873
+ |socks      = 003029
+ |title      = Portugal<ref name="cro-por_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''23'''||[[Danijel Subašić]]
+|-
+|RB ||'''11'''||[[Darijo Srna]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Vedran Ćorluka]] || || {{suboff|120}}
+|-
+|CB ||'''21'''||[[Domagoj Vida]]
+|-
+|LB ||'''3''' ||[[Ivan Strinić]]
+|-
+|CM ||'''10'''||[[Luka Modrić]]
+|-
+|CM ||'''19'''||[[Milan Badelj]]
+|-
+|RW ||'''14'''||[[Marcelo Brozović]]
+|-
+|AM ||'''7''' ||[[Ivan Rakitić]] || || {{suboff|110}}
+|-
+|LW ||'''4''' ||[[Ivan Perišić]]
+|-
+|CF ||'''17'''||[[Mario Mandžukić]] || || {{suboff|88}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''16'''||[[Nikola Kalinić (footballer)|Nikola Kalinić]] || || {{subon|88}}
+|-
+|FW ||'''20'''||[[Marko Pjaca]] || || {{subon|110}}
+|-
+|FW ||'''9''' ||[[Andrej Kramarić]] || || {{subon|120}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Ante Čačić]]
+|}
+|valign="top"|[[File:CRO-POR 2016-06-25.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Rui Patrício]]
+|-
+|RB ||'''21'''||[[Cédric Soares|Cédric]]
+|-
+|CB ||'''3''' ||[[Pepe (footballer, born 1983)|Pepe]]
+|-
+|CB ||'''4''' ||[[José Fonte]]
+|-
+|LB ||'''5''' ||[[Raphaël Guerreiro]]
+|-
+|RM ||'''10'''||[[João Mário (footballer, born January 1993)|João Mário]] || || {{suboff|87}}
+|-
+|CM ||'''23'''||[[Adrien Silva]] || || {{suboff|108}}
+|-
+|CM ||'''14'''||[[William Carvalho]] || {{yel|78}}
+|-
+|LM ||'''15'''||[[André Gomes]] || || {{suboff|50}}
+|-
+|CF ||'''17'''||[[Nani (footballer)|Nani]]
+|-
+|CF ||'''7''' ||[[Cristiano Ronaldo]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''16'''||[[Renato Sanches]] || || {{subon|50}}
+|-
+|FW ||'''20'''||[[Ricardo Quaresma]] || || {{subon|87}}
+|-
+|MF ||'''13'''||[[Danilo Pereira (Portuguese footballer)|Danilo]] || || {{subon|108}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Fernando Santos (Portuguese footballer)|Fernando Santos]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Renato Sanches]] (Portugal)<ref>{{cite news |first=John |last=Atkin |title=Quaresma snatches extra-time win for Portugal |url=https://www.uefa.com/uefaeuro/history/news/0253-0d81b347e918-6ac6cd2bf6e2-1000--quaresma-snatches-extra-time-win-for-portugal-in-euro-201/ |website=UEFA.com |publisher=Union of European Football Associations |date=25 June 2016 |access-date=25 June 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees"/>
+<br />Roberto Alonso Fernández ([[Royal Spanish Football Federation|Spain]])
+<br />Juan Carlos Yuste Jiménez ([[Royal Spanish Football Federation|Spain]])
+<br />'''Fourth official:'''
+<br />[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+<br />'''Additional assistant referees:'''
+<br />[[Jesús Gil Manzano]] ([[Royal Spanish Football Federation|Spain]])
+<br />[[Carlos del Cerro Grande]] ([[Royal Spanish Football Federation|Spain]])
+<br />'''Reserve assistant referee:'''
+<br />György Ring ([[Hungarian Football Federation|Hungary]])
+|}
+
+===France vs Republic of Ireland===
+<section begin=g4 />{{Football box
+|date={{Start date|2016|6|26|df=y}}
+|time=15:00
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|UEFA Euro 2016 knockout stage#France vs Republic of Ireland|2–1}}
+|report=https://www.uefa.com/uefaeuro/match/2017999/
+|team2={{fb|IRL}}
+|goals1=
+*[[Antoine Griezmann|Griezmann]] {{goal|58||61}}
+|goals2=
+*[[Robbie Brady|Brady]] {{goal|2|pen.}}
+|stadium=[[Parc Olympique Lyonnais]], [[Décines-Charpieu]]
+|attendance=56,279<ref>{{cite web |url=http://www.uefa.com/newsfiles/euro/2016/2017999_fr.pdf |archive-url=https://web.archive.org/web/20161106225436/http://www.uefa.com/newsfiles/euro/2016/2017999_fr.pdf |url-status=dead |archive-date=6 November 2016 |title=Full Time Summary – France v Republic of Ireland |work=UEFA.com |publisher=Union of European Football Associations |date=26 June 2016 |access-date=26 June 2016}}</ref>
+|referee=[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+}}<section end=g4 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _fra16h
+ |pattern_b  = _fra16H
+ |pattern_ra = _fra16h
+ |pattern_sh = _fra16h
+ |pattern_so = _fra16h
+ |leftarm    = 12366B
+ |body       = 115AB9
+ |rightarm   = 12366B
+ |shorts     = 0000FF
+ |socks      = FF0000
+ |title      = France<ref name="fra-irl_line-ups">{{cite web|url=http://www.uefa.com/newsfiles/euro/2016/2017999_lu.pdf|archive-url=https://web.archive.org/web/20170328133513/http://www.uefa.com/newsfiles/euro/2016/2017999_lu.pdf|url-status=dead|archive-date=28 March 2017|title=Tactical Line-ups – France v Republic of Ireland|website=UEFA.com |publisher=Union of European Football Associations |date=26 June 2016|access-date=26 June 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ierland16a
+ |pattern_b  = _ierland16away
+ |pattern_ra = _ierland16a
+ |pattern_sh = _ierland16a
+ |pattern_so = _ierland16a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 00924A
+ |socks      = FFFFFF
+ |title      = {{nowrap|Republic of Ireland}}<ref name="fra-irl_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Hugo Lloris]] ([[Captain (association football)|c]])
+|-
+|RB ||'''19'''||[[Bacary Sagna]]
+|-
+|CB ||'''4''' ||[[Adil Rami]] || {{yel|44}}
+|-
+|CB ||'''21'''||[[Laurent Koscielny]]
+|-
+|LB ||'''3''' ||[[Patrice Evra]]
+|-
+|CM ||'''15'''||[[Paul Pogba]]
+|-
+|CM ||'''5''' ||[[N'Golo Kanté]] || {{yel|27}} || {{suboff|46}}
+|-
+|CM ||'''14'''||[[Blaise Matuidi]]
+|-
+|RW ||'''7''' ||[[Antoine Griezmann]]
+|-
+|LW ||'''8''' ||[[Dimitri Payet]]
+|-
+|CF ||'''9''' ||[[Olivier Giroud]] || || {{suboff|73}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Kingsley Coman]] || || {{subon|46}} || {{suboff|90+3}}
+|-
+|FW ||'''10'''||[[André-Pierre Gignac]] || || {{subon|73}}
+|-
+|MF ||'''18'''||[[Moussa Sissoko]] || || || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Didier Deschamps]]
+|}
+|valign="top"|[[File:FRA-IRL 2016-06-26.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Darren Randolph]]
+|-
+|RB ||'''2''' ||[[Séamus Coleman]] ([[Captain (association football)|c]]) || {{yel|25}}
+|-
+|CB ||'''5''' ||[[Richard Keogh]]
+|-
+|CB ||'''12'''||[[Shane Duffy]] || {{sent off|0|66}}
+|-
+|LB ||'''17'''||[[Stephen Ward (footballer)|Stephen Ward]]
+|-
+|RM ||'''19'''||[[Robbie Brady]]
+|-
+|CM ||'''8''' ||[[James McCarthy (footballer)|James McCarthy]] || || {{suboff|71}}
+|-
+|CM ||'''13'''||[[Jeff Hendrick]] || {{yel|41}}
+|-
+|LM ||'''11'''||[[James McClean]] || || {{suboff|68}}
+|-
+|CF ||'''9''' ||[[Shane Long]] || {{yel|72}}
+|-
+|CF ||'''21'''||[[Daryl Murphy]] || || {{suboff|65}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14'''||[[Jonathan Walters]] || || {{subon|65}}
+|-
+|DF ||'''4''' ||[[John O'Shea]] || || {{subon|68}}
+|-
+|MF ||'''20'''||[[Wes Hoolahan]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|NIR}} [[Martin O'Neill]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Antoine Griezmann]] (France)<ref>{{cite news |first=Andrew |last=Haslam |title=Griezmann helps France fight back to oust Ireland |url=https://www.uefa.com/uefaeuro/history/news/0253-0d81b2e333c9-552d5ace0883-1000--griezmann-helps-france-oust-republic-of-ireland-from-euro/ |website=UEFA.com |publisher=Union of European Football Associations |date=26 June 2016 |access-date=26 June 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees"/>
+<br />Elenito Di Liberatore ([[Italian Football Federation|Italy]])
+<br />Mauro Tonolini ([[Italian Football Federation|Italy]])
+<br />'''Fourth official:'''
+<br />[[Aleksei Kulbakov]] ([[Football Federation of Belarus|Belarus]])
+<br />'''Additional assistant referees:'''
+<br />[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+<br />[[Antonio Damato]] ([[Italian Football Federation|Italy]])
+<br />'''Reserve assistant referee:'''
+<br />Vitali Maliutsin ([[Football Federation of Belarus|Belarus]])
+|}
+
+===Germany vs Slovakia===
+<section begin=g5 />{{Football box
+|date={{Start date|2016|6|26|df=y}}
+|time=18:00
+|team1={{fb-rt|GER}}
+|score={{score link|UEFA Euro 2016 knockout stage#Germany vs Slovakia|3–0}}
+|report=https://www.uefa.com/uefaeuro/match/2018000/
+|team2={{fb|SVK}}
+|goals1=
+*[[Jérôme Boateng|Boateng]] {{goal|8}}
+*[[Mario Gómez|Gómez]] {{goal|43}}
+*[[Julian Draxler|Draxler]] {{goal|63}}
+|goals2=
+|stadium=[[Stade Pierre-Mauroy]], [[Villeneuve-d'Ascq]]
+|attendance=44,312<ref>{{cite web |url=http://www.uefa.com/newsfiles/euro/2016/2018000_fr.pdf |archive-url=https://web.archive.org/web/20161109153721/http://www.uefa.com/newsfiles/euro/2016/2018000_fr.pdf |url-status=dead |archive-date=9 November 2016 |title=Full Time Summary – Germany v Slovakia |work=UEFA.com |publisher=Union of European Football Associations |date=26 June 2016 |access-date=26 June 2016}}</ref>
+|referee=[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+}}<section end=g5 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ger16h
+ |pattern_b  = _ger16h
+ |pattern_ra = _ger16h
+ |pattern_sh = _ger16h
+ |pattern_so = _ger16h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Germany<ref name="ger-svk_line-ups">{{cite web|url=http://www.uefa.com/newsfiles/euro/2016/2018000_lu.pdf|archive-url=https://web.archive.org/web/20170328135143/http://www.uefa.com/newsfiles/euro/2016/2018000_lu.pdf|url-status=dead|archive-date=28 March 2017|title=Tactical Line-ups – Germany v Slovakia|website=UEFA.com |publisher=Union of European Football Associations |date=26 June 2016|access-date=26 June 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _slowa16a
+ |pattern_b  = _svk2016away
+ |pattern_ra = _slowa16a
+ |pattern_sh = _svk2016away
+ |pattern_so = _eslovaquia16a
+ |leftarm    = 0045FF
+ |body       = 0045FF
+ |rightarm   = 0045FF
+ |shorts     = 0045FF
+ |socks      = 0045FF
+ |title      = Slovakia<ref name="ger-svk_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Manuel Neuer]] ([[Captain (association football)|c]])
+|-
+|RB ||'''21'''||[[Joshua Kimmich]] || {{yel|46}}
+|-
+|CB ||'''17'''||[[Jérôme Boateng]] || || {{suboff|72}}
+|-
+|CB ||'''5''' ||[[Mats Hummels]] || {{yel|67}}
+|-
+|LB ||'''3''' ||[[Jonas Hector]]
+|-
+|CM ||'''18'''||[[Toni Kroos]]
+|-
+|CM ||'''6''' ||[[Sami Khedira]] || || {{suboff|76}}
+|-
+|RW ||'''13'''||[[Thomas Müller]]
+|-
+|AM ||'''8''' ||[[Mesut Özil]]
+|-
+|LW ||'''11'''||[[Julian Draxler]] || || {{suboff|72}}
+|-
+|CF ||'''23'''||[[Mario Gómez]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Benedikt Höwedes]] || || {{subon|72}}
+|-
+|FW ||'''10'''||[[Lukas Podolski]] || || {{subon|72}}
+|-
+|MF ||'''7''' ||[[Bastian Schweinsteiger]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Joachim Löw]]
+|}
+|valign="top"|[[File:GER-SVK 2016-06-26.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Matúš Kozáčik]]
+|-
+|RB ||'''2''' ||[[Peter Pekarík]]
+|-
+|CB ||'''3''' ||[[Martin Škrtel]] ([[Captain (association football)|c]]) || {{yel|13}}
+|-
+|CB ||'''4''' ||[[Ján Ďurica]]
+|-
+|LB ||'''5''' ||[[Norbert Gyömbér]] || || {{suboff|84}}
+|-
+|CM ||'''13'''||[[Patrik Hrošovský]]
+|-
+|CM ||'''14'''||[[Milan Škriniar]]
+|-
+|CM ||'''17'''||[[Marek Hamšík]]
+|-
+|RW ||'''19'''||[[Juraj Kucka]] || {{yel|90+1}}
+|-
+|LW ||'''7''' ||[[Vladimír Weiss (footballer, born 1989)|Vladimír Weiss]] || || {{suboff|46}}
+|-
+|CF ||'''21'''||[[Michal Ďuriš]] || || {{suboff|64}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''6''' ||[[Ján Greguš]] || || {{subon|46}}
+|-
+|FW ||'''9''' ||[[Stanislav Šesták]] || || {{subon|64}}
+|-
+|DF ||'''16'''||[[Kornel Saláta]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Ján Kozák (footballer, born 1954)|Ján Kozák]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Julian Draxler]] (Germany)<ref>{{cite news |first=Tom |last=Kell |title=Germany go through the gears to see off Slovakia |url=https://www.uefa.com/uefaeuro/history/news/0253-0d81b2bf95c1-ead16dd7a5d2-1000--germany-go-through-the-gears-to-eliminate-slovakia-from-euro/ |website=UEFA.com |publisher=Union of European Football Associations |date=26 June 2016 |access-date=26 June 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees"/>
+<br />Paweł Sokolnicki ([[Polish Football Association|Poland]])
+<br />Tomasz Listkiewicz ([[Polish Football Association|Poland]])
+<br />'''Fourth official:'''
+<br />[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''Additional assistant referees:'''
+<br />[[Paweł Raczkowski]] ([[Polish Football Association|Poland]])
+<br />Tomasz Musiał ([[Polish Football Association|Poland]])
+<br />'''Reserve assistant referee:'''
+<br />Erwin Zeinstra ([[Royal Dutch Football Association|Netherlands]])
+|}
+
+===Hungary vs Belgium===
+<section begin=g6 />{{Football box
+|date={{Start date|2016|6|26|df=y}}
+|time=21:00
+|team1={{fb-rt|HUN}}
+|score={{score link|UEFA Euro 2016 knockout stage#Hungary vs Belgium|0–4}}
+|report=https://www.uefa.com/uefaeuro/match/2018001/
+|team2={{fb|BEL}}
+|goals1=
+|goals2=
+*[[Toby Alderweireld|Alderweireld]] {{goal|10}}
+*[[Michy Batshuayi|Batshuayi]] {{goal|78}}
+*[[Eden Hazard|Hazard]] {{goal|80}}
+*[[Yannick Carrasco|Carrasco]] {{goal|90+1}}
+|stadium=[[Stadium Municipal]], [[Toulouse]]
+|attendance=28,921<ref>{{cite web |url=http://www.uefa.com/newsfiles/euro/2016/2018001_fr.pdf |archive-url=https://web.archive.org/web/20161109160743/http://www.uefa.com/newsfiles/euro/2016/2018001_fr.pdf |url-status=dead |archive-date=9 November 2016 |title=Full Time Summary – Hungary v Belgium |work=UEFA.com |publisher=Union of European Football Associations |date=26 June 2016 |access-date=26 June 2016}}</ref>
+|referee=[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+}}<section end=g6 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _hongar16h
+ |pattern_b  = _hun2016home
+ |pattern_ra = _hongar16h
+ |pattern_sh = _hongar16a
+ |pattern_so = _3_stripes_white
+ |leftarm    = DE1021
+ |body       = DE1021
+ |rightarm   = DE1021
+ |shorts     = FFFFFF
+ |socks      = 0B663A
+ |title      = Hungary<ref name="hun-bel_line-ups">{{cite web|url=http://www.uefa.com/newsfiles/euro/2016/2018001_lu.pdf|archive-url=https://web.archive.org/web/20170328170627/http://www.uefa.com/newsfiles/euro/2016/2018001_lu.pdf|url-status=dead|archive-date=28 March 2017|title=Tactical Line-ups – Hungary v Belgium|website=UEFA.com |publisher=Union of European Football Associations |date=26 June 2016|access-date=26 June 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _bel16a
+ |pattern_ra =
+ |pattern_sh =
+ |pattern_so = _belg16a
+ |leftarm    = B8ECFC
+ |body       = B8ECFC
+ |rightarm   = B8ECFC
+ |shorts     = B8ECFC
+ |socks      = B8ECFC
+ |title      = Belgium<ref name="hun-bel_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gábor Király]]
+|-
+|RB ||'''2''' ||[[Ádám Lang]] || {{yel|47}}
+|-
+|CB ||'''20'''||[[Richárd Guzmics]]
+|-
+|CB ||'''23'''||[[Roland Juhász]] || || {{suboff|79}}
+|-
+|LB ||'''4''' ||[[Tamás Kádár]] || {{yel|34}}
+|-
+|CM ||'''8''' ||[[Ádám Nagy]]
+|-
+|CM ||'''10'''||[[Zoltán Gera]] || || {{suboff|46}}
+|-
+|CM ||'''16'''||[[Ádám Pintér]] || || {{suboff|75}}
+|-
+|RW ||'''14'''||[[Gergő Lovrencsics]]
+|-
+|LW ||'''7''' ||[[Balázs Dzsudzsák]] ([[Captain (association football)|c]])
+|-
+|CF ||'''9''' ||[[Ádám Szalai]] || {{yel|90+2}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''6''' ||[[Ákos Elek]] || {{yel|61}} || {{subon|46}}
+|-
+|FW ||'''17'''||[[Nemanja Nikolić (footballer, born 1987)|Nemanja Nikolić]] || || {{subon|75}}
+|-
+|FW ||'''13'''||[[Dániel Böde]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Bernd Storck]]
+|}
+|valign="top"|[[File:HUN-BEL 2016-06-26.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Thibaut Courtois]]
+|-
+|RB ||'''16'''||[[Thomas Meunier]]
+|-
+|CB ||'''2''' ||[[Toby Alderweireld]]
+|-
+|CB ||'''3''' ||[[Thomas Vermaelen]] || {{yel|67}}
+|-
+|LB ||'''5''' ||[[Jan Vertonghen]]
+|-
+|CM ||'''4''' ||[[Radja Nainggolan]]
+|-
+|CM ||'''6''' ||[[Axel Witsel]]
+|-
+|AM ||'''7''' ||[[Kevin De Bruyne]]
+|-
+|RW ||'''14'''||[[Dries Mertens]] || || {{suboff|70}}
+|-
+|LW ||'''10'''||[[Eden Hazard]] ([[Captain (association football)|c]]) || || {{suboff|81}}
+|-
+|CF ||'''9''' ||[[Romelu Lukaku]] || || {{suboff|76}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Yannick Carrasco]] || || {{subon|70}}
+|-
+|FW ||'''22'''||[[Michy Batshuayi]] || {{yel|89}} || {{subon|76}}
+|-
+|MF ||'''8''' ||[[Marouane Fellaini]] || {{yel|90+2}} || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Marc Wilmots]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Eden Hazard]] (Belgium)<ref>{{cite news |first=Paul |last=Saffer |title=Hazard-inspired Belgium blow away Hungary |url=https://www.uefa.com/uefaeuro/history/news/0253-0d81b2c2ba92-3aa3e9a2d3ab-1000--hazard-inspired-belgium-shatter-hungary-s-euro-2016-dream/ |website=UEFA.com |publisher=Union of European Football Associations |date=26 June 2016 |access-date=26 June 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees">{{cite web |title=Who is the referee? UEFA EURO 2016 appointments |url=https://www.uefa.com/uefaeuro/history/news/0253-0d813bcef6a0-7b44d328d94c-1000--who-is-the-referee-uefa-euro-2016-appointments/ |website=UEFA.com |publisher=Union of European Football Associations |date=10 June 2016 |access-date=10 June 2016 }}</ref>
+<br />Milovan Ristić ([[Football Association of Serbia|Serbia]])
+<br />Dalibor Đurđević ([[Football Association of Serbia|Serbia]])
+<br />'''Fourth official:'''
+<br />[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+<br />'''Additional assistant referees:'''
+<br />Danilo Grujić ([[Football Association of Serbia|Serbia]])
+<br />Nenad Đokić ([[Football Association of Serbia|Serbia]])
+<br />'''Reserve assistant referee:'''
+<br />Daniel Wärnmark ([[Swedish Football Association|Sweden]])
+|}
+
+===Italy vs Spain===
+{{see also|Italy–Spain football rivalry}}
+
+<section begin=g7 />{{Football box
+|date={{Start date|2016|6|27|df=y}}
+|time=18:00
+|team1={{fb-rt|ITA}}
+|score={{score link|UEFA Euro 2016 knockout stage#Italy vs Spain|2–0}}
+|report=https://www.uefa.com/uefaeuro/match/2018002/
+|team2={{fb|ESP}}
+|goals1=
+*[[Giorgio Chiellini|Chiellini]] {{goal|33}}
+*[[Graziano Pellè|Pellè]] {{goal|90+1}}
+|goals2=
+|stadium=[[Stade de France]], [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|attendance=76,165<ref>{{cite web |url=http://www.uefa.com/newsfiles/euro/2016/2018002_fr.pdf |archive-url=https://web.archive.org/web/20161106225439/http://www.uefa.com/newsfiles/euro/2016/2018002_fr.pdf |url-status=dead |archive-date=6 November 2016 |title=Full Time Summary – Italy v Spain |work=UEFA.com |publisher=Union of European Football Associations |date=27 June 2016 |access-date=27 June 2016}}</ref>
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+}}<section end=g7 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ita16h
+ |pattern_b  = _ita16home
+ |pattern_ra = _ita16h
+ |pattern_sh = _ita16a
+ |pattern_so = _ita16h
+ |leftarm    = 113ED7
+ |body       = 113ED7
+ |rightarm   = 113ED7
+ |shorts     = 113ED7
+ |socks      = 113ED7
+ |title      = Italy<ref name="ita-esp_line-ups">{{cite web|url=http://www.uefa.com/newsfiles/euro/2016/2018002_lu.pdf|archive-url=https://web.archive.org/web/20170328170641/http://www.uefa.com/newsfiles/euro/2016/2018002_lu.pdf|url-status=dead|archive-date=28 March 2017|title=Tactical Line-ups – Italy v Spain|website=UEFA.com |publisher=Union of European Football Associations |date=27 June 2016|access-date=27 June 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _esp16a
+ |pattern_ra = _esp16a
+ |pattern_sh =
+ |pattern_so = _esp16a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Spain<ref name="ita-esp_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gianluigi Buffon]] ([[Captain (association football)|c]])
+|-
+|CB ||'''15'''||[[Andrea Barzagli]]
+|-
+|CB ||'''19'''||[[Leonardo Bonucci]]
+|-
+|CB ||'''3''' ||[[Giorgio Chiellini]]
+|-
+|RWB ||'''8''' ||[[Alessandro Florenzi]] || || {{suboff|84}}
+|-
+|LWB ||'''2''' ||[[Mattia De Sciglio]] || {{yel|24}}
+|-
+|DM ||'''16'''||[[Daniele De Rossi]] || || {{suboff|54}}
+|-
+|CM ||'''18'''||[[Marco Parolo]]
+|-
+|CM ||'''23'''||[[Emanuele Giaccherini]]
+|-
+|SS ||'''17'''||[[Éder (footballer, born 1986)|Éder]] || || {{suboff|82}}
+|-
+|CF ||'''9''' ||[[Graziano Pellè]] || {{yel|54}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''10'''||[[Thiago Motta]] || {{yel|89}} || {{subon|54}}
+|-
+|FW ||'''20'''||[[Lorenzo Insigne]] || || {{subon|82}}
+|-
+|DF ||'''4''' ||[[Matteo Darmian]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Antonio Conte]]
+|}
+|valign="top"|[[File:ITA-ESP 2016-06-27.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||[[David de Gea]]
+|-
+|RB ||'''16'''||[[Juanfran (footballer, born 1985)|Juanfran]]
+|-
+|CB ||'''3''' ||[[Gerard Piqué]]
+|-
+|CB ||'''15'''||[[Sergio Ramos]] ([[Captain (association football)|c]])
+|-
+|LB ||'''18'''||[[Jordi Alba]] || {{yel|89}}
+|-
+|DM ||'''5''' ||[[Sergio Busquets]] || {{yel|89}}
+|-
+|CM ||'''10'''||[[Cesc Fàbregas]]
+|-
+|CM ||'''6''' ||[[Andrés Iniesta]]
+|-
+|RW ||'''21'''||[[David Silva]] || {{yel|90+4}}
+|-
+|LW ||'''22'''||[[Nolito]] || {{yel|41}} || {{suboff|46}}
+|-
+|CF ||'''7''' ||[[Álvaro Morata]] || || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[Aritz Aduriz]] || || {{subon|46}} || {{suboff|81}}
+|-
+|FW ||'''9''' ||[[Lucas Vázquez]] || || {{subon|70}}
+|-
+|FW ||'''11'''||[[Pedro (footballer, born July 1987)|Pedro]] || || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Vicente del Bosque]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Leonardo Bonucci]] (Italy)<ref>{{cite news |first=Jim |last=Foulerton |title=Dominant Italy brush aside champions Spain |url=https://www.uefa.com/uefaeuro/history/news/0253-0d81b24e0059-7534c6d3e771-1000--dominant-italy-brush-aside-holders-spain-in-euro-2016-first/ |website=UEFA.com |publisher=Union of European Football Associations |date=27 June 2016 |access-date=27 June 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees">{{cite web |title=Who is the referee? UEFA EURO 2016 appointments |url=https://www.uefa.com/uefaeuro/history/news/0253-0d813bcef6a0-7b44d328d94c-1000--who-is-the-referee-uefa-euro-2016-appointments/ |website=UEFA.com |publisher=Union of European Football Associations |date=10 June 2016 |access-date=10 June 2016 }}</ref>
+<br />Bahattin Duran ([[Turkish Football Federation|Turkey]])
+<br />Tarık Ongun ([[Turkish Football Federation|Turkey]])
+<br />'''Fourth official:'''
+<br />[[Martin Atkinson]] ([[The Football Association|England]])
+<br />'''Additional assistant referees:'''
+<br />[[Hüseyin Göçek]] ([[Turkish Football Federation|Turkey]])
+<br />Barış Şimşek ([[Turkish Football Federation|Turkey]])
+<br />'''Reserve assistant referee:'''
+<br />Michael Mullarkey ([[The Football Association|England]])
+|}
+
+===England vs Iceland===
+The match has been described as one of England's worst defeats ever,<ref>{{cite web|url=http://www.espnfc.com/blog/the-match/60/post/2896655/england-defeat-vs-iceland-at-euro-2016-one-of-their-worst-ever|title=England's defeat vs. Iceland at Euro 2016 will go down as one of their worst|date=27 June 2016|publisher=ESPN FC |archive-url=https://web.archive.org/web/20160628093100/http://www.espnfc.com/blog/the-match/60/post/2896655/england-defeat-vs-iceland-at-euro-2016-one-of-their-worst-ever |archive-date=28 June 2016 |url-status=dead}}</ref> and one of the biggest upsets in European football history.<ref>{{cite web|url=https://www.ofm.co.za/article/soccer/187747/iceland-cause-biggest-european-football-upset|title=Iceland cause biggest European football upset|date=28 June 2016|publisher=OFM}}</ref>
+
+Former footballer and [[Talksport]] presenter [[Stan Collymore]], who was commentating on the game, panned the England team, reserving special criticism for goalkeeper [[Joe Hart]] and captain [[Wayne Rooney]].<ref>{{cite web|url=http://www.101greatgoals.com/101ggvideos/stan-collymores-magnificent-rant-full-time-england-1-iceland-2-video/|title=Stan Collymore's magnificent rant at full time of England 1 – Iceland 2 (Video)|date=27 June 2016|publisher=101 Great Goals}}</ref> Former England international and [[BBC Sport]] pundit [[Alan Shearer]] described it as the worst performance he had ever seen from an England team.<ref>{{cite web|title=Alan Shearer says England's performance vs Iceland was worst ever|url=http://metro.co.uk/2016/06/29/alan-shearer-says-englands-performance-vs-iceland-was-worst-ever-5973435/|last=Brus|first=Marc|work=[[Metro (British newspaper)|Metro]]|date=29 June 2016}}</ref> The defeat was called England's most shocking since losing [[United States v England (1950 FIFA World Cup)|1–0 to the United States in the 1950 World Cup.]]<ref>{{cite web|url=https://www.independent.co.uk/sport/football/international/england-vs-iceland-steve-mcclaren-reaction-goal-euro-2016-a7106896.html|title=England vs Iceland: Steve McClaren's painful reaction to winning goal in Euro 2016 goes viral|last=Critchley|first=Mark|date=28 June 2016|work=[[The Independent]]}}</ref>
+
+The English team was viciously mocked by the press who described it as a "second exit from Europe", referencing the [[2016 United Kingdom European Union membership referendum|United Kingdom's vote to leave the European Union]] just four days earlier. The English media called the result a national embarrassment, criticising the team's fitness and calling the fans unsportsmanlike.<ref>{{cite web|url=https://www.theguardian.com/football/2016/jun/28/england-iceland-internet-reacts-humiliating-euro-2016-brexit|title=England 1-2 Iceland: the internet reacts to another humiliating exit from Europe|date=28 June 2016|work=[[The Guardian]]}}</ref><ref>{{cite news|title=The week that was: the world's ugliest dog|newspaper=[[The Sunday Times]]|date=3 July 2016|url=https://www.thetimes.com/world/us-world/article/the-week-that-was-zww3tzxxm|url-status=live|archive-url=https://archive.today/20210714035047/https://www.thetimes.co.uk/article/the-week-that-was-zww3tzxxm|archive-date=14 July 2021}}</ref> Consequently, England manager [[Roy Hodgson]] announced his resignation following the match.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/36647032|title=Euro 2016: Roy Hodgson resigns after England lose to Iceland|date=28 June 2016|work=[[BBC Sport]]}}</ref>
+
+<section begin=g8 />{{Football box
+|date={{Start date|2016|6|27|df=y}}
+|time=21:00
+|team1={{fb-rt|ENG}}
+|score={{score link|UEFA Euro 2016 knockout stage#England vs Iceland|1–2}}
+|report=https://www.uefa.com/uefaeuro/match/2018003/
+|team2={{fb|ISL}}
+|goals1=
+*[[Wayne Rooney|Rooney]] {{goal|4|pen.}}
+|goals2=
+*[[Ragnar Sigurðsson|R. Sigurðsson]] {{goal|6}}
+*[[Kolbeinn Sigþórsson|Sigþórsson]] {{goal|18}}
+|stadium=[[Allianz Riviera|Stade de Nice]], [[Nice]]
+|attendance=33,901<ref>{{cite web |url=http://www.uefa.com/newsfiles/euro/2016/2018003_fr.pdf |archive-url=https://web.archive.org/web/20161109153709/http://www.uefa.com/newsfiles/euro/2016/2018003_fr.pdf |url-status=dead |archive-date=9 November 2016 |title=Full Time Summary – England v Iceland |work=UEFA.com |publisher=Union of European Football Associations |date=27 June 2016 |access-date=27 June 2016}}</ref>
+|referee=[[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+}}<section end=g8 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _eng16h
+ |pattern_b  = _eng16H
+ |pattern_ra = _eng16h
+ |pattern_sh = _darkblue_stripes
+ |pattern_so = _eng16h
+ |leftarm    = 82A0BC
+ |body       = FFFFFF
+ |rightarm   = 82A0BC
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = England<ref name="eng-isl_line-ups">{{cite web|url=http://www.uefa.com/newsfiles/euro/2016/2018003_lu.pdf|archive-url=https://web.archive.org/web/20170118094442/http://www.uefa.com/newsfiles/euro/2016/2018003_lu.pdf|url-status=dead|archive-date=18 January 2017|title=Tactical Line-ups – England v Iceland|website=UEFA.com |publisher=Union of European Football Associations |date=27 June 2016|access-date=27 June 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ijsland16h
+ |pattern_b  = _ijsland16h
+ |pattern_ra = _ijsland16h
+ |pattern_sh =
+ |pattern_so = _ijsland16h
+ |leftarm    =
+ |body       =
+ |rightarm   =
+ |shorts     = 0B29F6
+ |socks      = 0B29F6
+ |title      = Iceland<ref name="eng-isl_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Joe Hart]]
+|-
+|RB ||'''2''' ||[[Kyle Walker]]
+|-
+|CB ||'''5''' ||[[Gary Cahill]]
+|-
+|CB ||'''6''' ||[[Chris Smalling]]
+|-
+|LB ||'''3''' ||[[Danny Rose (footballer, born 1990)|Danny Rose]]
+|-
+|CM ||'''20'''||[[Dele Alli]]
+|-
+|CM ||'''17'''||[[Eric Dier]] || || {{suboff|46}}
+|-
+|CM ||'''10'''||[[Wayne Rooney]] ([[Captain (association football)|c]]) || || {{suboff|87}}
+|-
+|RF ||'''15'''||[[Daniel Sturridge]] || {{yel|47}}
+|-
+|CF ||'''9''' ||[[Harry Kane]]
+|-
+|LF ||'''7''' ||[[Raheem Sterling]] || || {{suboff|60}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Jack Wilshere]] || || {{subon|46}}
+|-
+|FW ||'''11'''||[[Jamie Vardy]] || || {{subon|60}}
+|-
+|FW ||'''22'''||[[Marcus Rashford]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Roy Hodgson]]
+|}
+|valign="top"|[[File:ENG-ISL 2016-06-27.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Hannes Þór Halldórsson]]
+|-
+|RB ||'''2''' ||[[Birkir Már Sævarsson]]
+|-
+|CB ||'''14'''||[[Kári Árnason (footballer, born 1982)|Kári Árnason]]
+|-
+|CB ||'''6''' ||[[Ragnar Sigurðsson]]
+|-
+|LB ||'''23'''||[[Ari Freyr Skúlason]]
+|-
+|RM ||'''7''' ||[[Jóhann Berg Guðmundsson]]
+|-
+|CM ||'''10'''||[[Gylfi Sigurðsson]] || {{yel|38}}
+|-
+|CM ||'''17'''||[[Aron Gunnarsson]] ([[Captain (association football)|c]]) || {{yel|65}}
+|-
+|LM ||'''8''' ||[[Birkir Bjarnason]]
+|-
+|CF ||'''9''' ||[[Kolbeinn Sigþórsson]] || || {{suboff|77}}
+|-
+|CF ||'''15'''||[[Jón Daði Böðvarsson]] || || {{suboff|89}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''18'''||[[Theódór Elmar Bjarnason]] || || {{subon|77}}
+|-
+|MF ||'''21'''||[[Arnór Ingvi Traustason]] || || {{subon|89}}
+|-
+|colspan=3|'''Managers:'''
+|-
+|colspan=3|[[Heimir Hallgrímsson]]<br />{{flagicon|SWE}} [[Lars Lagerbäck]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Ragnar Sigurðsson]] (Iceland)<ref>{{cite news |first=Wayne |last=Harrison |title=Iceland into quarter-finals after stunning England |url=https://www.uefa.com/uefaeuro/history/news/0253-0d8193ba70fb-40c2e7602d67-1000--iceland-into-euro-2016-quarter-finals-after-stunning-england/ |website=UEFA.com |publisher=Union of European Football Associations |date=27 June 2016 |access-date=27 June 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees"/>
+<br />Jure Praprotnik ([[Football Association of Slovenia|Slovenia]])
+<br />Robert Vukan ([[Football Association of Slovenia|Slovenia]])
+<br />'''Fourth official:'''
+<br />[[Carlos Velasco Carballo]] ([[Royal Spanish Football Federation|Spain]])
+<br />'''Additional assistant referees:'''
+<br />[[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+<br />[[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+<br />'''Reserve assistant referee:'''
+<br />Roberto Alonso Fernández ([[Royal Spanish Football Federation|Spain]])
+|}
+
+==Quarter-finals==
+
+===Poland vs Portugal===
+<section begin=h1 />{{Football box
+|date={{Start date|2016|6|30|df=y}}
+|time=21:00
+|team1={{fb-rt|POL}}
+|score={{score link|UEFA Euro 2016 knockout stage#Poland vs Portugal|1–1}}
+|aet=yes
+|report=https://www.uefa.com/uefaeuro/match/2017901/
+|team2={{fb|POR}}
+|goals1=
+*[[Robert Lewandowski|Lewandowski]] {{goal|2}}
+|goals2=
+*[[Renato Sanches|Sanches]] {{goal|33}}
+|stadium=[[Stade Vélodrome]], [[Marseille]]
+|attendance=62,940<ref>{{cite web |url=http://www.uefa.com/newsfiles/euro/2016/2017901_fr.pdf |archive-url=https://web.archive.org/web/20161109153648/http://www.uefa.com/newsfiles/euro/2016/2017901_fr.pdf |url-status=dead |archive-date=9 November 2016 |title=Full Time Summary – Poland v Portugal |work=UEFA.com |publisher=Union of European Football Associations |date=30 June 2016 |access-date=30 June 2016}}</ref>
+|referee=[[Felix Brych]] ([[German Football Association|Germany]])
+|penalties1=
+*[[Robert Lewandowski|Lewandowski]] {{pengoal}}
+*[[Arkadiusz Milik|Milik]] {{pengoal}}
+*[[Kamil Glik|Glik]] {{pengoal}}
+*[[Jakub Błaszczykowski|Błaszczykowski]] {{penmiss}}
+|penaltyscore=3–5
+|penalties2=
+*{{pengoal}} [[Cristiano Ronaldo|Ronaldo]]
+*{{pengoal}} [[Renato Sanches|Sanches]]
+*{{pengoal}} [[João Moutinho|Moutinho]]
+*{{pengoal}} [[Nani (footballer)|Nani]]
+*{{pengoal}} [[Ricardo Quaresma|Quaresma]]
+}}<section end=h1 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _polen16h
+ |pattern_b  = _pol2016home
+ |pattern_ra = _polen16h
+ |pattern_sh = _stripesonwhite
+ |pattern_so = _polonia16h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = DE161C
+ |socks      = FFFFFF
+ |title      = Poland<ref name="pol-por_line-ups">{{cite web|url=http://www.uefa.com/newsfiles/euro/2016/2017901_lu.pdf|archive-url=https://web.archive.org/web/20170328133606/http://www.uefa.com/newsfiles/euro/2016/2017901_lu.pdf|url-status=dead|archive-date=28 March 2017|title=Tactical Line-ups – Poland v Portugal|website=UEFA.com |publisher=Union of European Football Associations |date=30 June 2016|access-date=30 June 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _por16h
+ |pattern_b  = _por16H
+ |pattern_ra = _por16h
+ |pattern_sh = _green_stripes
+ |pattern_so = _por16h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = 008000
+ |title      = Portugal<ref name="pol-por_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''22'''||[[Łukasz Fabiański]]
+|-
+|RB ||'''20'''||[[Łukasz Piszczek]]
+|-
+|CB ||'''15'''||[[Kamil Glik]] || {{yel|66}}
+|-
+|CB ||'''2''' ||[[Michał Pazdan]]
+|-
+|LB ||'''3''' ||[[Artur Jędrzejczyk]] || {{yel|42}}
+|-
+|RM ||'''16'''||[[Jakub Błaszczykowski]]
+|-
+|CM ||'''10'''||[[Grzegorz Krychowiak]]
+|-
+|CM ||'''5''' ||[[Krzysztof Mączyński]] || || {{suboff|98}}
+|-
+|LM ||'''11'''||[[Kamil Grosicki]] || || {{suboff|82}}
+|-
+|SS ||'''7''' ||[[Arkadiusz Milik]]
+|-
+|CF ||'''9''' ||[[Robert Lewandowski]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Bartosz Kapustka]] || {{yel|89}} || {{subon|82}}
+|-
+|MF ||'''6''' ||[[Tomasz Jodłowiec]] || || {{subon|98}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Adam Nawałka]]
+|}
+|valign="top"|[[File:POL-POR 2016-06-30.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Rui Patrício]]
+|-
+|RB ||'''21'''||[[Cédric Soares|Cédric]]
+|-
+|CB ||'''3''' ||[[Pepe (footballer, born 1983)|Pepe]]
+|-
+|CB ||'''4''' ||[[José Fonte]]
+|-
+|LB ||'''19'''||[[Eliseu]]
+|-
+|DM ||'''14'''||[[William Carvalho]] || {{yel|90+2}} || {{suboff|96}}
+|-
+|RM ||'''10'''||[[João Mário (footballer, born January 1993)|João Mário]] || || {{suboff|80}}
+|-
+|CM ||'''16'''||[[Renato Sanches]]
+|-
+|LM ||'''23'''||[[Adrien Silva]] || {{yel|70}} || {{suboff|73}}
+|-
+|SS ||'''17'''||[[Nani (footballer)|Nani]]
+|-
+|CF ||'''7''' ||[[Cristiano Ronaldo]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[João Moutinho]] || || {{subon|73}}
+|-
+|FW ||'''20'''||[[Ricardo Quaresma]] || || {{subon|80}}
+|-
+|MF ||'''13'''||[[Danilo Pereira (Portuguese footballer)|Danilo]] || || {{subon|96}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Fernando Santos (Portuguese footballer)|Fernando Santos]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Renato Sanches]] (Portugal)<ref>{{cite news |first=Andy |last=James |title=Draw specialists Portugal beat Poland on penalties |url=https://www.uefa.com/uefaeuro/history/news/0253-0d81b0ff65da-c7bfd6abfbe9-1000--draw-specialists-portugal-beat-poland-on-penalties-to-re/ |website=UEFA.com |publisher=Union of European Football Associations |date=30 June 2016 |access-date=30 June 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees"/>
+<br />Mark Borsch ([[German Football Association|Germany]])
+<br />Stefan Lupp ([[German Football Association|Germany]])
+<br />'''Fourth official:'''
+<br />[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+<br />'''Additional assistant referees:'''
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />[[Marco Fritz]] ([[German Football Association|Germany]])
+<br />'''Reserve assistant referee:'''
+<br />Milovan Ristić ([[Football Association of Serbia|Serbia]])
+|}
+
+===Wales vs Belgium===
+<section begin=h2 />{{Football box
+|date={{Start date|2016|7|1|df=y}}
+|time=21:00
+|team1={{fb-rt|WAL}}
+|score={{score link|UEFA Euro 2016 knockout stage#Wales vs Belgium|3–1}}
+|report=https://www.uefa.com/uefaeuro/match/2017902/
+|team2={{fb|BEL}}
+|goals1=
+*[[Ashley Williams (footballer)|A. Williams]] {{goal|31}}
+*[[Hal Robson-Kanu|Robson-Kanu]] {{goal|55}}
+*[[Sam Vokes|Vokes]] {{goal|86}}
+|goals2=
+*[[Radja Nainggolan|Nainggolan]] {{goal|13}}
+|stadium=[[Stade Pierre-Mauroy]], [[Villeneuve-d'Ascq]]
+|attendance=45,936<ref>{{cite web |url=http://www.uefa.com/newsfiles/euro/2016/2017902_fr.pdf |archive-url=https://web.archive.org/web/20161109160747/http://www.uefa.com/newsfiles/euro/2016/2017902_fr.pdf |url-status=dead |archive-date=9 November 2016 |title=Full Time Summary – Wales v Belgium |work=UEFA.com |publisher=Union of European Football Associations |date=1 July 2016 |access-date=1 July 2016}}</ref>
+|referee=[[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+}}<section end=h2 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _wal16h
+ |pattern_b  = _wal16h
+ |pattern_ra = _wal16h
+ |pattern_sh = _adidasred
+ |pattern_so = _wal16H
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Wales<ref name="wal-bel_line-ups">{{cite web|url=http://www.uefa.com/newsfiles/euro/2016/2017902_lu.pdf|archive-url=https://web.archive.org/web/20170328170634/http://www.uefa.com/newsfiles/euro/2016/2017902_lu.pdf|url-status=dead|archive-date=28 March 2017|title=Tactical Line-ups – Wales v Belgium|website=UEFA.com |publisher=Union of European Football Associations |date=1 July 2016|access-date=1 July 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _bel16a
+ |pattern_ra =
+ |pattern_sh =
+ |pattern_so = _belg16a
+ |leftarm    = B8ECFC
+ |body       = B8ECFC
+ |rightarm   = B8ECFC
+ |shorts     = 000000
+ |socks      = B8ECFC
+ |title      = Belgium<ref name="wal-bel_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Wayne Hennessey]]
+|-
+|CB ||'''5''' ||[[James Chester]] || {{yel|16}}
+|-
+|CB ||'''6''' ||[[Ashley Williams (footballer)|Ashley Williams]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Ben Davies (footballer, born 1993)|Ben Davies]] || {{yel|5}}
+|-
+|DM ||'''16'''||[[Joe Ledley]] || || {{suboff|78}}
+|-
+|CM ||'''7''' ||[[Joe Allen (footballer, born 1990)|Joe Allen]]
+|-
+|CM ||'''10'''||[[Aaron Ramsey]] || {{yel|75}} || {{suboff|90}}
+|-
+|RW ||'''3''' ||[[Neil Taylor (footballer)|Neil Taylor]]
+|-
+|LW ||'''2''' ||[[Chris Gunter]] || {{yel|24}}
+|-
+|CF ||'''9''' ||[[Hal Robson-Kanu]] || || {{suboff|80}}
+|-
+|CF ||'''11'''||[[Gareth Bale]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Andy King (footballer, born 1988)|Andy King]] || || {{subon|78}}
+|-
+|FW ||'''18'''||[[Sam Vokes]] || || {{subon|80}}
+|-
+|DF ||'''19'''||[[James Collins (footballer, born 1983)|James Collins]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Chris Coleman (footballer)|Chris Coleman]]
+|}
+|valign="top"|[[File:WAL-BEL 2016-07-01.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Thibaut Courtois]]
+|-
+|RB ||'''16'''||[[Thomas Meunier]]
+|-
+|CB ||'''2''' ||[[Toby Alderweireld]] || {{yel|85}}
+|-
+|CB ||'''15'''||[[Jason Denayer]]
+|-
+|LB ||'''21'''||[[Jordan Lukaku]] || || {{suboff|75}}
+|-
+|CM ||'''4''' ||[[Radja Nainggolan]]
+|-
+|CM ||'''6''' ||[[Axel Witsel]]
+|-
+|RW ||'''11'''||[[Yannick Carrasco]] || || {{suboff|46}}
+|-
+|AM ||'''7''' ||[[Kevin De Bruyne]]
+|-
+|LW ||'''10'''||[[Eden Hazard]] ([[Captain (association football)|c]])
+|-
+|CF ||'''9''' ||[[Romelu Lukaku]] || || {{suboff|83}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||[[Marouane Fellaini]] || {{yel|59}} || {{subon|46}}
+|-
+|FW ||'''14'''||[[Dries Mertens]] || || {{subon|75}}
+|-
+|FW ||'''22'''||[[Michy Batshuayi]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Marc Wilmots]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Hal Robson-Kanu]] (Wales)<ref>{{cite news |first=Patrick |last=Hart |title=Remarkable Wales shock Belgium to reach semis |url=https://www.uefa.com/uefaeuro/history/news/0253-0d81b0c19f08-954fdc458315-1000--remarkable-wales-shock-belgium-to-reach-euro-2016-semis/ |website=UEFA.com |publisher=Union of European Football Associations |date=1 July 2016 |access-date=1 July 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees"/>
+<br />Jure Praprotnik ([[Football Association of Slovenia|Slovenia]])
+<br />Robert Vukan ([[Football Association of Slovenia|Slovenia]])
+<br />'''Fourth official:'''
+<br />[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+<br />'''Additional assistant referees:'''
+<br />[[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+<br />[[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+<br />'''Reserve assistant referee:'''
+<br />Elenito Di Liberatore ([[Italian Football Federation|Italy]])
+|}
+
+===Germany vs Italy===
+{{see also|Germany–Italy football rivalry}}
+<section begin=h3 />{{Football box
+|date={{Start date|2016|7|2|df=y}}
+|time=21:00
+|team1={{fb-rt|GER}}
+|score={{score link|UEFA Euro 2016 knockout stage#Germany vs Italy|1–1}}
+|aet=yes
+|report=https://www.uefa.com/uefaeuro/match/2017903/
+|team2={{fb|ITA}}
+|goals1=
+*[[Mesut Özil|Özil]] {{goal|65}}
+|goals2=
+*[[Leonardo Bonucci|Bonucci]] {{goal|78|pen.}}
+|stadium=[[Nouveau Stade de Bordeaux|Stade de Bordeaux]], [[Bordeaux]]
+|attendance=38,764<ref>{{cite web |url=http://www.uefa.com/newsfiles/euro/2016/2017903_fr.pdf |archive-url=https://web.archive.org/web/20161008093928/http://www.uefa.com/newsfiles/euro/2016/2017903_fr.pdf |url-status=dead |archive-date=8 October 2016 |title=Full Time Summary – Germany v Italy |work=UEFA.com |publisher=Union of European Football Associations |date=2 July 2016 |access-date=2 July 2016}}</ref>
+|referee=[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+|penalties1=
+*[[Toni Kroos|Kroos]] {{pengoal}}
+*[[Thomas Müller|Müller]] {{penmiss}}
+*[[Mesut Özil|Özil]] {{penmiss}}
+*[[Julian Draxler|Draxler]] {{pengoal}}
+*[[Bastian Schweinsteiger|Schweinsteiger]] {{penmiss}}
+*[[Mats Hummels|Hummels]] {{pengoal}}
+*[[Joshua Kimmich|Kimmich]] {{pengoal}}
+*[[Jérôme Boateng|Boateng]] {{pengoal}}
+*[[Jonas Hector|Hector]] {{pengoal}}
+|penaltyscore=6–5
+|penalties2=
+*{{pengoal}} [[Lorenzo Insigne|Insigne]]
+*{{penmiss}} [[Simone Zaza|Zaza]]
+*{{pengoal}} [[Andrea Barzagli|Barzagli]]
+*{{penmiss}} [[Graziano Pellè|Pellè]]
+*{{penmiss}} [[Leonardo Bonucci|Bonucci]]
+*{{pengoal}} [[Emanuele Giaccherini|Giaccherini]]
+*{{pengoal}} [[Marco Parolo|Parolo]]
+*{{pengoal}} [[Mattia De Sciglio|De Sciglio]]
+*{{penmiss}} [[Matteo Darmian|Darmian]]
+}}<section end=h3 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ger16h
+ |pattern_b  = _ger16h
+ |pattern_ra = _ger16h
+ |pattern_sh = _ger16h
+ |pattern_so = _juventus1617t
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = Germany<ref name="ger-ita_line-ups">{{cite web|url=http://www.uefa.com/newsfiles/euro/2016/2017903_lu.pdf|archive-url=https://web.archive.org/web/20170328135140/http://www.uefa.com/newsfiles/euro/2016/2017903_lu.pdf|url-status=dead|archive-date=28 March 2017|title=Tactical Line-ups – Germany v Italy|website=UEFA.com |publisher=Union of European Football Associations |date=2 July 2016|access-date=2 July 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ita16h
+ |pattern_b  = _ita16home
+ |pattern_ra = _ita16h
+ |pattern_sh =
+ |pattern_so = _ita16h
+ |leftarm    = 113ED7
+ |body       = 113ED7
+ |rightarm   = 113ED7
+ |shorts     = FFFFFF
+ |socks      = 113ED7
+ |title      = Italy<ref name="ger-ita_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Manuel Neuer]] ([[Captain (association football)|c]])
+|-
+|RB ||'''4''' ||[[Benedikt Höwedes]]
+|-
+|CB ||'''17'''||[[Jérôme Boateng]]
+|-
+|CB ||'''5''' ||[[Mats Hummels]] || {{yel|90}}
+|-
+|LB ||'''3''' ||[[Jonas Hector]]
+|-
+|RM ||'''21'''||[[Joshua Kimmich]]
+|-
+|CM ||'''6''' ||[[Sami Khedira]] || || {{suboff|16}}
+|-
+|CM ||'''18'''||[[Toni Kroos]]
+|-
+|LM ||'''8''' ||[[Mesut Özil]]
+|-
+|CF ||'''13'''||[[Thomas Müller]]
+|-
+|CF ||'''23'''||[[Mario Gómez]] || || {{suboff|72}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Bastian Schweinsteiger]] || {{yel|112}} || {{subon|16}}
+|-
+|MF ||'''11'''||[[Julian Draxler]] || || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Joachim Löw]]
+|}
+|valign="top"|[[File:GER-ITA 2016-07-02.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Gianluigi Buffon]] ([[Captain (association football)|c]])
+|-
+|CB ||'''15'''||[[Andrea Barzagli]]
+|-
+|CB ||'''19'''||[[Leonardo Bonucci]]
+|-
+|CB ||'''3''' ||[[Giorgio Chiellini]] || || {{suboff|120+1}}
+|-
+|DM ||'''18'''||[[Marco Parolo]] || {{yel|59}}
+|-
+|CM ||'''14'''||[[Stefano Sturaro]] || {{yel|56}}
+|-
+|CM ||'''23'''||[[Emanuele Giaccherini]] || {{yel|103}}
+|-
+|RW ||'''8''' ||[[Alessandro Florenzi]] || || {{suboff|86}}
+|-
+|LW ||'''2''' ||[[Mattia De Sciglio]] || {{yel|57}}
+|-
+|CF ||'''9''' ||[[Graziano Pellè]] || {{yel|91}}
+|-
+|CF ||'''17'''||[[Éder (footballer, born 1986)|Éder]] || || {{suboff|108}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Matteo Darmian]] || || {{subon|86}}
+|-
+|FW ||'''20'''||[[Lorenzo Insigne]] || || {{subon|108}}
+|-
+|FW ||'''7''' ||[[Simone Zaza]] || || {{subon|120+1}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Antonio Conte]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Manuel Neuer]] (Germany)<ref>{{cite news |first=Sam |last=Adams |title=Hector the shoot-out hero as Germany finally defeat Italy |url=https://www.uefa.com/uefaeuro/history/news/0253-0d81e3c149c5-d7e77fb31e24-1000--germany-finally-defeat-italy-to-stride-into-euro-2016-semis/ |website=UEFA.com |publisher=Union of European Football Associations |date=2 July 2016 |access-date=3 July 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees"/>
+<br />György Ring ([[Hungarian Football Federation|Hungary]])
+<br />Vencel Tóth ([[Hungarian Football Federation|Hungary]])
+<br />'''Fourth official:'''
+<br />[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+<br />'''Additional assistant referees:'''
+<br />[[Tamás Bognár]] ([[Hungarian Football Federation|Hungary]])
+<br />Ádám Farkas ([[Hungarian Football Federation|Hungary]])
+<br />'''Reserve assistant referee:'''
+<br />Paweł Sokolnicki ([[Polish Football Association|Poland]])
+|}
+
+===France vs Iceland===
+<section begin=h4 />{{Football box
+|date={{Start date|2016|7|3|df=y}}
+|time=21:00
+|team1={{fb-rt|FRA|1974}}
+|score={{score link|UEFA Euro 2016 knockout stage#France vs Iceland|5–2}}
+|report=https://www.uefa.com/uefaeuro/match/2017904/
+|team2={{fb|ISL}}
+|goals1=
+*[[Olivier Giroud|Giroud]] {{goal|12||59}}
+*[[Paul Pogba|Pogba]] {{goal|20}}
+*[[Dimitri Payet|Payet]] {{goal|43}}
+*[[Antoine Griezmann|Griezmann]] {{goal|45}}
+|goals2=
+*[[Kolbeinn Sigþórsson|Sigþórsson]] {{goal|56}}
+*[[Birkir Bjarnason|B. Bjarnason]] {{goal|84}}
+|stadium=[[Stade de France]], [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|attendance=76,833<ref>{{cite web |url=http://www.uefa.com/newsfiles/euro/2016/2017904_fr.pdf |archive-url=https://web.archive.org/web/20161020184937/http://www.uefa.com/newsfiles/euro/2016/2017904_fr.pdf |url-status=dead |archive-date=20 October 2016 |title=Full Time Summary – France v Iceland |work=UEFA.com |publisher=Union of European Football Associations |date=3 July 2016 |access-date=3 July 2016}}</ref>
+|referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+}}<section end=h4 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _fra16h
+ |pattern_b  = _fra16H
+ |pattern_ra = _fra16h
+ |pattern_sh = _fra16h
+ |pattern_so = _fra16h
+ |leftarm    = 12366B
+ |body       = 115AB9
+ |rightarm   = 12366B
+ |shorts     = 0000FF
+ |socks      = FF0000
+ |title      = France<ref name="fra-isl_line-ups">{{cite web|url=http://www.uefa.com/newsfiles/euro/2016/2017904_lu.pdf|archive-url=https://web.archive.org/web/20170328133603/http://www.uefa.com/newsfiles/euro/2016/2017904_lu.pdf|url-status=dead|archive-date=28 March 2017|title=Tactical Line-ups – France v Iceland|website=UEFA.com |publisher=Union of European Football Associations |date=3 July 2016|access-date=3 July 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ijsland16a
+ |pattern_b  = _ijsland16a
+ |pattern_ra = _ijsland16a
+ |pattern_sh =
+ |pattern_so = _ijsland16a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Iceland<ref name="fra-isl_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Hugo Lloris]] ([[Captain (association football)|c]])
+|-
+|RB ||'''19'''||[[Bacary Sagna]]
+|-
+|CB ||'''22'''||[[Samuel Umtiti]] || {{yel|75}}
+|-
+|CB ||'''21'''||[[Laurent Koscielny]] || || {{suboff|72}}
+|-
+|LB ||'''3''' ||[[Patrice Evra]]
+|-
+|CM ||'''15'''||[[Paul Pogba]]
+|-
+|CM ||'''14'''||[[Blaise Matuidi]]
+|-
+|RW ||'''18'''||[[Moussa Sissoko]]
+|-
+|AM ||'''7''' ||[[Antoine Griezmann]]
+|-
+|LW ||'''8''' ||[[Dimitri Payet]] || || {{suboff|80}}
+|-
+|CF ||'''9''' ||[[Olivier Giroud]] || || {{suboff|60}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''10'''||[[André-Pierre Gignac]] || || {{subon|60}}
+|-
+|DF ||'''13'''||[[Eliaquim Mangala]] || || {{subon|72}}
+|-
+|FW ||'''20'''||[[Kingsley Coman]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Didier Deschamps]]
+|}
+|valign="top"|[[File:FRA-ISL 2016-07-03.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Hannes Þór Halldórsson]]
+|-
+|RB ||'''2''' ||[[Birkir Már Sævarsson]]
+|-
+|CB ||'''14'''||[[Kári Árnason (footballer, born 1982)|Kári Árnason]] || || {{suboff|46}}
+|-
+|CB ||'''6''' ||[[Ragnar Sigurðsson]]
+|-
+|LB ||'''23'''||[[Ari Freyr Skúlason]]
+|-
+|RM ||'''7''' ||[[Jóhann Berg Guðmundsson]]
+|-
+|CM ||'''17'''||[[Aron Gunnarsson]] ([[Captain (association football)|c]])
+|-
+|CM ||'''10'''||[[Gylfi Sigurðsson]]
+|-
+|LM ||'''8''' ||[[Birkir Bjarnason]] || {{yel|58}}
+|-
+|CF ||'''9''' ||[[Kolbeinn Sigþórsson]] || || {{suboff|83}}
+|-
+|CF ||'''15'''||[[Jón Daði Böðvarsson]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''11'''||[[Alfreð Finnbogason]] || || {{subon|46}}
+|-
+|DF ||'''5''' ||[[Sverrir Ingi Ingason]] || || {{subon|46}}
+|-
+|FW ||'''22'''||[[Eiður Guðjohnsen]] || || {{subon|83}}
+|-
+|colspan=3|'''Managers:'''
+|-
+|colspan=3|[[Heimir Hallgrímsson]]<br />{{flagicon|SWE}} [[Lars Lagerbäck]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Olivier Giroud]] (France)<ref>{{cite news |first=Chris |last=Burke |title=Slick France end Iceland saga |url=https://www.uefa.com/uefaeuro/history/news/0253-0d81dede0cb1-2e38182395f1-1000--slick-france-end-iceland-saga/ |website=UEFA.com |publisher=Union of European Football Associations |date=3 July 2016 |access-date=3 July 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees"/>
+<br />Sander van Roekel ([[Royal Dutch Football Association|Netherlands]])
+<br />Erwin Zeinstra ([[Royal Dutch Football Association|Netherlands]])
+<br />'''Fourth official:'''
+<br />[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+<br />'''Additional assistant referees:'''
+<br />[[Pol van Boekel]] ([[Royal Dutch Football Association|Netherlands]])
+<br />Richard Liesveld ([[Royal Dutch Football Association|Netherlands]])
+<br />'''Reserve assistant referee:'''
+<br />Milovan Ristić ([[Football Association of Serbia|Serbia]])
+|}
+
+==Semi-finals==
+
+===Portugal vs Wales===
+<section begin=i1 />{{Football box
+|date={{Start date|2016|7|6|df=y}}
+|time=21:00
+|team1={{fb-rt|POR}}
+|score={{score link|UEFA Euro 2016 knockout stage#Portugal vs Wales|2–0}}
+|report=https://www.uefa.com/uefaeuro/match/2017905/
+|team2={{fb|WAL}}
+|goals1=
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|50}}
+*[[Nani (footballer)|Nani]] {{goal|53}}
+|goals2=
+|stadium=[[Parc Olympique Lyonnais]], [[Décines-Charpieu]]
+|attendance=55,679<ref>{{cite web |url=http://www.uefa.com/newsfiles/euro/2016/2017905_fr.pdf |archive-url=https://web.archive.org/web/20160709115842/http://www.uefa.com/newsfiles/euro/2016/2017905_fr.pdf |url-status=dead |archive-date=9 July 2016 |title=Full Time Summary – Portugal v Wales |work=UEFA.com |publisher=Union of European Football Associations |date=6 July 2016 |access-date=6 July 2016}}</ref>
+|referee=[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+}}<section end=i1 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _por16a
+ |pattern_b  = _por16A
+ |pattern_ra = _por16a
+ |pattern_sh = _por16a
+ |pattern_so = _por16A
+ |leftarm    = 15EE99
+ |body       = 15EE99
+ |rightarm   = 15EE99
+ |shorts     = 15EE99
+ |socks      = 15EE99
+ |title      = Portugal<ref name="por-wal_line-ups">{{cite web|url=http://www.uefa.com/newsfiles/euro/2016/2017905_lu.pdf|archive-url=https://web.archive.org/web/20160709115844/http://www.uefa.com/newsfiles/euro/2016/2017905_lu.pdf|url-status=dead|archive-date=9 July 2016|title=Tactical Line-ups – Portugal v Wales|website=UEFA.com |publisher=Union of European Football Associations |date=6 July 2016|access-date=6 July 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _wal16a
+ |pattern_b  = _wal16a
+ |pattern_ra = _wal16a
+ |pattern_sh = _paisdegales16a
+ |pattern_so = _paisdegales16a
+ |leftarm    = 313131
+ |body       = 313131
+ |rightarm   = 313131
+ |shorts     = 313131
+ |socks      = 313131
+ |title      = Wales<ref name="por-wal_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Rui Patrício]]
+|-
+|RB ||'''21'''||[[Cédric Soares|Cédric]]
+|-
+|CB ||'''2''' ||[[Bruno Alves]] || {{yel|71}}
+|-
+|CB ||'''4''' ||[[José Fonte]]
+|-
+|LB ||'''5''' ||[[Raphaël Guerreiro]]
+|-
+|DM ||'''13'''||[[Danilo Pereira (Portuguese footballer)|Danilo]]
+|-
+|CM ||'''10'''||[[João Mário (footballer, born January 1993)|João Mário]]
+|-
+|CM ||'''23'''||[[Adrien Silva]] || || {{suboff|79}}
+|-
+|AM ||'''16'''||[[Renato Sanches]] || || {{suboff|74}}
+|-
+|CF ||'''17'''||[[Nani (footballer)|Nani]] || || {{suboff|86}}
+|-
+|CF ||'''7''' ||[[Cristiano Ronaldo]] ([[Captain (association football)|c]]) || {{yel|72}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''15'''||[[André Gomes]] || || {{subon|74}}
+|-
+|MF ||'''8''' ||[[João Moutinho]] || || {{subon|79}}
+|-
+|FW ||'''20'''||[[Ricardo Quaresma]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Fernando Santos (Portuguese footballer)|Fernando Santos]]
+|}
+|valign="top"|[[File:POR-WAL 2016-07-06.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Wayne Hennessey]]
+|-
+|CB ||'''5''' ||[[James Chester]] || {{yel|62}}
+|-
+|CB ||'''19'''||[[James Collins (footballer, born 1983)|James Collins]] || || {{suboff|66}}
+|-
+|CB ||'''6''' ||[[Ashley Williams (footballer)|Ashley Williams]] ([[Captain (association football)|c]])
+|-
+|RWB||'''2''' ||[[Chris Gunter]]
+|-
+|LWB||'''3''' ||[[Neil Taylor (footballer)|Neil Taylor]]
+|-
+|DM ||'''16'''||[[Joe Ledley]] || || {{suboff|58}}
+|-
+|CM ||'''7''' ||[[Joe Allen (footballer, born 1990)|Joe Allen]] || {{yel|8}}
+|-
+|CM ||'''8''' ||[[Andy King (footballer, born 1988)|Andy King]]
+|-
+|CF ||'''9''' ||[[Hal Robson-Kanu]] || || {{suboff|63}}
+|-
+|CF ||'''11'''||[[Gareth Bale]] || {{yel|88}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''18'''||[[Sam Vokes]] || || {{subon|58}}
+|-
+|FW ||'''23'''||[[Simon Church]] || || {{subon|63}}
+|-
+|MF ||'''20'''||[[Jonny Williams]] || || {{subon|66}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Chris Coleman (footballer)|Chris Coleman]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Cristiano Ronaldo]] (Portugal)<ref>{{cite news |first=Atkin |last=John |title=Portugal reach EURO final as Wales fairy tale ends |url=https://www.uefa.com/uefaeuro/history/news/0253-0d81e2a4e79e-1fa42500c63d-1000--portugal-reach-euro-2016-final-as-wales-fairy-tale-ends/ |website=UEFA.com |publisher=Union of European Football Associations |date=6 July 2016 |access-date=6 July 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees"/>
+<br />Mathias Klasenius ([[Swedish Football Association|Sweden]])
+<br />Daniel Wärnmark ([[Swedish Football Association|Sweden]])
+<br />'''Fourth official:'''
+<br />[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+<br />'''Additional assistant referees:'''
+<br />[[Stefan Johannesson]] ([[Swedish Football Association|Sweden]])
+<br />[[Markus Strömbergsson]] ([[Swedish Football Association|Sweden]])
+<br />'''Reserve assistant referee:'''
+<br />Paweł Sokolnicki ([[Polish Football Association|Poland]])
+|}
+
+===Germany vs France===
+{{see also|France–Germany football rivalry}}
+<section begin=i2 />{{Football box
+|date={{Start date|2016|7|7|df=y}}
+|time=21:00
+|team1={{fb-rt|GER}}
+|score={{score link|UEFA Euro 2016 knockout stage#Germany vs France|0–2}}
+|report=https://www.uefa.com/uefaeuro/match/2017906/
+|team2={{fb|FRA|1974}}
+|goals1=
+|goals2=
+*[[Antoine Griezmann|Griezmann]] {{goal|45+2|pen.|72}}
+|stadium=[[Stade Vélodrome]], [[Marseille]]
+|attendance=64,078<ref>{{cite web |url=http://www.uefa.com/newsfiles/euro/2016/2017906_fr.pdf |archive-url=https://web.archive.org/web/20160709115845/http://www.uefa.com/newsfiles/euro/2016/2017906_fr.pdf |url-status=dead |archive-date=9 July 2016 |title=Full Time Summary – Germany v France |work=UEFA.com |publisher=Union of European Football Associations |date=7 July 2016 |access-date=7 July 2016}}</ref>
+|referee=[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+}}<section end=i2 />
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ger16h
+ |pattern_b  = _ger16h
+ |pattern_ra = _ger16h
+ |pattern_sh = _ger16h
+ |pattern_so = _ger16h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Germany<ref name="ger-fra_line-ups">{{cite web|url=http://www.uefa.com/newsfiles/euro/2016/2017906_lu.pdf|archive-url=https://web.archive.org/web/20160709115848/http://www.uefa.com/newsfiles/euro/2016/2017906_lu.pdf|url-status=dead|archive-date=9 July 2016|title=Tactical Line-ups – Germany v France|website=UEFA.com |publisher=Union of European Football Associations |date=7 July 2016|access-date=7 July 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _fra16h
+ |pattern_b  = _fra16H
+ |pattern_ra = _fra16h
+ |pattern_sh = _fra16h
+ |pattern_so = _fra16h
+ |leftarm    = 12366B
+ |body       = 115AB9
+ |rightarm   = 12366B
+ |shorts     = 0000FF
+ |socks      = FF0000
+ |title      = France<ref name="ger-fra_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Manuel Neuer]]
+|-
+|RB ||'''21'''||[[Joshua Kimmich]]
+|-
+|CB ||'''17'''||[[Jérôme Boateng]] || || {{suboff|61}}
+|-
+|CB ||'''4''' ||[[Benedikt Höwedes]]
+|-
+|LB ||'''3''' ||[[Jonas Hector]]
+|-
+|CM ||'''14'''||[[Emre Can]] || {{yel|36}} || {{suboff|67}}
+|-
+|CM ||'''7''' ||[[Bastian Schweinsteiger]] ([[Captain (association football)|c]]) || {{yel|45+1}} || {{suboff|79}}
+|-
+|RW ||'''8''' ||[[Mesut Özil]] || {{yel|45+1}}
+|-
+|AM ||'''18'''||[[Toni Kroos]]
+|-
+|LW ||'''11'''||[[Julian Draxler]] || {{yel|50}}
+|-
+|CF ||'''13'''||[[Thomas Müller]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Shkodran Mustafi]] || || {{subon|61}}
+|-
+|MF ||'''19'''||[[Mario Götze]] || || {{subon|67}}
+|-
+|MF ||'''20'''||[[Leroy Sané]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Joachim Löw]]
+|}
+|valign="top"|[[File:GER-FRA 2016-07-07.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Hugo Lloris]] ([[Captain (association football)|c]])
+|-
+|RB ||'''19'''||[[Bacary Sagna]]
+|-
+|CB ||'''21'''||[[Laurent Koscielny]]
+|-
+|CB ||'''22'''||[[Samuel Umtiti]]
+|-
+|LB ||'''3''' ||[[Patrice Evra]] || {{yel|43}}
+|-
+|CM ||'''15'''||[[Paul Pogba]]
+|-
+|CM ||'''14'''||[[Blaise Matuidi]]
+|-
+|RW ||'''18'''||[[Moussa Sissoko]]
+|-
+|AM ||'''7''' ||[[Antoine Griezmann]] || || {{suboff|90+2}}
+|-
+|LW ||'''8''' ||[[Dimitri Payet]] || || {{suboff|71}}
+|-
+|CF ||'''9''' ||[[Olivier Giroud]] || || {{suboff|78}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''5''' ||[[N'Golo Kanté]] || {{yel|75}} || {{subon|71}}
+|-
+|FW ||'''10'''||[[André-Pierre Gignac]] || || {{subon|78}}
+|-
+|MF ||'''6''' ||[[Yohan Cabaye]] || || {{subon|90+2}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Didier Deschamps]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Antoine Griezmann]] (France)<ref>{{cite news |first=Andrew |last=Haslam |title=Griezmann double takes France into final |url=https://www.uefa.com/uefaeuro/history/news/0253-0d81c0b95b22-7bdc89454309-1000--griezmann-double-against-germany-takes-france-to-euro-2016-/ |website=UEFA.com |publisher=Union of European Football Associations |date=7 July 2016 |access-date=7 July 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees"/>
+<br />Elenito Di Liberatore ([[Italian Football Federation|Italy]])
+<br />Mauro Tonolini ([[Italian Football Federation|Italy]])
+<br />'''Fourth official:'''
+<br />[[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+<br />'''Additional assistant referees:'''
+<br />[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+<br />[[Antonio Damato]] ([[Italian Football Federation|Italy]])
+<br />'''Reserve assistant referee:'''
+<br />Jure Praprotnik ([[Football Association of Slovenia|Slovenia]])
+|}
+
+==Final==
+{{main|UEFA Euro 2016 final}}
+
+{{#lst:UEFA Euro 2016 final|j1}}
+{{#lst:UEFA Euro 2016 final|lineups}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20140304074221/http://www.uefa.com/uefaeuro/season=2016/index.html UEFA Euro 2016 official history]
+
+{{UEFA Euro 2016}}
+{{UEFA Euro 2016 finalists}}
+
+{{DEFAULTSORT:Knockout stage}}
+[[Category:UEFA Euro 2016]]
+[[Category:UEFA European Championship knockout stages|2016]]
+[[Category:France at UEFA Euro 2016]]
+[[Category:Switzerland at UEFA Euro 2016]]
+[[Category:Wales at UEFA Euro 2016]]
+[[Category:England at UEFA Euro 2016]]
+[[Category:Slovakia at UEFA Euro 2016]]
+[[Category:Germany at UEFA Euro 2016]]
+[[Category:Poland at UEFA Euro 2016]]
+[[Category:Northern Ireland at UEFA Euro 2016]]
+[[Category:Croatia at UEFA Euro 2016]]
+[[Category:Spain at UEFA Euro 2016]]
+[[Category:Italy at UEFA Euro 2016]]
+[[Category:Belgium at UEFA Euro 2016]]
+[[Category:Republic of Ireland at UEFA Euro 2016]]
+[[Category:Hungary at UEFA Euro 2016]]
+[[Category:Iceland at UEFA Euro 2016]]
+[[Category:Portugal at UEFA Euro 2016]]
+[[Category:2016 in Paris]]
+[[Category:21st century in Marseille]]
+[[Category:21st century in Lyon]]
+[[Category:21st century in Nice]]
+[[Category:International football competitions in Paris]]
+[[Category:Sports competitions in Marseille]]
+[[Category:Sports competitions in Lyon]]
+[[Category:Sport in Saint-Denis, Seine-Saint-Denis]]
+[[Category:Sports competitions in Bordeaux]]
+[[Category:Sport in Saint-Étienne]]
+[[Category:Sport in Nice]]
+[[Category:Sport in Toulouse]]
+[[Category:Villeneuve-d'Ascq]]
+[[Category:Sport in Lens, Pas-de-Calais]]
+[[Category:Sport in Nord (French department)]]
+[[Category:Football in Île-de-France]]
+[[Category:Football in Hauts-de-France]]
+[[Category:Football in Auvergne-Rhône-Alpes]]
+[[Category:Football in Provence-Alpes-Côte d'Azur]]
+[[Category:Football in Occitania (administrative region)]]
+[[Category:Football in Nouvelle-Aquitaine]]
+[[Category:21st century in Occitania (administrative region)]]
+[[Category:21st century in Hauts-de-France]]

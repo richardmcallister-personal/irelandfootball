@@ -1,0 +1,712 @@
+{{Short description|International football delegation}}
+{{For|the women's team|Republic of Ireland at the FIFA Women's World Cup}}
+{{Use Hiberno-English|date=June 2026}}
+{{Use dmy dates|date=June 2026}}
+
+The [[Republic of Ireland national football team|Republic of Ireland]] have appeared in the Men's [[FIFA World Cup]] in [[1990 FIFA World Cup|1990]], [[1994 FIFA World Cup|1994]], and [[2002 FIFA World Cup|2002]]. They have always advanced from the group stage but have never advanced beyond the quarter-finals.
+
+Their first appearance was in Italy at the 1990 Men's FIFA World Cup.<ref>{{cite web|url= https://italia1990.com/uefa/group-6/malta-rep-of-ireland/|title=Accomplished Irish performance in which two Aldridge goals see them through to the World Cup|date=15 November 1989|work=Italia1990.com|accessdate=19 November 2025}}</ref>
+<ref>{{cite web|url=https://web.archive.org/web/20160329035648/https://www.independent.ie/sport/soccer/italia-90/|title=1990 FIFA World Cup |work=Irish Independent|access-date=11 June 2015}}</ref><ref>{{cite web|url=https://www.rte.ie/sport/soccer/2015/0610/707126-irelands-italia-90-squad-where-are-they-now/
+|title= Ireland's Italia '90 squad – where are they now?|date=11 June 2015|work=RTE Sport|access-date=11 June 2015}}</ref><ref>{{cite web|url= http://www.irishexaminer.com/sport/soccer/niall-quinn-people-can-talk-about-the-ramshackle-irish-team-but-we-knew-what-the-real-story-was-335203.html|title= Niall Quinn: 'People can talk about the ramshackle Irish team, but we knew what the real story was'|date=8 June 2015|work=Irish Examiner|access-date=11 June 2015}}</ref><ref>{{cite web|url= http://www.the42.ie/world-cup-moments-1990-italia-1441547-Jun2015/|title= 24 World Cup memories we won't forget from Italia '90|date=8 June 2015|work=The 42|access-date=11 June 2015}}</ref><ref>{{cite web|url= https://www.theguardian.com/sport/blog/2010/oct/14/on-second-thoughts-italia-90|title= On Second Thoughts: Italia 90|date=14 October 2010|work=Guardian |access-date=15 June 2015}}</ref> 1990 was also their best performance in a major championship, where they reached the quarter-finals, despite not winning a single match in 90 minutes.<ref>{{cite web|url= http://www.the42.ie/italia-90-pics-2138253-Jun2015/|title= 11 iconic images that bring back memories of the Italia 90 good times|date=15 June 2015|work=The 42|access-date=15 June 2015}}</ref><ref>{{cite web|url= http://www.the42.ie/ireland-italia-90-world-cup-squad-2128117-Jun2015/|title=Where are Ireland's Italia 90 dream team now?|date=16 June 2015|work=The 42|access-date=16 June 2015}}</ref><ref>{{cite web|url=http://www.irishtimes.com/sport/soccer/italia-90|title=Italia '90|date=21 July 2015|work=Irish Times|access-date=21 July 2015|archive-date=4 November 2015|archive-url=https://web.archive.org/web/20151104182603/http://www.irishtimes.com/sport/soccer/italia-90|url-status=bot: unknown}}</ref>
+
+==Overall record==
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=9|[[FIFA World Cup]] record
+! style="width:1%;" rowspan="28"|
+!colspan=7|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Position
+|-
+|{{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+|colspan=8|''Did not enter''
+|colspan=7|''Declined participation''
+|-
+|{{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+|rowspan=12 colspan=8|''Did not qualify''
+|2
+|0
+|1
+|1
+|6
+|9
+|[[1934 FIFA World Cup qualification#Group 7|3/3]]
+|-
+|{{flagicon|France}} [[1938 FIFA World Cup|1938]]
+|2
+|0
+|1
+|1
+|5
+|6
+|[[1938 FIFA World Cup qualification Group 2a|2/2]]
+|-
+|{{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+|4
+|1
+|1
+|2
+|6
+|7
+|[[1950 FIFA World Cup qualification#Group 5|2/3]]
+|-
+|{{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|4
+|2
+|0
+|2
+|8
+|6
+|[[1954 FIFA World Cup qualification#Group 4|2/3]]
+|-
+|{{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+|4
+|2
+|1
+|1
+|6
+|7
+|[[1958 FIFA World Cup qualification (UEFA – Group 1)|2/3]]
+|-
+|{{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+|4
+|0
+|0
+|4
+|3
+|17
+|[[1962 FIFA World Cup qualification (UEFA – Group 8)|3/3]]
+|-
+|{{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|3
+|1
+|0
+|2
+|2
+|5
+|Lost [[1966 FIFA World Cup qualification – UEFA Group 9|Play-off]]
+|-
+|{{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|6
+|0
+|1
+|5
+|3
+|14
+|[[1970 FIFA World Cup qualification – UEFA Group 2|4/4]]
+|-
+|{{flagicon|Germany}} [[1974 FIFA World Cup|1974]]
+|4
+|1
+|1
+|2
+|4
+|5
+|[[1974 FIFA World Cup qualification – UEFA Group 9|2/3]]
+|-
+|{{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+|4
+|1
+|1
+|2
+|2
+|4
+|[[1978 FIFA World Cup qualification – UEFA Group 5|3/3]]
+|-
+|{{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+|8
+|4
+|2
+|2
+|17
+|11
+|[[1982 FIFA World Cup qualification – UEFA Group 2|3/5]]
+|-
+|{{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+|8
+|2
+|2
+|4
+|5
+|10
+|[[1986 FIFA World Cup qualification – UEFA Group 6|4/5]]
+|-
+|{{flagicon|Italy|1946}} [[1990 FIFA World Cup|1990]]
+|Quarter-finals 
+|8th
+|5
+|0
+|4
+|1
+|2
+|3
+|8
+|5
+|2
+|1
+|10
+|2
+|[[1990 FIFA World Cup qualification – UEFA Group 6|2/5]]
+|-
+|{{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+|Round of 16
+|16th
+|4
+|1
+|1
+|2
+|2
+|4
+|12
+|7
+|4
+|1
+|19
+|6
+|[[1994 FIFA World Cup qualification – UEFA Group 3|2/7]]
+|-
+|{{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+|colspan=8|''Did not qualify''
+|12
+|5
+|4
+|3
+|24
+|11
+|[[1998 FIFA World Cup qualification (UEFA)#Group 8|2/6]]; Lost [[1998 FIFA World Cup qualification (UEFA)#Play-offs|Play-off]]
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+|Round of 16
+|12th
+|4
+|1
+|3
+|0
+|6
+|3
+|12
+|8
+|3
+|1
+|25
+|6
+|[[2002 FIFA World Cup qualification – UEFA Group 2|2/6]]; Won [[2002 FIFA World Cup qualification#Inter-confederation play-offs|Play-off]]
+|-
+|{{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+|rowspan=6 colspan=8|''Did not qualify''
+|10
+|4
+|5
+|1
+|12
+|5
+|[[2006 FIFA World Cup qualification – UEFA Group 4|4/6]]
+|-
+|{{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+|12
+|4
+|7
+|1
+|13
+|10
+|[[2010 FIFA World Cup qualification – UEFA Group 8|2/6]]; Lost [[2010 FIFA World Cup qualification – UEFA second round|Play-off]]
+|-
+|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+|10
+|4
+|2
+|4
+|16
+|17
+|[[2014 FIFA World Cup qualification – UEFA Group C|4/6]]
+|-
+|{{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+|12
+|5
+|5
+|2
+|13
+|11
+|[[2018 FIFA World Cup qualification – UEFA Group D|2/6]]; Lost [[2018 FIFA World Cup qualification – UEFA second round|Play-off]]
+|-
+|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+|8
+|2
+|3
+|3
+|11
+|8
+|[[2022 FIFA World Cup qualification – UEFA Group A|3/5]]
+|-
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+|6
+|3
+|1
+|2
+|9
+|7
+|[[2026 FIFA World Cup qualification – UEFA Group F|2/4]]; Lost [[2026 FIFA World Cup qualification – UEFA second round|Play-off]]
+|-
+|{{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+|colspan=8 rowspan=2|''To be determined''
+|-
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!'''Total'''
+!'''Quarter-finals'''
+!'''3/25'''
+!'''13'''
+!'''2'''
+!'''8'''
+!'''3'''
+!'''10'''
+!'''10'''
+!'''155'''
+!'''61'''
+!'''47'''
+!'''47'''
+!'''219'''
+!'''184'''
+!—
+|}
+
+:''*Draws include knockout matches decided via [[Penalty shoot-out (association football)|penalty shoot-out]].''
+
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=5|List of FIFA World Cup matches
+|-
+!Year!!Round!!Score!!Result!!Republic of Ireland scorers
+|-
+|rowspan=5|[[1990 FIFA World Cup|1990]]
+|rowspan=3|Group stage||align="left"|{{fb|IRL}} '''1–1''' {{fb|ENG}}||bgcolor="#FFFF99"|Draw||[[Kevin Sheedy (Irish footballer)|Kevin Sheedy]] {{goal|73}}
+|-
+|align="left"|{{fb|IRL}} '''1–1''' {{fb|NED}}||bgcolor="#FFFF99"|Draw||[[Niall Quinn]] {{goal|71}}
+|-
+|align="left"|{{fb|IRL}} '''0–0''' {{fb|EGY}}||bgcolor="#FFFF99"|Draw||—
+|-
+|Round of 16||align="left"|{{fb|IRL}} '''0–0 {{pso|5–4}}''' {{fb|ROU}}||bgcolor="#FFFF99"|Draw||—
+|-
+|Quarter-finals||align="left"|{{fb|IRL}} '''0–1''' {{fb|ITA}}||bgcolor="#FFA07A"|Loss||—
+|-
+|rowspan=4|[[1994 FIFA World Cup|1994]]
+|rowspan=3|Group stage||align="left"|{{fb|IRL}} '''1–0''' {{fb|ITA}}||bgcolor="#98FB98"|Win||[[Ray Houghton]] {{goal|11}}
+|-
+|align="left"|{{fb|IRL}} '''1–2''' {{fb|MEX}}||bgcolor="#FFA07A"|Loss||[[John Aldridge]] {{goal|84}}
+|-
+|align="left"|{{fb|IRL}} '''0–0''' {{fb|NOR}}||bgcolor="#FFFF99"|Draw||—
+|-
+|Round of 16||align="left"|{{fb|IRL}} '''0–2''' {{fb|NED}}||bgcolor="#FFA07A"|Loss||—
+|-
+|rowspan=4|[[2002 FIFA World Cup|2002]]
+|rowspan=3|Group stage||align="left"|{{fb|IRL}} '''1–1''' {{fb|CMR}}||bgcolor="#FFFF99"|Draw||[[Matt Holland]] {{goal|52}}
+|-
+|align="left"|{{fb|IRL}} '''1–1''' {{fb|GER}}||bgcolor="#FFFF99"|Draw||[[Robbie Keane]] {{goal|90+2}}
+|-
+|align="left"|{{fb|IRL}} '''3–0''' {{fb|KSA}}||bgcolor="#98FB98"|Win||[[Robbie Keane]] {{goal|7}}<br>[[Gary Breen]] {{goal|61}}<br>[[Damien Duff]] {{goal|87}}
+|-
+|Round of 16||align="left"|{{fb|IRL}} '''1–1 {{pso|2–3}}''' {{fb|ESP}}||bgcolor="#FFFF99"|Draw||[[Robbie Keane]] {{goal|90|pen.}}
+|}
+
+== 1990 World Cup ==
+
+{{Republic of Ireland squad 1990 FIFA World Cup}}
+
+===[[1990 FIFA World Cup Group F|Group F]]===
+
+{| class="wikitable" style="text-align:center"
+|-
+!width=150|Team
+!width=20|Pld
+!width=20|W
+!width=20|D
+!width=20|L
+!width=20|GF
+!width=20|GA
+!width=20|GD
+!width=20|Pts
+|- bgcolor="#ccffcc"
+|align="left"|{{fb|ENG}}
+|3||1||2||0||2||1||+1||'''4'''
+|- bgcolor="#ccffcc"
+|align="left"|{{fb|IRL}}
+|3||0||3||0||2||2||0||'''3'''
+|- bgcolor="#ffffcc"
+|align="left"|{{fb|NED}}
+|3||0||3||0||2||2||0||'''3'''
+|-
+|align="left"|{{fb|EGY}}
+|3||0||2||1||1||2||−1||'''2'''
+|}
+
+''Note'': Republic of Ireland awarded second place by drawing of lots
+
+{{football box
+|date = 11 June 1990
+|time = 21:00
+|team1 = {{fb-rt|ENG}}
+|score = 1–1
+|report = [https://web.archive.org/web/20070621084907/http://www.fifa.com/worldcup/archive/edition=76/results/matches/match=161/report.html (Report)]
+|team2 = {{fb|IRL}}
+|goals1 = [[Gary Lineker|Lineker]] {{goal|8}}
+|goals2 = [[Kevin Sheedy (Irish footballer)|Sheedy]] {{goal|73}}
+|stadium = [[Stadio Sant'Elia]], [[Cagliari]]
+|attendance = 35,238
+|referee = [[Aron Schmidhuber]] ([[German Football Association|West Germany]])
+}}
+----
+{{football box
+|date = 17 June 1990
+|time = 17:00
+|team1 = {{fb-rt|IRL}}
+|score = 0–0
+|report = [https://web.archive.org/web/20071001032041/http://www.fifa.com/worldcup/archive/edition=76/results/matches/match=152/report.html (Report)]
+|team2 = {{fb|EGY}}
+|goals1 =
+|goals2 =
+|stadium = [[Stadio Renzo Barbera|Stadio La Favorita]], [[Palermo]]
+|attendance = 33,288
+|referee = [[Marcel van Langenhove (referee)|Marcel Van Langenhove]] ([[Royal Belgian Football Association|Belgium]])
+}}
+----
+{{football box
+|date = 21 June 1990
+|time = 21:00
+|team1 = {{fb-rt|NED}}
+|score = 1–1
+|report = [https://web.archive.org/web/20071001023327/http://www.fifa.com/worldcup/archive/edition=76/results/matches/match=228/report.html (Report)]
+|team2 = {{fb|IRL}}
+|goals1 = [[Ruud Gullit|Gullit]] {{goal|10}}
+|goals2 = [[Niall Quinn|Quinn]] {{goal|71}}
+|stadium = [[Stadio Renzo Barbera|Stadio La Favorita]], [[Palermo]]
+|attendance = 33,288
+|referee = [[Michel Vautrot]] ([[French Football Federation|France]])
+}}
+----
+
+===Knockout phase===
+
+{{football box
+|date = 25 June 1990
+|time = 17:00
+|team1 = {{fb-rt|IRL}}
+|score = 0 – 0 ([[Extra time|a.e.t.]])
+|report = [https://web.archive.org/web/20071014125359/http://fifa.com/worldcup/archive/edition=76/results/matches/match=248/report.html (Report)]
+|team2 = {{fb|ROM}}
+|goals1 =
+|goals2 =
+
+|stadium = [[Stadio Luigi Ferraris]], [[Genoa]]
+|attendance = 31,818
+|referee = [[José Roberto Wright]] ([[Brazilian Football Confederation|Brazil]])
+|penalties1 = [[Kevin Sheedy (Irish footballer)|Sheedy]] {{pengoal}}<br>[[Ray Houghton|Houghton]] {{pengoal}}<br>[[Andy Townsend|Townsend]] {{pengoal}}<br>[[Tony Cascarino|Cascarino]] {{pengoal}}<br>[[David O'Leary|O'Leary]] {{pengoal}}
+|penaltyscore = 5–4
+|penalties2 = {{pengoal}} [[Gheorghe Hagi|Hagi]]<br>{{pengoal}} [[Dănuţ Lupu|Lupu]]<br>{{pengoal}} [[Iosif Rotariu|Rotariu]]<br>{{pengoal}} [[Ioan Lupescu|Lupescu]]<br>{{penmiss}} [[Daniel Timofte|Timofte]]
+}}
+----
+{{football box
+|date = 30 June 1990
+|time = 21:00
+|team1 = {{fb-rt|ITA}}
+|score = 1–0
+|report = [https://web.archive.org/web/20071014125353/http://fifa.com/worldcup/archive/edition=76/results/matches/match=243/report.html (Report)]
+|team2 = {{fb|IRL}}
+|goals1 = [[Salvatore Schillaci|Schillaci]] {{goal|38}}
+|goals2 =
+|stadium = [[Stadio Olimpico]], [[Rome]]
+|attendance = 73,303
+|referee = [[Carlos Silva Valente]] ([[Portuguese Football Federation|Portugal]])
+}}
+
+== 1994 World Cup ==
+
+{{Republic of Ireland squad 1994 FIFA World Cup}}
+
+===Group E===
+
+{{Main|1994 FIFA World Cup Group E}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!width=150|Team
+!width=20|Pld
+!width=20|W
+!width=20|D
+!width=20|L
+!width=20|GF
+!width=20|GA
+!width=20|GD
+!width=20|Pts
+|- bgcolor="#ccffcc"
+|align="left"|{{fb|MEX}}
+|3||1||1||1||3||3||0||'''4'''
+|- bgcolor="#ccffcc"
+|align="left"|{{fb|IRL}}
+|3||1||1||1||2||2||0||'''4'''
+|- bgcolor="#ffffcc"
+|align="left"|{{fb|ITA}}
+|3||1||1||1||2||2||0||'''4'''
+|-
+|align="left"|{{fb|NOR}}
+|3||1||1||1||1||1||0||'''4'''
+|}
+
+{{football box
+|date = 18 June 1994
+|time = 16:05 [[Eastern Time Zone (North America)|EDT]]
+|team1 = {{fb-rt|ITA}}
+|score = 0–1
+|report = [https://web.archive.org/web/20071014125619/http://fifa.com/worldcup/archive/edition=84/results/matches/match=3052/report.html (Report)]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Ray Houghton|Houghton]] {{goal|11}}
+|stadium = [[Giants Stadium]], [[East Rutherford]]
+|attendance = 75,338
+|referee = [[Mario van der Ende]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+----
+{{football box
+|date = 24 June 1994
+|time = 12:35 [[Eastern Time Zone (North America)|EDT]]
+|team1 = {{fb-rt|MEX}}
+|score = 2–1
+|report = [https://web.archive.org/web/20071014125724/http://fifa.com/worldcup/archive/edition=84/results/matches/match=3066/report.html (Report)]
+|team2 = {{fb|IRL}}
+|goals1 = [[Luis García Postigo|García]] {{goal|42}} {{goal|65}}
+|goals2 = [[John Aldridge|Aldridge]] {{goal|84}}
+|stadium = [[Citrus Bowl]], [[Orlando, Florida|Orlando]]
+|attendance = 60,790
+|referee = [[Kurt Röthlisberger]] ([[Swiss Football Association|Switzerland]])
+}}
+----
+{{football box
+|date = 28 June 1994
+|time = 12:35 [[Eastern Time Zone (North America)|EDT]]
+|team1 = {{fb-rt|IRL}}
+|score = 0–0
+|report = [https://web.archive.org/web/20071014125814/http://fifa.com/worldcup/archive/edition=84/results/matches/match=3077/report.html (Report)]
+|team2 = {{fb|NOR}}
+|goals1 =
+|goals2 =
+|stadium = [[Giants Stadium]], [[East Rutherford]]
+|attendance = 72,404
+|referee = [[José Torres Cadena]] ([[Colombian Football Federation|Colombia]])
+}}
+----
+
+===Knockout phase===
+
+{{football box
+|date = 4 July 1994
+|time = 12:05 [[Eastern Time Zone (North America)|EDT]]
+|team1 = {{fb-rt|NED}}
+|score = 2–0
+|report = [https://web.archive.org/web/20071014125910/http://fifa.com/worldcup/archive/edition=84/results/matches/match=3089/report.html (Report)]
+|team2 = {{fb|IRL}}
+|goals1 = [[Dennis Bergkamp|Bergkamp]] {{goal|11}}<br>[[Wim Jonk|Jonk]] {{goal|41}}
+|goals2 =
+|stadium = [[Citrus Bowl]], [[Orlando, Florida|Orlando]]
+|attendance = 61,355
+|referee = [[Peter Mikkelsen (referee)|Peter Mikkelsen]] ([[Danish Football Association|Denmark]])
+}}
+
+== 2002 World Cup ==
+
+{{Republic of Ireland squad 2002 FIFA World Cup}}
+
+===Group E===
+
+{{Main|2002 FIFA World Cup - Group E}}
+
+{| class="wikitable" style="text-align:center;"
+|-
+!width=150|Team
+!width=20|Pld
+!width=20|W
+!width=20|D
+!width=20|L
+!width=20|GF
+!width=20|GA
+!width=20|GD
+!width=20|Pts
+|- bgcolor="#ccffcc"
+|align="left"|{{fb|GER}}
+|3||2||1||0||11||1||+10||'''7'''
+|- bgcolor="#ccffcc"
+|align="left"|{{fb|IRL}}
+|3||1||2||0||5||2||+3||'''5'''
+|-
+|align="left"|{{fb|CMR}}
+|3||1||1||1||2||3||−1||'''4'''
+|-
+|align="left"|{{fb|KSA}}
+|3||0||0||3||0||12||−12||'''0'''
+|}
+
+{{football box
+|date = 1 June 2002
+|time = 15:30
+|team1 = {{fb-rt|IRL}}
+|score = 1–1
+|report = [https://web.archive.org/web/20071015065332/http://fifa.com/worldcup/archive/edition=4395/results/matches/match=43950002/report.html (Report)]
+|team2 = {{fb|CMR}}
+|goals1 = [[Matt Holland|Holland]] {{goal|52}}
+|goals2 = [[Patrick Mboma|Mboma]] {{goal|39}}
+|stadium = [[Niigata Stadium]], [[Niigata, Niigata|Niigata]]
+|attendance = 33,679
+|referee = [[Toru Kamikawa]] ([[Japan Football Association|Japan]])
+}}
+----
+{{football box
+|date = 5 June 2002
+|time = 20:30
+|team1 = {{fb-rt|GER}}
+|score = 1–1
+|report = [https://web.archive.org/web/20071015065443/http://fifa.com/worldcup/archive/edition=4395/results/matches/match=43950017/report.html (Report)]
+|team2 = {{fb|IRL}}
+|goals1 = [[Miroslav Klose|Klose]] {{goal|19}}
+|goals2 = [[Robbie Keane]] {{goal|90+2}}
+|stadium = [[Kashima Soccer Stadium]], [[Kashima, Ibaraki|Kashima]]
+|attendance = 35,854
+|referee = [[Kim Milton Nielsen]] ([[Danish Football Association|Denmark]])
+}}
+----
+{{football box
+|date = 11 June 2002
+|time = 20:30
+|team1 = {{fb-rt|KSA}}
+|score = 0–3
+|report = [https://web.archive.org/web/20071015065605/http://fifa.com/worldcup/archive/edition=4395/results/matches/match=43950036/report.html (Report)]
+|team2 = {{fb|IRL}}
+|goals1 =
+|goals2 = [[Robbie Keane]] {{goal|7}}<br />[[Gary Breen|Breen]] {{goal|61}}<br />[[Damien Duff|Duff]] {{goal|87}}
+|stadium = [[International Stadium Yokohama]], [[Yokohama]]
+|attendance = 65,320
+|referee = [[Falla N'Doye]] ([[Senegalese Football Federation|Senegal]])
+}}
+----
+
+===Knockout phase===
+
+{{football box
+| date = 16 June 2002
+| time = 20:30
+| team1 = {{fb-rt|ESP}}
+| score = 1 – 1 ([[Extra time|a.e.t.]])
+| report = [https://web.archive.org/web/20071015065720/http://fifa.com/worldcup/archive/edition=4395/results/matches/match=43950052/report.html (Report)]
+| team2 = {{fb|IRL}}
+| goals1 = [[Fernando Morientes|Morientes]] {{goal|8}}
+| goals2 = [[Robbie Keane]] {{goal|90|pen.}}
+| stadium = [[Suwon World Cup Stadium]], [[Suwon]]
+| attendance = 38,926
+| referee = [[Anders Frisk]] ([[Swedish Football Association|Sweden]])
+| penalties1 = [[Fernando Hierro|Hierro]] {{pengoal}}<br />[[Rubén Baraja|Baraja]] {{pengoal}}<br />[[Juanfran (footballer, born 1976)|Juanfran]] {{penmiss}}<br />[[Juan Carlos Valerón|Valerón]] {{penmiss}}<br />[[Gaizka Mendieta|Mendieta]] {{pengoal}}
+| penaltyscore = 3–2
+| penalties2 = {{pengoal}} [[Robbie Keane]]<br />{{penmiss}} [[Matt Holland|Holland]]<br />{{penmiss}} [[David Connolly|Connolly]]<br />{{penmiss}} [[Kevin Kilbane|Kilbane]]<br />{{pengoal}} [[Steve Finnan|Finnan]]
+| event = 
+| round = 
+| score1 = 
+| score2 = 
+}}
+
+==Record players==
+Defender [[Steve Staunton]] has represented the Irish team in all of their thirteen World Cup matches, captaining the side in 2002.
+
+{| class="wikitable" style="text-align: left;"
+|-
+!Rank
+!Player
+!Matches
+!Tournaments
+|-
+|align=center|1
+|[[Steve Staunton]]||align=center|13||1990, 1994, 2002
+|-
+|rowspan=4 align=center|2
+|[[Packie Bonner|Pat Bonner]]||align=center|9||1990, 1994
+|-
+|[[Ray Houghton]]||align=center|9||1990, 1994
+|-
+|[[Paul McGrath (footballer)|Paul McGrath]]||align=center|9||1990, 1994
+|-
+|[[Andy Townsend]]||align=center|9||1990, 1994
+|-
+|align=center|6
+|[[John Aldridge]]||align=center|8||1990, 1994
+|-
+|align=center|7
+|[[Niall Quinn]]||align=center|7||1990, 2002
+|-
+|rowspan=3 align=center|8
+|[[Tony Cascarino]]||align=center|6||1990, 1994
+|-
+|[[Gary Kelly (footballer, born 1974)|Gary Kelly]]||align=center|6||1994, 2002
+|-
+|[[Jason McAteer]]||align=center|6||1994, 2002
+|}
+
+==Goalscorers==
+
+On June 11th 1990,  [[Kevin Sheedy (Irish footballer)|Kevin Sheedy]] made history by scoring Ireland's first-ever FIFA World Cup goal. He did it on their opening match against [[England national football team|England]] in [[Stadio Sant'Elia|Cagliari]].
+
+{| class="wikitable" style="text-align: left;"
+|-
+!Rank
+!Player
+!Goals
+!Tournaments
+|-
+|align=center|1
+|[[Robbie Keane]]||align=center|3||2002
+|-
+|rowspan=7 align=center|2
+|[[Kevin Sheedy (Irish footballer)|Kevin Sheedy]]||align=center|1||1990
+|-
+|[[Niall Quinn]]||align=center|1||1990
+|-
+|[[John Aldridge]]||align=center|1||1994
+|-
+|[[Ray Houghton]]||align=center|1||1994
+|-
+|[[Gary Breen]]||align=center|1||2002
+|-
+|[[Damien Duff]]||align=center|1||2002
+|-
+|[[Matt Holland]]||align=center|1||2002
+|}
+
+==See also==
+* [[Republic of Ireland at the UEFA European Championship]]
+* [[Republic of Ireland at the UEFA Nations League]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[https://web.archive.org/web/20070615042514/http://www.fifa.com/associations/association=irl/index.html Ireland Profile] at FIFA.com
+*[https://web.archive.org/web/20071015091652/http://fifa.com/worldfootball/statisticsandrecords/associations/association=irl/worldcup/index.html Ireland World Cup Record] at FIFA.com
+*[http://www.dundalkfc.com/history/irish-football-time-capsule/the-road-to-italia-90/ Article on Ireland's Qualification for the 1990 World Cup]
+*[http://www.soccer-ireland.com/world-cup-1994/index.htm Article on Ireland at 1994 FIFA World Cup]
+*[http://www.planetworldcup.com/NATIONS/ire.html World Cup Record at Planet World Cup]
+
+{{Republic of Ireland national football team}}
+{{Countries at the FIFA World Cup}}
+
+[[Category:Republic of Ireland at the FIFA World Cup| ]]
+[[Category:Countries at the FIFA World Cup|Ireland]]
+[[Category:Republic of Ireland national football team – record in major tournaments|World Cup]]

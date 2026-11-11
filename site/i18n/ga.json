@@ -578,7 +578,26 @@
 "No defeats yet.": "Gan bhriseadh fós.",
 "Swap them:": "Malartaigh iad:",
 "Enter your birth year, then send it to a parent": "Cuir isteach bliain do bhreithe, ansin seol chuig tuismitheoir é",
-"Ireland in your lifetime: enter the year you were born →": "Éire le linn do shaoil: cuir isteach an bhliain a rugadh thú →"
+"Ireland in your lifetime: enter the year you were born →": "Éire le linn do shaoil: cuir isteach an bhliain a rugadh thú →",
+"Ireland’s first World Cup: five games, one defeat, a quarter-final in Rome": "An chéad Chorn Domhanda ag Éirinn: cúig chluiche, briseadh amháin, ceathrú ceannais sa Róimh",
+"Through on goals scored, then Houghton’s goal beat Italy": "Ar aghaidh ar chúil scóráilte, agus ansin bhuaigh cúl Houghton ar an Iodáil",
+"Unbeaten in qualifying, a stoppage-time goal against Germany, out on penalties to Spain": "Gan bhriseadh sa cháiliúchán, cúl in am breise gortaithe in aghaidh na Gearmáine, amach ar chiceanna éirice in aghaidh na Spáinne",
+"Second in the group, 4–0 in Tallinn, three defeats in Poland": "An dara háit sa ghrúpa, 4–0 i dTallinn, trí bhriseadh sa Pholainn",
+"Long beat Germany, Brady beat Italy": "Bhuaigh Long ar an nGearmáin, bhuaigh Brady ar an Iodáil",
+"Two points for a win. Spain and Ireland both qualified.": "Dhá phointe ar bhua. Cháiligh an Spáinn agus Éire araon.",
+"Two points for a win. Ireland and the Netherlands finished level on every count; lots decided second and third, and both went through.": "Dhá phointe ar bhua. Bhí Éire agus an Ísiltír cothrom ar gach slat tomhais; shocraigh crainn an dara agus an tríú háit, agus chuaigh an dá fhoireann ar aghaidh.",
+"Two points for a win. Ireland and Denmark were level on points and goal difference; Ireland scored more goals. The top two qualified.": "Dhá phointe ar bhua. Bhí Éire agus an Danmhairg cothrom ar phointí agus ar dhifríocht chúl; scóráil Éire níos mó cúl. Cháiligh an bheirt is airde.",
+"Three points for a win, the first World Cup to use them. All four teams finished on four points and a goal difference of zero. Ireland were placed above Italy because they won the game between them.": "Trí phointe ar bhua, an chéad Chorn Domhanda a d’úsáid iad. Chríochnaigh na ceithre fhoireann ar cheithre phointe agus difríocht chúl náid. Cuireadh Éire os cionn na hIodáile mar gur bhuaigh siad an cluiche eatarthu.",
+"Three points for a win. Portugal and Ireland were level on points; Portugal had the better goal difference. Second place meant a play-off, and Ireland drew Iran.": "Trí phointe ar bhua. Bhí an Phortaingéil agus Éire cothrom ar phointí; bhí difríocht chúl níos fearr ag an bPortaingéil. Chiallaigh an dara háit babhta athimeartha, agus tarraingíodh Éire in aghaidh na hIaráine.",
+"Three points for a win. The top two went through.": "Trí phointe ar bhua. Chuaigh an bheirt is airde ar aghaidh.",
+"Three points for a win. Group winners and the best runner-up qualified; the other runners-up went into the play-offs.": "Trí phointe ar bhua. Cháiligh buaiteoirí na ngrúpaí agus an fhoireann dara háit ab fhearr; chuaigh na foirne eile sa dara háit isteach sna babhtaí athimeartha.",
+"Three points for a win. The top two and the best third-placed team qualified; the other third-placed teams went into the play-offs.": "Trí phointe ar bhua. Cháiligh an bheirt is airde agus an fhoireann tríú háit ab fhearr; chuaigh na foirne eile sa tríú háit isteach sna babhtaí athimeartha.",
+"Three points for a win. The top two and the four best third-placed teams went through.": "Trí phointe ar bhua. Chuaigh an bheirt is airde agus na ceithre fhoireann tríú háit ab fhearr ar aghaidh.",
+"Ireland’s qualifying games": "Cluichí cáilithe na hÉireann",
+"Play-off": "Babhta athimeartha",
+"beat Romania on penalties": "bhuaigh siad ar an Rómáin ar chiceanna éirice",
+"(won on penalties)": "(bua ar chiceanna éirice)",
+"(lost on penalties)": "(cailleadh ar chiceanna éirice)"
 },
 "patterns": [
 [
@@ -944,6 +963,38 @@
 [
 "^No Ireland games yet since (\\d{4})\\.$",
 "Gan chluiche ag Éirinn ó $1 fós."
+],
+[
+"^Qualifying Group (\\w+), final table$",
+"Grúpa cáilithe $1, an tábla deiridh"
+],
+[
+"^Group (\\w+), final table$",
+"Grúpa $1, an tábla deiridh"
+],
+[
+"^The finals, (.+)$",
+"Na cluichí ceannais, {T1}"
+],
+[
+"^Ireland won (\\d+)–(\\d+) on aggregate\\.$",
+"Bhuaigh Éire $1–$2 san iomlán."
+],
+[
+"^Ireland: (.+)$",
+"Éire: $1"
+],
+[
+"^([A-Z][A-Za-z ]+): (.+)$",
+"{T1}: $2"
+],
+[
+"^(\\d{4}) World Cup, Wikipedia$",
+"Corn an Domhain $1, Vicipéid Bhéarla"
+],
+[
+"^Euro (\\d{4}), Wikipedia$",
+"Euro $1, Vicipéid Bhéarla"
 ]
 ],
 "blocks": {
@@ -958,6 +1009,20 @@
 "Packie Bonner; Chris Morris, Mick McCarthy (captain), Paul McGrath, Kevin Moran, Steve Staunton; Ray Houghton, Andy Townsend, Kevin Sheedy; John Aldridge, Niall Quinn.": "{0}; {1}, {2} (captaen), {3}, {4}, {5}; {6}, {7}, {8}; {9}, {10}.",
 "Substitutes used: Tony Cascarino for Aldridge (22′), David O’Leary for Staunton (94′). Booked: Aldridge, McGrath.": "Ionadaithe a úsáideadh: {0} in áit Aldridge (22′), {1} in áit Staunton (94′). Cárta buí: Aldridge, McGrath.",
 "Silviu Lung (captain); Gheorghe Popescu, Ioan Andone, Ioan Lupescu; Mircea Rednic, Ioan Sabău, Gheorghe Hagi, Iosif Rotariu, Michael Klein; Gavril Balint, Florin Răducioiu.": "Silviu Lung (captaen); Gheorghe Popescu, Ioan Andone, Ioan Lupescu; Mircea Rednic, Ioan Sabău, Gheorghe Hagi, Iosif Rotariu, Michael Klein; Gavril Balint, Florin Răducioiu.",
-"Substitutes used: Dănuț Lupu for Răducioiu (74′), Daniel Timofte for Sabău (98′). Booked: Hagi, Lupu.": "Ionadaithe a úsáideadh: Dănuț Lupu in áit Răducioiu (74′), Daniel Timofte in áit Sabău (98′). Cárta buí: Hagi, Lupu."
+"Substitutes used: Dănuț Lupu for Răducioiu (74′), Daniel Timofte for Sabău (98′). Booked: Hagi, Lupu.": "Ionadaithe a úsáideadh: Dănuț Lupu in áit Răducioiu (74′), Daniel Timofte in áit Sabău (98′). Cárta buí: Hagi, Lupu.",
+"Ireland qualified second in Group 6, a point behind Spain, with five wins in eight games and two goals conceded. Their only defeat was in Seville.": "Cháiligh Éire sa dara háit i nGrúpa 6, pointe taobh thiar de {0}, le cúig bhua in ocht gcluiche agus gan ach dhá chúl ligthe isteach. In Sevilla a bhí an t-aon bhriseadh a bhí orthu.",
+"In Italy they drew all three group games, with England, Egypt and the Netherlands. Ireland and the Netherlands finished level on everything, and lots were drawn for second place. Ireland went to Genoa and beat Romania on penalties. On 30 June they lost 1–0 to Italy in Rome; Salvatore Schillaci scored.": "San Iodáil bhí comhscór sna trí chluiche grúpa, in aghaidh {0}, {1} agus {2}. Bhí Éire agus an Ísiltír cothrom ar gach slat tomhais, agus tarraingíodh crainn don dara háit. Chuaigh Éire go Genoa agus {3}. Ar an 30 Meitheamh chaill siad 1–0 in aghaidh {4} sa Róimh; scóráil Salvatore Schillaci.",
+"Ireland finished Group 3 level with Denmark on 18 points and the same goal difference, and went through on goals scored, 19 to 15. Spain won the group. Ireland’s last game was in Belfast on 17 November 1993: Northern Ireland led through Jimmy Quinn, and Alan McLoughlin equalised soon after.": "Chríochnaigh Éire Grúpa 3 cothrom le {0} ar 18 bpointe agus an difríocht chúl chéanna, agus chuaigh siad ar aghaidh ar chúil scóráilte, 19 in aghaidh 15. Bhuaigh {1} an grúpa. Bhí an cluiche deireanach ag Éirinn i mBéal Feirste ar an 17 Samhain 1993: chuir Jimmy Quinn {2} chun tosaigh, agus d’aimsigh {3} an cúl cothromaithe go gairid ina dhiaidh.",
+"At the finals Ray Houghton scored the only goal against Italy at Giants Stadium. Mexico won 2–1 in Orlando, and a goalless draw with Norway left all four teams in Group E on four points. Ireland finished second; Norway went out on goals scored. The Netherlands won the last-16 game 2–0 in Orlando.": "Sna cluichí ceannais scóráil {0} an t-aon chúl in aghaidh {1} i Staid Giants. Bhuaigh {2} 2–1 in Orlando, agus d’fhág comhscór gan chúl le {3} na ceithre fhoireann i nGrúpa E ar cheithre phointe. Chríochnaigh Éire sa dara háit; chuaigh an Iorua amach ar chúil scóráilte. Bhuaigh {4} cluiche an bhabhta 16 2–0 in Orlando.",
+"Ireland went through qualifying unbeaten and finished level with Portugal on 24 points, second on goal difference. Jason McAteer’s goal beat the Netherlands 1–0 in Dublin on 1 September 2001 and kept the Dutch out. A play-off with Iran followed: 2–0 in Dublin, 1–0 to Iran in Tehran.": "Chuaigh Éire tríd an gcáiliúchán gan bhriseadh agus chríochnaigh siad cothrom le {0} ar 24 pointe, sa dara háit ar dhifríocht chúl. Bhuaigh cúl {1} 1–0 ar {2} i mBaile Átha Cliath ar an 1 Meán Fómhair 2001 agus choinnigh sé an Ísiltír amach. Ina dhiaidh sin bhí babhta athimeartha le {3}: 2–0 i mBaile Átha Cliath, 1–0 don Iaráin i dTeheran.",
+"Before the finals Roy Keane left the squad and was not replaced. In Japan, Matt Holland scored in a 1–1 draw with Cameroon, Robbie Keane equalised against Germany in stoppage time, and a 3–0 win over Saudi Arabia put Ireland second in Group E. Against Spain in Suwon, Keane’s penalty in the 90th minute made it 1–1. Spain won the shoot-out 3–2.": "Roimh na cluichí ceannais d’fhág {0} an scuad agus níor cuireadh duine eile ina áit. Sa tSeapáin, scóráil {1} i gcomhscór 1–1 le {2}, d’aimsigh {3} an cúl cothromaithe in aghaidh {4} in am breise gortaithe, agus chuir bua 3–0 ar {5} Éire sa dara háit i nGrúpa E. In aghaidh {6} i Suwon, rinne cic éirice Keane sa 90ú nóiméad 1–1 de. Bhuaigh an Spáinn na ciceanna éirice 3–2.",
+"Ireland finished second in Group B, two points behind Russia, and met Estonia in a play-off. They won 4–0 in Tallinn, Robbie Keane scoring twice, and drew 1–1 in Dublin.": "Chríochnaigh Éire sa dara háit i nGrúpa B, dhá phointe taobh thiar de {0}, agus bhuail siad le {1} i mbabhta athimeartha. Bhuaigh siad 4–0 i dTallinn, le dhá chúl ó {2}, agus bhí comhscór 1–1 i mBaile Átha Cliath.",
+"At the finals they lost all three games: 3–1 to Croatia in Poznań, 4–0 to Spain in Gdańsk and 2–0 to Italy in Poznań. Sean St Ledger scored Ireland’s only goal.": "Sna cluichí ceannais chaill siad na trí chluiche: 3–1 in aghaidh {0} i Poznań, 4–0 in aghaidh {1} i nGdańsk agus 2–0 in aghaidh {2} i Poznań. Ba é {3} a scóráil an t-aon chúl a fuair Éire.",
+"Ireland finished third in Group D behind Germany and Poland. Shane Long’s goal beat Germany, the world champions, 1–0 in Dublin on 8 October 2015. In the play-off they drew 1–1 with Bosnia and Herzegovina in Zenica and won 2–0 in Dublin, Jonathan Walters scoring both.": "Chríochnaigh Éire sa tríú háit i nGrúpa D taobh thiar de {0} agus {1}. Bhuaigh cúl {2} 1–0 ar an nGearmáin, curaí an domhain, i mBaile Átha Cliath ar an 8 Deireadh Fómhair 2015. Sa bhabhta athimeartha bhí comhscór 1–1 le {3} i Zenica agus bua 2–0 i mBaile Átha Cliath, le {4} ag scóráil an dá chúl.",
+"In France, Wes Hoolahan scored in a 1–1 draw with Sweden, Belgium won 3–0, and Robbie Brady’s goal four minutes from time beat Italy 1–0 to take Ireland through as one of the best third-placed teams. Brady scored again in the second minute against France in Lyon, but Antoine Griezmann scored twice and France won 2–1.": "Sa Fhrainc, scóráil {0} i gcomhscór 1–1 le {1}, bhuaigh {2} 3–0, agus bhuaigh cúl {3} ceithre nóiméad roimh an deireadh 1–0 ar {4} chun Éire a thabhairt ar aghaidh mar cheann de na foirne tríú háit ab fhearr. Scóráil Brady arís sa dara nóiméad in aghaidh {5} i Lyon, ach scóráil Antoine Griezmann faoi dhó agus bhuaigh an Fhrainc 2–1.",
+"Caps as they stood when the tournament began. Manager: Jack Charlton.": "Caipíní mar a bhí siad ag tús an chomórtais. Bainisteoir: {0}.",
+"Caps as they stood when the tournament began. Manager: Mick McCarthy.": "Caipíní mar a bhí siad ag tús an chomórtais. Bainisteoir: {0}.",
+"Caps as they stood when the tournament began. Manager: Giovanni Trapattoni.": "Caipíní mar a bhí siad ag tús an chomórtais. Bainisteoir: {0}.",
+"Caps as they stood when the tournament began. Manager: Martin O'Neill.": "Caipíní mar a bhí siad ag tús an chomórtais. Bainisteoir: {0}."
 }
 }

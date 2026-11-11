@@ -1,0 +1,613 @@
+{{Short description|Football tournament qualification stage}}
+The '''2002 FIFA World Cup qualification UEFA Group 2''' was a [[UEFA]] qualifying group for the [[2002 FIFA World Cup]]. The group comprised [[Andorra national football team|Andorra]], [[Cyprus national football team|Cyprus]], [[Estonia national football team|Estonia]], the [[Netherlands national football team|Netherlands]], [[Portugal national football team|Portugal]] and the [[Republic of Ireland national football team|Republic of Ireland]].
+
+The group was won by Portugal, who qualified for the 2002 FIFA World Cup. The runners-up Republic of Ireland entered the [[2002 FIFA World Cup qualification (UEFA–AFC play-off)|UEFA–AFC play-off]] as the group's play-off berth was randomly drawn by [[FIFA]] for the intercontinental play-off against an [[Asian Football Confederation|AFC]] team not one from its own confederation. Portugal, Ireland, and the Netherlands were clearly the top sides in the group, each handing out six beatings to the three other minnows. Between the top three, four of the matches were drawn, but the Netherlands lost one match each to Portugal and Ireland and had to settle for third place. In the end, Portugal only topped the group ahead of Ireland by virtue of superior goal difference.
+
+==Standings==
+<onlyinclude>{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+
+|team1=POR|name_POR={{fb|POR}}
+|team2=IRL|name_IRL={{fb|IRL}}
+|team3=NED|name_NED={{fb|NED}}
+|team4=EST|name_EST={{fb|EST}}
+|team5=CYP|name_CYP={{fb|CYP|1960}}
+|team6=AND|name_AND={{fb|AND}}
+|win_POR=7|draw_POR=3|loss_POR=0|gf_POR=33|ga_POR=7
+|win_IRL=7|draw_IRL=3|loss_IRL=0|gf_IRL=23|ga_IRL=5
+|win_NED=6|draw_NED=2|loss_NED=2|gf_NED=30|ga_NED=9
+|win_EST=2|draw_EST=2|loss_EST=6|gf_EST=10|ga_EST=26
+|win_CYP=2|draw_CYP=2|loss_CYP=6|gf_CYP=13|ga_CYP=31
+|win_AND=0|draw_AND=0|loss_AND=10|gf_AND=5|ga_AND=36
+
+|result1=WC |result2=WCPO
+|col_WC=green1  |text_WC=Qualification to {{nobreak|[[2002 FIFA World Cup]]}}
+|col_WCPO=blue1 |text_WCPO=Advance to {{nobreak|[[2002 FIFA World Cup qualification (UEFA–AFC play-off)|inter-confederation play-offs]]}}
+
+|show_matches=y
+|short_style=flag
+
+|match_POR_IRL=[[#Portugal v Republic of Ireland|1–1]]
+|match_POR_NED=[[#Portugal v Netherlands|2–2]]
+|match_POR_EST=[[#Portugal v Estonia|5–0]]
+|match_POR_CYP=[[#Portugal v Cyprus|6–0]]
+|match_POR_AND=[[#Portugal v Andorra|3–0]]
+
+|match_IRL_POR=[[#Republic of Ireland v Portugal|1–1]]
+|match_IRL_NED=[[#Republic of Ireland v Netherlands|1–0]]
+|match_IRL_EST=[[#Republic of Ireland v Estonia|2–0]]
+|match_IRL_CYP=[[#Republic of Ireland v Cyprus|4–0]]
+|match_IRL_AND=[[#Republic of Ireland v Andorra|3–1]]
+
+|match_NED_POR=[[#Netherlands v Portugal|0–2]]
+|match_NED_IRL=[[#Netherlands v Republic of Ireland|2–2]]
+|match_NED_EST=[[#Netherlands v Estonia|5–0]]
+|match_NED_CYP=[[#Netherlands v Cyprus|4–0]]
+|match_NED_AND=[[#Netherlands v Andorra|4–0]]
+
+|match_EST_POR=[[#Estonia v Portugal|1–3]]
+|match_EST_IRL=[[#Estonia v Republic of Ireland|0–2]]
+|match_EST_NED=[[#Estonia v Netherlands|2–4]]
+|match_EST_CYP=[[#Estonia v Cyprus|2–2]]
+|match_EST_AND=[[#Estonia v Andorra|1–0]]
+
+|match_CYP_POR=[[#Cyprus v Portugal|1–3]]
+|match_CYP_IRL=[[#Cyprus v Republic of Ireland|0–4]]
+|match_CYP_NED=[[#Cyprus v Netherlands|0–4]]
+|match_CYP_EST=[[#Cyprus v Estonia|2–2]]
+|match_CYP_AND=[[#Cyprus v Andorra|5–0]]
+
+|match_AND_POR=[[#Andorra v Portugal|1–7]]
+|match_AND_IRL=[[#Andorra v Republic of Ireland|0–3]]
+|match_AND_NED=[[#Andorra v Netherlands|0–5]]
+|match_AND_EST=[[#Andorra v Estonia|1–2]]
+|match_AND_CYP=[[#Andorra v Cyprus|2–3]]
+
+|update=complete|source=<ref name="soccer365 UEFA 2002">{{cite web |title=FIFA World Cup qualification (UEFA) 2002, football - table and standings |url=https://soccer365.me/competitions/739/2002/ |website=soccer365.me |access-date=19 April 2024 |archive-date=15 December 2024 |archive-url=https://web.archive.org/web/20241215135351/https://soccer365.me/competitions/739/2002/ |url-status=dead }}</ref>
+}}</onlyinclude>
+
+==Matches==
+{{Football box
+|id = Estonia v Andorra
+| date         = {{Start date|2000|8|16|df=y}}
+| time         = 18:00 [[UTC+03:00|UTC+3]]
+| team1        = {{fb-rt|EST}}
+| team2        = {{fb|AND}}
+| score        = 1–0
+| goals1       = [[Martin Reim|Reim]] {{goal|66|pen.}}
+| goals2       = 
+| stadium      = [[Kadriorg Stadium]], [[Tallinn]]
+| attendance   = 1,600
+| referee      = Zoran Arsić ([[Football Association of Serbia and Montenegro|FR&nbsp;Yugoslavia]])
+| report       = [https://web.archive.org/web/20071114093906/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19789/report.html Report]
+}}
+----
+{{Football box
+|id = Andorra v Cyprus
+| date         = {{Start date|2000|9|2|df=y}}
+| time         = 17:30 [[UTC+02:00|UTC+2]]
+| team1        = {{fb-rt|AND}}
+| team2        = {{fb|CYP|1960}}
+| score        = 2–3
+| goals1       = [[Emiliano González Arqués|González]] {{goal|45}}<br />[[Ildefons Lima|I. Lima]] {{goal|52}}
+| goals2       = [[Michalis Konstantinou|Konstantinou]] {{goal|25|pen.|90}}<br />[[Marios Agathokleous|Agathokleous]] {{goal|77}}
+| stadium      = [[Estadi Comunal d'Andorra la Vella|Estadi Comunal]], [[Andorra la Vella]]
+| attendance   = 600
+| referee      = [[Ihor Yarmenchuk]] ([[Football Federation of Ukraine|Ukraine]])
+| report       = [https://web.archive.org/web/20071126043423/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19597/report.html Report]
+}}
+
+{{Football box
+|id = Netherlands v Republic of Ireland
+| date         = {{Start date|2000|9|2|df=y}}
+| time         = 20:30 [[UTC+02:00|UTC+2]]
+| team1        = {{fb-rt|NED}}
+| team2        = {{fb|IRL}}
+| score        = 2–2
+| goals1       = [[Jeffrey Talan|Talan]] {{goal|71}}<br />[[Giovanni van Bronckhorst|Van Bronckhorst]] {{goal|84}}
+| goals2       = [[Robbie Keane]] {{goal|21}}<br />[[Jason McAteer|McAteer]] {{goal|65}}
+| stadium      = [[Amsterdam Arena]], [[Amsterdam]]
+| attendance   = 45,000
+| referee      = [[Ľuboš Micheľ]] ([[Slovak Football Association|Slovakia]])
+| report       = [https://web.archive.org/web/20071126043418/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19596/report.html Report]
+}}
+
+{{Football box
+|id = Estonia v Portugal
+| date         = {{Start date|2000|9|3|df=y}}
+| time         = 17:00 [[UTC+03:00|UTC+3]]
+| team1        = {{fb-rt|EST}}
+| team2        = {{fb|POR}}
+| score        = 1–3
+| goals1       = [[Andres Oper|Oper]] {{goal|83}}
+| goals2       = [[Rui Costa]] {{goal|15}}<br />[[Luís Figo|Figo]] {{goal|49}}<br />[[Ricardo Sá Pinto|Sá Pinto]] {{goal|57}}
+| stadium      = [[Kadriorg Stadium]], [[Tallinn]]
+| attendance   = 4,700
+| referee      = Charles Agius ([[Malta Football Association|Malta]])
+| report       = [https://web.archive.org/web/20071125070519/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19595/report.html Report]
+}}
+----
+{{Football box
+|id = Andorra v Estonia
+| date         = {{Start date|2000|10|7|df=y}}
+| time         = 16:00 [[UTC+02:00|UTC+2]]
+| team1        = {{fb-rt|AND}}
+| team2        = {{fb|EST}}
+| score        = 1–2
+| goals1       = [[Justo Ruiz|Ruiz]] {{goal|90+1|pen.}}
+| goals2       = [[Martin Reim|Reim]] {{goal|55}}<br />[[Andres Oper|Oper]] {{goal|65}}
+| stadium      = [[Estadi Comunal d'Andorra la Vella|Estadi Comunal]], [[Andorra la Vella]]
+| attendance   = 650
+| referee      = Dani Koren ([[Israel Football Association|Israel]])
+| report       = [https://web.archive.org/web/20071114093851/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19599/report.html Report]
+}}
+
+{{Football box
+|id = Cyprus v Netherlands
+| date         = {{Start date|2000|10|7|df=y}}
+| time         = 20:30 [[UTC+03:00|UTC+3]]
+| team1        = {{fb-rt|CYP|1960}}
+| team2        = {{fb|NED}}
+| score        = 0–4
+| goals1       =
+| goals2       = [[Clarence Seedorf|Seedorf]] {{goal|69||78}}<br />[[Marc Overmars|Overmars]] {{goal|82}}<br />[[Patrick Kluivert|Kluivert]] {{goal|90}}
+| stadium      = [[GSP Stadium]], [[Nicosia]]
+| attendance   = 10,250
+| referee      = [[Graziano Cesari]] ([[Italian Football Federation|Italy]])
+| report       = [https://web.archive.org/web/20071126043428/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19598/report.html Report]
+}}
+
+{{Football box
+|id = Portugal v Republic of Ireland
+| date         = {{Start date|2000|10|7|df=y}}
+| time         = 21:00 [[UTC+01:00|UTC+1]]
+| team1        = {{fb-rt|POR}}
+| team2        = {{fb|IRL}}
+| score        = 1–1
+| goals1       = [[Sérgio Conceição|Conceição]] {{goal|57}}
+| goals2       = [[Matt Holland|Holland]] {{goal|73}}
+| stadium      = [[Estádio da Luz (1954)|Estádio da Luz]], [[Lisbon]]
+| attendance   = 43,500
+| referee      = [[Atanas Uzunov]] ([[Bulgarian Football Union|Bulgaria]])
+| report       = [https://web.archive.org/web/20071125070524/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19600/report.html Report]
+}}
+----
+{{Football box
+|id = Republic of Ireland v Estonia
+| date         = {{Start date|2000|10|11|df=y}}
+| time         = 19:30 [[UTC+01:00|UTC+1]]
+| team1        = {{fb-rt|IRL}}
+| team2        = {{fb|EST}}
+| score        = 2–0
+| goals1       = [[Mark Kinsella|Kinsella]] {{goal|25}}<br />[[Richard Dunne|Dunne]] {{goal|51}}
+| goals2       =
+| stadium      = [[Lansdowne Road]], [[Dublin]]
+| attendance   = 34,962
+| referee      = [[Terje Hauge]] ([[Football Association of Norway|Norway]])
+| report       = [https://web.archive.org/web/20071126043433/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19602/report.html Report]
+}}
+
+{{Football box
+|id = Netherlands v Portugal
+| date         = {{Start date|2000|10|11|df=y}}
+| time         = 20:30 [[UTC+02:00|UTC+2]]
+| team1        = {{fb-rt|NED}}
+| team2        = {{fb|POR}}
+| score        = 0–2
+| goals1       =
+| goals2       = [[Sérgio Conceição|Conceição]] {{goal|11}}<br />[[Pauleta]] {{goal|44}}
+| stadium      = [[De Kuip]], [[Rotterdam]]
+| attendance   = 44,620
+| referee      = [[Graham Poll]] ([[The Football Association|England]])
+| report       = [https://web.archive.org/web/20071125070530/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19601/report.html Report]
+}}
+----
+{{Football box
+|id = Cyprus v Andorra
+| date         = {{Start date|2000|11|15|df=y}}
+| time         = 19:00 [[UTC+02:00|UTC+2]]
+| team1        = {{fb-rt|CYP|1960}}
+| team2        = {{fb|AND}}
+| score        = 5–0
+| goals1       = [[Ioannis Okkas|Okkas]] {{goal|10||18}}<br />[[Marios Agathokleous|Agathokleous]] {{goal|43}}<br />[[Marios Christodoulou|Christodoulou]] {{goal|73}}<br />[[Milenko Špoljarić|Špoljarić]] {{goal|90|pen.}}
+| goals2       = 
+| stadium      = [[Tsirion Stadium]], [[Limassol]]
+| attendance   = 1,193
+| referee      = Sten Johanzon ([[Swedish Football Association|Sweden]])
+| report       = [https://web.archive.org/web/20071126044743/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19790/report.html Report]
+}}
+----
+{{Football box
+|id = Portugal v Andorra
+| date         = {{Start date|2001|2|28|df=y}}
+| time         = 21:00 [[UTC+01:00|UTC]]
+| team1        = {{fb-rt|POR}}
+| team2        = {{fb|AND}}
+| score        = 3–0
+| goals1       = [[Luís Figo|Figo]] {{goal|1||49}}<br />[[Pauleta]] {{goal|36}}
+| goals2       =
+| stadium      = [[Estádio dos Barreiros]], [[Funchal]]
+| attendance   = 9,000
+| referee      = [[Paul Allaerts]] ([[Royal Belgian Football Association|Belgium]])
+| report       = [https://web.archive.org/web/20071125070601/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19791/report.html Report]
+}}
+----
+{{Football box
+|id = Cyprus v Republic of Ireland
+| date         = {{Start date|2001|3|24|df=y}}
+| time         = 20:00 [[UTC+02:00|UTC+2]]
+| team1        = {{fb-rt|CYP|1960}}
+| team2        = {{fb|IRL}}
+| score        = 0–4
+| goals1       =
+| goals2       = [[Roy Keane]] {{goal|32||88}}<br />[[Ian Harte|Harte]] {{goal|42|pen.}}<br />[[Gary Kelly (footballer born 1974)|G. Kelly]] {{goal|80}}
+| stadium      = [[GSP Stadium]], [[Nicosia]]
+| attendance   = 8,854
+| referee      = [[Frank De Bleeckere]] ([[Royal Belgian Football Association|Belgium]])
+| report       = [https://web.archive.org/web/20071126043438/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19603/report.html Report]
+}}
+
+{{Football box
+|id = Andorra v Netherlands
+| date         = {{Start date|2001|3|24|df=y}}
+| time         = 20:30 [[UTC+01:00|UTC+1]]
+| team1        = {{fb-rt|AND}}
+| team2        = {{fb|NED}}
+| score        = 0–5
+| goals1       =
+| goals2       = [[Patrick Kluivert|Kluivert]] {{goal|9}}<br />[[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|36}}<br />[[Pierre van Hooijdonk|Van Hooijdonk]] {{goal|61||70}}<br />[[Mark van Bommel|Van Bommel]] {{goal|84}}
+| stadium      = [[Mini Estadi]], [[Barcelona]]
+| attendance   = 3,823
+| referee      = Edo Trivković ([[Croatian Football Federation|Croatia]])
+| report       = [https://web.archive.org/web/20071126043443/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19604/report.html Report]
+}}
+----
+{{Football box
+|id = Andorra v Republic of Ireland
+| date         = {{Start date|2001|3|28|df=y}}
+| time         = 18:30 [[UTC+01:00|UTC+2]]
+| team1        = {{fb-rt|AND}}
+| team2        = {{fb|IRL}}
+| score        = 0–3
+| goals1       =
+| goals2       = [[Ian Harte|Harte]] {{goal|33|pen.}}<br />[[Kevin Kilbane|Kilbane]] {{goal|76}}<br />[[Matt Holland|Holland]] {{goal|80}}
+| stadium      = [[Mini Estadi]], [[Barcelona]]
+| attendance   = 5,000
+| referee      = Ihor Ishchenko ([[Football Federation of Ukraine|Ukraine]])
+| report       = [https://web.archive.org/web/20071126043453/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19607/report.html Report]
+}}
+
+{{Football box
+|id = Cyprus v Estonia
+| date         = {{Start date|2001|3|28|df=y}}
+| time         = 19:00 [[UTC+03:00|UTC+3]]
+| team1        = {{fb-rt|CYP|1960}}
+| team2        = {{fb|EST}}
+| score        = 2–2
+| goals1       = [[Michalis Konstantinou|Konstantinou]] {{goal|47}}<br />[[Ioannis Okkas|Okkas]] {{goal|64}}
+| goals2       = [[Marko Kristal|Kristal]] {{goal|76}}<br />[[Raio Piiroja|Piiroja]] {{goal|78}}
+| stadium      = [[Tsirion Stadium]], [[Limassol]]
+| attendance   = 3,000
+| referee      = Tomasz Mikulski ([[Polish Football Association|Poland]])
+| report       = [https://web.archive.org/web/20071126043448/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19606/report.html Report]
+}}
+
+{{Football box
+|id = Portugal v Netherlands
+| date         = {{Start date|2001|3|28|df=y}}
+| time         = 21:00 [[UTC+01:00|UTC+1]]
+| team1        = {{fb-rt|POR}}
+| team2        = {{fb|NED}}
+| score        = 2–2
+| goals1       = [[Pauleta]] {{goal|83}}<br />[[Luís Figo|Figo]] {{goal|90+1|pen.}}
+| goals2       = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|18|pen.}}<br />[[Patrick Kluivert|Kluivert]] {{goal|48}}
+| stadium      = [[Estádio das Antas]], [[Porto]]
+| attendance   = 42,164
+| referee      = [[Urs Meier]] ([[Swiss Football Association|Switzerland]])
+| report       = [https://web.archive.org/web/20071125070535/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19605/report.html Report]
+}}
+----
+{{Football box
+|id = Republic of Ireland v Andorra
+| date         = {{Start date|2001|4|25|df=y}}
+| time         = 19:00 [[UTC+01:00|UTC+1]]
+| team1        = {{fb-rt|IRL}}
+| team2        = {{fb|AND}}
+| score        = 3–1
+| goals1       = [[Kevin Kilbane|Kilbane]] {{goal|33}}<br />[[Mark Kinsella|Kinsella]] {{goal|36}}<br />[[Gary Breen|Breen]] {{goal|73}}
+| goals2       = [[Ildefons Lima|Lima]] {{goal|31}}
+| stadium      = [[Lansdowne Road]], [[Dublin]]
+| attendance   = 35,000
+| referee      = [[Kristinn Jakobsson]] ([[Football Association of Iceland|Iceland]])
+| report       = [https://web.archive.org/web/20071126044753/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19793/report.html Report]
+}}
+
+{{Football box
+|id = Netherlands v Cyprus
+| date         = {{Start date|2001|4|25|df=y}}
+| time         = 20:30 [[UTC+02:00|UTC+2]]
+| team1        = {{fb-rt|NED}}
+| team2        = {{fb|CYP|1960}}
+| score        = 4–0
+| goals1       = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|29}}<br />[[Marc Overmars|Overmars]] {{goal|35}}<br />[[Patrick Kluivert|Kluivert]] {{goal|44}}<br />[[Ruud van Nistelrooy|Van Nistelrooy]] {{goal|81}}
+| goals2       =
+| stadium      = [[Philips Stadion]], [[Eindhoven]]
+| attendance   = 31,000
+| referee      = [[Yuri Baskakov]] ([[Russian Football Union|Russia]])
+| report       = [https://web.archive.org/web/20071126044748/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19792/report.html Report]
+}}
+----
+{{Football box
+|id = Republic of Ireland v Portugal
+| date         = {{Start date|2001|6|2|df=y}}
+| time         = 15:00 [[UTC+01:00|UTC+1]]
+| team1        = {{fb-rt|IRL}}
+| team2        = {{fb|POR}}
+| score        = 1–1
+| goals1       = [[Roy Keane]] {{goal|68}}
+| goals2       = [[Luís Figo|Figo]] {{goal|78}}
+| stadium      = [[Lansdowne Road]], [[Dublin]]
+| attendance   = 35,000
+| referee      = [[Knud Erik Fisker]] ([[Danish Football Association|Denmark]])
+| report       = [https://web.archive.org/web/20071125070540/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19609/report.html Report]
+}}
+
+{{Football box
+|id = Estonia v Netherlands
+| date         = {{Start date|2001|6|2|df=y}}
+| time         = 15:00 [[UTC+03:00|UTC+3]]
+| team1        = {{fb-rt|EST}}
+| team2        = {{fb|NED}}
+| score        = 2–4
+| goals1       = [[Andres Oper|Oper]] {{goal|65}}<br />[[Indrek Zelinski|Zelinski]] {{goal|76}}
+| goals2       = [[Raio Piiroja|Piiroja]] {{goal|68|o.g.}}<br />[[Ruud van Nistelrooy|Van Nistelrooy]] {{goal|83||90}}<br />[[Patrick Kluivert|Kluivert]] {{goal|90}}
+| stadium      = [[Lilleküla Stadium]], [[Tallinn]]
+| attendance   = 9,323
+| referee      = Ceri Richards ([[Football Association of Wales|Wales]])
+| report       = [https://web.archive.org/web/20071126043458/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19608/report.html Report]
+}}
+----
+{{Football box
+|id = Estonia v Republic of Ireland
+| date         = {{Start date|2001|6|6|df=y}}
+| time         = 18:00 [[UTC+03:00|UTC+3]]
+| team1        = {{fb-rt|EST}}
+| team2        = {{fb|IRL}}
+| score        = 0–2
+| goals1       =
+| goals2       = [[Richard Dunne|Dunne]] {{goal|8}}<br />[[Matt Holland|Holland]] {{goal|38}}
+| stadium      = [[Lilleküla Stadium]], [[Tallinn]]
+| attendance   = 8,000
+| referee      = Marian Salomir ([[Romanian Football Federation|Romania]])
+| report       = [https://web.archive.org/web/20071126043508/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19611/report.html Report]
+}}
+
+{{Football box
+|id = Portugal v Cyprus
+| date         = {{Start date|2001|6|6|df=y}}
+| time         = 21:00 [[UTC+01:00|UTC+1]]
+| team1        = {{fb-rt|POR}}
+| team2        = {{fb|CYP|1960}}
+| score        = 6–0
+| goals1       = [[Pauleta]] {{goal|36||70}}<br />[[Pedro Barbosa|Barbosa]] {{goal|55||60}}<br />[[João Vieira Pinto|João Pinto]] {{goal|76||81}}
+| goals2       =
+| stadium      = [[Estádio José Alvalade (1956)|Estádio José Alvalade]], [[Lisbon]]
+| attendance   = 34,500
+| referee      = [[Stefano Farina]] ([[Italian Football Federation|Italy]])
+| report       = [https://web.archive.org/web/20071126043503/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19610/report.html Report]
+}}
+----
+{{Football box
+|id = Estonia v Cyprus
+| date         = {{Start date|2001|8|15|df=y}}
+| time         = 21:00 [[UTC+03:00|UTC+3]]
+| team1        = {{fb-rt|EST}}
+| team2        = {{fb|CYP|1960}}
+| score        = 2–2
+| goals1       = [[Indrek Zelinski|Zelinski]] {{goal|51}}<br />[[Jevgeni Novikov|Novikov]] {{goal|86}}
+| goals2       = [[Michalis Konstantinou|Konstantinou]] {{goal|39||69}}
+| stadium      = [[Lilleküla Stadium]], [[Tallinn]]
+| attendance   = 5,000
+| referee      = Oleg Chikun ([[Football Federation of Belarus|Belarus]])
+| report       = [https://web.archive.org/web/20071126044758/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19794/report.html Report]
+}}
+----
+{{Football box
+|id = Republic of Ireland v Netherlands
+| date         = {{Start date|2001|9|1|df=y}}
+| time         = 15:00 [[UTC+01:00|UTC+1]]
+| team1        = {{fb-rt|IRL}}
+| team2        = {{fb|NED}}
+| score        = 1–0
+| goals1       = [[Jason McAteer|McAteer]] {{goal|68}}
+| goals2       =
+| stadium      = [[Lansdowne Road]], [[Dublin]]
+| attendance   = 35,400
+| referee      = [[Hellmut Krug]] ([[German Football Association|Germany]])
+| report       = [https://web.archive.org/web/20071126043513/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19612/report.html Report]
+}}
+
+{{Football box
+|id = Andorra v Portugal
+| date         = {{Start date|2001|9|1|df=y}}
+| time         = 22:00 [[UTC+02:00|UTC+2]]
+| team1        = {{fb-rt|AND}}
+| team2        = {{fb|POR}}
+| score        = 1–7
+| goals1       = [[Roberto Jonas|Jonas]] {{goal|42}}
+| goals2       = [[Nuno Gomes]] {{goal|36||40||45||90}}<br />[[Pauleta]] {{goal|39}}<br />[[Rui Jorge]] {{goal|45}}<br />[[Sérgio Conceição|Conceição]] {{goal|58}}
+| stadium      = [[Camp d'Esports]], [[Lleida]]
+| attendance   = 4,876
+| referee      = [[Terje Hauge]] ([[Football Association of Norway|Norway]])
+| report       = [https://web.archive.org/web/20071125070545/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19613/report.html Report]
+}}
+----
+{{Football box
+|id = Netherlands v Estonia
+| date         = {{Start date|2001|9|5|df=y}}
+| time         = 20:30 [[UTC+02:00|UTC+2]]
+| team1        = {{fb-rt|NED}}
+| team2        = {{fb|EST}}
+| score        = 5–0
+| goals1       = [[Boudewijn Zenden|Zenden]] {{goal|16}}<br />[[Mark van Bommel|Van Bommel]] {{goal|26||39}}<br />[[Phillip Cocu|Cocu]] {{goal|32}}<br />[[Ruud van Nistelrooy|Van Nistelrooy]] {{goal|43}}
+| goals2       =
+| stadium      = [[Philips Stadion]], [[Eindhoven]]
+| attendance   = 28,500
+| referee      = [[Kyros Vassaras]] ([[Hellenic Football Federation|Greece]])
+| report       = [https://web.archive.org/web/20071126043518/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19614/report.html Report]
+}}
+
+{{Football box
+|id = Cyprus v Portugal
+| date         = {{Start date|2001|9|5|df=y}}
+| time         = 20:30 [[UTC+03:00|UTC+3]]
+| team1        = {{fb-rt|CYP|1960}}
+| team2        = {{fb|POR}}
+| score        = 1–3
+| goals1       = [[Michalis Konstantinou|Konstantinou]] {{goal|25}}
+| goals2       = [[Nuno Gomes]] {{goal|48}}<br />[[Pauleta]] {{goal|64}}<br />[[Sérgio Conceição|Conceição]] {{goal|71}}
+| stadium      = [[Antonis Papadopoulos Stadium]], [[Larnaca]]
+| attendance   = 2,878
+| referee      = [[Karl-Erik Nilsson (referee)|Karl-Erik Nilsson]] ([[Swedish Football Association|Sweden]])
+| report       = [https://web.archive.org/web/20071125070550/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19615/report.html Report]
+}}
+----
+{{Football box
+|id = Portugal v Estonia
+| date         = {{Start date|2001|10|6|df=y}}
+| time         = 18:00 [[UTC+01:00|UTC+1]]
+| team1        = {{fb-rt|POR}}
+| team2        = {{fb|EST}}
+| score        = 5–0
+| goals1       = [[João Vieira Pinto|João Pinto]] {{goal|30}}<br />[[Nuno Gomes]] {{goal|50||65}}<br />[[Pauleta]] {{goal|59}}<br />[[Luís Figo|Figo]] {{goal|80}}
+| goals2       =
+| stadium      = [[Estádio da Luz (1954)|Estádio da Luz]], [[Lisbon]]
+| attendance   = 77,000
+| referee      = [[Hartmut Strampe]] ([[German Football Association|Germany]])
+| report       = [https://web.archive.org/web/20071125070555/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19616/report.html Report]
+}}
+
+{{Football box
+|id = Republic of Ireland v Cyprus
+| date         = {{Start date|2001|10|6|df=y}}
+| time         = 18:00 [[UTC+01:00|UTC+1]]
+| team1        = {{fb-rt|IRL}}
+| team2        = {{fb|CYP|1960}}
+| score        = 4–0
+| goals1       = [[Ian Harte|Harte]] {{goal|3}}<br />[[Niall Quinn|Quinn]] {{goal|11}}<br />[[David Connolly|Connolly]] {{goal|63}}<br />[[Roy Keane]] {{goal|67}}
+| goals2       =
+| stadium      = [[Lansdowne Road]], [[Dublin]]
+| attendance   = 35,000
+| referee      = Juan Ansuátegui Roca ([[Royal Spanish Football Federation|Spain]])
+| report       = [https://web.archive.org/web/20071126043523/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19617/report.html Report]
+}}
+
+{{Football box
+|id = Netherlands v Andorra
+| date         = {{Start date|2001|10|6|df=y}}
+| time         = 20:30 [[UTC+02:00|UTC+2]]
+| team1        = {{fb-rt|NED}}
+| team2        = {{fb|AND}}
+| score        = 4–0
+| goals1       = [[Pierre van Hooijdonk|Van Hooijdonk]] {{goal|3|pen.}}<br />[[Clarence Seedorf|Seedorf]] {{goal|45}}<br />[[Ruud van Nistelrooy|Van Nistelrooy]] {{goal|53||89}}
+| goals2       =
+| stadium      = [[GelreDome]], [[Arnhem]]
+| attendance   = 20,000
+| referee      = Orhan Erdemir ([[Turkish Football Federation|Turkey]])
+| report       = [https://web.archive.org/web/20071126043528/http://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3835/matches/match=19618/report.html Report]
+}}
+
+==Goalscorers==
+{{Goalscorers
+|goals=114 |matches=30
+
+|8 goals=
+*{{flagicon|POR}} [[Pauleta]]
+
+|7 goals=
+*{{flagicon|POR}} [[Nuno Gomes]]
+
+|6 goals=
+*{{flagicon|CYP}} [[Michalis Konstantinou]]
+*{{flagicon|NED}} [[Ruud Van Nistelrooy]]
+*{{flagicon|POR}} [[Luís Figo]]
+
+|5 goals=
+*{{flagicon|NED}} [[Patrick Kluivert]]
+
+|4 goals=
+*{{flagicon|IRL}} [[Roy Keane]]
+*{{flagicon|POR}} [[Sérgio Conceição]]
+
+|3 goals=
+*{{flagicon|CYP}} [[Ioannis Okkas]]
+*{{flagicon|EST}} [[Andres Oper]]
+*{{flagicon|IRL}} [[Ian Harte]]
+*{{flagicon|IRL}} [[Matt Holland]]
+*{{flagicon|NED}} [[Jimmy Floyd Hasselbaink]]
+*{{flagicon|NED}} [[Clarence Seedorf]]
+*{{flagicon|NED}} [[Mark Van Bommel]]
+*{{flagicon|NED}} [[Pierre Van Hooijdonk]]
+*{{flagicon|POR}} [[João Vieira Pinto]]
+
+|2 goals=
+*{{flagicon|AND}} [[Ildefons Lima]]
+*{{flagicon|CYP}} [[Marios Agathokleous]]
+*{{flagicon|EST}} [[Martin Reim]]
+*{{flagicon|EST}} [[Indrek Zelinski]]
+*{{flagicon|IRL}} [[Richard Dunne]]
+*{{flagicon|IRL}} [[Kevin Kilbane]]
+*{{flagicon|IRL}} [[Mark Kinsella]]
+*{{flagicon|IRL}} [[Jason McAteer]]
+*{{flagicon|NED}} [[Marc Overmars]]
+*{{flagicon|POR}} [[Pedro Barbosa]]
+
+|1 goal=
+*{{flagicon|AND}} [[Emiliano González Arqués]]
+*{{flagicon|AND}} [[Roberto Jonas]]
+*{{flagicon|AND}} [[Justo Ruiz]]
+*{{flagicon|CYP}} [[Marios Christodoulou]]
+*{{flagicon|CYP}} [[Milenko Špoljarić]]
+*{{flagicon|EST}} [[Marko Kristal]]
+*{{flagicon|EST}} [[Jevgeni Novikov]]
+*{{flagicon|EST}} [[Raio Piiroja]]
+*{{flagicon|IRL}} [[Gary Breen]]
+*{{flagicon|IRL}} [[David Connolly]]
+*{{flagicon|IRL}} [[Robbie Keane]]
+*{{flagicon|IRL}} [[Gary Kelly (footballer, born 1974)|Gary Kelly]]
+*{{flagicon|IRL}} [[Niall Quinn]]
+*{{flagicon|NED}} [[Phillip Cocu]]
+*{{flagicon|NED}} [[Jeffrey Talan]]
+*{{flagicon|NED}} [[Giovanni van Bronckhorst]]
+*{{flagicon|NED}} [[Boudewijn Zenden]]
+*{{flagicon|POR}} [[Rui Jorge]]
+*{{flagicon|POR}} [[Manuel Rui Costa]]
+*{{flagicon|POR}} [[Ricardo Sá Pinto]]
+
+|1 own goal=
+*{{flagicon|EST}} [[Raio Piiroja]] (against the Netherlands)
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.fifa.com/ FIFA official page]
+*[https://www.rsssf.org/tables/2002q.html RSSSF - 2002 World Cup Qualification]
+*[http://www.allworldcup.narod.ru/ Allworldcup]
+
+{{FIFA World Cup 2002 Qualifiers}}
+
+{{DEFAULTSORT:World}}
+[[Category:2002 FIFA World Cup qualification (UEFA)|2]]
+[[Category:2000–01 in Republic of Ireland association football]]
+[[Category:Republic of Ireland at the 2002 FIFA World Cup|Qual]]
+[[Category:2000 in Estonian football]]
+[[Category:2001 in Estonian football]]
+[[Category:2000–01 in Dutch football]]
+[[Category:2000–01 in Portuguese football]]
+[[Category:Portugal at the 2002 FIFA World Cup|qual]]
+[[Category:2000–01 in Cypriot football]]
+[[Category:2001–02 in Cypriot football]]
+[[Category:2000–01 in Andorran football]]
+[[Category:2001–02 in Andorran football]]

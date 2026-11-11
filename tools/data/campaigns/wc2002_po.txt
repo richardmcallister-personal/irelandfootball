@@ -1,0 +1,492 @@
+{{Use dmy dates|date=April 2022}}
+{{Infobox football match
+| title                   = 2002 FIFA World Cup qualification<br />([[UEFA]]–[[Asian Football Confederation|AFC]] play-off)
+| image                   =
+| event                   = [[2002 FIFA World Cup qualification]]
+| team1                   = [[Republic of Ireland national football team|Republic of Ireland]]
+| team1association        = {{flagicon|IRL|size=30px}}
+| team1score              = 2
+| team2                   = [[Iran national football team|Iran]]
+| team2association        = {{flagicon|IRN|size=30px}}
+| team2score              = 1
+| details                 = (on aggregate)
+| firstleg                = First leg
+| team1score1             = 2
+| team2score1             = 0
+| details1                =
+| date1                   = 10 November 2001
+| stadium1                = [[Lansdowne Road]]
+| city1                   = [[Dublin]]
+| referee1                = [[Antônio Pereira|Antonio Pereira da Silva]] ([[Brazilian Football Confederation|Brazil]])
+| attendance1             = 36,538
+| weather1                =
+| secondleg               = Second leg
+| team1score2             = 0
+| team2score2             = 1
+| details2                = 
+| date2                   = 15 November 2001
+| stadium2                = [[Azadi Stadium]]
+| city2                   = [[Tehran]]
+| referee2                = [[William Mattus|William Mattus Vega]] ([[Costa Rican Football Federation|Costa Rica]])
+| attendance2             = 100,000
+| weather2                =
+}}
+The '''[[2002 FIFA World Cup]] [[UEFA]]–[[Asian Football Confederation|AFC]] qualification play-off''' was a [[Two-legged tie|two-legged]] home-and-away tie between a group runner-up of the [[2002 FIFA World Cup qualification (UEFA)|European qualifying tournament]], the [[Republic of Ireland national football team|Republic of Ireland]], and the winners of the [[2002 FIFA World Cup qualification (AFC)#Play-off|AFC play-off]], [[Iran national football team|Iran]]. The games were played on 10 November and 15 November 2001 in [[Dublin]] and [[Tehran]], respectively.<ref>{{cite web |url=https://www.fifa.com/worldcup/archive/koreajapan2002/matches/preliminaries/index.html |archive-url=https://web.archive.org/web/20150406212406/http://www.fifa.com/worldcup/archive/koreajapan2002/matches/preliminaries/index.html |url-status=dead |archive-date=April 6, 2015 |title=2002 FIFA World Cup Korea/Japan - Qualifiers |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=10 October 2017}}</ref>
+
+Ireland beat Iran 2–0 in the first leg held in Dublin, while in the second leg, Iran defeated Ireland 1–0 in Tehran. The Irish side won the series 2–1 on [[goal difference|aggregate]], therefore qualifying to the World Cup.
+
+== Venues ==
+{{multiple image
+|align = left
+|direction = horizontal 
+|total_width = 450
+|perrow = 
+|header = 
+|image1 = Leinster2006.jpg 
+|image2 = 
+|footer = Lansdowne Road in Dublin (left) and Azadi Stadium in Tehran, venues for the series
+}}
+{{-}}
+
+==Background==
+{|  style="width:100%; text-align:center;"
+|-  style="vertical-align:top; background:#9cf;"
+!colspan=2 style="width:1*"|Republic of Ireland
+!Round
+!colspan=2 style="width:1*"|Iran
+|-
+| colspan="2" align="center"|
+{| class="wikitable" style="text-align: center;"
+|-
+! style="width:175px;"|Team
+!width="20"|{{Tooltip| Pld | Played}}
+!width="20"|{{Tooltip| W | Won}}
+!width="20"|{{Tooltip| D | Drawn}}
+!width="20"|{{Tooltip| L | Lost}}
+!width="20"|{{Tooltip| GF | Goals for}}
+!width="20"|{{Tooltip| GA | Goals against}}
+!width="20"|{{Tooltip| GD | Goal difference}}
+!width="20"|{{Tooltip| Pts | Points}}
+|- style="background:#ccffcc;"
+|style="text-align:left;"|{{fb|POR}}
+|10||7||3||0||33||7||26||'''24'''
+|- style="background:#ffebad;"
+|style="text-align:left;"|{{fb|IRL}}
+|10||7||3||0||23||5||18||'''24'''
+|-
+|style="text-align:left;"|{{fb|NED}}
+|10||6||2||2||30||9||21||'''20'''
+|-
+|style="text-align:left;"|{{fb|EST}}
+|10||2||2||6||10||26||-16||'''8'''
+|-
+|style="text-align:left;"|{{fb|CYP|1960}}
+|10||2||2||6||13||31||-18||'''8'''
+|-
+|style="text-align:left;"|{{fb|AND}}
+|10||0||0||10||5||36||-31||'''0'''
+|-
+|}
+| style="background:#c1e0ff;"|Final standings
+| colspan="2" align="center"|
+{| class="wikitable" style="text-align: center;"
+|-
+! style="width:175px;"|Team
+!width="20"|{{Tooltip| Pld | Played}}
+!width="20"|{{Tooltip| W | Won}}
+!width="20"|{{Tooltip| D | Drawn}}
+!width="20"|{{Tooltip| L | Lost}}
+!width="20"|{{Tooltip| GF | Goals for}}
+!width="20"|{{Tooltip| GA | Goals against}}
+!width="20"|{{Tooltip| GD | Goal difference}}
+!width="20"|{{Tooltip| Pts | Points}}
+|- style="background:#ccffcc;"
+|align="left"|{{fb|KSA}}
+|8||5||2||1||17||8||9||'''17'''
+|- bgcolor="#ffebad"
+|align="left"|{{fb|IRN}}
+|8||4||3||1||10||7||3||'''15'''
+|-
+|align="left"|{{fb|BHR}}
+|8||2||4||2||8||9||−1||'''10'''
+|-
+|align="left"|{{fb|IRQ|1991}}
+|8||2||1||5||9||10||−1||'''7'''
+|-
+|align="left"|{{fb|THA}}
+|8||0||4||4||5||15||−10||'''4'''
+|-
+|}
+|-  style="vertical-align:top; background:#c1e0ff;"
+|
+|
+|AFC play-off
+|Opponent
+|Result
+|-
+|
+|
+| style="background:#c1e0ff;"|1st leg
+|{{fb|UAE}} (H)
+|1–0
+|-
+|
+|
+| style="background:#c1e0ff;"|2nd leg
+|{{fb|UAE}} (A)
+|3–0
+|-
+|}
+
+==Match details==
+
+===First leg===
+{{football box
+| date         = 10 November 2001
+| event        = 
+| round        = First leg
+| time         = 20:10 [[UTC±0]]
+| team1        = {{fb-rt|IRL}}
+| score        = 2–0
+| aet          = 
+| report       = [https://web.archive.org/web/20120720121752/http://www.fifa.com/worldcup/archive/edition%3D4395/preliminaries/preliminary%3D8021/matches/match%3D24849/report.html (Report)]
+| team2        = {{fb|IRN}}
+| goals1       = [[Ian Harte|Harte]] {{goal|44}}<br />[[Robbie Keane]] {{goal|50}}
+| goals2       = 
+| stadium      = [[Lansdowne Road]], [[Dublin]]
+| attendance   = 36,538 
+| referee      = [[Antônio Pereira|Antonio Pereira da Silva]] ([[Brazilian Football Confederation|Brazil]])
+}}
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la            = _thinwhiteborder 
+| pattern_b             = _whitecollar
+| pattern_ra            = _thinwhiteborder
+| pattern_sh            = 
+| pattern_so            = _whitestripe
+| leftarm               = 00994A
+| body                  = 00994A
+| rightarm              = 00994A
+| shorts                = ffffff
+| socks                 = 00994A
+| title                 = Republic of Ireland
+}}
+{{col-2}}
+{{Football kit
+| pattern_la         = 
+| pattern_b          = 
+| pattern_ra         = 
+| pattern_sh         = 
+| pattern_so         = 
+| leftarm            = ff0000
+| body               = ff0000
+| rightarm           = ff0000
+| shorts             = ff0000
+| socks              = ff0000
+| title              = Iran
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Shay Given]]
+|-
+|CB ||'''6''' ||[[Roy Keane]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||[[Gary Breen]]
+|-
+|CB ||'''5''' ||[[Steve Staunton]] || || {{suboff|75}}
+|-
+|RWB ||'''2''' ||[[Steve Finnan]] || {{yel|85}}
+|-
+|LWB ||'''3''' ||[[Ian Harte]]
+|-
+|CM ||'''7''' ||[[Jason McAteer]] || || {{suboff|83}}
+|-
+|CM ||'''8''' ||[[Matt Holland]]
+|-
+|CM ||'''11'''||[[Kevin Kilbane]]
+|-
+|CF ||'''9''' ||[[Niall Quinn]]
+|-
+|CF ||'''10'''||[[Robbie Keane]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''16'''||[[Dean Kiely]]
+|-
+|DF ||'''12'''||[[Gary Kelly (footballer, born 1974)|Gary Kelly]] || || {{subon|83}}
+|-
+|DF ||'''13'''||[[Kenny Cunningham]] || || {{subon|75}}
+|-
+|MF ||'''15'''||[[Mark Kinsella]]
+|-
+|MF ||'''17'''||[[Lee Carsley]]
+|-
+|FW ||'''18'''||[[Clinton Morrison]]
+|-
+|FW ||'''14'''||[[David Connolly]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mick McCarthy]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Ebrahim Mirzapour]]
+|-
+|RB ||'''5''' ||[[Afshin Peyrovani]] || {{yel|19}}
+|-
+|CB ||'''15'''||[[Yahya Golmohammadi]] || {{yel|86}}
+|-
+|CB ||'''24'''||[[Rahman Rezaei]]
+|-
+|LB ||'''3''' ||[[Mehrdad Minavand]]
+|-
+|CM ||'''6''' ||[[Karim Bagheri]]
+|-
+|CM ||'''7''' ||[[Hamed Kavianpour]]
+|-
+|RW ||'''2''' ||[[Mehdi Mahdavikia]]
+|-
+|AM ||'''8''' ||[[Ali Karimi (footballer, born 1978)|Ali Karimi]]
+|-
+|LW ||'''11'''||[[Alireza Vahedi Nikbakht]] || || {{suboff|46}}
+|-
+|CF ||'''10'''||[[Ali Daei]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''9''' ||[[Sirous Dinmohammadi]]
+|-
+|MF ||'''13'''||[[Javad Nekounam]]
+|-
+|FW ||'''14'''||[[Mojahed Khaziravi]] || || {{subon|46}}
+|-
+|FW ||'''18'''||[[Ali Samereh]]
+|-
+|DF ||'''20'''||[[Behrouz Rahbarifar]]
+|-
+|FW ||'''21'''||[[Faraz Fatemi]]
+|-
+|GK ||'''22'''||[[Davoud Fanaei]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|CRO}} [[Miroslav Blažević]]
+|}
+{{col-end}}
+{| width=100% style="font-size: 90%"
+| width=50% valign=top|
+'''Assistant referees:'''
+<br />[[Jorge Oliveira]] ([[Brazilian Football Confederation|Brazil]])
+<br />Aristeu Tavares ([[Brazilian Football Confederation|Brazil]])
+<br />'''Fourth official:'''
+<br />[[Paulo César de Oliveira]] ([[Brazilian Football Confederation|Brazil]])
+| width=50% valign=top|
+'''Match rules'''
+*90 minutes
+*3 (of 7) [[Substitute (association football)|substitutions]] permitted
+|}
+----
+
+===Second leg===
+{{football box
+| date         = 15 November 2001
+| event        = 
+| round        = Second leg
+| time         = 21:10 [[UTC+3:30]]
+| team1        = {{fb-rt|IRN}}
+| score        = 1–0
+| aet          = 
+| report       = [https://web.archive.org/web/20120720055933/http://www.fifa.com/worldcup/archive/edition%3D4395/preliminaries/preliminary%3D8021/matches/match%3D24850/report.html (Report)]
+| team2        = {{fb|IRL}}
+| goals1       = [[Yahya Golmohammadi|Golmohammadi]] {{goal|90}}
+| goals2       = 
+| stadium      = [[Azadi Stadium]]
+| location     = [[Tehran]]
+| attendance   = 100,000
+| referee      = [[William Mattus|William Mattus Vega]] ([[Costa Rican Football Federation|Costa Rica]])
+}}
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = 
+| pattern_b            = 
+| pattern_ra           = 
+| pattern_sh           = 
+| pattern_so           = 
+| leftarm              = ffffff
+| body                 = ffffff
+| rightarm             = ffffff
+| shorts               = ffffff
+| socks                = ffffff
+| title                = Iran
+}}
+{{col-2}}
+{{Football kit
+| pattern_la           = _thinwhiteborder 
+| pattern_b            = _whitecollar
+| pattern_ra           = _thinwhiteborder
+| pattern_sh           = 
+| pattern_so           = _whitestripe
+| leftarm              = 00994A
+| body                 = 00994A
+| rightarm             = 00994A
+| shorts               = 00994A
+| socks                = 00994A
+| title                = Republic of Ireland
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Ebrahim Mirzapour]]
+|-
+|RB ||'''5''' ||[[Afshin Peyrovani]]
+|-
+|CB ||'''15'''||[[Yahya Golmohammadi]]
+|-
+|CB ||'''24'''||[[Rahman Rezaei]]
+|-
+|LB ||'''3''' ||[[Mehrdad Minavand]]
+|-
+|CM ||'''6''' ||[[Karim Bagheri]] || {{yel|85}}
+|-
+|CM ||'''7''' ||[[Hamed Kavianpour]]
+|-
+|RW ||'''2''' ||[[Mehdi Mahdavikia]] || {{yel|47}}
+|-
+|AM ||'''8''' ||[[Ali Karimi (footballer, born 1978)|Ali Karimi]]
+|-
+|LW ||'''11'''||[[Alireza Vahedi Nikbakht]]
+|-
+|CF ||'''10'''||[[Ali Daei]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''9''' ||[[Sirous Dinmohammadi]]
+|-
+|DF ||'''13'''||[[Javad Nekounam]]
+|-
+|MF ||'''14'''||[[Mojahed Khaziravi]]
+|-
+|MF ||'''17'''||[[Pejman Jamshidi]]
+|-
+|MF ||'''18'''||[[Ali Samereh]]
+|-
+|FW ||'''20'''||[[Behrouz Rahbarifar]]
+|-
+|GK ||'''22'''||[[Davoud Fanaei]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|CRO}} [[Miroslav Blažević]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Shay Given]]
+|-
+|CB ||'''6''' ||[[Mark Kinsella]]
+|-
+|CB ||'''4''' ||[[Gary Breen]]
+|-
+|CB ||'''5''' ||[[Steve Staunton]] ([[Captain (association football)|c]])
+|-
+|RWB ||'''2''' ||[[Steve Finnan]]
+|-
+|LWB ||'''3''' ||[[Ian Harte]]
+|-
+|CM ||'''7''' ||[[Jason McAteer]] || {{yel|84}}
+|-
+|CM ||'''8''' ||[[Matt Holland]]
+|-
+|CM ||'''11'''||[[Kevin Kilbane]] || || {{suboff|85}}
+|-
+|CF ||'''9''' ||[[David Connolly]]
+|-
+|CF ||'''10'''||[[Robbie Keane]] || {{yel|49}} || {{suboff|75}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''16'''||[[Alan Kelly Jr.]]
+|-
+|DF ||'''12'''||[[Gary Kelly (footballer, born 1974)|Gary Kelly]] || || {{subon|85}}
+|-
+|DF ||'''13'''||[[Kenny Cunningham]]
+|-
+|FW ||'''17'''||[[Niall Quinn]]
+|-
+|MF ||'''14'''||[[Lee Carsley]]
+|-
+|FW ||'''18'''||[[Clinton Morrison]] || || {{subon|75}}
+|-
+|DF ||'''15'''||[[Andy O'Brien (footballer)|Andy O'Brien]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|[[Mick McCarthy]]
+|}
+{{col-end}}
+{| width=100% style="font-size: 90%"
+| width=50% valign=top|
+'''Assistant referees:'''
+<br />Erick Mora ([[Costa Rican Football Federation|Costa Rica]])
+<br />Efraín Rodríguez ([[Costa Rican Football Federation|Costa Rica]])
+<br />'''Fourth official:'''
+<br />Olger Mejías Ovares ([[Costa Rican Football Federation|Costa Rica]])
+| width=50% valign=top|
+'''Match rules:'''
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra-time]] if necessary
+*Penalty shoot-out if scores still level:
+*3 (of 7) [[Substitute (football)|substitutions]] permitted
+|}
+
+==Aftermath==
+The elimination saw Iran manager [[Miroslav Blažević]] step down to be replaced by his assistant, [[Branko Ivanković]].
+
+The Republic of Ireland qualified to the [[2002 FIFA World Cup]] and were drawn into Group E with [[Germany national football team|Germany]], [[Cameroon national football team|Cameroon]] and [[Saudi Arabia national football team|Saudi Arabia]]. They drew with Cameroon and Germany with a score of 1–1 and in the final match, they won 3–0 against Saudi Arabia. This qualified them to the Round of 16 but they were eliminated by Spain on penalties (2–3) after the match ended in a 1–1 draw.
+
+==References==
+{{reflist}}
+
+{{2002 FIFA World Cup qualification}}
+{{Republic of Ireland national football team matches}}
+{{Iran national football team matches}}
+
+{{DEFAULTSORT:2002 FIFA World Cup qualification (UEFA-AFC play-off)}}
+[[Category:Men's international association football matches in Asia|FIFA]]
+[[Category:2001–02 in Iranian football|FIFA]]
+[[Category:2002 FIFA World Cup qualification|Play-off UEFA-AFC]]
+[[Category:2002 FIFA World Cup qualification (inter-confederation play-offs)|UEFA–AFC]]
+[[Category:Republic of Ireland national football team matches]]
+[[Category:Iran national football team matches]]
+[[Category:Republic of Ireland at the 2002 FIFA World Cup|qual]]
+[[Category:November 2001 sports events in Europe]]
+[[Category:November 2001 sports events in Asia]]
+[[Category:2000s in Dublin (city)]]
+[[Category:2000s in Tehran]]
+[[Category:International sports competitions in Dublin (city)|Football]]
+[[Category:Sports competitions in Tehran]]
+[[Category:International association football competitions hosted by the Republic of Ireland]]
+[[Category:International association football competitions hosted by Iran]]
+[[Category:Iran–Ireland relations|2002]]
+[[Category:Football in Tehran]]
+[[Category:Football matches in Iran]]
+[[Category:Men's international association football matches in Europe]]
+[[Category:Association football matches in the Republic of Ireland]]
+[[Category:Association football in Dublin (city)]]

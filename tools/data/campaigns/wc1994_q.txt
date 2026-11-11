@@ -1,0 +1,752 @@
+{{Short description|International football competition}}
+{{Use dmy dates|date=June 2018}}
+{{further|topic=1994 FIFA World Cup qualification|1994 FIFA World Cup qualification (UEFA)}}
+The qualification matches for '''Group 3''' of the '''[[UEFA|European zone]] (UEFA)''' of the '''[[1994 FIFA World Cup]] [[FIFA World Cup qualification|qualification tournament]]''' took place between April 1992 and November 1993. The teams competed on a home-and-away basis with the winner and runner-up claiming 2 of the 12 spots in [[1994 FIFA World Cup|the final tournament]] allocated to the European zone. The group consisted of [[Albania national football team|Albania]], [[Denmark national football team|Denmark]], [[Latvia national football team|Latvia]], [[Lithuania national football team|Lithuania]], [[Northern Ireland national football team|Northern Ireland]], the [[Republic of Ireland national football team|Republic of Ireland]] and [[Spain national football team|Spain]].<ref>Only 37 of the entered teams actually competed in the qualification tournament: [[Germany national football team|Germany]] qualified for [[1994 FIFA World Cup|the World Cup]] automatically as defending champions and [[Liechtenstein national football team|Liechtenstein]] withdrew before the draw was made Additionally, [[Yugoslavia national football team|Yugoslavia]] was suspended by [[FIFA]] due to [[United Nations|UN]] sanctions stemming from [[Yugoslav wars|the Yugoslav wars]].</ref>
+
+One of the most notable topics of the group was the Republic of Ireland and Northern Ireland being in the same group ('[[The Troubles]]' were still ongoing). The Republic would clinch qualification in the final round of games by drawing away to their northern rivals, while Spain's 1–0 win over Denmark meant they qualified as winners.<ref>[https://www.irishtimes.com/sport/soccer/international/there-was-poison-in-the-air-25-years-on-from-that-night-in-windsor-park-1.3690897 'There was poison in the air': 25 years on from that night in Windsor Park], [[Irish Times]], 10 November 2018</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+
+|team1=ESP|name_ESP={{fb|ESP}}
+|team2=IRL|name_IRL={{fb|IRL}}
+|team3=DEN|name_DEN={{fb|DEN}}
+|team4=NIR|name_NIR={{fb|NIR}}
+|team5=LTU|name_LTU={{fb|LTU|1988}}
+|team6=LVA|name_LVA={{fb|LVA}}
+|team7=ALB|name_ALB={{fb|ALB}}
+|win_ESP=8|draw_ESP=3|loss_ESP=1|gf_ESP=27|ga_ESP=4
+|win_IRL=7|draw_IRL=4|loss_IRL=1|gf_IRL=19|ga_IRL=6
+|win_DEN=7|draw_DEN=4|loss_DEN=1|gf_DEN=15|ga_DEN=2
+|win_NIR=5|draw_NIR=3|loss_NIR=4|gf_NIR=14|ga_NIR=13
+|win_LTU=2|draw_LTU=3|loss_LTU=7|gf_LTU=8|ga_LTU=21
+|win_LVA=0|draw_LVA=5|loss_LVA=7|gf_LVA=4|ga_LVA=21
+|win_ALB=1|draw_ALB=2|loss_ALB=9|gf_ALB=6|ga_ALB=26
+
+|result1=WC |result2=WC
+|col_WC=green1  |text_WC=Qualification to {{nowrap|[[1994 FIFA World Cup]]}}
+
+|show_matches=y
+|short_style=flag
+
+|match_ESP_IRL=[[#Spain v Republic of Ireland|0-0]]
+|match_ESP_DEN=[[#Spain v Denmark|1-0]]
+|match_ESP_NIR=[[#Spain v Northern Ireland|3-1]]
+|match_ESP_LTU=[[#Spain v Lithuania|5-0]]
+|match_ESP_LVA=[[#Spain v Latvia|5-0]]
+|match_ESP_ALB=[[#Spain v Albania|3-0]]
+
+|match_IRL_ESP=[[#Republic of Ireland v Spain|1-3]]
+|match_IRL_DEN=[[#Republic of Ireland v Denmark|1-1]]
+|match_IRL_NIR=[[#Republic of Ireland v Northern Ireland|3-0]]
+|match_IRL_LTU=[[#Republic of Ireland v Lithuania|2-0]]
+|match_IRL_LVA=[[#Republic of Ireland v Latvia|4-0]]
+|match_IRL_ALB=[[#Republic of Ireland v Albania|2-0]]
+
+|match_DEN_ESP=[[#Denmark v Spain|1-0]]
+|match_DEN_IRL=[[#Denmark v Republic of Ireland|0-0]]
+|match_DEN_NIR=[[#Denmark v Northern Ireland|1-0]]
+|match_DEN_LTU=[[#Denmark v Lithuania|4-0]]
+|match_DEN_LVA=[[#Denmark v Latvia|2-0]]
+|match_DEN_ALB=[[#Denmark v Albania|4-0]]
+
+|match_NIR_ESP=[[#Northern Ireland v Spain|0-0]]
+|match_NIR_IRL=[[#Northern Ireland v Republic of Ireland|1-1]]
+|match_NIR_DEN=[[#Northern Ireland v Denmark|0-1]]
+|match_NIR_LTU=[[#Northern Ireland v Lithuania|2-2]]
+|match_NIR_LVA=[[#Northern Ireland v Latvia|2-0]]
+|match_NIR_ALB=[[#Northern Ireland v Albania|3-0]]
+
+|match_LTU_ESP=[[#Lithuania v Spain|0-2]]
+|match_LTU_IRL=[[#Lithuania v Republic of Ireland|0-1]]
+|match_LTU_DEN=[[#Lithuania v Denmark|0-0]]
+|match_LTU_NIR=[[#Lithuania v Northern Ireland|0-1]]
+|match_LTU_LVA=[[#Lithuania v Latvia|1-1]]
+|match_LTU_ALB=[[#Lithuania v Albania|3-1]]
+
+|match_LVA_ESP=[[#Latvia v Spain|0-0]]
+|match_LVA_IRL=[[#Latvia v Republic of Ireland|0-2]]
+|match_LVA_DEN=[[#Latvia v Denmark|0-0]]
+|match_LVA_NIR=[[#Latvia v Northern Ireland|1-2]]
+|match_LVA_LTU=[[#Latvia v Lithuania|1-2]]
+|match_LVA_ALB=[[#Latvia v Albania|0-0]]
+
+|match_ALB_ESP=[[#Albania v Spain|1-5]]
+|match_ALB_IRL=[[#Albania v Republic of Ireland|1-2]]
+|match_ALB_DEN=[[#Albania v Denmark|0-1]]
+|match_ALB_NIR=[[#Albania v Northern Ireland|1-2]]
+|match_ALB_LTU=[[#Albania v Lithuania|1-0]]
+|match_ALB_LVA=[[#Albania v Latvia|1-1]]
+
+|winpoints=2
+|drawpoints=1
+|losspoints=0
+
+|update=complete|source=<ref name="RSSSF 94qual">{{cite web |last1=Stokkermans |first1=Karel |last2=Henrique Jarreta |first2=Sergio |title=World Cup 1994 Qualifying |url=https://www.rsssf.org/tables/94q.html |publisher=[[RSSSF]] |date=30 December 2019 |access-date=18 June 2024}}</ref><!-- this reference is used in many other files and will cause an error unless changed in all those files -->
+}}</onlyinclude>
+
+=== Results===
+{{football box
+|id = Spain v Albania
+|date=22 April 1992
+|team1={{fb-rt|ESP}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/ESPVSALB.HTM Report]
+|score=3–0
+|team2={{fb|ALB}}
+|goals1=[[Míchel (footballer, born 1963)|Míchel]] {{goal|2||66|pen.}}<br />[[Fernando Hierro|Hierro]] {{goal|87}}
+|stadium=[[Estadio Benito Villamarín|Benito Villamarín]], [[Seville]]
+|attendance=10,000
+|referee=[[Serge Muhmenthaler]] ([[Swiss Football Association|Switzerland]])
+}}
+
+{{football box
+|id = Northern Ireland v Lithuania
+|date=28 April 1992
+|team1={{fb-rt|NIR}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/NIRVSLTU.HTM Report]
+|score=2–2
+|team2={{fb|LTU|1988}}
+|goals1=[[Kevin Wilson (footballer, born 1961)|Wilson]] {{goal|13}}<br />[[Gerry Taggart|Taggart]] {{goal|16}}
+|goals2=[[Arminas Narbekovas|Narbekovas]] {{goal|41}}<br />[[Robertas Fridrikas|Fridrikas]] {{goal|48}}
+|stadium=[[Windsor Park]], [[Belfast]]
+|attendance=4,500
+|referee=[[Rune Pedersen (referee)|Rune Pedersen]] ([[Football Association of Norway|Norway]])
+}}
+---- 
+{{football box
+|id = Republic of Ireland v Albania
+|date=26 May 1992
+|team1={{fb-rt|IRL}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/IRLVSALB.HTM Report]
+|score=2–0
+|team2={{fb|ALB}}
+|goals1=[[John Aldridge|Aldridge]] {{goal|60}}<br />[[Paul McGrath (footballer)|McGrath]] {{goal|80}}
+|stadium=[[Lansdowne Road]], [[Dublin]]
+|attendance=29,727
+|referee=[[Jaap Uilenberg]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+---- 
+{{football box
+|id = Albania v Lithuania
+|date=3 June 1992
+|team1={{fb-rt|ALB|1992}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/ALBVSLTU.HTM Report]
+|score=1–0
+|team2={{fb|LTU|1988}}
+|goals1=[[Edmond Abazi|Abazi]] {{goal|77}}
+|stadium=[[Stadiumi Qemal Stafa]], [[Tirana]]
+|attendance=12,000
+|referee=[[Octavian Streng]] ([[Romanian Football Federation|Romania]])
+}}
+---- 
+{{football box
+|id = Latvia v Lithuania
+|date=12 August 1992
+|team1={{fb-rt|LVA}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/LVAVSLTU.HTM Report]
+|score=1–2
+|team2={{fb|LTU|1988}}
+|goals1=[[Ainārs Linards|Linards]] {{goal|15}}
+|goals2=[[Eimantas Poderis|Poderis]] {{goal|66}}<br />[[Andrėjus Tereškinas|Tereškinas]] {{goal|85}}
+|stadium=[[Daugava Stadium (Riga)|Daugava Stadium]], [[Riga]]
+|attendance=6,897
+|referee=[[Jozef Marko (referee)|Jozef Marko]] ([[Czechoslovak Football Association|Czechoslovakia]])
+}}
+---- 
+{{football box
+|id = Latvia v Denmark
+|date=26 August 1992
+|team1={{fb-rt|LVA}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/LVAVSDEN.HTM Report]
+|score=0–0
+|team2={{fb|DEN}}
+|stadium=[[Daugava Stadium (Riga)|Daugava Stadium]], [[Riga]]
+|attendance=8,124
+|referee=[[Alfred Wieser]] ([[Austrian Football Association|Austria]])
+}}
+---- 
+{{football box
+|id = Republic of Ireland v Latvia
+|date=9 September 1992
+|time=
+|team1={{fb-rt|IRL}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/IRLVSLVA.HTM Report]
+|score=4–0
+|team2={{fb|LVA}}
+|goals1=[[Kevin Sheedy (Irish footballer)|Sheedy]] {{goal|30}}<br />[[John Aldridge|Aldridge]] {{goal|59||82|pen.|86}}
+|goals2=
+|stadium=[[Lansdowne Road]], [[Dublin]]
+|attendance=32,000
+|referee=[[Anders Frisk]] ([[Swedish Football Association|Sweden]])
+}}
+
+{{football box
+|id = Northern Ireland v Albania
+|date=9 September 1992
+|team1={{fb-rt|NIR}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/NIRVSALB.HTM Report]
+|score=3–0
+|team2={{fb|ALB|1992}}
+|goals1=[[Colin Clarke (footballer, born 1962)|Clarke]] {{goal|14}}<br />[[Kevin Wilson (footballer, born 1961)|Wilson]] {{goal|31}}<br />[[Jim Magilton|Magilton]] {{goal|44}}
+|stadium=[[Windsor Park]], [[Belfast]]
+|attendance=4,756
+|referee=[[Marnix Sandra]] ([[Royal Belgian Football Association|Belgium]])
+}}
+---- 
+{{football box
+|id = Latvia v Spain
+|date=23 September 1992
+|team1={{fb-rt|LVA}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/ESPVSLVA.HTM Report]
+|score=0–0
+|team2={{fb|ESP}}
+|stadium=[[Daugava Stadium (Riga)|Daugava Stadium]], [[Riga]]
+|attendance=6,220
+|referee=[[Roger Philippi]] ([[Luxembourg Football Federation|Luxembourg]])
+}}
+
+{{football box
+|id = Lithuania v Denmark
+|date=23 September 1992
+|team1={{fb-rt|LTU|1988}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/LTUVSDEN.HTM Report]
+|score=0–0
+|team2={{fb|DEN}}
+|stadium=[[Žalgiris Stadium]], [[Vilnius]]
+|attendance=10,500
+|referee=[[Lube Spasov]] ([[Bulgarian Football Union|Bulgaria]])
+}}
+---- 
+{{football box
+|id = Denmark v Republic of Ireland
+|date=14 October 1992
+|team1={{fb-rt|DEN}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/DENVSIRL.HTM Report]
+|score=0–0
+|team2={{fb|IRL}}
+|stadium=[[Parken Stadium|Parken]], [[Copenhagen]]
+|attendance=40,100
+|referee=[[Ryszard Wójcik]] ([[Polish Football Association|Poland]])
+}}
+
+{{football box
+|id = Northern Ireland v Spain
+|date=14 October 1992
+|team1={{fb-rt|NIR}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/NIRVSESP.HTM Report]
+|score=0–0
+|team2={{fb|ESP}}
+|stadium=[[Windsor Park]], [[Belfast]]
+|attendance=10,343
+|referee=[[Hellmut Krug]] ([[German Football Association|Germany]])
+}}
+---- 
+{{football box
+|id = Lithuania v Latvia
+|date=28 October 1992
+|team1={{fb-rt|LTU|1988}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/LTUVSLVA.HTM Report]
+|score=1–1
+|team2={{fb|LVA}}
+|goals1=[[Robertas Fridrikas|Fridrikas]] {{goal|85}}
+|goals2=[[Ainārs Linards|Linards]] {{goal|44}}
+|stadium=[[Žalgiris Stadium]], [[Vilnius]]
+|attendance=4,000
+|referee=[[Andrew Waddell (referee)|Andrew Waddell]] ([[Scottish Football Association|Scotland]])
+}}
+---- 
+{{football box
+|id = Albania v Latvia
+|date=11 November 1992
+|team1={{fb-rt|ALB|1992}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/ALBVSLVA.HTM Report]
+|score=1–1
+|team2={{fb|LVA}}
+|goals1=[[Ilir Kepa|Kepa]] {{goal|67}}
+|goals2=[[Oļegs Aleksejenko|Aleksejenko]] {{goal|3}}
+|stadium=[[Qemal Stafa Stadium]], [[Tirana]]
+|attendance=3,500
+|referee=[[Gerhard Kapl]] ([[Austrian Football Association|Austria]])
+}}
+
+{{football box
+|id = Northern Ireland v Denmark
+|date=18 November 1992
+|team1={{fb-rt|NIR}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/NIRVSDEN.HTM Report]
+|score=0–1
+|team2={{fb|DEN}}
+|goals2=[[Henrik Larsen|H. Larsen]] {{goal|51}}
+|stadium=[[Windsor Park]], [[Belfast]]
+|attendance=11,000
+|referee=[[Sándor Puhl]] ([[Hungarian Football Federation|Hungary]])
+}}
+
+{{football box
+|id = Spain v Republic of Ireland
+|date=18 November 1992
+|team1={{fb-rt|ESP}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/ESPVSIRL.HTM Report]
+|score=0–0
+|team2={{fb|IRL}}
+|stadium=[[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez-Pizjuán]], [[Seville]]
+|attendance=50,000
+|referee=[[Alphonse Constantin]] ([[Royal Belgian Football Association|Belgium]])
+}}
+---- 
+{{football box
+|id = Spain v Latvia
+|date=16 December 1992
+|team1={{fb-rt|ESP}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/ESPVSLVA.HTM Report]
+|score=5–0
+|team2={{fb|LVA}}
+|goals1=[[José Mari Bakero|Bakero]] {{goal|49}}<br />[[Pep Guardiola|Guardiola]] {{goal|51}}<br />[[Alfonso Pérez|Alfonso]] {{goal|80}}<br />[[Txiki Begiristain|Begiristain]] {{goal|82||83}}
+|stadium=[[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez-Pizjuán]],<ref>{{Cite web|url=https://www.youtube.com/watch?v=xVCoKICFvFc|title = 1992 (December 16) Spain 5-Latvia 0 (World Cup Qualifier).avi|website = [[YouTube]]}}</ref> [[Seville]]
+|attendance=19,000
+|referee=[[Ion Crăciunescu]] ([[Romanian Football Federation|Romania]])
+}}
+---- 
+{{football box
+|id = Albania v Northern Ireland
+|date=17 February 1993
+|team1={{fb-rt|ALB|1992}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/ALBVSNIR.HTM Report]
+|score=1–2
+|team2={{fb|NIR}}
+|goals1=[[Altin Rraklli|Rraklli]] {{goal|90}}
+|goals2=[[Mal Donaghy|Donaghy]] {{goal|15}}<br />[[Alan McDonald (Northern Irish footballer)|McDonald]] {{goal|41}}
+|stadium=[[Qemal Stafa Stadium]], [[Tirana]]
+|attendance=7,000
+|referee=[[Vesselin Bogdanov]] ([[Bulgarian Football Union|Bulgaria]])
+}}
+---- 
+{{football box
+|id = Spain v Lithuania
+|date=24 February 1993
+|team1={{fb-rt|ESP}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/ESPVSLTU.HTM Report]
+|score=5–0
+|team2={{fb|LTU|1988}}
+|goals1=[[Cristóbal Parralo|Cristóbal]] {{goal|5}}<br />[[José Mari Bakero|Bakero]] {{goal|12}}<br />[[Txiki Begiristain|Begiristain]] {{goal|17}}<br />[[Thomas Christiansen|Christiansen]] {{goal|86}}<br />[[Adolfo Aldana|Aldana]] {{goal|90}}
+|stadium=[[Estadio Benito Villamarín|Benito Villamarín]], [[Seville]]
+|attendance=20,000
+|referee=Alfred Micallef ([[Malta Football Association|Malta]])
+}}
+---- 
+{{football box
+|id = Denmark v Spain
+|date=31 March 1993
+|team1={{fb-rt|DEN}}
+|report=[https://web.archive.org/web/20091208130920/http://www.allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/DENVSESP.HTM Report]
+|score=1–0
+|team2={{fb|ESP}}
+|goals1=[[Flemming Povlsen|Povlsen]] {{goal|20}}
+|stadium=[[Parken Stadium|Parken]], [[Copenhagen]]
+|attendance=40,272
+|referee=[[Mario van der Ende]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+
+{{football box
+|id = Republic of Ireland v Northern Ireland
+|date=31 March 1993
+|team1={{fb-rt|IRL}}
+|report=[https://web.archive.org/web/20091208130952/http://www.allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/IRLVSNIR.HTM Report]
+|score=3–0
+|team2={{fb|NIR}}
+|goals1=[[Andy Townsend|Townsend]] {{goal|20}}<br />[[Niall Quinn|Quinn]] {{goal|22}}<br />[[Steve Staunton|Staunton]] {{goal|28}}
+|stadium=[[Lansdowne Road]], [[Dublin]]
+|attendance=33,000
+|referee=[[Kurt Röthlisberger]] ([[Swiss Football Association|Switzerland]])
+}}
+---- 
+{{football box
+|id = Denmark v Latvia
+|date=14 April 1993
+|team1={{fb-rt|DEN}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/DENVSLVA.HTM Report]
+|score=2–0
+|team2={{fb|LVA}}
+|goals1=[[Kim Vilfort|Vilfort]] {{goal|23}}<br />[[Mark Strudal|Strudal]] {{goal|76}}
+|stadium=[[Parken Stadium|Parken]], [[Copenhagen]]
+|attendance=29,000
+|referee=[[Rune Pedersen (referee)|Rune Pedersen]] ([[Football Association of Norway|Norway]])
+}}
+
+{{football box
+|id = Lithuania v Albania
+|date=14 April 1993
+|team1={{fb-rt|LTU|1988}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/LTUVSALB.HTM Report]
+|score=3–1
+|team2={{fb|ALB|1992}}
+|goals1=[[Virginijus Baltušnikas|Baltušnikas]] {{goal|20}}<br />[[Viačeslavas Sukristovas|Sukristovas]] {{goal|25}}<br />[[Stasys Baranauskas|Baranauskas]] {{goal|63}}
+|goals2=[[Sulejman Demollari|Demollari]] {{goal|86}}
+|stadium=[[Žalgiris Stadium]], [[Vilnius]]
+|attendance=7,000
+|referee=[[Eyjólfur Olafsson]] ([[Football Association of Iceland|Iceland]])
+}}
+---- 
+{{football box
+|id = Republic of Ireland v Denmark
+|date=28 April 1993
+|team1={{fb-rt|IRL}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/IRLVSDEN.HTM Report]
+|score=1–1
+|team2={{fb|DEN}}
+|goals1=[[Niall Quinn|Quinn]] {{goal|75}}
+|goals2=[[Kim Vilfort|Vilfort]] {{goal|27}}
+|stadium=[[Lansdowne Road]], [[Dublin]]
+|attendance=33,000
+|referee=[[Rémi Harrel]] ([[French Football Federation|France]])
+}}
+
+{{football box
+|id = Spain v Northern Ireland
+|date=28 April 1993
+|team1={{fb-rt|ESP}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/ESPVSNIR.HTM Report]
+|score=3–1
+|team2={{fb|NIR}}
+|goals1=[[Julio Salinas|J. Salinas]] {{goal|21||26}}<br />[[Fernando Hierro|Hierro]] {{goal|41}}
+|goals2=[[Kevin Wilson (footballer, born 1961)|Wilson]] {{goal|11}}
+|stadium=[[Estadio Benito Villamarín|Benito Villamarín]], [[Seville]]
+|attendance=20,000
+|referee=[[Leif Sundell]] ([[Swedish Football Association|Sweden]])
+}}
+---- 
+{{football box
+|id = Latvia v Albania
+|date=15 May 1993
+|team1={{fb-rt|LVA}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/LVAVSALB.HTM Report]
+|score=0–0
+|team2={{fb|ALB}}
+|stadium=[[Daugava Stadium (Riga)|Daugava Stadium]], [[Riga]]
+|attendance=3,100
+|referee=[[Alan Howells]] ([[Welsh Football Association|Wales]])
+}}
+---- 
+{{football box
+|id = Lithuania v Northern Ireland
+|date=25 May 1993
+|team1={{fb-rt|LTU|1988}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/LTUVSNIR.HTM Report]
+|score=0–1
+|team2={{fb|NIR}}
+|goals2=[[Iain Dowie|Dowie]] {{goal|8}}
+|stadium=[[Žalgiris Stadium]], [[Vilnius]]
+|attendance=6,500
+|referee=[[Esa Palsi]] ([[Football Association of Finland|Finland]])
+}}
+
+{{football box
+|id = Albania v Republic of Ireland
+|date=26 May 1993
+|team1={{fb-rt|ALB|1992}}
+|report=[https://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/ALBVSIRL.HTM Report]
+|score=1–2
+|team2={{fb|IRL}}
+|goals1=[[Sokol Kushta|Kushta]] {{goal|8}}
+|goals2=[[Steve Staunton|Staunton]] {{goal|12}}<br />[[Tony Cascarino|Cascarino]] {{goal|77}}
+|stadium=[[Qemal Stafa Stadium]], [[Tirana]]
+|attendance=7,000
+|referee=[[Walter Cinciripini]] ([[Italian Football Federation|Italy]])
+}}
+---- 
+{{football box
+|id = Denmark v Albania
+|date=2 June 1993
+|team1={{fb-rt|DEN}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/DENVSALB.HTM Report]
+|score=4–0
+|team2={{fb|ALB|1992}}
+|goals1=[[John Jensen|J. Jensen]] {{goal|11}}<br />[[Frank Pingel|Pingel]] {{goal|20||40}}<br />[[Peter Møller|Møller]] {{goal|28}}
+|stadium=[[Parken Stadium|Parken]], [[Copenhagen]]
+|attendance=39,503
+|referee=[[Gerd Grabher]] ([[Austrian Football Association|Austria]])
+}}
+
+{{football box
+|id = Latvia v Northern Ireland
+|date=2 June 1993
+|team1={{fb-rt|LVA}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/LVAVSNIR.HTM Report]
+|score=1–2
+|team2={{fb|NIR}}
+|goals1=[[Ainars Linards|Linards]] {{goal|55}}
+|goals2=[[Jim Magilton|Magilton]] {{goal|4}}<br />[[Gerry Taggart|Taggart]] {{goal|15}}
+|stadium=[[Daugava Stadium (Riga)|Daugava Stadium]], [[Riga]]
+|attendance=2,764
+|referee=[[Piotr Werner]] ([[Polish Football Association|Poland]])
+}}
+
+{{football box
+|id = Lithuania v Spain
+|date=2 June 1993
+|team1={{fb-rt|LTU|1988}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/LTUVSESP.HTM Report]
+|score=0–2
+|team2={{fb|ESP}}
+|goals2=[[Julen Guerrero|Guerrero]] {{goal|73||77}}
+|stadium=[[Žalgiris Stadium]], [[Vilnius]]
+|attendance=4,500
+|referee=[[Gheorghe Ionescu (referee)|Gheorghe Ionescu]] ([[Romanian Football Federation|Romania]])
+}}
+---- 
+{{football box
+|id = Latvia v Republic of Ireland
+|date=9 June 1993
+|team1={{fb-rt|LVA}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/LVAVSIRL.HTM Report]
+|score=0–2
+|team2={{fb|IRL}}
+|goals2=[[John Aldridge|Aldridge]] {{goal|14}}<br />[[Paul McGrath (footballer)|McGrath]] {{goal|42}}
+|stadium=[[Daugava Stadium (Riga)|Daugava Stadium]], [[Riga]]
+|attendance=5,113
+|referee=[[Dick Jol]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+---- 
+{{football box
+|id = Lithuania v Republic of Ireland
+|date=16 June 1993
+|team1={{fb-rt|LTU|1988}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/LTUVSIRL Report]
+|score=0–1
+|team2={{fb|IRL}}
+|goals2=[[Steve Staunton|Staunton]] {{goal|38}}<ref>Other sources attribute this goal as an [[own goal]] by [[Virginijus Baltušnikas|Baltušnikas]] of [[Lithuania national football team|Lithuania]].</ref>
+|stadium=[[Žalgiris Stadium]], [[Vilnius]]
+|attendance=7,000
+|referee=[[Roger Philippi]] ([[Luxembourg Football Federation|Luxembourg]])
+}}
+---- 
+{{football box
+|id = Denmark v Lithuania
+|date=25 August 1993
+|team1={{fb-rt|DEN}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/DENVSLTU.HTM Report]
+|score=4–0
+|team2={{fb|LTU|1988}}
+|goals1=[[Lars Olsen|L. Olsen]] {{goal|13}}<br />[[Frank Pingel|Pingel]] {{goal|44}}<br />[[Brian Laudrup|B. Laudrup]] {{goal|64}}<br />[[Kim Vilfort|Vilfort]] {{goal|71}}
+|stadium=[[Parken Stadium|Parken]], [[Copenhagen]]
+|attendance=40,282
+|referee=[[Brági Bergmann]] ([[Football Association of Iceland|Iceland]])
+}}
+---- 
+{{football box
+|id = Albania v Denmark
+|date=8 September 1993
+|team1={{fb-rt|ALB|1992}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/ALBVSDEN.HTM Report]
+|score=0–1
+|team2={{fb|DEN}}
+|goals2=[[Frank Pingel|Pingel]] {{goal|63}}
+|stadium=[[Qemal Stafa Stadium]], [[Tirana]]
+|attendance=8,000
+|referee=[[Loizos Loizou (referee)|Loizos Loizou]] ([[Cyprus Football Association|Cyprus]])
+}}
+
+{{football box
+|id = Republic of Ireland v Lithuania
+|date=8 September 1993
+|team1={{fb-rt|IRL}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/IRLVSLTU.HTM Report]
+|score=2–0
+|team2={{fb|LTU|1988}}
+|goals1=[[John Aldridge|Aldridge]] {{goal|4}}<br />[[Alan Kernaghan|Kernaghan]] {{goal|25}}
+|stadium=[[Lansdowne Road]], [[Dublin]]
+|attendance=33,000
+|referee=[[Rune Pedersen (referee)|Rune Pedersen]] ([[Football Association of Norway|Norway]])
+}}
+
+{{football box
+|id = Northern Ireland v Latvia
+|date=8 September 1993
+|team1={{fb-rt|NIR}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/NIRVSLVA.HTM Report]
+|score=2–0
+|team2={{fb|LVA}}
+|goals1=[[Jimmy Quinn (footballer, born 1959)|Quinn]] {{goal|35}}<br />[[Phil Gray (footballer)|Gray]] {{goal|80}}
+|stadium=[[Windsor Park]], [[Belfast]]
+|attendance=6,400
+|referee=[[João Pinto Correia]] ([[Portuguese Football Federation|Portugal]])
+}}
+---- 
+{{football box
+|id = Albania v Spain
+|date=22 September 1993
+|team1={{fb-rt|ALB|1992}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/ALBVSESP.HTM Report]
+|score=1–5
+|team2={{fb|ESP}}
+|goals1=[[Sokol Kushta|Kushta]] {{goal|40}}
+|goals2=[[Julio Salinas|J. Salinas]] {{goal|4||30||58}}<br/>[[Antonio Muñoz Gómez|Toni]] {{goal|18}}<br />[[José Luis Caminero|Caminero]] {{goal|67}}
+|stadium=[[Qemal Stafa Stadium]], [[Tirana]]
+|attendance=3,000
+|referee=[[Rémi Harrel]] ([[French Football Federation|France]])
+}}
+---- 
+{{football box
+|id = Denmark v Northern Ireland
+|date=13 October 1993
+|team1={{fb-rt|DEN}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/DENVSNIR.HTM Report]
+|score=1–0
+|team2={{fb|NIR}}
+|goals1=[[Brian Laudrup|B. Laudrup]] {{goal|83}}
+|stadium=[[Parken Stadium|Parken]], [[Copenhagen]]
+|attendance=40,242
+|referee=[[Vadim Zhuk]] ([[Football Federation of Belarus|Belarus]])
+}}
+
+{{football box
+|id = Republic of Ireland v Spain
+|date=13 October 1993
+|team1={{fb-rt|IRL}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/IRLVSESP.HTM Report]
+|score=1–3
+|team2={{fb|ESP}}
+|goals1=[[John Sheridan (footballer)|Sheridan]] {{goal|72}}
+|goals2=[[José Luis Caminero|Caminero]] {{goal|11}}<br />[[Julio Salinas|J. Salinas]] {{goal|14||26}}
+|stadium=[[Lansdowne Road]], [[Dublin]]
+|attendance=33,000
+|referee=[[Fabio Baldas]] ([[Italian Football Federation|Italy]])
+}}
+---- 
+{{football box
+|id = Northern Ireland v Republic of Ireland
+|date=17 November 1993
+|team1={{fb-rt|NIR}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/NIRVSIRL.HTM Report]
+|score=1–1
+|team2={{fb|IRL}}
+|goals1=[[Jimmy Quinn (Northern Ireland footballer)|Quinn]] {{goal|74}}
+|goals2=[[Alan McLoughlin|McLoughlin]] {{goal|78}}
+|stadium=[[Windsor Park]], [[Belfast]]
+|attendance=10,500
+|referee=[[Ahmet Çakar]] ([[Turkish Football Federation|Turkey]])
+}}
+
+{{football box
+|id = Spain v Denmark
+|date=17 November 1993
+|team1={{fb-rt|ESP}}
+|report=[http://allworldcup.narod.ru/1994/PROTOCOL/QUALIF/UEFA/G3/ESPVSDEN.HTM Report]
+|score=1–0
+|team2={{fb|DEN}}
+|goals1=[[Fernando Hierro|Hierro]] {{goal|63}}
+|stadium=[[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez-Pizjuán]], [[Seville]]
+|attendance=38,000
+|referee=[[Vassilios Nikakis]] ([[Hellenic Football Federation|Greece]])
+}}
+
+==Goalscorers==
+
+;7 goals
+{{div col|colwidth=20em|small=yes}}
+*{{flagicon|ESP}} [[Julio Salinas]]
+{{div col end}}
+
+;6 goals
+{{div col|colwidth=20em|small=yes}}
+*{{flagicon|IRL}} [[John Aldridge]]
+{{div col end}}
+
+;4 goals
+{{div col|colwidth=20em|small=yes}}
+*{{flagicon|DEN}} [[Frank Pingel]]
+{{div col end}}
+
+;3 goals
+{{div col|colwidth=20em|small=yes}}
+*{{flagicon|DEN}} [[Kim Vilfort]]
+*{{flagicon|IRL}} [[Steve Staunton]]
+*{{flagicon|LVA}} [[Ainārs Linards]]
+*{{flagicon|NIR}} [[Kevin Wilson (footballer, born 1961)|Kevin Wilson]]
+*{{flagicon|ESP}} [[Txiki Begiristain]]
+*{{flagicon|ESP}} [[Fernando Hierro]]
+{{div col end}}
+
+;2 goals
+{{div col|colwidth=20em|small=yes}}
+*{{flagicon|ALB}} [[Sokol Kushta]]
+*{{flagicon|DEN}} [[Brian Laudrup]]
+*{{flagicon|IRL}} [[Paul McGrath (footballer)|Paul McGrath]]
+*{{flagicon|IRL}} [[Niall Quinn]]
+*{{flagicon|LTU|1988}} [[Robertas Fridrikas]]
+*{{flagicon|NIR}} [[Jim Magilton]]
+*{{flagicon|NIR}} [[Jimmy Quinn (footballer, born 1959)|Jimmy Quinn]]
+*{{flagicon|NIR}} [[Gerry Taggart]]
+*{{flagicon|ESP}} [[José Mari Bakero]]
+*{{flagicon|ESP}} [[José Luis Caminero]]
+*{{flagicon|ESP}} [[Julen Guerrero]]
+*{{flagicon|ESP}} [[Míchel (footballer, born 1963)|Míchel]]
+{{div col end}}
+
+;1 goal
+{{div col|colwidth=20em|small=yes}}
+*{{flagicon|ALB}} [[Edmond Abazi]]
+*{{flagicon|ALB}} [[Sulejman Demollari]]
+*{{flagicon|ALB}} [[Ilir Kepa]]
+*{{flagicon|ALB}} [[Altin Rraklli]]
+*{{flagicon|DEN}} [[John Jensen]]
+*{{flagicon|DEN}} [[Henrik Larsen]]
+*{{flagicon|DEN}} [[Peter Møller]]
+*{{flagicon|DEN}} [[Lars Olsen]]
+*{{flagicon|DEN}} [[Flemming Povlsen]]
+*{{flagicon|DEN}} [[Mark Strudal]]
+*{{flagicon|IRL}} [[Tony Cascarino]]
+*{{flagicon|IRL}} [[Alan Kernaghan]]
+*{{flagicon|IRL}} [[Alan McLoughlin]]
+*{{flagicon|IRL}} [[Kevin Sheedy (Irish footballer)|Kevin Sheedy]]
+*{{flagicon|IRL}} [[John Sheridan (footballer)|John Sheridan]]
+*{{flagicon|IRL}} [[Andy Townsend]]
+*{{flagicon|LVA}} [[Oļegs Aleksejenko]]
+*{{flagicon|LTU|1988}} [[Virginijus Baltušnikas]]
+*{{flagicon|LTU|1988}} [[Stasys Baranauskas]]
+*{{flagicon|LTU|1988}} [[Arminas Narbekovas]]
+*{{flagicon|LTU|1988}} [[Eimantas Poderis]]
+*{{flagicon|LTU|1988}} [[Viačeslavas Sukristovas]]
+*{{flagicon|LTU|1988}} [[Andrėjus Tereškinas]]
+*{{flagicon|NIR}} [[Colin Clarke (footballer, born 1962)|Colin Clarke]]
+*{{flagicon|NIR}} [[Mal Donaghy]]
+*{{flagicon|NIR}} [[Iain Dowie]]
+*{{flagicon|NIR}} [[Phil Gray (footballer)|Phil Gray]]
+*{{flagicon|NIR}} [[Alan McDonald (Northern Irish footballer)|Alan McDonald]]
+*{{flagicon|ESP}} [[Adolfo Aldana]]
+*{{flagicon|ESP}} [[Thomas Christiansen]]
+*{{flagicon|ESP}} [[Pep Guardiola]]
+*{{flagicon|ESP}} [[Cristóbal Parralo]]
+*{{flagicon|ESP}} [[Alfonso Pérez]]
+*{{flagicon|ESP}} [[Antonio Muñoz Gómez|Toni]]
+{{div col end}}
+
+==Notes==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20110511105448/http://www.rsssf.com/tables/94qual.html#gr3 Group 3 Detailed Results at RSSSF]
+
+{{1994 FIFA World Cup qualifiers}}
+
+{{DEFAULTSORT:World Cup}}
+[[Category:1994 FIFA World Cup qualification (UEFA)|3]]
+[[Category:1992–93 in Spanish football]]
+[[Category:Spain at the 1994 FIFA World Cup|Qual]]
+[[Category:1992–93 in Republic of Ireland association football]]
+[[Category:Republic of Ireland at the 1994 FIFA World Cup|Qual]]
+[[Category:1992–93 in Northern Ireland association football]]
+[[Category:1993–94 in Northern Ireland association football]]
+[[Category:1992–93 in Danish football]]
+[[Category:1993–94 in Danish football]]
+[[Category:1992–93 in Albanian men's football]]
+[[Category:1993–94 in Albanian men's football]]
+[[Category:1992 in Lithuanian football]]
+[[Category:1993 in Lithuanian football]]
+[[Category:1992 in Latvian football]]
+[[Category:1993 in Latvian football]]
+[[Category:1991–92 in Spanish football]]
+[[Category:1991–92 in Albanian men's football]]
+[[Category:1991–92 in Northern Ireland association football]]
+[[Category:1991–92 in Republic of Ireland association football]]

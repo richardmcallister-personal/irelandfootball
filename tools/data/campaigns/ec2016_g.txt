@@ -1,0 +1,981 @@
+{{Short description|Football tournament group stage}}
+'''Group E of [[UEFA Euro 2016]]''' contained [[Belgium national football team|Belgium]], [[Italy national football team|Italy]], [[Republic of Ireland national football team|Republic of Ireland]] and [[Sweden men's national football team|Sweden]]. Italy was the only former European champion in this group, having won in [[Euro 1968|1968]]. Matches were played from 13 to 22 June 2016.
+
+==Teams==
+{| class="wikitable sortable"
+|-
+! Draw position
+! Team
+! Pot
+! Method of<br />qualification
+! Date of<br />qualification
+! data-sort-type="number" | Finals<br />appearance
+! Last<br />appearance
+! Previous best<br />performance
+! [[UEFA coefficient#Men's national team coefficient|UEFA Rankings]]<br />October 2015{{refn|group=nb|The UEFA rankings of October 2015 were used for seeding for the final draw.}}
+! [[FIFA World Rankings|FIFA Rankings]]<br />June 2016
+|-
+| E1 || style="white-space:nowrap" | {{fb|BEL}} || 1 || [[UEFA Euro 2016 qualifying Group B|Group B]] winner || 10 October 2015 || 5th || [[UEFA Euro 2000|2000]] || data-sort-value="2" | Runners-up ([[UEFA Euro 1980|1980]]) || 5 || 2
+|-
+| E2 || style="white-space:nowrap" | {{fb|ITA}} || 2 || [[UEFA Euro 2016 qualifying Group H|Group H]] winner || 10 October 2015 || 9th || [[UEFA Euro 2012|2012]] || data-sort-value="1" | '''Winners''' ([[UEFA Euro 1968|1968]]) || 6 || 12
+|-
+| E3 || style="white-space:nowrap" | {{fb|IRL}} || 4 || [[UEFA Euro 2016 qualifying play-offs|Play-off]] winner || 16 November 2015 || 3rd || [[UEFA Euro 2012|2012]] || data-sort-value="7" | Group stage ([[UEFA Euro 1988|1988]], [[UEFA Euro 2012|2012]]) || 23 || 33
+|-
+| E4 || style="white-space:nowrap" | {{fb|SWE}} || 3 || [[UEFA Euro 2016 qualifying play-offs|Play-off]] winner || 17 November 2015 || 6th || [[UEFA Euro 2012|2012]] || data-sort-value="3" | Semi-finals ([[UEFA Euro 1992|1992]]) || 16 || 35
+|}
+
+'''Notes'''
+{{reflist|group=nb}}
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=standings
+|class_rules=[[UEFA Euro 2016#Tiebreakers|Group stage tiebreakers]]
+|update=complete
+|source=[https://web.archive.org/web/20180606065801/http://www.uefa.com/uefaeuro/season=2016/standings/round=2000448/group=2004543/index.html UEFA]
+
+|team1=ITA |team2=BEL |team3=IRL |team4=SWE
+|hth_ITA=Head-to-head result: Belgium 0–2 Italy. |hth_BEL=ITA
+|result1=KO |result2=KO |result3=KO
+
+|win_BEL=2 |draw_BEL=0 |loss_BEL=1 |gf_BEL=4 |ga_BEL=2
+|win_ITA=2 |draw_ITA=0 |loss_ITA=1 |gf_ITA=3 |ga_ITA=1
+|win_IRL=1 |draw_IRL=1 |loss_IRL=1 |gf_IRL=2 |ga_IRL=4
+|win_SWE=0 |draw_SWE=1 |loss_SWE=2 |gf_SWE=1 |ga_SWE=3
+
+|name_BEL={{fb|BEL}}
+|name_ITA={{fb|ITA}}
+|name_IRL={{fb|IRL}}
+|name_SWE={{fb|SWE}}
+
+|res_col_header=Q
+|col_KO=green1 |text_KO=Advance to [[UEFA Euro 2016#Knockout stage|knockout stage]]
+}}</onlyinclude>
+
+In the [[UEFA Euro 2016 knockout stage#Round of 16|round of 16]],
+*The winner of Group E, Italy, advanced to play the runner-up of [[UEFA Euro 2016 Group D|Group D]], [[Spain national football team|Spain]].
+*The runner-up of Group E, Belgium, advanced to play the winner of [[UEFA Euro 2016 Group F|Group F]], [[Hungary national football team|Hungary]].
+*The third-placed team of Group E, Republic of Ireland, advanced as one of the [[UEFA Euro 2016#Ranking of third-placed teams|four best third-placed teams]] to play the winner of [[UEFA Euro 2016 Group A|Group A]], [[France national football team|France]].
+
+==Matches==
+{{Hatnote|All times listed are [[Central European Summer Time]] ([[UTC+02:00|UTC+2]])}}
+
+===Republic of Ireland vs Sweden===
+<onlyinclude>{{#invoke:Football box|main|section=e1
+|date={{Start date|2016|6|13|df=y}}
+|time=18:00
+|team1={{fb-rt|IRL}}
+|score={{score link|UEFA Euro 2016 Group E#Republic of Ireland vs Sweden|1–1}}
+|report=https://www.uefa.com/uefaeuro/match/2017954/
+|team2={{fb|SWE}}
+|goals1=
+*[[Wes Hoolahan|Hoolahan]] {{goal|48}}
+|goals2=
+*[[Ciaran Clark|Clark]] {{goal|71|o.g.}}
+|stadium=[[Stade de France]], [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|attendance=73,419<ref>{{cite web |url=http://www.uefa.com/newsfiles/euro/2016/2017954_fr.pdf |archive-url=https://web.archive.org/web/20161108212936/http://www.uefa.com/newsfiles/euro/2016/2017954_fr.pdf |url-status=dead |archive-date=November 8, 2016 |title=Full Time Summary – Republic of Ireland v Sweden |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=13 June 2016 |access-date=13 June 2016}}</ref>
+|referee=[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ierland16h
+ |pattern_b  = _ierland16home
+ |pattern_ra = _ierland16h
+ |pattern_sh = _irlanda16h
+ |pattern_so = _ierland16h
+ |leftarm    = 00924A
+ |body       = 00924A
+ |rightarm   = 00924A
+ |shorts     = FFFFFF
+ |socks      = 008A45
+ |title      = {{nowrap|Republic of Ireland}}<ref name="irl-swe_line-ups">{{cite web|url=http://www.uefa.com/newsfiles/euro/2016/2017954_lu.pdf|archive-url=https://web.archive.org/web/20170329162942/http://www.uefa.com/newsfiles/euro/2016/2017954_lu.pdf|url-status=dead|archive-date=March 29, 2017|title=Tactical Line-ups – Republic of Ireland v Sweden|website=[[UEFA]] |publisher=Union of European Football Associations |date=13 June 2016|access-date=13 June 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _zwe16h
+ |pattern_b  = _swe2016home
+ |pattern_ra = _zwe16h
+ |pattern_sh = _zwe16h
+ |pattern_so = _zwe16h
+ |leftarm    = FFF300
+ |body       = FFF300
+ |rightarm   = FFF300
+ |shorts     = 0000DD
+ |socks      = FFF300
+ |title      = Sweden<ref name="irl-swe_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''23'''||[[Darren Randolph]]
+|-
+|RB ||'''2''' ||[[Séamus Coleman]]
+|-
+|CB ||'''4''' ||[[John O'Shea]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Ciaran Clark]]
+|-
+|LB ||'''19'''||[[Robbie Brady]]
+|-
+|CM ||'''8''' ||[[James McCarthy (footballer)|James McCarthy]] || {{yel|43}} || {{suboff|85}}
+|-
+|CM ||'''6''' ||[[Glenn Whelan]] || {{yel|77}}
+|-
+|CM ||'''13'''||[[Jeff Hendrick]]
+|-
+|AM ||'''20'''||[[Wes Hoolahan]] || || {{suboff|78}}
+|-
+|CF ||'''14'''||[[Jonathan Walters]] || || {{suboff|64}}
+|-
+|CF ||'''9''' ||[[Shane Long]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[James McClean]] || || {{subon|64}}
+|-
+|FW ||'''10'''||[[Robbie Keane]] || || {{subon|78}}
+|-
+|MF ||'''7''' ||[[Aiden McGeady]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|NIR}} [[Martin O'Neill]]
+|}
+|valign="top"|[[File:IRL-SWE 2016-06-13.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Andreas Isaksson]]
+|-
+|RB ||'''2''' ||[[Mikael Lustig]] || || {{suboff|45}}
+|-
+|CB ||'''14'''||[[Victor Lindelöf]] || {{yel|61}}
+|-
+|CB ||'''4''' ||[[Andreas Granqvist]]
+|-
+|LB ||'''5''' ||[[Martin Olsson]]
+|-
+|RM ||'''7''' ||[[Sebastian Larsson]]
+|-
+|CM ||'''18'''||[[Oscar Lewicki]] || || {{suboff|86}}
+|-
+|CM ||'''9''' ||[[Kim Källström]]
+|-
+|LM ||'''6''' ||[[Emil Forsberg]]
+|-
+|CF ||'''11'''||[[Marcus Berg]] || || {{suboff|59}}
+|-
+|CF ||'''10'''||[[Zlatan Ibrahimović]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''3''' ||[[Erik Johansson (footballer, born 1988)|Erik Johansson]] || || {{subon|45}}
+|-
+|FW ||'''20'''||[[John Guidetti]] || || {{subon|59}}
+|-
+|MF ||'''8''' ||[[Albin Ekdal]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Erik Hamrén]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Wes Hoolahan]] (Republic of Ireland)<ref>{{cite news |first=Sam |last=Adams |title=Clark own goal salvages point for Sweden against Ireland |url=https://www.uefa.com/uefaeuro/history/news/0253-0d81aa3bedda-8cd076495b88-1000--clark-own-goal-salvages-point-for-sweden-as-ireland-slip-up-/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=13 June 2016 |access-date=13 June 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees">{{cite web |title=Who is the referee? UEFA EURO 2016 appointments |url=https://www.uefa.com/uefaeuro/history/news/0253-0d813bcef6a0-7b44d328d94c-1000--who-is-the-referee-uefa-euro-2016-appointments/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=10 June 2016 |access-date=10 June 2016 }}</ref>
+<br />Milovan Ristić ([[Football Association of Serbia|Serbia]])
+<br />Dalibor Đurđević ([[Football Association of Serbia|Serbia]])
+<br />'''Fourth official:'''
+<br />[[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+<br />'''Additional assistant referees:'''
+<br />Danilo Grujić ([[Football Association of Serbia|Serbia]])
+<br />Nenad Đokić ([[Football Association of Serbia|Serbia]])
+<br />'''Reserve assistant referee:'''
+<br />Jure Praprotnik ([[Football Association of Slovenia|Slovenia]])
+|}
+
+===Belgium vs Italy===
+<onlyinclude>{{#invoke:Football box|main|section=e2
+|date={{Start date|2016|6|13|df=y}}
+|time=21:00
+|team1={{fb-rt|BEL}}
+|score={{score link|UEFA Euro 2016 Group E#Belgium vs Italy|0–2}}
+|report=https://www.uefa.com/uefaeuro/match/2017953/
+|team2={{fb|ITA}}
+|goals1=
+|goals2=
+*[[Emanuele Giaccherini|Giaccherini]] {{goal|32}}
+*[[Graziano Pellè|Pellè]] {{goal|90+3}}
+|stadium=[[Parc Olympique Lyonnais]], [[Décines-Charpieu]]
+|attendance=55,408<ref>{{cite web |url=http://www.uefa.com/newsfiles/euro/2016/2017953_fr.pdf |archive-url=https://web.archive.org/web/20160828203830/http://www.uefa.com/newsfiles/euro/2016/2017953_fr.pdf |url-status=dead |archive-date=August 28, 2016 |title=Full Time Summary – Belgium v Italy |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=13 June 2016 |access-date=13 June 2016}}</ref>
+|referee=[[Mark Clattenburg]] ([[The Football Association|England]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _belg16h
+ |pattern_b  = _belg16H
+ |pattern_ra = _belg16h
+ |pattern_sh = _belg16h
+ |pattern_so = _bel16h
+ |leftarm    = 000000
+ |body       = E00B0E
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = E00B0E
+ |title      = Belgium<ref name="bel-ita_line-ups">{{cite web|url=http://www.uefa.org/newsfiles/euro/2016/2017953_lu.pdf|title=Tactical Line-ups – Belgium v Italy|website=[[UEFA]] |publisher=Union of European Football Associations |date=13 June 2016|access-date=13 June 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ita16a
+ |pattern_b  = _ita16a
+ |pattern_ra = _ita16a
+ |pattern_sh = _ita16a
+ |pattern_so = _ita16a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 113ED7
+ |socks      = FFFFFF
+ |title      = Italy<ref name="bel-ita_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Thibaut Courtois]]
+|-
+|RB ||'''23'''||[[Laurent Ciman]] || || {{suboff|76}}
+|-
+|CB ||'''2''' ||[[Toby Alderweireld]]
+|-
+|CB ||'''3''' ||[[Thomas Vermaelen]]
+|-
+|LB ||'''5''' ||[[Jan Vertonghen]] || {{yel|90+2}}
+|-
+|CM ||'''4''' ||[[Radja Nainggolan]] || || {{suboff|62}}
+|-
+|CM ||'''6''' ||[[Axel Witsel]]
+|-
+|RW ||'''7''' ||[[Kevin De Bruyne]]
+|-
+|AM ||'''8''' ||[[Marouane Fellaini]]
+|-
+|LW ||'''10'''||[[Eden Hazard]] ([[Captain (association football)|c]])
+|-
+|CF ||'''9''' ||[[Romelu Lukaku]] || || {{suboff|73}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14'''||[[Dries Mertens]] || || {{subon|62}}
+|-
+|FW ||'''17'''||[[Divock Origi]] || || {{subon|73}}
+|-
+|FW ||'''11'''||[[Yannick Carrasco]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Marc Wilmots]]
+|}
+|valign="top"|[[File:BEL-ITA 2016-06-13.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Gianluigi Buffon]] ([[Captain (association football)|c]])
+|-
+|CB ||'''15'''||[[Andrea Barzagli]]
+|-
+|CB ||'''19'''||[[Leonardo Bonucci]] || {{yel|78}}
+|-
+|CB ||'''3''' ||[[Giorgio Chiellini]] || {{yel|65}}
+|-
+|DM ||'''16'''||[[Daniele De Rossi]] || || {{suboff|78}}
+|-
+|RW ||'''6''' ||[[Antonio Candreva]]
+|-
+|CM ||'''18'''||[[Marco Parolo]]
+|-
+|CM ||'''23'''||[[Emanuele Giaccherini]]
+|-
+|LW ||'''4''' ||[[Matteo Darmian]] || || {{suboff|58}}
+|-
+|CF ||'''9''' ||[[Graziano Pellè]]
+|-
+|CF ||'''17'''||[[Éder (footballer, born 1986)|Éder]] || {{yel|75}} || {{suboff|75}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''2''' ||[[Mattia De Sciglio]] || || {{subon|58}}
+|-
+|FW ||'''11'''||[[Ciro Immobile]] || || {{subon|75}}
+|-
+|MF ||'''10'''||[[Thiago Motta]] || {{yel|84}} || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Antonio Conte]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Emanuele Giaccherini]] (Italy)<ref>{{cite news |first=Chris |last=Burke |title=Impressive Italy leave Belgium floored |url=https://www.uefa.com/uefaeuro/history/news/0253-0d81a661e0bd-75bfe9c1fdbc-1000--impressive-italy-leave-belgium-floored-in-euro-2016-group-e/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=13 June 2016 |access-date=13 June 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees"/>
+<br />Simon Beck ([[The Football Association|England]])
+<br />Jake Collin ([[The Football Association|England]])
+<br />'''Fourth official:'''
+<br />[[Carlos del Cerro Grande]] ([[Royal Spanish Football Federation|Spain]])
+<br />'''Additional assistant referees:'''
+<br />[[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+<br />[[Andre Marriner]] ([[The Football Association|England]])
+<br />'''Reserve assistant referee:'''
+<br />Juan Carlos Yuste Jiménez ([[Royal Spanish Football Federation|Spain]])
+|}
+
+===Italy vs Sweden===
+<onlyinclude>{{#invoke:Football box|main|section=e3
+|date={{Start date|2016|6|17|df=y}}
+|time=15:00
+|team1={{fb-rt|ITA}}
+|score={{score link|UEFA Euro 2016 Group E#Italy vs Sweden|1–0}}
+|report=https://www.uefa.com/uefaeuro/match/2017956/
+|team2={{fb|SWE}}
+|goals1=
+*[[Éder (footballer, born 1986)|Éder]] {{goal|88}}
+|goals2=
+|stadium=[[Stadium Municipal]], [[Toulouse]]
+|attendance=29,600<ref>{{cite web |url=http://www.uefa.org/newsfiles/euro/2016/2017956_fr.pdf |title=Full Time Summary – Italy v Sweden |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=17 June 2016 |access-date=17 June 2016}}</ref>
+|referee=[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ita16h
+ |pattern_b  = _ita16home
+ |pattern_ra = _ita16h
+ |pattern_sh =
+ |pattern_so = _ita16h
+ |leftarm    = 113ED7
+ |body       = 113ED7
+ |rightarm   = 113ED7
+ |shorts     = FFFFFF
+ |socks      = 113ED7
+ |title      = Italy<ref name="ita-swe_line-ups">{{cite web|url=http://www.uefa.org/newsfiles/euro/2016/2017956_lu.pdf|title=Tactical Line-ups – Italy v Sweden|website=[[UEFA]] |publisher=Union of European Football Associations |date=17 June 2016|access-date=17 June 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _zwe16h
+ |pattern_b  = _swe2016home
+ |pattern_ra = _zwe16h
+ |pattern_sh = _zwe16h
+ |pattern_so = _zwe16h
+ |leftarm    = FFF300
+ |body       = FFF300
+ |rightarm   = FFF300
+ |shorts     = 0000DD
+ |socks      = FFF300
+ |title      = Sweden<ref name="ita-swe_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Gianluigi Buffon]] ([[Captain (association football)|c]]) || {{yel|90+3}}
+|-
+|CB ||'''15'''||[[Andrea Barzagli]]
+|-
+|CB ||'''19'''||[[Leonardo Bonucci]]
+|-
+|CB ||'''3''' ||[[Giorgio Chiellini]]
+|-
+|RW ||'''8''' ||[[Alessandro Florenzi]] || || {{suboff|85}}
+|-
+|CM ||'''18'''||[[Marco Parolo]]
+|-
+|CM ||'''16'''||[[Daniele De Rossi]] || {{yel|69}} || {{suboff|74}}
+|-
+|CM ||'''23'''||[[Emanuele Giaccherini]]
+|-
+|LW ||'''6''' ||[[Antonio Candreva]]
+|-
+|CF ||'''9''' ||[[Graziano Pellè]] || || {{suboff|60}}
+|-
+|CF ||'''17'''||[[Éder (footballer, born 1986)|Éder]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||[[Simone Zaza]] || || {{subon|60}}
+|-
+|MF ||'''10'''||[[Thiago Motta]] || || {{subon|74}}
+|-
+|MF ||'''14'''||[[Stefano Sturaro]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Antonio Conte]]
+|}
+|valign="top"|[[File:ITA-SWE 2016-06-17.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Andreas Isaksson]]
+|-
+|RB ||'''14'''||[[Victor Lindelöf]]
+|-
+|CB ||'''3''' ||[[Erik Johansson (footballer, born 1988)|Erik Johansson]]
+|-
+|CB ||'''4''' ||[[Andreas Granqvist]]
+|-
+|LB ||'''5''' ||[[Martin Olsson]] || {{yel|90}}
+|-
+|RM ||'''7''' ||[[Sebastian Larsson]]
+|-
+|CM ||'''8''' ||[[Albin Ekdal]] || || {{suboff|79}}
+|-
+|CM ||'''9''' ||[[Kim Källström]]
+|-
+|LM ||'''6''' ||[[Emil Forsberg]] || || {{suboff|79}}
+|-
+|CF ||'''20'''||[[John Guidetti]] || || {{suboff|85}}
+|-
+|CF ||'''10'''||[[Zlatan Ibrahimović]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''21'''||[[Jimmy Durmaz]] || || {{subon|79}}
+|-
+|MF ||'''18'''||[[Oscar Lewicki]] || || {{subon|79}}
+|-
+|FW ||'''11'''||[[Marcus Berg]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Erik Hamrén]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Éder (footballer, born 1986)|Éder]] (Italy)<ref>{{cite news |first=Paul |last=Saffer |title=Éder sparks ecstasy as Italy go through |url=https://www.uefa.com/uefaeuro/history/news/0253-0d81979d5c4f-14b365572993-1000--eder-sparks-ecstasy-as-italy-beat-sweden-to-make-it-throu/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=17 June 2016 |access-date=17 June 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees">{{cite web |title=Who is the referee? UEFA EURO 2016 appointments |url=https://www.uefa.com/uefaeuro/history/news/0253-0d813bcef6a0-7b44d328d94c-1000--who-is-the-referee-uefa-euro-2016-appointments/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=10 June 2016 |access-date=10 June 2016 }}</ref>
+<br />György Ring ([[Hungarian Football Federation|Hungary]])
+<br />Vencel Tóth ([[Hungarian Football Federation|Hungary]])
+<br />'''Fourth official:'''
+<br />[[Clément Turpin]] ([[French Football Federation|France]])
+<br />'''Additional assistant referees:'''
+<br />[[Tamás Bognár]] ([[Hungarian Football Federation|Hungary]])
+<br />Ádám Farkas ([[Hungarian Football Federation|Hungary]])
+<br />'''Reserve assistant referee:'''
+<br />Nicolas Danos ([[French Football Federation|France]])
+|}
+
+===Belgium vs Republic of Ireland===
+<onlyinclude>{{#invoke:Football box|main|section=e4
+|date={{Start date|2016|6|18|df=y}}
+|time=15:00
+|team1={{fb-rt|BEL}}
+|score={{score link|UEFA Euro 2016 Group E#Belgium vs Republic of Ireland|3–0}}
+|report=https://www.uefa.com/uefaeuro/match/2017955/
+|team2={{fb|IRL}}
+|goals1=
+*[[Romelu Lukaku|R. Lukaku]] {{goal|48||70}}
+*[[Axel Witsel|Witsel]] {{goal|61}}
+|goals2=
+|stadium=[[Nouveau Stade de Bordeaux|Stade de Bordeaux]], [[Bordeaux]]
+|attendance=39,493<ref>{{cite web |url=http://www.uefa.org/newsfiles/euro/2016/2017955_fr.pdf |title=Full Time Summary – Belgium v Republic of Ireland |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=18 June 2016 |access-date=18 June 2016}}</ref>
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _belg16h
+ |pattern_b  = _belg16H
+ |pattern_ra = _belg16h
+ |pattern_sh = _belg16h
+ |pattern_so = _bel16h
+ |leftarm    = 000000
+ |body       = E00B0E
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = E00B0E
+ |title      = Belgium<ref name="bel-irl_line-ups">{{cite web|url=http://www.uefa.com/newsfiles/euro/2016/2017955_lu.pdf|archive-url=https://web.archive.org/web/20170329162938/http://www.uefa.com/newsfiles/euro/2016/2017955_lu.pdf|url-status=dead|archive-date=March 29, 2017|title=Tactical Line-ups – Belgium v Republic of Ireland|website=[[UEFA]] |publisher=Union of European Football Associations |date=18 June 2016|access-date=18 June 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ierland16a
+ |pattern_b  = _ierland16away
+ |pattern_ra = _ierland16a
+ |pattern_sh = _ierland16a
+ |pattern_so = _ierland16a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 00924A
+ |socks      = FFFFFF
+ |title      = {{nowrap|Republic of Ireland}}<ref name="bel-irl_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Thibaut Courtois]]
+|-
+|RB ||'''16'''||[[Thomas Meunier]]
+|-
+|CB ||'''2''' ||[[Toby Alderweireld]]
+|-
+|CB ||'''3''' ||[[Thomas Vermaelen]] || {{yel|49}}
+|-
+|LB ||'''5''' ||[[Jan Vertonghen]]
+|-
+|CM ||'''6''' ||[[Axel Witsel]]
+|-
+|CM ||'''19'''||[[Moussa Dembélé (Belgian footballer)|Moussa Dembélé]] || || {{suboff|57}}
+|-
+|RW ||'''11'''||[[Yannick Carrasco]] || || {{suboff|64}}
+|-
+|AM ||'''7''' ||[[Kevin De Bruyne]]
+|-
+|LW ||'''10'''||[[Eden Hazard]] ([[Captain (association football)|c]])
+|-
+|CF ||'''9''' ||[[Romelu Lukaku]] || || {{suboff|83}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''4''' ||[[Radja Nainggolan]] || || {{subon|57}}
+|-
+|FW ||'''14'''||[[Dries Mertens]] || || {{subon|64}}
+|-
+|FW ||'''20'''||[[Christian Benteke]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Marc Wilmots]]
+|}
+|valign="top"|[[File:BEL-IRL 2016-06-18.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Darren Randolph]]
+|-
+|RB ||'''2''' ||[[Séamus Coleman]]
+|-
+|CB ||'''4''' ||[[John O'Shea]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||[[Ciaran Clark]]
+|-
+|LB ||'''17'''||[[Stephen Ward (footballer)|Stephen Ward]]
+|-
+|RM ||'''13'''||[[Jeff Hendrick]] || {{yel|42}}
+|-
+|CM ||'''6''' ||[[Glenn Whelan]]
+|-
+|CM ||'''8''' ||[[James McCarthy (footballer)|James McCarthy]] || || {{suboff|62}}
+|-
+|LM ||'''19'''||[[Robbie Brady]]
+|-
+|SS ||'''20'''||[[Wes Hoolahan]] || || {{suboff|71}}
+|-
+|CF ||'''9''' ||[[Shane Long]] || || {{suboff|79}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11'''||[[James McClean]] || || {{subon|62}}
+|-
+|MF ||'''7''' ||[[Aiden McGeady]] || || {{subon|71}}
+|-
+|FW ||'''10'''||[[Robbie Keane]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|NIR}} [[Martin O'Neill]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Axel Witsel]] (Belgium)<ref>{{cite news |first=Paul |last=Saffer |title=Belgium find best form to beat Ireland |url=https://www.uefa.com/uefaeuro/history/news/0253-0d81a122b79c-40001135ebd2-1000--belgium-find-best-form-to-beat-ireland-in-euro-2016-group-e/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=18 June 2016 |access-date=18 June 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees">{{cite web |title=Who is the referee? UEFA EURO 2016 appointments |url=https://www.uefa.com/uefaeuro/history/news/0253-0d813bcef6a0-7b44d328d94c-1000--who-is-the-referee-uefa-euro-2016-appointments/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=10 June 2016 |access-date=10 June 2016 }}</ref>
+<br />Bahattin Duran ([[Turkish Football Federation|Turkey]])
+<br />Tarık Ongun ([[Turkish Football Federation|Turkey]])
+<br />'''Fourth official:'''
+<br />[[Benoît Bastien]] ([[French Football Federation|France]])
+<br />'''Additional assistant referees:'''
+<br />Hüseyin Göçek ([[Turkish Football Federation|Turkey]])
+<br />Barış Şimşek ([[Turkish Football Federation|Turkey]])
+<br />'''Reserve assistant referee:'''
+<br />Frédéric Cano ([[French Football Federation|France]])
+|}
+
+===Italy vs Republic of Ireland===
+<onlyinclude>{{#invoke:Football box|main|section=e5
+|date={{Start date|2016|6|22|df=y}}
+|time=21:00
+|team1={{fb-rt|ITA}}
+|score={{score link|UEFA Euro 2016 Group E#Italy vs Republic of Ireland|0–1}}
+|report=https://www.uefa.com/uefaeuro/match/2017958/
+|team2={{fb|IRL}}
+|goals1=
+|goals2=
+*[[Robbie Brady|Brady]] {{goal|85}}
+|stadium=[[Stade Pierre-Mauroy]], [[Villeneuve-d'Ascq]]
+|attendance=44,268<ref>{{cite web |url=http://www.uefa.org/newsfiles/euro/2016/2017958_fr.pdf |title=Full Time Summary – Italy v Republic of Ireland |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=22 June 2016 |access-date=22 June 2016}}</ref>
+|referee=[[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ita16h
+ |pattern_b  = _ita16home
+ |pattern_ra = _ita16h
+ |pattern_sh =
+ |pattern_so = _ita16h
+ |leftarm    = 113ED7
+ |body       = 113ED7
+ |rightarm   = 113ED7
+ |shorts     = FFFFFF
+ |socks      = 113ED7
+ |title      = Italy<ref name="ita-irl_line-ups">{{cite web|url=http://www.uefa.com/newsfiles/euro/2016/2017958_lu.pdf|archive-url=https://web.archive.org/web/20200926000732/https://www.uefa.com/newsfiles/euro/2016/2017958_lu.pdf|url-status=dead|archive-date=September 26, 2020|title=Tactical Line-ups – Italy v Republic of Ireland|website=[[UEFA]] |publisher=Union of European Football Associations |date=22 June 2016|access-date=22 June 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _ierland16a
+ |pattern_b  = _ierland16away
+ |pattern_ra = _ierland16a
+ |pattern_sh = _ierland16a
+ |pattern_so = _ierland16a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 00924A
+ |socks      = FFFFFF
+ |title      = {{nowrap|Republic of Ireland}}<ref name="ita-irl_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||[[Salvatore Sirigu]] || {{yel|39}}
+|-
+|CB ||'''15'''||[[Andrea Barzagli]] || {{yel|78}}
+|-
+|CB ||'''19'''||[[Leonardo Bonucci]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||[[Angelo Ogbonna]]
+|-
+|DM ||'''10'''||[[Thiago Motta]]
+|-
+|RW ||'''21'''||[[Federico Bernardeschi]] || || {{suboff|60}}
+|-
+|CM ||'''14'''||[[Stefano Sturaro]]
+|-
+|CM ||'''8''' ||[[Alessandro Florenzi]]
+|-
+|LW ||'''2''' ||[[Mattia De Sciglio]] || || {{suboff|81}}
+|-
+|CF ||'''7''' ||[[Simone Zaza]] || {{yel|87}}
+|-
+|CF ||'''11'''||[[Ciro Immobile]] || || {{suboff|74}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''4''' ||[[Matteo Darmian]] || || {{subon|60}}
+|-
+|FW ||'''20'''||[[Lorenzo Insigne]] || {{yel|90+1}} || {{subon|74}}
+|-
+|MF ||'''22'''||[[Stephan El Shaarawy]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Antonio Conte]]
+|}
+|valign="top"|[[File:ITA-IRL 2016-06-22.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''23'''||[[Darren Randolph]]
+|-
+|RB ||'''2''' ||[[Séamus Coleman]] ([[Captain (association football)|c]])
+|-
+|CB ||'''12'''||[[Shane Duffy]]
+|-
+|CB ||'''5''' ||[[Richard Keogh]]
+|-
+|LB ||'''17'''||[[Stephen Ward (footballer)|Stephen Ward]] || {{yel|73}}
+|-
+|RM ||'''13'''||[[Jeff Hendrick]]
+|-
+|CM ||'''11'''||[[James McClean]]
+|-
+|CM ||'''8''' ||[[James McCarthy (footballer)|James McCarthy]] || || {{suboff|77}}
+|-
+|LM ||'''19'''||[[Robbie Brady]]
+|-
+|SS ||'''21'''||[[Daryl Murphy]] || || {{suboff|70}}
+|-
+|CF ||'''9''' ||[[Shane Long]] || {{yel|39}} || {{suboff|90}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''7''' ||[[Aiden McGeady]] || || {{subon|70}}
+|-
+|MF ||'''20'''||[[Wes Hoolahan]] || || {{subon|77}}
+|-
+|MF ||'''22'''||[[Stephen Quinn]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|NIR}} [[Martin O'Neill]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Robbie Brady]] (Republic of Ireland)<ref>{{cite news |first=Sam |last=Adams |title=Brady sends euphoric Ireland into the last 16 |url=https://www.uefa.com/uefaeuro/history/news/0253-0d8182c03c0c-a9aab1b99211-1000--brady-header-wins-it-for-ireland-against-italy-in-euro-20/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=22 June 2016 |access-date=22 June 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees">{{cite web |title=Who is the referee? UEFA EURO 2016 appointments |url=https://www.uefa.com/uefaeuro/history/news/0253-0d813bcef6a0-7b44d328d94c-1000--who-is-the-referee-uefa-euro-2016-appointments/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=10 June 2016 |access-date=10 June 2016 }}</ref>
+<br />Octavian Șovre ([[Romanian Football Federation|Romania]])
+<br />Sebastian Gheorghe ([[Romanian Football Federation|Romania]])
+<br />'''Fourth official:'''
+<br />[[Anastasios Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+<br />'''Additional assistant referees:'''
+<br />[[Alexandru Tudor]] ([[Romanian Football Federation|Romania]])
+<br />Sebastian Colţescu ([[Romanian Football Federation|Romania]])
+<br />'''Reserve assistant referee:'''
+<br />Damianos Efthymiadis ([[Hellenic Football Federation|Greece]])
+|}
+
+===Sweden vs Belgium===
+<onlyinclude>{{#invoke:Football box|main|section=e6
+|date={{Start date|2016|6|22|df=y}}
+|time=21:00
+|team1={{fb-rt|SWE}}
+|score={{score link|UEFA Euro 2016 Group E#Sweden vs Belgium|0–1}}
+|report=https://www.uefa.com/uefaeuro/match/2017957/
+|team2={{fb|BEL}}
+|goals1=
+|goals2=
+*[[Radja Nainggolan|Nainggolan]] {{goal|84}}
+|stadium=[[Allianz Riviera|Stade de Nice]], [[Nice]]
+|attendance=34,011<ref>{{cite web |url=http://www.uefa.org/newsfiles/euro/2016/2017957_fr.pdf |title=Full Time Summary – Sweden v Belgium |work=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=22 June 2016 |access-date=22 June 2016}}</ref>
+|referee=[[Felix Brych]] ([[German Football Association|Germany]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _zwe16h
+ |pattern_b  = _swe2016home
+ |pattern_ra = _zwe16h
+ |pattern_sh = _zwe16h
+ |pattern_so = _zwe16h
+ |leftarm    = FFF300
+ |body       = FFF300
+ |rightarm   = FFF300
+ |shorts     = 0000DD
+ |socks      = FFF300
+ |title      = Sweden<ref name="swe-bel_line-ups">{{cite web|url=http://www.uefa.com/newsfiles/euro/2016/2017957_lu.pdf|archive-url=https://web.archive.org/web/20170329172922/http://www.uefa.com/newsfiles/euro/2016/2017957_lu.pdf|url-status=dead|archive-date=March 29, 2017|title=Tactical Line-ups – Sweden v Belgium|website=[[UEFA]] |publisher=Union of European Football Associations |date=22 June 2016|access-date=22 June 2016}}</ref>
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _bel16a
+ |pattern_ra =
+ |pattern_sh =
+ |pattern_so = _belg16a
+ |leftarm    = B8ECFC
+ |body       = B8ECFC
+ |rightarm   = B8ECFC
+ |shorts     = 000000
+ |socks      = B8ECFC
+ |title      = Belgium<ref name="swe-bel_line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+| style="vertical-align:top; width:40%;"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Andreas Isaksson]]
+|-
+|RB ||'''14'''||[[Victor Lindelöf]]
+|-
+|CB ||'''3''' ||[[Erik Johansson (footballer, born 1988)|Erik Johansson]] || {{yel|36}}
+|-
+|CB ||'''4''' ||[[Andreas Granqvist]]
+|-
+|LB ||'''5''' ||[[Martin Olsson]]
+|-
+|RM ||'''7''' ||[[Sebastian Larsson]] || || {{suboff|70}}
+|-
+|CM ||'''8''' ||[[Albin Ekdal]] || {{yel|33}}
+|-
+|CM ||'''9''' ||[[Kim Källström]]
+|-
+|LM ||'''6''' ||[[Emil Forsberg]] || || {{suboff|82}}
+|-
+|CF ||'''11'''||[[Marcus Berg]] || || {{suboff|63}}
+|-
+|CF ||'''10'''||[[Zlatan Ibrahimović]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''20'''||[[John Guidetti]] || || {{subon|63}}
+|-
+|MF ||'''21'''||[[Jimmy Durmaz]] || || {{subon|70}}
+|-
+|MF ||'''22'''||[[Erkan Zengin]] || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Erik Hamrén]]
+|}
+|valign="top"|[[File:SWE-BEL 2016-06-22.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| style="font-size:90%; margin:auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Thibaut Courtois]]
+|-
+|RB ||'''16'''||[[Thomas Meunier]] || {{yel|30}}
+|-
+|CB ||'''2''' ||[[Toby Alderweireld]]
+|-
+|CB ||'''3''' ||[[Thomas Vermaelen]]
+|-
+|LB ||'''5''' ||[[Jan Vertonghen]]
+|-
+|CM ||'''4''' ||[[Radja Nainggolan]]
+|-
+|CM ||'''6''' ||[[Axel Witsel]] || {{yel|45+1}}
+|-
+|RW ||'''11'''||[[Yannick Carrasco]] || || {{suboff|71}}
+|-
+|AM ||'''7''' ||[[Kevin De Bruyne]]
+|-
+|LW ||'''10'''||[[Eden Hazard]] ([[Captain (association football)|c]]) || || {{suboff|90+3}}
+|-
+|CF ||'''9''' ||[[Romelu Lukaku]] || || {{suboff|87}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''14'''||[[Dries Mertens]] || || {{subon|71}}
+|-
+|FW ||'''20'''||[[Christian Benteke]] || || {{subon|87}}
+|-
+|FW ||'''17'''||[[Divock Origi]] || || {{subon|90+3}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Marc Wilmots]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Eden Hazard]] (Belgium)<ref>{{cite news |first=Wayne |last=Harrison |title=Belgium's Nainggolan floors Sweden with late strike |url=https://www.uefa.com/uefaeuro/history/news/0253-0d8182d9824f-c3d379ec1303-1000--belgium-s-nainggolan-floors-sweden-with-late-strike-in-eu/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=22 June 2016 |access-date=22 June 2016 }}</ref>
+
+'''Assistant referees:'''<ref name="referees"/>
+<br />Mark Borsch ([[German Football Association|Germany]])
+<br />Stefan Lupp ([[German Football Association|Germany]])
+<br />'''Fourth official:'''
+<br />[[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+<br />'''Additional assistant referees:'''
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />[[Marco Fritz]] ([[German Football Association|Germany]])
+<br />'''Reserve assistant referee:'''
+<br />Jure Praprotnik ([[Football Association of Slovenia|Slovenia]])
+|}
+
+==See also==
+*[[Belgium at the UEFA European Championship]]
+*[[Italy at the UEFA European Championship]]
+*[[Republic of Ireland at the UEFA European Championship]]
+*[[Sweden at the UEFA European Championship]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20200807203154/https://www.uefa.com/uefaeuro/history/seasons/2016/standings/ UEFA Euro 2016 Group E]
+
+{{UEFA Euro 2016}}
+{{UEFA Euro 2016 finalists}}
+
+{{DEFAULTSORT:Group E}}
+[[Category:UEFA Euro 2016]]
+[[Category:Belgium at UEFA Euro 2016]]
+[[Category:Italy at UEFA Euro 2016]]
+[[Category:Sweden at UEFA Euro 2016]]
+[[Category:Republic of Ireland at UEFA Euro 2016]]
+[[Category:UEFA European Championship group stages]]
+[[Category:21st century in Lyon]]
+[[Category:21st century in Nice]]
+[[Category:Sports competitions in Lyon]]
+[[Category:Sport in Saint-Denis, Seine-Saint-Denis]]
+[[Category:Sports competitions in Bordeaux]]
+[[Category:Sport in Nice]]
+[[Category:Sport in Toulouse]]
+[[Category:Villeneuve-d'Ascq]]
+[[Category:Sport in Nord (French department)]]
+[[Category:Football in Hauts-de-France]]
+[[Category:21st century in Hauts-de-France]]
+[[Category:Football in Nouvelle-Aquitaine]]
+[[Category:Football in Provence-Alpes-Côte d'Azur]]
+[[Category:Football in Auvergne-Rhône-Alpes]]
+[[Category:Football in Occitania (administrative region)]]
+[[Category:21st century in Occitania (administrative region)]]
+[[Category:Football in Île-de-France]]
+[[Category:21st century in Île-de-France]]

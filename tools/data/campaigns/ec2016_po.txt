@@ -1,0 +1,250 @@
+{{Short description|Football tournament qualifying stage}}
+{{Use dmy dates|date=May 2026}}
+The play-offs of the [[UEFA Euro 2016 qualifying]] tournament decided the final four teams which qualified for the [[UEFA Euro 2016]] final tournament. Eight teams, each of which finished third in their qualifying group were paired and contested in four ties, with the winner of each pair qualifying for the final tournament. Each of the four ties were played over [[two-legged tie|two home-and-away legs]] with the four winners found according to the standard rules for the knockout phase in European competitions.<ref name="procedure">{{cite web |url=https://www.uefa.com/MultimediaFiles/Download/competitions/Draws/02/04/64/31/2046431_DOWNLOAD.pdf |title=UEFA EURO 2016 Qualifying Draw Procedure |publisher=UEFA |pages=1 |format=PDF |access-date=22 February 2014 |archive-url=https://web.archive.org/web/20140202150625/https://www.uefa.com/MultimediaFiles/Download/competitions/Draws/02/04/64/31/2046431_DOWNLOAD.pdf |archive-date=2 February 2014 |archive-format=PDF |url-status=live }}</ref> The matches took place between 12 and 17 November 2015.<ref name="play-off-faq">{{cite web|url=http://www.uefa.com/uefaeuro-finals/draws/round=2000447/index.html|archive-url=https://web.archive.org/web/20150304150344/http://www.uefa.com/uefaeuro-finals/draws/round=2000447/index.html|url-status=dead|archive-date=4 March 2015|title=Play-off draw|publisher=[[UEFA]]|access-date=18 October 2015}}</ref>
+
+==Ranking of third-placed teams==
+The highest ranked third placed team from the groups qualified automatically for the tournament, while the remainder entered the playoffs. As most groups contained six teams but one contained five, matches against the sixth-placed team in each group were not included in this ranking. As a result, a total of eight matches played by each team were counted in the third-placed ranking table.<ref name="regulations">{{cite web|url=https://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/03/92/81/2039281_DOWNLOAD.pdf|title=Regulations of the UEFA European Football Championship 2014-16|publisher=[[UEFA]]|archive-url=https://web.archive.org/web/20131219025616/https://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/03/92/81/2039281_DOWNLOAD.pdf|archive-date=19 December 2013|url-status=dead}}</ref>
+{{UEFA Euro 2016 qualifying group tables|3rd place}}
+
+==Seeding==
+The draw for the play-offs was held on 18 October 2015, 11:20 [[Central European Summer Time|CEST]], at the UEFA headquarters in [[Nyon]].<ref name="play-off-faq"/><ref name="draw">{{cite web|url=https://www.uefa.com/european-qualifiers/news/0253-0d8081af8a46-8b017aac63e3-1000--sweden-v-denmark-highlight-of-play-off-draw/|title=Sweden v Denmark highlight of play-off draw|publisher=[[UEFA]]|date=18 October 2015}}</ref> The teams were seeded for the play-off draw according to the [[UEFA coefficient#Men's national team coefficient|UEFA national team coefficient]] rankings updated after the completion of the qualifying group stage. The four top-ranked teams were seeded and paired with the four unseeded teams.<ref name="playoff seeding"/> The order of legs of each tie was also decided by draw.<ref name="playoff draw procedure">{{cite web|url=https://www.uefa.com/MultimediaFiles/Download/OfficialDocument/competitions/Draws/02/29/41/15/2294115_DOWNLOAD.pdf|title=UEFA EURO 2016 Play-off Draw|publisher=[[UEFA]]|archive-url=https://web.archive.org/web/20151106011559/https://www.uefa.com/MultimediaFiles/Download/OfficialDocument/competitions/Draws/02/29/41/15/2294115_DOWNLOAD.pdf|archive-date=6 November 2015|url-status=dead}}</ref>
+<section begin=Seeding />
+The seedings were as follows:<ref name="playoff seeding">{{cite web|url=https://www.uefa.com/european-qualifiers/news/0253-0d8056279075-3910f47e95a5-1000--uefa-euro-2016-play-off-reaction/|title=EURO 2016 play-off draw seedings confirmed|publisher=UEFA|date=14 October 2015|access-date=14 October 2015}}</ref><ref name="coefficients">{{cite web|url=https://www.uefa.com/MultimediaFiles/Download/competitions/General/02/29/41/14/2294114_DOWNLOAD.pdf|title=UEFA − National Team Coefficients Overview − Matches considered up to 14/10/2015|publisher=[[UEFA]]|archive-url=https://web.archive.org/web/20151105191136/https://www.uefa.com/MultimediaFiles/Download/competitions/General/02/29/41/14/2294114_DOWNLOAD.pdf|archive-date=5 November 2015|url-status=live}}</ref>
+
+{|
+|- valign=top
+|
+{| class="wikitable"
+|-
+|+ Pot 1 (seeded)
+|-
+! width=200| Team !! {{Tooltip|Coeff|UEFA national team coefficient}} !! {{Tooltip|Rank|Ranking on UEFA National Team Coefficient}}
+|-
+| {{fb|BIH}} || align=right| 30,367 || align=center| 13
+|-
+| {{fb|UKR}} || align=right| 30,313 || align=center| 14
+|-
+| {{fb|SWE}} || align=right| 29,028 || align=center| 16
+|-
+| {{fb|HUN}} || align=right| 27,142 || align=center| 20
+|}
+|
+{| class="wikitable"
+|-
+|+ Pot 2 (unseeded)
+|-
+! width=200| Team !! {{Tooltip|Coeff|UEFA national team coefficient}} !! {{Tooltip|Rank|Ranking on UEFA National Team Coefficient}}
+|-
+| {{fb|DEN}} || align=right| 27,140 || align=center| 21
+|-
+| {{fb|IRL}} || align=right| 26,902 || align=center| 23
+|-
+| {{fb|NOR}} || align=right| 26,439 || align=center| 25
+|-
+| {{fb|SVN}} || align=right| 25,441 || align=center| 26
+|}
+|}<section end=Seeding />
+
+==Summary==
+The schedule of the play-offs was published by UEFA within one hour of the draw.<ref name="draw"/> The eight matches were spread over the six days, with the first legs on 12–14 November and the second legs on 15–17 November. The kickoff times were 18:00 or 20:45 [[Central European Time|CET]] (local times are in parentheses).<ref name="playoff draw procedure"/>
+<section begin=Matches />{{#invoke:Sports series|main|flag=n|generate_links=y
+|{{fb-rt|UKR}}|3–1|{{fb|SVN}}|2–0|1–1
+|{{fb-rt|SWE}}|4–3|{{fb|DEN}}|2–1|2–2
+|{{fb-rt|BIH}}|1–3|{{fb|IRL}}|1–1|0–2
+|{{fb-rt|NOR}}|1–3|{{fb|HUN}}|0–1|1–2
+}}<section end=Matches />
+
+==Matches==
+{{Football box
+|id=Ukraine v Slovenia
+|date={{Start date|2015|11|14|df=y}}
+|time=18:00<br />(19:00 [[UTC+02:00|UTC+2]])
+|team1={{fb-rt|UKR}}
+|score=2–0
+|report=[https://www.uefa.com/uefaeuro/match/2018079--ukraine-vs-slovenia/ Report]
+|team2={{fb|SVN}}
+|goals1=
+* [[Andriy Yarmolenko|Yarmolenko]] {{goal|22}}
+* [[Yevhen Seleznyov|Seleznyov]] {{goal|54}}
+|goals2=
+|stadium=[[Arena Lviv]], [[Lviv]]
+|attendance=32,592<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/14/europe/european-championship-qualification/ukraine/slovenia/2164519/?ICID=PL_MS_05 | title = Ukraine vs Slovenia 2–0 | publisher=Soccerway | date= 14 November 2015 | access-date = 28 November 2015}}</ref>
+|referee=[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+}}
+{{Football box
+|id=Slovenia v Ukraine
+|date={{Start date|2015|11|17|df=y}}
+|time=20:45<br />(20:45 [[UTC+01:00|UTC+1]])
+|team1={{fb-rt|SVN}}
+|score=1–1
+|report=[https://www.uefa.com/uefaeuro/match/2018083--slovenia-vs-ukraine/ Report]
+|team2={{fb|UKR}}
+|goals1=
+* [[Boštjan Cesar|Cesar]] {{goal|11}}
+|goals2=
+* [[Andriy Yarmolenko|Yarmolenko]] {{goal|90+7}}
+|stadium=[[Ljudski vrt]], [[Maribor]]
+|attendance=12,702<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/17/europe/european-championship-qualification/slovenia/ukraine/2164523/?ICID=PL_MS_06 | title = Slovenia vs Ukraine 1–1 | publisher=Soccerway | date= 17 November 2015 | access-date = 28 November 2015}}</ref>
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+}}
+''Ukraine won 3–1 on aggregate and qualified for [[UEFA Euro 2016]].''
+----
+{{Football box
+|id=Sweden v Denmark
+|date={{Start date|2015|11|14|df=y}}
+|time=20:45<br />(20:45 [[UTC+01:00|UTC+1]])
+|team1={{fb-rt|SWE}}
+|score=2–1
+|report=[https://www.uefa.com/uefaeuro/match/2018080--sweden-vs-denmark/ Report]
+|team2={{fb|DEN}}
+|goals1=
+* [[Emil Forsberg|Forsberg]] {{goal|45}}
+* [[Zlatan Ibrahimović|Ibrahimović]] {{goal|50|pen.}}
+|goals2=
+* [[Nicolai Jørgensen|Jørgensen]] {{goal|80}}
+|stadium=[[Friends Arena]], [[Solna Municipality|Solna]]
+|attendance=49,053<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/14/europe/european-championship-qualification/sweden/denmark/2164520/?ICID=PL_MS_07 | title = Sweden vs Denmark 2–1 | publisher=Soccerway | date= 14 November 2015 | access-date = 28 November 2015}}</ref>
+|referee=[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+}}
+{{Football box
+|id=Denmark v Sweden
+|date={{Start date|2015|11|17|df=y}}
+|time=20:45<br />(20:45 [[UTC+01:00|UTC+1]])
+|team1={{fb-rt|DEN}}
+|score=2–2
+|report=[https://www.uefa.com/uefaeuro/match/2018084--denmark-vs-sweden/ Report]
+|team2={{fb|SWE}}
+|goals1=
+* [[Yussuf Poulsen|Y. Poulsen]] {{goal|82}}
+* [[Jannik Vestergaard|Vestergaard]] {{goal|90+1}}
+|goals2=
+* [[Zlatan Ibrahimović|Ibrahimović]] {{goal|19||76}}
+|stadium=[[Parken Stadium|Telia Parken]], [[Copenhagen]]
+|attendance=36,051<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/17/europe/european-championship-qualification/denmark/sweden/2164524/?ICID=PL_MS_08 | title = Denmark vs Sweden 2–2 | publisher=Soccerway | date= 17 November 2015 | access-date = 28 November 2015}}</ref>
+|referee=[[Martin Atkinson]] ([[The Football Association|England]])
+}}
+''Sweden won 4–3 on aggregate and qualified for [[UEFA Euro 2016]].''
+----
+{{Football box
+|id=Bosnia and Herzegovina v Republic of Ireland
+|date={{Start date|2015|11|13|df=y}}
+|time=20:45<br />(20:45 [[UTC+01:00|UTC+1]])
+|team1={{fb-rt|BIH}}
+|score=1–1
+|report=[https://www.uefa.com/uefaeuro/match/2018078--bosnia-and-herzegovina-vs-republic-of-ireland/ Report]
+|team2={{fb|IRL}}
+|goals1=
+* [[Edin Džeko|Džeko]] {{goal|85}}
+|goals2=
+* [[Robbie Brady|Brady]] {{goal|82}}
+|stadium=[[Bilino Polje Stadium|Bilino Polje]], [[Zenica]]
+|attendance=12,000<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/13/europe/european-championship-qualification/bosnia-herzegovina/ireland-republic/2164521/?ICID=PL_MS_03 | title = Bosnia and Herzegovina vs Republic of Ireland 1–1 | publisher=Soccerway | date= 13 November 2015 | access-date = 28 November 2015}}</ref>
+|referee=[[Felix Brych]] ([[German Football Association|Germany]])
+}}
+{{Football box
+|id=Republic of Ireland v Bosnia and Herzegovina
+|date={{Start date|2015|11|16|df=y}}
+|time=20:45<br />(19:45 [[UTC±00:00|UTC±0]])
+|team1={{fb-rt|IRL}}
+|score=2–0
+|report=[https://www.uefa.com/uefaeuro/match/2018082--republic-of-ireland-vs-bosnia-and-herzegovina/ Report]
+|team2={{fb|BIH}}
+|goals1=
+* [[Jonathan Walters|Walters]] {{goal|24|pen.|70}}
+|goals2=
+|stadium=[[Aviva Stadium]], [[Dublin]]
+|attendance=50,500<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/16/europe/european-championship-qualification/ireland-republic/bosnia-herzegovina/2164525/?ICID=PL_MS_04 | title = Republic of Ireland vs Bosnia and Herzegovina 2–0 | publisher=Soccerway | date= 16 November 2015 | access-date = 28 November 2015}}</ref>
+|referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+''Republic of Ireland won 3–1 on aggregate and qualified for [[UEFA Euro 2016]].''
+----
+{{Football box
+|id=Norway v Hungary
+|date={{Start date|2015|11|12|df=y}}
+|time=20:45<br />(20:45 [[UTC+01:00|UTC+1]])
+|team1={{fb-rt|NOR}}
+|score=0–1
+|report=[https://www.uefa.com/uefaeuro/match/2018077--norway-vs-hungary/ Report]
+|team2={{fb|HUN}}
+|goals1=
+|goals2=
+* [[László Kleinheisler|Kleinheisler]] {{goal|26}}
+|stadium=[[Ullevaal Stadion]], [[Oslo]]
+|attendance=27,182<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/12/europe/european-championship-qualification/norway/hungary/2164522/?ICID=PL_MS_01 | title = Norway vs Hungary 0–1 | publisher=Soccerway | date= 12 November 2015 | access-date = 28 November 2015}}</ref>
+|referee=[[Mark Clattenburg]] ([[The Football Association|England]])
+}}
+{{Football box
+|id=Hungary v Norway
+|date={{Start date|2015|11|15|df=y}}
+|time=20:45<br />(20:45 [[UTC+01:00|UTC+1]])
+|team1={{fb-rt|HUN}}
+|score=2–1
+|report=[https://www.uefa.com/uefaeuro/match/2018081--hungary-vs-norway/ Report]
+|team2={{fb|NOR}}
+|goals1=
+* [[Tamás Priskin|Priskin]] {{goal|14}}
+* [[Markus Henriksen|Henriksen]] {{goal|83|o.g.}}
+|goals2=
+* [[Markus Henriksen|Henriksen]] {{goal|87}}
+|stadium=[[Groupama Arena]], [[Budapest]]
+|attendance=22,189<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/15/europe/european-championship-qualification/hungary/norway/2164526/?ICID=PL_MS_02 | title = Hungary vs Norway 2–1 | publisher=Soccerway | date= 15 November 2015 | access-date = 28 November 2015}}</ref>
+|referee=[[Carlos Velasco Carballo]] ([[Royal Spanish Football Federation|Spain]])
+}}
+''Hungary won 3–1 on aggregate and qualified for [[UEFA Euro 2016]].''
+
+==Goalscorers==
+{{#invoke:Goalscorers|main|UEFA Euro 2016 qualifying|round=playoffs}}
+
+== Discipline ==
+A player was automatically suspended for the next match for the following offences:<ref name="regulations"/>
+* Receiving a red card (red card suspensions could be extended for serious offences)
+* Receiving three yellow cards in three different matches, as well as after fifth and any subsequent yellow card (yellow card suspensions were carried forward to the play-offs, but not the finals or any other future international matches)
+The following suspensions were served during the play-off matches:
+
+{| class="wikitable" style="font-size:90%"
+|-
+! Team
+! Player
+! Offence(s)
+! Suspended for match(es)
+|-
+| {{fb|BIH}} || [[Muhamed Bešić]] || {{sent off|0}} vs Andorra (6 September 2015)<ref>{{cite web|url=http://www.goal.com/ba/news/7082/bih/2015/09/17/15460382/be%C5%A1i%C4%87u-tri-utakmice-suspenzije|title=Udarac je to za reprezentaciju BiH jer Bešić je jedan od nezamjenjiv u timu Mehmeda Baždarevića|publisher=Goal.com|date=17 September 2015}}</ref> || vs Republic of Ireland (13 November 2015)
+|-
+| rowspan=2 | {{fb|HUN}} || [[Roland Juhász]] || {{yel}} vs Romania (11 October 2014)<br />{{yel}} vs Finland (13 June 2015)<br />{{yel}} vs Greece (11 October 2015) || vs Norway (12 November 2015)
+|-
+| [[Zoltán Gera]] || {{yel}} vs Romania (11 October 2014)<br />{{yel}} vs Faroe Islands (14 October 2014)<br />{{yel}} vs Finland (13 June 2015)<br />{{yel}} vs Faroe Islands (8 October 2015)<br />{{yel}} vs Norway (12 November 2015) || vs Norway (15 November 2015)
+|-
+| rowspan=2 | {{fb|IRL}} || [[John O'Shea]] || {{sent off|2}} vs Poland (11 October 2015) || vs Bosnia and Herzegovina (13 November 2015)
+|-
+| [[Jonathan Walters]] || {{yel}} vs Georgia (7 September 2014)<br />{{yel}} vs Gibraltar (4 September 2015)<br />{{yel}} vs Poland (11 October 2015) || vs Bosnia and Herzegovina (13 November 2015)
+|-
+| rowspan=2 | {{fb|UKR}} || [[Oleksandr Kucher]] || {{yel}} vs Belarus (9 October 2014)<br />{{yel}} vs Spain (27 March 2015)<br />{{yel}} vs Spain (12 October 2015) || vs Slovenia (14 November 2015)
+|-
+| [[Taras Stepanenko]] || {{yel}} vs Slovakia (8 September 2014)<br />{{yel}} vs Slovakia (8 September 2015)<br />{{yel}} vs Spain (12 October 2015) || vs Slovenia (14 November 2015)
+|}
+
+==See also==
+*[[Denmark–Sweden football rivalry]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20200912195426/https://www.uefa.com/uefaeuro/history/seasons/2016/playoffs/ UEFA Euro 2016 qualifying play-offs]
+
+{{UEFA Euro 2016 qualifying}}
+{{UEFA European Championship play-offs}}
+
+[[Category:UEFA Euro 2016 qualifying|Play-offs]]
+[[Category:Denmark–Sweden football rivalry|2015]]
+[[Category:Hungary–Norway sports relations|2015]]
+[[Category:Slovenia–Ukraine sports relations|2015]]
+[[Category:Hungary at UEFA Euro 2016|Play-offs]]
+[[Category:Republic of Ireland at UEFA Euro 2016|Play-offs]]
+[[Category:Sweden at UEFA Euro 2016|Play-offs]]
+[[Category:Ukraine at UEFA Euro 2016|Play-offs]]
+[[Category:2015–16 in Bosnia and Herzegovina football]]
+[[Category:2015–16 in Danish football]]
+[[Category:2015 in Norwegian football]]
+[[Category:2015–16 in Slovenian football]]
+[[Category:2015 in Swedish football]]

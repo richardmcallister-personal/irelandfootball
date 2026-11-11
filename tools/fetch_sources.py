@@ -23,3 +23,14 @@ for name, title in (("matches", "Matches_of_the_Republic_of_Ireland_national_foo
 for name in ("1980–1989", "1990–1999", "2000–2009", "2010–2019", "2020–present"):
     open(f"tools/data/wiki_results_{name[:4]}.txt", "w", encoding="utf-8").write(get(WIKI + urllib.parse.quote("Republic_of_Ireland_national_football_team_results_(" + name + ")")))
     print("wiki results", name)
+# Tournament articles for the campaign pages (tools/build_campaigns.py)
+CAMPAIGNS = {"wc1990_q": "1990 FIFA World Cup qualification – UEFA Group 6", "wc1990_g": "1990 FIFA World Cup Group F", "wc1990_ko": "1990 FIFA World Cup knockout stage", "wc1990_sq": "1990 FIFA World Cup squads",
+             "wc1994_q": "1994 FIFA World Cup qualification – UEFA Group 3", "wc1994_g": "1994 FIFA World Cup Group E", "wc1994_ko": "1994 FIFA World Cup knockout stage", "wc1994_sq": "1994 FIFA World Cup squads",
+             "wc2002_q": "2002 FIFA World Cup qualification – UEFA Group 2", "wc2002_po": "2002 FIFA World Cup qualification (UEFA–AFC play-off)", "wc2002_g": "2002 FIFA World Cup Group E", "wc2002_ko": "2002 FIFA World Cup knockout stage", "wc2002_sq": "2002 FIFA World Cup squads",
+             "ec2012_q": "UEFA Euro 2012 qualifying Group B", "ec2012_po": "UEFA Euro 2012 qualifying play-offs", "ec2012_g": "UEFA Euro 2012 Group C", "ec2012_sq": "UEFA Euro 2012 squads",
+             "ec2016_q": "UEFA Euro 2016 qualifying Group D", "ec2016_po": "UEFA Euro 2016 qualifying play-offs", "ec2016_g": "UEFA Euro 2016 Group E", "ec2016_ko": "UEFA Euro 2016 knockout stage", "ec2016_sq": "UEFA Euro 2016 squads",
+             "ire_wc": "Republic of Ireland at the FIFA World Cup", "ire_ec": "Republic of Ireland at the UEFA European Championship"}
+os.makedirs("tools/data/campaigns", exist_ok=True)
+for f, title in CAMPAIGNS.items():
+    open(f"tools/data/campaigns/{f}.txt", "w", encoding="utf-8").write(get(WIKI + urllib.parse.quote(title.replace(" ", "_"))))
+print("wiki campaigns", len(CAMPAIGNS))
