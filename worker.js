@@ -297,7 +297,8 @@ async function lifetimeMeta(html, y, env, u) {
     const w = S.filter(m => m.gf > m.ga), big = w.slice().sort((a, b) => (b.gf - b.ga) - (a.gf - a.ga) || b.gf - a.gf || (a.d < b.d ? -1 : 1))[0];
     const esc = s => String(s).replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;");
     const title = "Ireland since " + y;
-    const desc = S.length + " games, " + w.length + " won" + (big ? ". Biggest win: " + big.gf + "–" + big.ga + " v " + big.o + ", " + big.d.slice(0, 4) : "") + ". Enter your own birth year.";
+    const won = S.filter(m => m.pw != null ? m.pw : m.gf > m.ga).length;  // a shoot-out win counts as a win, as on the page
+    const desc = S.length + " games, " + won + " won" + (big ? ". Biggest win: " + big.gf + "–" + big.ga + " v " + big.o + ", " + big.d.slice(0, 4) : "") + ". Enter your own birth year.";
     return html.replace(/<title>[^<]*<\/title>/, "<title>" + esc(title) + " · Ireland Football</title>")
       .replace(/<meta name="description" content="[^"]*">/, '<meta name="description" content="' + esc(desc) + '">')
       .replace(/<meta property="og:title" content="[^"]*">/, '<meta property="og:title" content="' + esc(title) + '">')
