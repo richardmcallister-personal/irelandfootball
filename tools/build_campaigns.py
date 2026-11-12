@@ -166,3 +166,20 @@ json.dump(SQJ, open("site/history/squads.json", "w", encoding="utf-8"), ensure_a
 # every campaign is listed in stories.json, so results, reports, search and Ireland in your lifetime link to it
 have = {s["slug"] for s in STORIES["campaigns"]}
 for c in C: assert c["slug"] in have, ("add to tools/data/stories.json", c["slug"])
+
+# /campaigns/: every campaign and big-match page, newest first, with the home shirt of the time
+KIT_YEAR = {"euro-1988": 1988, "world-cup-1990": 1990, "world-cup-1994": 1994, "world-cup-2002": 2002, "euro-2012": 2012, "euro-2016": 2016}
+cards = []
+for s in sorted(STORIES["campaigns"], key=lambda s: s["to"], reverse=True):
+    y = KIT_YEAR.get(s["slug"])
+    cards.append(f'<a class="camp" href="/campaigns/{s["slug"]}/">' + (f'<img src="/assets/kits/{y}-home.png" alt="" loading="lazy">' if y else "") + f'<span><b>{E(s["name"])}</b><i>{E(s["desc"])}</i></span></a>')
+for m in STORIES["matches"]:
+    cards.append(f'<a class="camp" href="/matches/{m["slug"]}/"><span><b>{E(m["title"])}</b><i>{E(m["desc"])}</i></span></a>')
+body = ('<style>.camps{display:grid;grid-template-columns:1fr;gap:12px}@media (min-width:800px){.camps{grid-template-columns:repeat(2,minmax(0,1fr))}}'
+        '.camp{display:grid;grid-template-columns:96px 1fr;gap:14px;align-items:center;background:var(--paper);border:1px solid var(--rule);border-radius:var(--radius);padding:10px 14px 10px 10px;color:var(--ink);text-decoration:none}'
+        '.camp img{width:96px;height:auto;background:var(--red);border-radius:2px;padding:6px;box-sizing:border-box}.camp b{display:block;font-size:20px;margin-bottom:4px}.camp i{color:var(--muted)}.camp:hover b{color:var(--red-ink)}'
+        '.camp:not(:has(img)){grid-template-columns:1fr}</style>'
+        '<div class="sheet"><h2>Every campaign</h2><p class="sub">Each major finals Ireland reached, from qualifying to the last game, and the big matches with pages of their own.</p></div>'
+        f'<div class="camps" style="margin-top:12px">{"".join(cards)}</div>')
+page("/campaigns/", "Every campaign · Ireland Football", "Every major finals Ireland reached, from qualifying to the last game.", "Campaigns", body, "Tables, results and squads: Wikipedia (CC BY-SA), checked against the archive.")
+print("campaigns index", len(cards))

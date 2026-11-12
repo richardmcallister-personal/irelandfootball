@@ -32,6 +32,8 @@ export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
     if (url.hostname.startsWith("www.")) return Response.redirect(url.origin.replace("//www.", "//") + url.pathname + url.search, 301);
+    // dev Worker (env.dev in wrangler.jsonc): data, alerts, collections, calendars and portraits come from the live site
+    if (env.UPSTREAM && /^\/(api\/|wiki$|wiki-raw$|push\/|collection$|calendar\.ics$|img\/)/.test(url.pathname)) return fetch(new Request(env.UPSTREAM + url.pathname + url.search, request));
     if (url.pathname.startsWith("/img/player/")) return portrait(url, ctx);
     if (url.pathname === "/wiki") return wiki(url, env, ctx);
     if (url.pathname === "/wiki-raw") return wikiRaw(url, env, ctx);
@@ -363,6 +365,7 @@ async function page(request, env) {
   if (u.pathname === "/xi/" && u.searchParams.get("p")) html = await xiMeta(html, env, u);
   const body = html.replace("<head>", '<head><meta name="mu-country" content="' + ((request.cf && request.cf.country) || "").replace(/[^A-Z]/g, "") + '">' + LANG_HEAD);
   const h = new Headers(res.headers); h.delete("content-length"); h.set("cache-control", "private, max-age=0, must-revalidate");
+  if (env.UPSTREAM) h.set("x-robots-tag", "noindex");   // the dev site stays out of search
   return new Response(body, { status: res.status, headers: h });
 }
 

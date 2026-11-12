@@ -390,3 +390,20 @@ table.mu td .note{display:block;font-size:12px;color:var(--muted);margin-top:2px
 @media (max-width:560px){.story+.sheet table.mu td,.story~.sheet table.mu th{padding-left:4px;padding-right:4px}}
 :root{--want:#b8860b;--photo:#fff;--photo-ink:#111;--on-flag:#fff;--scrim:rgba(0,0,0,.72);--shadow:rgba(0,0,0,.25)}
 .langpick{display:flex;gap:2px;align-items:center;font-size:13px;margin-left:auto} .langpick a{color:inherit;text-decoration:none;padding:5px 10px;border-radius:14px;opacity:.85} .langpick a:hover{opacity:1;text-decoration:underline} .langpick a[aria-current]{opacity:1;font-weight:600;background:rgba(255,255,255,.2)} .langpick a{color:#fff}
+
+/* ===== Editorial skin (dev.irelandfootball.wiki trial, Nov 2026) =====
+   Cream paper, deep green masthead, serif headlines with small-caps labels, one orange accent for rules and arrows.
+   Everything is tokens, so the rest of the site follows; scores and kick-off times stay in Anton. */
+:root{--bg:#f4efe4;--paper:#fbf8f1;--ink:#17221c;--muted:#5b645d;--rule:#d8cfbd;--tint:#ece4d4;--red:#0c4a33;--red-ink:#0b5a3c;--us:#e2ece4;--flame:#d9692a;--serif:"Source Serif 4",Georgia,"Times New Roman",serif;--radius:4px;--nav:#0c4a33}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1512;--paper:#152019;--ink:#efe9dc;--muted:#a4aa9f;--rule:#2b372f;--tint:#1c2821;--red:#0c4a33;--red-ink:#86cfa6;--us:#183026;--flame:#f08a4b;--nav:#0a3726}}
+:root[data-theme="dark"]{--bg:#0f1512;--paper:#152019;--ink:#efe9dc;--muted:#a4aa9f;--rule:#2b372f;--tint:#1c2821;--red:#0c4a33;--red-ink:#86cfa6;--us:#183026;--flame:#f08a4b;--nav:#0a3726}
+body{background:var(--bg)}
+header.mu h1{font-family:var(--serif);font-weight:600;letter-spacing:-.01em;text-transform:none;font-size:30px}
+header.mu h1 small{font-family:var(--serif);font-style:italic;font-weight:400;text-transform:none;letter-spacing:0}
+header.mu .from{font-family:var(--serif);font-style:italic}
+nav.munav a{font-family:var(--serif);font-size:17px;font-weight:400}
+nav.munav a[aria-current]{box-shadow:inset 0 -3px 0 var(--flame)}
+.sheet{border-radius:var(--radius);border:1px solid var(--rule);box-shadow:none;background:var(--paper)}
+.sheet>h2,.sheet>h2.row,main h2{font-family:var(--serif);font-weight:600;letter-spacing:-.01em}
+.btn{border-radius:var(--radius)} .btn.ghost{border-radius:var(--radius)}
+.kick{font-family:var(--serif);font-size:13px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--muted)}

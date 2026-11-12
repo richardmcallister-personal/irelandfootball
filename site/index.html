@@ -40,10 +40,52 @@
 <link rel="apple-touch-startup-image" media="screen and (device-width: 810px) and (device-height: 1080px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="/assets/splash/2160x1620.png">
 <link rel="apple-touch-startup-image" media="screen and (device-width: 744px) and (device-height: 1133px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="/assets/splash/1488x2266.png">
 <link rel="apple-touch-startup-image" media="screen and (device-width: 744px) and (device-height: 1133px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="/assets/splash/2266x1488.png">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap">
 <link rel="stylesheet" href="/mu.css">
 <style>
 .alertRow{display:flex;gap:10px;align-items:center;flex-wrap:wrap} .prefs{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:6px 18px;margin:12px 0 0;font-size:14px} .prefs label{display:flex;gap:8px;align-items:center} .prefs input{width:16px;height:16px;accent-color:var(--red-ink)} #alertStatus{font-size:13px}
+
+/* ===== editorial front page (dev trial) ===== */
+.nextbar{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:8px 20px;padding:14px 4px;border-bottom:1px solid var(--rule);margin:4px 0 16px;color:var(--ink);text-decoration:none}
+.nextbar .kick b{color:var(--flame);font-weight:600} .nbm{display:flex;align-items:center;gap:12px;font-family:var(--serif);font-size:22px}
+.nbm img{width:30px;height:30px;object-fit:contain} .nbm .t{font-family:var(--score);font-size:20px;background:var(--tint);padding:4px 10px;border-radius:3px}
+.lead{display:grid;grid-template-columns:1fr;gap:16px} @media (min-width:900px){.lead{grid-template-columns:minmax(0,3fr) minmax(0,1fr)}}
+.story{position:relative;background:var(--red);color:var(--on-flag);border-radius:var(--radius);overflow:hidden;min-height:420px;display:grid;grid-template-columns:1fr}
+@media (min-width:700px){.story{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}}
+.story:before{content:"";position:absolute;inset:0;background:repeating-linear-gradient(135deg,transparent 0 22px,color-mix(in srgb,var(--on-flag) 3%,transparent) 22px 44px);pointer-events:none}
+.story .tx{position:relative;padding:36px 36px 32px;display:flex;flex-direction:column;justify-content:center}
+.story .kick{color:var(--on-flag);opacity:.9} .story .kick:after{content:"";display:block;width:56px;height:3px;background:var(--flame);margin:10px 0 0}
+.story h2{font-family:var(--serif);font-weight:600;font-size:clamp(36px,5vw,58px);line-height:1.02;letter-spacing:-.02em;margin:18px 0 14px;color:var(--on-flag)}
+.story p{font-family:var(--serif);font-style:italic;font-size:19px;line-height:1.4;margin:0 0 22px;max-width:30em;opacity:.95}
+.story .cta{align-self:flex-start;display:inline-flex;gap:10px;align-items:center;font-family:var(--serif);font-size:18px;color:var(--on-flag);text-decoration:none;border:1.5px solid var(--on-flag);padding:9px 18px;border-radius:3px}
+.story .cta:hover{background:color-mix(in srgb,var(--on-flag) 12%,transparent)}
+.story .vis{position:relative;display:flex;align-items:center;justify-content:center;padding:24px;min-height:220px}
+.story .vis .shirt{width:min(96%,440px);height:auto;filter:drop-shadow(0 18px 30px var(--shadow))}
+.story .vis .era{position:absolute;right:22px;top:22px;width:82px;height:auto;filter:drop-shadow(0 4px 10px var(--shadow))}
+.story .vis .score{font-family:var(--score);font-size:120px;line-height:1;color:var(--on-flag)}
+.start .kick{margin:4px 0 6px;color:var(--ink)} .start ul{list-style:none;margin:0;padding:0}
+.start li{border-top:1px solid var(--rule)} .start li:last-child{border-bottom:1px solid var(--rule)}
+.start a{display:flex;justify-content:space-between;align-items:center;padding:16px 2px;font-family:var(--serif);font-size:22px;color:var(--ink);text-decoration:none}
+.start a span{color:var(--flame)} .start a:hover{color:var(--red-ink)}
+h2.sect{display:flex;align-items:center;gap:20px;font-family:var(--serif);font-weight:600;font-size:clamp(26px,3.4vw,36px);letter-spacing:-.01em;margin:36px 0 16px}
+h2.sect:after{content:"";flex:1;border-top:1.5px solid var(--red-ink);opacity:.6}
+.doors{display:grid;grid-template-columns:1fr;gap:14px} @media (min-width:900px){.doors{grid-template-columns:repeat(3,minmax(0,1fr))}}
+.door{display:grid;grid-template-columns:150px 1fr;gap:16px;background:var(--paper);border:1px solid var(--rule);border-radius:var(--radius);padding:10px;color:var(--ink);text-decoration:none}
+.door .pic{background:var(--red);border-radius:2px;display:flex;align-items:center;justify-content:center;min-height:160px;overflow:hidden}
+.door .pic img{width:80%;height:auto} .door .pic.crest img{width:64%}
+.door .pic.num{flex-direction:column;color:var(--on-flag);font-family:var(--score);font-size:52px;line-height:1} .door .pic.num small{font-family:var(--serif);font-size:15px;letter-spacing:.14em;text-transform:uppercase;margin-top:6px;opacity:.85}
+.door .tx{display:flex;flex-direction:column;padding:6px 4px} .door b{font-family:var(--serif);font-weight:600;font-size:24px;line-height:1.15;margin-bottom:8px}
+.door i{font-family:var(--serif);font-size:16px;line-height:1.4;color:var(--muted)} .door .arr{color:var(--flame);font-size:22px;margin-top:auto;padding-top:8px}
+.door:hover b{color:var(--red-ink)}
+@media (max-width:560px){.door{grid-template-columns:110px 1fr} .door .pic{min-height:130px} .story .tx{padding:26px 22px} .start a{font-size:20px}}
+.recstrip{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px 24px;border-top:1.5px solid var(--red-ink);border-bottom:1.5px solid var(--red-ink);padding:14px 10px;margin:28px 0 0}
+.recstrip .k{font-family:var(--serif);font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--red-ink)} .recstrip i{font-family:var(--serif)}
+.recstrip .n{font-family:var(--serif);font-weight:700;font-size:34px;color:var(--red-ink)} .recstrip .n small{font-size:13px;letter-spacing:.14em;text-transform:uppercase;margin-left:6px;color:var(--ink);font-weight:600}
+.recstrip a{color:inherit;text-decoration:none}
+/* matchday: the match card takes the lead */
+body:not(.matchday) #matchSlot{display:none} body.matchday .story{display:none} body.matchday .lead{grid-template-columns:1fr}
+@media (min-width:900px){body.matchday .lead{grid-template-columns:minmax(0,3fr) minmax(0,1fr)}}
+#matchSlot #matchSheet{margin-top:0}
 /* hub layout: one column on phones, three on desktop (same as manutd.wiki) */
 .hub{display:grid;grid-template-columns:1fr;gap:0} .hub .sheet{margin-top:12px}
 @media (min-width:900px){.hub{grid-template-columns:repeat(3,minmax(0,1fr));gap:0 16px;align-items:start} .hub .col{display:flex;flex-direction:column;min-width:0} .hub #alerts{grid-column:1/-1}}
@@ -91,7 +133,27 @@ table.mini{width:100%;border-collapse:collapse;font-size:14px;font-variant-numer
   <div class="from" id="from">Ireland<span>Men's senior team</span></div>
 </header>
 <nav class="munav" aria-label="Sections"></nav>
-<main class="hub" id="main-content" tabindex="-1">
+<main id="main-content" tabindex="-1">
+<a class="nextbar" id="nextbar" href="/season/"><span class="kick"><b>Next</b> · <span id="nbComp">Loading</span> · <span id="nbDate"></span></span><span class="nbm" id="nbMatch"></span></a>
+<section class="lead" aria-label="Story">
+  <article class="story" id="story"></article><div id="matchSlot"></div>
+  <aside class="start"><h2 class="kick">Start here</h2><ul>
+    <li><a href="/campaigns/world-cup-1990/">Italia ’90<span aria-hidden="true">→</span></a></li>
+    <li><a href="/campaigns/euro-1988/">Euro ’88<span aria-hidden="true">→</span></a></li>
+    <li><a href="/matches/ireland-romania-1990/">Ireland v Romania<span aria-hidden="true">→</span></a></li>
+    <li><a href="/lifetime/">Ireland in your lifetime<span aria-hidden="true">→</span></a></li>
+    <li><a href="/campaigns/">All campaigns<span aria-hidden="true">→</span></a></li>
+  </ul></aside>
+</section>
+<h2 class="sect"><span>From the current team to the archive</span></h2>
+<div class="doors">
+  <a class="door" href="/milestones/"><span class="pic kit"><img src="/assets/kits/2026-home.png" alt="" loading="lazy"></span><span class="tx"><b>The current team</b><i>Players nearing their milestones, the latest squad, and your XI for the next game.</i><span class="arr" aria-hidden="true">→</span></span></a>
+  <a class="door" href="/lifetime/"><span class="pic crest"><img src="/assets/crests-old/old-1969-1985.png" alt="" loading="lazy"></span><span class="tx"><b>A century of Ireland</b><i>Every finals campaign, the managers who shaped them, and Ireland in your lifetime.</i><span class="arr" aria-hidden="true">→</span></span></a>
+  <a class="door" href="/results/"><span class="pic num"><span id="nGames">600+</span><small>games</small></span><span class="tx"><b>Every result since 1924</b><i>The complete match archive: every game, score and opponent, with match reports from 1986.</i><span class="arr" aria-hidden="true">→</span></span></a>
+</div>
+<div class="recstrip" id="rec"></div>
+<h2 class="sect"><span>This season</span></h2>
+<div class="hub">
   <div class="col">
   <div class="sheet mc" id="matchSheet"><div class="k">Next match</div><p class="line" style="margin-top:12px">Loading…</p></div>
   <div class="tiles" id="tiles">
@@ -142,6 +204,7 @@ table.mini{width:100%;border-collapse:collapse;font-size:14px;font-variant-numer
     <label><input type="checkbox" data-p="milestones" checked> Milestones: caps, goals and records, at full-time (<a href="/milestones/">watchlist</a>)</label>
   </div>
   <p class="sub" id="alertHint" style="margin:8px 0 0" hidden></p>
+</div>
 </div>
 </main>
 <footer class="mu"><span id="stamp"></span> Results and competitive scorers: <a href="https://github.com/martj42/international_results">martj42 international results</a> (CC0). Venues, managers, notes and caps: Wikipedia (CC BY-SA). Live data: API-Football. An independent fan site, not connected with the FAI.</footer>
@@ -247,5 +310,38 @@ Promise.all([MU.api("squad"),fetch("/api/form").then(function(r){return r.json()
   e.innerHTML='<h2 class="row">At their clubs <a href="/squad/">Squad →</a></h2>'+R.map(function(r){var l=r.x.last, res=l.gf>l.ga?"W":l.gf<l.ga?"L":"D", bits=[l.min+"′"]; if(l.goals)bits.push(l.goals+(l.goals>1?" goals":" goal")); if(l.assists)bits.push(l.assists+(l.assists>1?" assists":" assist"));
     return '<div class="uprow done" style="grid-template-columns:minmax(0,1fr) auto"><span class="o">'+E(r.p.name)+'<small>'+E(r.x.club.name)+' v '+E(l.opp)+' · '+bits.join(", ")+'</small></span><span class="res"><span class="sc">'+l.gf+'–'+l.ga+'</span>'+MU.form(res)+'</span></div>'}).join("")}).catch(function(){});
 var mh=location.hash==="#more"&&$("more"); if(mh)mh.scrollIntoView();
+})();
+</script><script>
+// Editorial front page (dev trial): one lead story, rotating daily or on an anniversary; on matchday the match card leads.
+(function(){
+var $=function(i){return document.getElementById(i)}, E=MU.esc;
+var LEADS=[
+ {d:"06-25",kick:"Genoa, 25 June 1990",h:"Bonner’s save, O’Leary’s penalty",p:"Ireland beat Romania 5–4 on penalties and reached a World Cup quarter-final at the first attempt.",href:"/matches/ireland-romania-1990/",cta:"Read the match",kit:"1990-home",era:"old-1987-1991"},
+ {d:"06-30",kick:"The road to Italia ’90",h:"A summer that changed everything",p:"Second behind Spain in qualifying, three draws in the group, the shoot-out in Genoa and a quarter-final in Rome.",href:"/campaigns/world-cup-1990/",cta:"Explore the campaign",kit:"1990-home",era:"old-1987-1991"},
+ {d:"06-12",kick:"Euro ’88",h:"Stuttgart, 12 June 1988",p:"Ray Houghton’s goal beat England in Ireland’s first game at a major finals.",href:"/campaigns/euro-1988/",cta:"Explore the campaign",kit:"1988-home",era:"old-1987-1991"},
+ {d:"06-18",kick:"USA ’94",h:"Houghton again, and Italy beaten",p:"Through on goals scored after a draw in Belfast, then 1–0 against Italy at Giants Stadium.",href:"/campaigns/world-cup-1994/",cta:"Explore the campaign",kit:"1994-home",era:"old-1991-2004"},
+ {d:"06-05",kick:"World Cup 2002",h:"Keane, in stoppage time",p:"A late equaliser against Germany, a 3–0 win over Saudi Arabia and a shoot-out with Spain in Suwon.",href:"/campaigns/world-cup-2002/",cta:"Explore the campaign",kit:"2002-home",era:"old-1991-2004"},
+ {d:"06-22",kick:"Euro 2016",h:"Long beat Germany, Brady beat Italy",p:"Ireland reached the last 16 in France, and led the hosts in Lyon after two minutes.",href:"/campaigns/euro-2016/",cta:"Explore the campaign",kit:"2016-home",era:"old-2014-2017"}];
+var now=new Date(), md=function(d){var x=new Date(now.getFullYear()+"-"+d+"T12:00:00Z"); return Math.abs(x-now)/864e5};
+var pick=LEADS.filter(function(l){return md(l.d)<=7})[0]||LEADS[Math.floor(now/864e5)%LEADS.length];
+$("story").innerHTML='<div class="tx"><span class="kick">'+E(pick.kick)+'</span><h2>'+E(pick.h)+'</h2><p>'+E(pick.p)+'</p><a class="cta" href="'+pick.href+'">'+E(pick.cta)+' <span aria-hidden="true">→</span></a></div>'+
+  '<div class="vis"><img class="shirt" src="/assets/kits/'+pick.kit+'.png" alt="The home shirt of the time"><img class="era" src="/assets/crests-old/'+pick.era+'.png" alt="The crest of the time"></div>';
+
+// next match strip, and matchday: from three hours before kick-off to six hours after, the match card leads
+var DONE=/FT|AET|PEN/, DEAD=/CANC|PST|ABD|AWD|WO/;
+MU.api("fixtures").then(function(j){var L=(j.response||[]).slice().sort(function(a,b){return a.fixture.timestamp-b.fixture.timestamp}), t=Date.now();
+  var up=L.filter(function(f){return !DONE.test(f.fixture.status.short)&&!DEAD.test(f.fixture.status.short)})[0], last=L.filter(function(f){return DONE.test(f.fixture.status.short)}).pop();
+  var md=(up&&up.fixture.timestamp*1000-t<3*36e5)||(last&&t-last.fixture.timestamp*1000<8*36e5);
+  if(md){document.body.classList.add("matchday"); var c=$("matchSheet"); if(c)$("matchSlot").appendChild(c)}
+  if(!up){$("nextbar").hidden=true; return}
+  var H=up.teams.home, A=up.teams.away, nm=function(t){return t.name==="Rep. Of Ireland"?"Ireland":t.name}, cr=function(t){return MU.crest(t.name,30)||""};
+  $("nextbar").href="/match/?id="+up.fixture.id; $("nbComp").textContent=up.league.name; $("nbDate").textContent=MU.fmtDate(up.fixture.date,{year:"numeric"});
+  $("nbMatch").innerHTML=cr(H)+'<span>'+E(nm(H))+'</span><span class="t">'+MU.fmtLocal(up.fixture.date)+'</span><span>'+E(nm(A))+'</span>'+cr(A);
+}).catch(function(){$("nextbar").hidden=true});
+
+// the record strip and the archive count
+Promise.all([fetch("/history/players.json").then(function(r){return r.json()}),fetch("/history/records.json").then(function(r){return r.json()})]).then(function(a){
+  var g=a[0].slice().sort(function(x,y){return y.goals-x.goals})[0]; $("nGames").textContent=a[1].all.p;
+  $("rec").innerHTML='<a class="k" href="/player/?p='+g.slug+'">'+E(g.name)+'</a><i>Ireland’s record goalscorer</i><span class="n">'+g.caps+'<small>caps</small></span><span class="n">'+g.goals+'<small>goals</small></span><i>'+g.debut.slice(0,4)+'–'+g.last.slice(0,4)+'</i>'});
 })();
 </script></body></html>
