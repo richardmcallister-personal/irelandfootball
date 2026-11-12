@@ -172,7 +172,7 @@ async function push(request, url, env, ctx) {
   const b = await request.json().catch(() => ({}));
   if (p === "/push/subscribe") {
     if (!b.sub || !b.sub.endpoint || !b.sub.keys) return json({ error: "subscription required" }, 400);
-    const prefs = Object.assign({ goals: true, lineups: true, kickoff: true, result: true }, b.prefs || {});
+    const prefs = Object.assign({ goals: true, lineups: true, kickoff: true, result: true, milestones: true }, b.prefs || {});
     const key = await subKey(b.sub.endpoint), old = await env.MU_CACHE.get(key, "json");
     await env.MU_CACHE.put(key, JSON.stringify({ sub: b.sub, prefs, created: old ? old.created : Date.now(), seen: Date.now(), ua: (request.headers.get("user-agent") || "").slice(0, 120) }));
     return json({ ok: true, prefs });
@@ -233,6 +233,7 @@ async function pushTick(env) {
     }
     if (!state.sent.ht && st === "HT") { state.sent.ht = 1; fan("result", { title: "Half-time: " + name(g.home, g.away), body: next.league.name, kind: "ht" }); }
     if (!state.sent.ft && /FT|AET|PEN/.test(st)) { state.sent.ft = 1; const pen = st === "PEN" && f.score && f.score.penalty ? " · " + f.score.penalty.home + "–" + f.score.penalty.away + " on penalties" : ""; const w = g.home === g.away ? (st === "PEN" ? "" : "Draw") : ((g.home > g.away) === home ? "Ireland win" : "Ireland lose"); fan("result", { title: "Full-time: " + name(g.home, g.away) + (st === "AET" ? " (aet)" : ""), body: (w ? w + pen + " · " : "") + next.league.name, kind: "ft", ttl: 86400 }); }
+    if (state.sent.ft && !state.sent.ms) { state.sent.ms = 1; try { for (const x of await milestones(env, f)) fan("milestones", { title: "Milestone: " + x.name, body: x.what.join(" · ") + " · v " + opp, kind: "milestone", url: "/milestones/", ttl: 86400 }); } catch (e) { console.log("milestones", e && e.message); } }
   }
   await env.MU_CACHE.put(sk, JSON.stringify(state), { expirationTtl: 2 * 86400 });
   for (const o of out) for (const s of subs) { if (s.prefs && s.prefs[o.pref] === false) continue; try { await sendPush(env, s, o.msg); } catch (e) { console.log("push fail", e && e.message); } }
@@ -286,6 +287,35 @@ async function calendar(url, env) {
   }
   L.push("END:VCALENDAR");
   return new Response(L.map(icsFold).join("\r\n") + "\r\n", { headers: { "content-type": "text/calendar; charset=utf-8", "cache-control": "public, max-age=1800", "content-disposition": (one ? "attachment" : "inline") + '; filename="' + (one ? "ireland-" + one : "ireland-fixtures") + '.ics"', "access-control-allow-origin": "*" } });
+}
+
+// Milestone alerts at full-time: caps (10, 25, 50, 100), goals (5, 10, 20 … 50) and places in the all-time top ten, for the
+// players who appeared. Counts come from the archive; if the archive does not have this game yet, it is added on.
+// Feed names are matched to the archive as the squad page does: surname, plus the initial when the feed gives one.
+const CAP_MS = [10, 25, 50, 100], GOAL_MS = [5, 10, 20, 30, 40, 50];
+async function milestones(env, f) {
+  const get = (p) => env.ASSETS.fetch(new Request("https://irelandfootball.wiki" + p)).then((r) => r.json());
+  const [P, M] = await Promise.all([get("/history/players.json"), get("/history/matches.json")]);
+  const d = f.fixture.date.slice(0, 10), counted = M.some((m) => m.d === d);
+  const us = (f.lineups || []).find((l) => l.team.id === TEAM); if (!us) return [];
+  const slug = (s) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+  const arch = (n) => { const sn = slug(n.split(" ").pop()), ini = /^[A-Z]\./.test(n) ? n[0].toLowerCase() : null;
+    return P.filter((h) => slug(h.name.split(" ").pop()) === sn && (!ini || h.name[0].toLowerCase() === ini) && h.last >= "2020").sort((x, y) => y.caps - x.caps)[0]; };
+  const played = new Set(us.startXI.map((x) => x.player.name));
+  for (const e of f.events || []) if (e.type === "subst" && e.team.id === TEAM) for (const x of [e.player, e.assist]) if (x && x.name) played.add(x.name);
+  const goals = {}; for (const e of f.events || []) if (e.type === "Goal" && e.team.id === TEAM && e.detail !== "Own Goal" && e.detail !== "Missed Penalty" && e.player && e.player.name) goals[e.player.name] = (goals[e.player.name] || 0) + 1;
+  const rank = (k, v, self) => P.filter((x) => x.slug !== self && x[k] > v).length + 1, out = [], seen = {};
+  const th = (n) => n + (["th", "st", "nd", "rd"][(n % 100 - 20) % 10] || ["th", "st", "nd", "rd"][n % 100] || "th");
+  for (const n of played) {
+    const p = arch(n); if (!p || seen[p.slug]) continue; seen[p.slug] = 1;
+    const c = p.caps + (counted ? 0 : 1), g0 = counted ? p.goals - (goals[n] || 0) : p.goals, g = g0 + (goals[n] || 0), what = [];
+    if (CAP_MS.includes(c)) what.push(th(c) + " cap");
+    const rc = rank("caps", c, p.slug), rc0 = rank("caps", c - 1, p.slug); if (rc <= 10 && rc < rc0) what.push("now " + th(rc) + " on the all-time caps list");
+    for (const m of GOAL_MS) if (g0 < m && g >= m) what.push(th(m) + " Ireland goal");
+    if (g > g0) { const rg = rank("goals", g, p.slug), rg0 = rank("goals", g0, p.slug); if (rg <= 10 && rg < rg0) what.push(rg === 1 ? "Ireland's record scorer" : "now " + th(rg) + " on the all-time scorers list"); }
+    if (what.length) out.push({ name: p.name, what });
+  }
+  return out;
 }
 
 // "Ireland in your lifetime": a shared link previews the sender's numbers (WhatsApp, iMessage, Slack read these tags)

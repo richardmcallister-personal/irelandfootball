@@ -597,7 +597,25 @@
 "Play-off": "Babhta athimeartha",
 "beat Romania on penalties": "bhuaigh siad ar an Rómáin ar chiceanna éirice",
 "(won on penalties)": "(bua ar chiceanna éirice)",
-"(lost on penalties)": "(cailleadh ar chiceanna éirice)"
+"(lost on penalties)": "(cailleadh ar chiceanna éirice)",
+"Who is close to 10, 25, 50 or 100 caps, or the next goal record": "Cé atá gar do 10, 25, 50 nó 100 caipín, nó don chéad taifead cúl eile",
+"Who is close to 10, 25, 50 or 100 caps, the next goal milestone, or the next name on the all-time lists. It covers the latest squad and anyone capped in the last 18 months, and updates when the archive does after each game.": "Cé atá gar do 10, 25, 50 nó 100 caipín, don chéad gharsprioc cúl eile, nó don chéad ainm eile ar liostaí na staire. Clúdaíonn sé an scuad is déanaí agus aon duine a fuair caipín sna 18 mí deireanacha, agus nuashonraítear é nuair a nuashonraítear an chartlann tar éis gach cluiche.",
+"Get an alert when someone reaches one": "Faigh foláireamh nuair a shroicheann duine ceann acu",
+"Caps: next milestone": "Caipíní: an chéad gharsprioc eile",
+"Climbing the caps list": "Ag dreapadh liosta na gcaipíní",
+"Goals: next milestone": "Cúil: an chéad gharsprioc eile",
+"Climbing the scorers list": "Ag dreapadh liosta na scórálaithe",
+"Reached in the last 12 months": "Bainte amach sna 12 mhí deireanacha",
+"Next": "An chéad cheann eile",
+"Needs": "Le fáil",
+"not in the latest squad": "níl sa scuad is déanaí",
+"Nobody yet.": "Duine ar bith fós.",
+"None in the last 12 months.": "Dada sna 12 mhí deireanacha.",
+"Nobody is within five games of 10, 25, 50 or 100 caps.": "Níl aon duine laistigh de chúig chluiche de 10, 25, 50 nó 100 caipín.",
+"Nobody is within three goals of 5, 10, 20, 30, 40 or 50.": "Níl aon duine laistigh de thrí chúl de 5, 10, 20, 30, 40 nó 50.",
+"Milestones: caps, goals and records, at full-time (": "Garspriocanna: caipíní, cúil agus taifid, ag an lánam (",
+"watchlist": "liosta faire",
+")": ")"
 },
 "patterns": [
 [
@@ -995,6 +1013,46 @@
 [
 "^Euro (\\d{4}), Wikipedia$",
 "Euro $1, Vicipéid Bhéarla"
+],
+[
+"^Next chance:$",
+"An chéad deis eile:"
+],
+[
+"^(\\d+)(?:st|nd|rd|th) all-time, (\\d+)$",
+"$1ú sa stair, $2"
+],
+[
+"^(\\d+) · the record$",
+"$1 · an taifead"
+],
+[
+"^(\\d+) to draw level with (.+), (\\d+) to pass$",
+"$1 le bheith cothrom le $2, $3 le dul thairis"
+],
+[
+"^(\\d+) to pass$",
+"$1 le dul thairis"
+],
+[
+"^won a (\\d+)(?:st|nd|rd|th) cap$",
+"fuair $1ú caipín"
+],
+[
+"^scored a (\\d+)(?:st|nd|rd|th) Ireland goal$",
+"scóráil $1ú cúl d’Éirinn"
+],
+[
+"^Records:$",
+"Taifid:"
+],
+[
+"^, (\\d+) caps; $",
+", $1 caipín; "
+],
+[
+"^, (\\d+) goals\\.$",
+", $1 cúl."
 ]
 ],
 "blocks": {
