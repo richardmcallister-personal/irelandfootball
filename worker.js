@@ -40,6 +40,8 @@ export default {
     if (url.pathname === "/collection") { try { return await collection(request, url, env); } catch (e) { return json({ error: "collection: " + (e && e.message || e) }, 500); } }
     if (url.pathname === "/calendar.ics") { try { return await calendar(url, env); } catch (e) { return json({ error: "calendar: " + (e && e.message || e) }, 500); } }
     if (url.pathname.startsWith("/push/")) { try { return await push(request, url, env, ctx); } catch (e) { return json({ error: "push: " + (e && e.message || e) }, 500); } }
+    // dev site: its own icons (crest with an orange DEV band), so its tab and home-screen icon can't be mistaken for the live site
+    if (env.UPSTREAM && /^\/assets\/(favicon-32|apple-touch-icon|icon-192|icon-512|icon-512-maskable)\.png$/.test(url.pathname)) { const u = new URL(request.url); u.pathname = "/assets/dev/" + url.pathname.split("/").pop(); return env.ASSETS.fetch(new Request(u, request)); }
     if (!url.pathname.startsWith("/api/")) return page(request, env);
 
     if (url.pathname === "/api/form") {
