@@ -7,5 +7,18 @@
   "routes": [{ "pattern": "irelandfootball.wiki", "custom_domain": true }, { "pattern": "www.irelandfootball.wiki", "custom_domain": true }],
   "kv_namespaces": [{ "binding": "MU_CACHE", "id": "528c9417ccdd4af29cf1c35adf9d8e79" }],
   "triggers": { "crons": ["7 * * * *", "* * * * *"] },
-  "observability": { "enabled": true }
+  "observability": { "enabled": true },
+  "env": {
+    // dev.irelandfootball.wiki: a second Worker built from the `redesign` branch (deploy command `npx wrangler deploy --env dev`).
+    // Pages come from this build; every data call is proxied to the live site, so this Worker has no API key, no KV and no
+    // crons: it cannot send alerts or write anything itself.
+    "dev": {
+      "name": "irelandfootball-dev",
+      "workers_dev": true,
+      "routes": [{ "pattern": "dev.irelandfootball.wiki", "custom_domain": true }],
+      "vars": { "UPSTREAM": "https://irelandfootball.wiki" },
+      "kv_namespaces": [],
+      "triggers": { "crons": [] }
+    }
+  }
 }
