@@ -615,7 +615,36 @@
 "Nobody is within three goals of 5, 10, 20, 30, 40 or 50.": "Níl aon duine laistigh de thrí chúl de 5, 10, 20, 30, 40 nó 50.",
 "Milestones: caps, goals and records, at full-time (": "Garspriocanna: caipíní, cúil agus taifid, ag an lánam (",
 "watchlist": "liosta faire",
-")": ")"
+")": ")",
+"Pick your XI": "Roghnaigh d’fhoireann",
+"All-time, a tournament squad or the next game, as a card to share": "Na blianta ar fad, scuad comórtais nó an chéad chluiche eile, mar chárta le roinnt",
+"Pick from everyone capped since 1924, from one tournament squad, or from the latest squad for the next game. Tap a position to choose a player, then share the card. The link opens your XI as you left it.": "Roghnaigh ó gach duine a fuair caipín ó 1924, ó scuad comórtais amháin, nó ón scuad is déanaí don chéad chluiche eile. Tapáil suíomh chun imreoir a roghnú, ansin roinn an cárta. Osclaíonn an nasc d’fhoireann mar a d’fhág tú í.",
+"Pick from": "Roghnaigh ó",
+"Formation": "Foirmiú",
+"Title": "Teideal",
+"Your name": "D’ainm",
+"Optional": "Roghnach",
+"Share image": "Roinn an íomhá",
+"Download PNG": "Íoslódáil PNG",
+"Copy link": "Cóipeáil an nasc",
+"Copy text": "Cóipeáil an téacs",
+"Clear": "Glan",
+"All-time: everyone capped since 1924": "Na blianta ar fad: gach duine a fuair caipín ó 1924",
+"Latest squad: your XI for the next game": "An scuad is déanaí: d’fhoireann don chéad chluiche eile",
+"Pick a player": "Roghnaigh imreoir",
+"Search players": "Cuardaigh imreoirí",
+"Leave this position empty": "Fág an suíomh seo folamh",
+"Natural position": "Suíomh nádúrtha",
+"Other positions": "Suíomhanna eile",
+"Pick": "Roghnaigh",
+"Showing players with 10 caps or more. Search to find anyone capped since 1924.": "Imreoirí le 10 gcaipín nó níos mó. Cuardaigh chun aon duine a fuair caipín ó 1924 a aimsiú.",
+"No one matches.": "Níl aon duine ag teacht leis.",
+"Forward": "Tosaí",
+"uncapped": "gan chaipín",
+"Copied.": "Cóipeáilte.",
+"Link copied. It opens this XI.": "Cóipeáladh an nasc. Osclaíonn sé an fhoireann seo.",
+"Pick your XI for the next game": "Roghnaigh d’fhoireann don chéad chluiche eile",
+"Your XI as a share card": "D’fhoireann mar chárta le roinnt"
 },
 "patterns": [
 [
@@ -1053,6 +1082,34 @@
 [
 "^, (\\d+) goals\\.$",
 ", $1 cúl."
+],
+[
+"^(\\d+) of 11 picked\\. Each player can be used once\\.$",
+"$1 as 11 roghnaithe. Is féidir gach imreoir a úsáid uair amháin."
+],
+[
+"^(.+) squad$",
+"Scuad {T1}"
+],
+[
+"^(\\d+) caps · (\\d+) goals · (\\d{4})–(\\d{4})$",
+"$1 caipín · $2 cúl · $3–$4"
+],
+[
+"^(\\d+) caps · (\\d+) goals( in all)?$",
+"$1 caipín · $2 cúl"
+],
+[
+"^My all-time Ireland XI$",
+"Mo fhoireann Éireannach den uile am"
+],
+[
+"^My Ireland XI$",
+"Mo fhoireann Éireannach"
+],
+[
+"^My (.+) XI$",
+"Mo fhoireann {T1}"
 ]
 ],
 "blocks": {

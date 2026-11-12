@@ -27,6 +27,10 @@ Static pages from `tools/build_stories.py`: `/matches/ireland-romania-1990/`, `/
 
 The Kits page has a new section of 215 shirts (420 photos) from the James Nolan Memorial Collection, added alongside the existing kits. Design and own, wishlist, notes and Buy links come from manutd.wiki's shirts page, with the store at `/collection` (hashed key, this site's KV). Buy links search for the year and type, not the exact shirt. Shirts from 2021 on are listed in `tools/data/kits_extra.csv`, most awaiting photos from Richard. No permission from Eddie O'Mahony yet; Richard has a draft request. Not used for training or leisure tops, prototypes or the LA Galaxy shirts.
 
+## Pick your XI
+
+`/xi/`: the manutd.wiki "Pick your XI" builder (tap a position, pick from a dialog with natural positions first) in Ireland's colours, with three sources: everyone capped since 1924, one tournament squad (Euro ’88 to Euro 2016, from `site/history/squads.json`, written by `build_stories.py` and `build_campaigns.py`), or the latest squad (live feed, with portraits). Seven formations, an optional title and name. The share card is a 1080×1350 PNG drawn on a canvas from the theme tokens (green, Anton, Inter, crest): "Share image" uses the phone's share sheet with the file, otherwise it downloads. The page URL holds the XI (`?s=&f=&p=slugs&t=&n=`), so a link reopens it, and the Worker turns it into a link preview with the title and the eleven names. The last XI is kept in the browser. Linked from Explore on the hub and from the Squad page.
+
 ## Milestone watch and milestone alerts
 
 `/milestones/`: the latest squad plus anyone capped in the last 18 months. Shows who is within five games of 10, 25, 50 or 100 caps, within three goals of 5, 10, 20, 30, 40 or 50 goals, where each stands on the all-time caps and scorers lists with the next former player to draw level with and pass, and milestones reached in the last 12 months (only where the archive has every appearance or goal for that player). Counts come from `players.json`, so they move when the archive is rebuilt after each window. Linked from Explore on the hub; the next fixture is shown as "Next chance".

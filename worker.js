@@ -318,6 +318,22 @@ async function milestones(env, f) {
   return out;
 }
 
+// A shared XI previews its title and the eleven names
+async function xiMeta(html, env, u) {
+  try {
+    const P = await (await env.ASSETS.fetch(new Request(u.origin + "/history/players.json"))).json(), by = {}; for (const p of P) by[p.slug] = p.name;
+    const names = (u.searchParams.get("p") || "").split(",").slice(0, 11).map((k) => by[k]).filter(Boolean);
+    if (!names.length) return html;
+    const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;");
+    const who = (u.searchParams.get("n") || "").slice(0, 30), title = (u.searchParams.get("t") || "").slice(0, 60) || (who ? who + "’s Ireland XI" : "An Ireland XI");
+    const desc = (u.searchParams.get("f") || "") + " · " + names.join(", ") + ". Pick your own.";
+    return html.replace(/<title>[^<]*<\/title>/, "<title>" + esc(title) + " · Ireland Football</title>")
+      .replace(/<meta name="description" content="[^"]*">/, '<meta name="description" content="' + esc(desc) + '">')
+      .replace(/<meta property="og:title" content="[^"]*">/, '<meta property="og:title" content="' + esc(title) + '">')
+      .replace(/<meta property="og:description" content="[^"]*">/, '<meta property="og:description" content="' + esc(desc) + '">');
+  } catch (e) { return html }
+}
+
 // "Ireland in your lifetime": a shared link previews the sender's numbers (WhatsApp, iMessage, Slack read these tags)
 async function lifetimeMeta(html, y, env, u) {
   try {
@@ -344,6 +360,7 @@ async function page(request, env) {
   let html = await res.text();
   const u = new URL(request.url);
   if (u.pathname === "/lifetime/" && /^\d{4}$/.test(u.searchParams.get("y") || "")) html = await lifetimeMeta(html, +u.searchParams.get("y"), env, u);
+  if (u.pathname === "/xi/" && u.searchParams.get("p")) html = await xiMeta(html, env, u);
   const body = html.replace("<head>", '<head><meta name="mu-country" content="' + ((request.cf && request.cf.country) || "").replace(/[^A-Z]/g, "") + '">' + LANG_HEAD);
   const h = new Headers(res.headers); h.delete("content-length"); h.set("cache-control", "private, max-age=0, must-revalidate");
   return new Response(body, { status: res.status, headers: h });

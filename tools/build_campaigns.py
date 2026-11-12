@@ -61,6 +61,7 @@ def group_table(name, pts):
     rows = [tr([team(n), T[n]["p"], T[n]["w"], T[n]["d"], T[n]["l"], T[n]["f"], T[n]["a"], T[n]["pts"]], H, "key" if n == "Ireland" else "") for n in order]
     return table(H, rows), order, T
 
+SQX = {}
 def squad(name):
     txt = open(CD + name + ".txt", encoding="utf-8").read()
     s = re.search(r"===\s*Republic of Ireland\s*===", txt).end(); e = re.search(r"\n===?[^=]", txt[s:]).start() + s
@@ -74,6 +75,7 @@ def squad(name):
         cl = re.search(r"\[\[([^\]|]+)(?:\|([^\]]*))?\]\]", F.get("club", ""))
         club = (cl.group(2) or cl.group(1)) if cl else F.get("club", "").strip()
         cap = " (captain)" if "captain" in F.get("other", "").lower() else ""
+        SQX.setdefault(name, []).append(dict(no=int(F.get("no", "0").strip() or 0), pos=F.get("pos", "").strip(), name=nm, **({"s": p["slug"]} if p else {})))
         rows.append(tr([F.get("no", "").strip(), F.get("pos", "").strip(), (f'<a href="/player/?p={p["slug"]}">{E(nm)}</a>' if p else E(nm)) + cap, E(club), F.get("caps", "").strip()], H))
     assert len(rows) >= 22, (name, len(rows))
     return table(H, rows), len(rows)
@@ -157,6 +159,10 @@ C = [
 for c in C:
     R = build(c)
     print(c["slug"], "qualifying", len(R["q"]), "play-off", len(R["po"]), "finals", len(R["f"]) + len(R["ko"]), "squad", R["nsq"])
+# squads for the line-up builder (site/xi/), after Euro ’88 from build_stories.py
+SQJ = json.load(open("site/history/squads.json", encoding="utf-8"))
+for c in C: SQJ[c["slug"]] = {"name": c["name"], "y": c["y"], "players": SQX[c["sq"]]}
+json.dump(SQJ, open("site/history/squads.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
 # every campaign is listed in stories.json, so results, reports, search and Ireland in your lifetime link to it
 have = {s["slug"] for s in STORIES["campaigns"]}
 for c in C: assert c["slug"] in have, ("add to tools/data/stories.json", c["slug"])
