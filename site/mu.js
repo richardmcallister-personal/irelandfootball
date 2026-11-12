@@ -19,6 +19,20 @@ window.MU=(function(){
     var d=document.createElement("span"); d.className="themesw"; d.setAttribute("role","group"); d.setAttribute("aria-label","Appearance"); d.innerHTML=["auto","light","dark"].map(function(m){return '<button type="button" data-m="'+m+'" aria-pressed="'+(m===cur)+'">'+m+'</button>'}).join("");
     d.addEventListener("click",function(e){var b=e.target.closest("button"); if(b)theme(b.dataset.m)}); f.appendChild(document.createTextNode(" Appearance:")); f.appendChild(d)}
   document.addEventListener("DOMContentLoaded",themeSwitch);
+  // Site footer (as on manutd.wiki): the site, its sections, official links and Richard's other sites; the page's own
+  // source note and the appearance and language controls follow underneath.
+  function siteFooter(){var f=document.querySelector("footer.mu"); if(!f||f.querySelector(".sitefoot"))return;
+    function col(h,links){return '<div class="fcol"><h2>'+h+'</h2><ul>'+links.map(function(l){return '<li><a href="'+l[0]+'"'+(/^https?:/.test(l[0])?' target="_blank" rel="noopener"':'')+'>'+l[1]+'</a></li>'}).join("")+'</ul></div>'}
+    var sis=[["https://manutd.wiki/","Manchester United","manutd.wiki","manutd"],["https://irelandrugby.wiki/","Ireland Rugby","irelandrugby.wiki","irelandrugby"],["https://limerickhurling.wiki/","Limerick Hurling","limerickhurling.wiki","limerickhurling"],["https://footballclub.wiki/","Football Club Wiki","footballclub.wiki","footballclub"]];
+    var d=document.createElement("div"); d.className="sitefoot";
+    d.innerHTML='<div class="fbrand"><a class="fname" href="/"><img src="/assets/crest-88.png" alt="" width="40" height="40"><span>Ireland Football</span></a><p class="fdata">The history of the Ireland men’s national team. An independent fan site, not connected with the FAI.</p></div>'+
+      '<div class="fcols">'+col("Team",[["/squad/","Squad"],["/milestones/","Milestone watch"],["/xi/","Pick your XI"]])+
+      col("Matches",[["/season/","This season"],["/results/","Every result"],["/opponents/","Opponents"],[calFeed().webcal,"Fixtures in your calendar"]])+
+      col("History",[["/campaigns/","Every campaign"],["/records/","Records"],["/managers/","Managers"],["/lifetime/","Ireland in your lifetime"],["/kits/","Kits and crests"]])+
+      col("Official",[["https://www.fai.ie/","fai.ie"],["https://www.uefa.com/uefanationsleague/","UEFA Nations League"],["https://www.fifa.com/","FIFA"]])+'</div>'+
+      '<div class="fsis"><h2>Other sites</h2><ul>'+sis.map(function(x){return '<li><a href="'+x[0]+'" target="_blank" rel="noopener"><img src="/assets/sites/'+x[3]+'.png" alt="" width="40" height="40" loading="lazy" decoding="async"><span><b translate="no">'+x[1]+'</b><small translate="no">'+x[2]+'</small></span></a></li>'}).join("")+'</ul></div>';
+    f.insertBefore(d,f.firstChild); f.classList.add("big")}
+  document.addEventListener("DOMContentLoaded",siteFooter);
   // Cookie consent for analytics (Consent Mode v2). Nothing is stored or sent to Google until "Accept"; "No thanks" keeps
   // the denied default and remembers that. A "Cookies" control in the footer reopens the choice.
   function consentGet(){try{return localStorage.getItem("mu:consent")||""}catch(e){return ""}}

@@ -402,7 +402,6 @@ header.mu h1{font-family:var(--serif);font-weight:600;letter-spacing:-.01em;text
 header.mu h1 small{font-family:var(--serif);font-style:italic;font-weight:400;text-transform:none;letter-spacing:0}
 header.mu .from{font-family:var(--serif);font-style:italic}
 nav.munav a{font-family:var(--serif);font-size:17px;font-weight:400}
-nav.munav a[aria-current]{box-shadow:inset 0 -3px 0 var(--flame)}
 .sheet{border-radius:var(--radius);border:1px solid var(--rule);box-shadow:none;background:var(--paper)}
 .sheet>h2,.sheet>h2.row,main h2{font-family:var(--serif);font-weight:600;letter-spacing:-.01em}
 .btn{border-radius:var(--radius)} .btn.ghost{border-radius:var(--radius)}
@@ -420,11 +419,11 @@ header.mu .tag{font-family:var(--serif);font-style:italic;font-size:16px;color:v
 nav.munav details.navm{position:relative}
 nav.munav details.navm summary{list-style:none;cursor:pointer;font-family:var(--serif);font-size:19px;color:var(--on-flag);padding:22px 12px 18px;border-bottom:3px solid transparent}
 nav.munav details.navm summary::-webkit-details-marker{display:none}
-nav.munav details.navm summary[aria-current]{border-bottom-color:var(--flame)}
+nav.munav details.navm summary[aria-current]{border-bottom-color:var(--flame);background:none;text-decoration:none;border-radius:0;box-shadow:none}
 nav.munav details.navm summary:hover,nav.munav details.navm[open] summary{border-bottom-color:color-mix(in srgb,var(--flame) 70%,transparent)}
 nav.munav .menu{position:absolute;top:100%;left:0;min-width:240px;background:var(--paper);border:1px solid var(--rule);border-radius:var(--radius);box-shadow:0 14px 30px var(--shadow);padding:6px;z-index:50}
 nav.munav .menu a{display:block;text-align:left;font-family:var(--serif);font-size:17px;color:var(--ink);padding:10px 12px;border-radius:3px;background:none}
-nav.munav .menu a:hover{background:var(--tint)} nav.munav .menu a[aria-current]{color:var(--red-ink);background:none;box-shadow:inset 3px 0 0 var(--flame)}
+nav.munav .menu a:hover{background:var(--tint)} nav.munav .menu a[aria-current]{color:var(--red-ink);background:none;box-shadow:none;text-decoration:none;font-weight:600}
 nav.munav .srchbtn{all:unset;cursor:pointer;color:var(--on-flag);width:44px;height:44px;display:flex;align-items:center;justify-content:center;border-radius:50%}
 nav.munav .srchbtn:hover{background:color-mix(in srgb,var(--on-flag) 14%,transparent)}
 nav.munav .musearch{position:absolute;right:0;top:100%;width:min(420px,calc(100vw - 32px));max-width:none;margin:0;padding:8px;background:var(--red);border-radius:0 0 var(--radius) var(--radius);z-index:50}
@@ -434,3 +433,19 @@ nav.munav .musearch[hidden]{display:none}
   nav.munav .menu{position:fixed;left:16px;right:16px;top:auto;min-width:0}}
 /* paper grain on the cream, drawn rather than loaded */
 body{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .05 0'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E")}
+/* site footer: deep green, as wide as the masthead, with the other sites (as on manutd.wiki) */
+footer.mu.big{position:relative;max-width:none;margin-top:48px;padding:36px 0 calc(28px + env(safe-area-inset-bottom,0px));color:color-mix(in srgb,var(--on-flag) 78%,transparent);font-size:12px}
+footer.mu.big::before{content:"";position:absolute;top:0;bottom:0;left:calc(50% - 50vw);right:calc(50% - 50vw);background:var(--red);z-index:-1}
+footer.mu.big a{color:var(--on-flag)} footer.mu.big .stamp{background:transparent;color:inherit;border-color:color-mix(in srgb,var(--on-flag) 30%,transparent)}
+.sitefoot{display:grid;grid-template-columns:1fr;gap:26px;padding-bottom:26px;margin-bottom:18px;border-bottom:1px solid color-mix(in srgb,var(--on-flag) 18%,transparent)}
+@media (min-width:900px){.sitefoot{grid-template-columns:minmax(0,1.1fr) minmax(0,3fr) minmax(0,1.2fr);gap:32px}}
+.sitefoot h2{font-family:var(--serif);font-size:13px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--on-flag);margin:0 0 10px;padding:0;background:none}
+.sitefoot h2:after{display:none}
+.sitefoot ul{list-style:none;margin:0;padding:0} .sitefoot li a{display:inline-flex;align-items:center;min-height:32px;text-decoration:none;font-size:14px;color:color-mix(in srgb,var(--on-flag) 85%,transparent)}
+.sitefoot li a:hover{color:var(--on-flag);text-decoration:underline}
+.fname{display:flex;align-items:center;gap:10px;text-decoration:none;font-family:var(--serif);font-size:22px;font-weight:600;color:var(--on-flag)} .fname img{width:40px;height:40px}
+.fdata{font-family:var(--serif);font-style:italic;font-size:14px;line-height:1.45;margin:10px 0 0;color:color-mix(in srgb,var(--on-flag) 80%,transparent);max-width:30ch}
+.fcols{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px} @media (min-width:900px){.fcols{grid-template-columns:repeat(4,minmax(0,1fr))}}
+.fsis li a{gap:12px;min-height:52px;padding:4px 0} .fsis img{width:40px;height:40px;border-radius:9px;flex:0 0 auto}
+.fsis b{display:block;color:var(--on-flag);font-weight:600;font-size:14px} .fsis small{display:block;font-size:12px;color:color-mix(in srgb,var(--on-flag) 70%,transparent)}
+footer.mu.big .langsw{color:var(--ink)}

@@ -43,6 +43,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap">
 <link rel="stylesheet" href="/mu.css">
 <style>
+#alerts h2.row{display:flex;justify-content:space-between;align-items:baseline} #alertFold{font-size:14px}
 .alertRow{display:flex;gap:10px;align-items:center;flex-wrap:wrap} .prefs{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:6px 18px;margin:12px 0 0;font-size:14px} .prefs label{display:flex;gap:8px;align-items:center} .prefs input{width:16px;height:16px;accent-color:var(--red-ink)} #alertStatus{font-size:13px}
 
 /* ===== editorial front page (dev trial) ===== */
@@ -200,7 +201,8 @@ table.mini{width:100%;border-collapse:collapse;font-size:14px;font-variant-numer
   </div>
   </div>
   <div class="sheet" id="alerts">
-  <h2>Match alerts</h2>
+  <h2 class="row"><span>Match alerts</span><button class="tlink" id="alertFold" type="button" aria-expanded="true" aria-controls="alertBody">Minimise</button></h2>
+  <div id="alertBody">
   <p class="sub" id="alertNote" style="margin:0 0 10px">Team news an hour before kick-off, every goal as it goes in, half-time and the final score, pushed to this device.</p>
   <div class="alertRow"><button class="btn" id="alertBtn" type="button">Turn on alerts</button><button class="btn ghost" id="alertTest" type="button" hidden>Send a test</button><span id="alertStatus" class="sub"></span></div>
   <div class="prefs" id="alertPrefs" hidden>
@@ -208,9 +210,10 @@ table.mini{width:100%;border-collapse:collapse;font-size:14px;font-variant-numer
     <label><input type="checkbox" data-p="lineups" checked> Team news when the line-ups are out</label>
     <label><input type="checkbox" data-p="goals" checked> Goals, both ends</label>
     <label><input type="checkbox" data-p="result" checked> Half-time and full-time</label>
-    <label><input type="checkbox" data-p="milestones" checked> Milestones: caps, goals and records, at full-time (<a href="/milestones/">watchlist</a>)</label>
+    <label><input type="checkbox" data-p="milestones" checked><span>Milestones: caps, goals and records, at full-time (<a href="/milestones/">watchlist</a>)</span></label>
   </div>
   <p class="sub" id="alertHint" style="margin:8px 0 0" hidden></p>
+  </div>
 </div>
 </div>
 </main>
@@ -354,4 +357,11 @@ Promise.all([fetch("/history/players.json").then(function(r){return r.json()}),f
   var g=a[0].slice().sort(function(x,y){return y.goals-x.goals})[0]; $("nGames").textContent=a[1].all.p;
   $("rec").innerHTML='<a class="k" href="/player/?p='+g.slug+'">'+E(g.name)+'</a><i>Ireland’s record goalscorer</i><span class="n">'+g.caps+'<small>caps</small></span><span class="n">'+g.goals+'<small>goals</small></span><i>'+g.debut.slice(0,4)+'–'+g.last.slice(0,4)+'</i>'});
 })();
+</script><script>
+// Match alerts can be minimised; the choice is kept on this device. Once alerts are on, the panel starts minimised.
+(function(){var b=document.getElementById("alertFold"), body=document.getElementById("alertBody"); if(!b||!body)return;
+  function set(min){body.hidden=min; b.textContent=min?"Show":"Minimise"; b.setAttribute("aria-expanded",min?"false":"true")}
+  var s=null; try{s=localStorage.getItem("ie:alerts:min"); if(s===null&&localStorage.getItem("mu:alerts"))s="1"}catch(e){}
+  set(s==="1");
+  b.addEventListener("click",function(){var min=!body.hidden; set(min); try{localStorage.setItem("ie:alerts:min",min?"1":"0")}catch(e){}})})();
 </script></body></html>
