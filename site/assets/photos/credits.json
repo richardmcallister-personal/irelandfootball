@@ -1,0 +1,26 @@
+{
+ "door-team": {
+  "credit": "Asatur Yesayants (YantsImages)",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:YantsImages_-_Asatur_Yesayants_622.jpg",
+  "status": "free licence"
+ },
+ "door-results": {
+  "credit": "Sean MacEntee",
+  "licence": "CC BY 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Republic_of_Ireland_national_football_team_2011.jpg",
+  "status": "free licence"
+ },
+ "door-century": {
+  "credit": "From a Swedish magazine (Ireland in Sweden c. 1960)",
+  "licence": "unknown",
+  "url": "",
+  "status": "supplied by Richard; rights not checked; dev only until decided"
+ },
+ "aviva-exterior": {
+  "credit": "Richard McAllister",
+  "licence": "own photo",
+  "url": "",
+  "status": "supplied by Richard; confirm it is his own"
+ }
+}

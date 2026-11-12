@@ -644,7 +644,45 @@
 "Copied.": "Cóipeáilte.",
 "Link copied. It opens this XI.": "Cóipeáladh an nasc. Osclaíonn sé an fhoireann seo.",
 "Pick your XI for the next game": "Roghnaigh d’fhoireann don chéad chluiche eile",
-"Your XI as a share card": "D’fhoireann mar chárta le roinnt"
+"Your XI as a share card": "D’fhoireann mar chárta le roinnt",
+"The history of the Ireland men’s national team": "Stair fhoireann náisiúnta na bhfear in Éirinn",
+"Matches": "Cluichí",
+"This season": "An séasúr seo",
+"Every campaign": "Gach feachtas",
+"Start here": "Tosaigh anseo",
+"Italia ’90": "Italia ’90",
+"Ireland v Romania": "Éire v an Rómáin",
+"All campaigns": "Gach feachtas",
+"From the current team to the archive": "Ón bhfoireann reatha go dtí an chartlann",
+"The current team": "An fhoireann reatha",
+"Players nearing their milestones, the latest squad, and your XI for the next game.": "Imreoirí atá gar dá ngarspriocanna, an scuad is déanaí, agus d’fhoireann don chéad chluiche eile.",
+"A century of Ireland": "Céad bliain d’Éirinn",
+"Every finals campaign, the managers who shaped them, and Ireland in your lifetime.": "Gach feachtas cluichí ceannais, na bainisteoirí a mhúnlaigh iad, agus Éire le linn do shaoil.",
+"Every result since 1924": "Gach toradh ó 1924",
+"The complete match archive: every game, score and opponent, with match reports from 1986.": "Cartlann iomlán na gcluichí: gach cluiche, scór agus céile comhraic, le tuairiscí cluiche ó 1986.",
+"games": "cluiche",
+"Ireland’s record goalscorer": "Príomhscórálaí na hÉireann riamh",
+"caps": "caipín",
+"goals": "cúl",
+"Explore the campaign": "Fiosraigh an feachtas",
+"Read the match": "Léigh faoin gcluiche",
+"Genoa, 25 June 1990": "Genoa, 25 Meitheamh 1990",
+"Bonner’s save, O’Leary’s penalty": "Sábháil Bonner, cic éirice O’Leary",
+"Ireland beat Romania 5–4 on penalties and reached a World Cup quarter-final at the first attempt.": "Bhuaigh Éire 5–4 ar an Rómáin ar chiceanna éirice agus shroich siad ceathrú ceannais Chorn an Domhain ar an gcéad iarracht.",
+"The road to Italia ’90": "An bóthar go Italia ’90",
+"A summer that changed everything": "Samhradh a d’athraigh gach rud",
+"Second behind Spain in qualifying, three draws in the group, the shoot-out in Genoa and a quarter-final in Rome.": "An dara háit taobh thiar den Spáinn sa cháiliúchán, trí chomhscór sa ghrúpa, na ciceanna éirice in Genoa agus ceathrú ceannais sa Róimh.",
+"Stuttgart, 12 June 1988": "Stuttgart, 12 Meitheamh 1988",
+"Ray Houghton’s goal beat England in Ireland’s first game at a major finals.": "Bhuaigh cúl Ray Houghton ar Shasana sa chéad chluiche ag Éirinn i gcomórtas mór.",
+"USA ’94": "USA ’94",
+"Houghton again, and Italy beaten": "Houghton arís, agus an Iodáil buailte",
+"Through on goals scored after a draw in Belfast, then 1–0 against Italy at Giants Stadium.": "Ar aghaidh ar chúil scóráilte tar éis comhscóir i mBéal Feirste, ansin 1–0 in aghaidh na hIodáile i Staid Giants.",
+"World Cup 2002": "Corn an Domhain 2002",
+"Keane, in stoppage time": "Keane, in am breise gortaithe",
+"A late equaliser against Germany, a 3–0 win over Saudi Arabia and a shoot-out with Spain in Suwon.": "Cúl cothromaithe déanach in aghaidh na Gearmáine, bua 3–0 ar an Araib Shádach agus ciceanna éirice leis an Spáinn i Suwon.",
+"Euro 2016": "Euro 2016",
+"Ireland reached the last 16 in France, and led the hosts in Lyon after two minutes.": "Shroich Éire babhta an 16 sa Fhrainc, agus bhí siad chun tosaigh ar an óstach in Lyon tar éis dhá nóiméad.",
+"Each major finals Ireland reached, from qualifying to the last game, and the big matches with pages of their own.": "Gach comórtas mór a shroich Éire, ón gcáiliúchán go dtí an cluiche deireanach, agus na cluichí móra a bhfuil leathanach dá gcuid féin acu."
 },
 "patterns": [
 [
@@ -1110,6 +1148,10 @@
 [
 "^My (.+) XI$",
 "Mo fhoireann {T1}"
+],
+[
+"^Photos: (.+)$",
+"Grianghraif: $1"
 ]
 ],
 "blocks": {

@@ -49,16 +49,19 @@
 .nextbar{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:8px 20px;padding:14px 4px;border-bottom:1px solid var(--rule);margin:4px 0 16px;color:var(--ink);text-decoration:none}
 .nextbar .kick b{color:var(--flame);font-weight:600} .nbm{display:flex;align-items:center;gap:12px;font-family:var(--serif);font-size:22px}
 .nbm img{width:30px;height:30px;object-fit:contain} .nbm .t{font-family:var(--score);font-size:20px;background:var(--tint);padding:4px 10px;border-radius:3px}
-.lead{display:grid;grid-template-columns:1fr;gap:16px} @media (min-width:900px){.lead{grid-template-columns:minmax(0,3fr) minmax(0,1fr)}}
+.edlead{display:grid;grid-template-columns:1fr;gap:24px} @media (min-width:900px){.edlead{grid-template-columns:minmax(0,1fr) 260px}}
 .story{position:relative;background:var(--red);color:var(--on-flag);border-radius:var(--radius);overflow:hidden;min-height:420px;display:grid;grid-template-columns:1fr}
-@media (min-width:700px){.story{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}}
+@media (min-width:700px){.story{grid-template-columns:minmax(0,1.35fr) minmax(0,.65fr)}}
 .story:before{content:"";position:absolute;inset:0;background:repeating-linear-gradient(135deg,transparent 0 22px,color-mix(in srgb,var(--on-flag) 3%,transparent) 22px 44px);pointer-events:none}
 .story .tx{position:relative;padding:36px 36px 32px;display:flex;flex-direction:column;justify-content:center}
 .story .kick{color:var(--on-flag);opacity:.9} .story .kick:after{content:"";display:block;width:56px;height:3px;background:var(--flame);margin:10px 0 0}
-.story h2{font-family:var(--serif);font-weight:600;font-size:clamp(36px,5vw,58px);line-height:1.02;letter-spacing:-.02em;margin:18px 0 14px;color:var(--on-flag)}
+.story h2{font-family:var(--serif);font-weight:600;font-size:clamp(40px,5.4vw,72px);line-height:1.02;letter-spacing:-.02em;margin:18px 0 14px;color:var(--on-flag)}
 .story p{font-family:var(--serif);font-style:italic;font-size:19px;line-height:1.4;margin:0 0 22px;max-width:30em;opacity:.95}
-.story .cta{align-self:flex-start;display:inline-flex;gap:10px;align-items:center;font-family:var(--serif);font-size:18px;color:var(--on-flag);text-decoration:none;border:1.5px solid var(--on-flag);padding:9px 18px;border-radius:3px}
+.story .cta{align-self:flex-start;white-space:nowrap;display:inline-flex;gap:10px;align-items:center;font-family:var(--serif);font-size:18px;color:var(--on-flag);text-decoration:none;border:1.5px solid var(--on-flag);padding:9px 18px;border-radius:3px}
 .story .cta:hover{background:color-mix(in srgb,var(--on-flag) 12%,transparent)}
+.story.photo{display:block;background-size:cover;background-position:var(--fx,70%) 30%}
+.story.photo:before{background:linear-gradient(90deg,var(--scrim) 0,var(--scrim) 30%,transparent 78%)}
+.story.photo .tx{max-width:560px;min-height:480px} .story.photo .vis{display:none}
 .story .vis{position:relative;display:flex;align-items:center;justify-content:center;padding:24px;min-height:220px}
 .story .vis .shirt{width:min(96%,440px);height:auto;filter:drop-shadow(0 18px 30px var(--shadow))}
 .story .vis .era{position:absolute;right:22px;top:22px;width:82px;height:auto;filter:drop-shadow(0 4px 10px var(--shadow))}
@@ -70,21 +73,24 @@
 h2.sect{display:flex;align-items:center;gap:20px;font-family:var(--serif);font-weight:600;font-size:clamp(26px,3.4vw,36px);letter-spacing:-.01em;margin:36px 0 16px}
 h2.sect:after{content:"";flex:1;border-top:1.5px solid var(--red-ink);opacity:.6}
 .doors{display:grid;grid-template-columns:1fr;gap:14px} @media (min-width:900px){.doors{grid-template-columns:repeat(3,minmax(0,1fr))}}
-.door{display:grid;grid-template-columns:150px 1fr;gap:16px;background:var(--paper);border:1px solid var(--rule);border-radius:var(--radius);padding:10px;color:var(--ink);text-decoration:none}
-.door .pic{background:var(--red);border-radius:2px;display:flex;align-items:center;justify-content:center;min-height:160px;overflow:hidden}
-.door .pic img{width:80%;height:auto} .door .pic.crest img{width:64%}
+.door{display:grid;grid-template-columns:minmax(150px,42%) 1fr;gap:16px;background:var(--paper);border:1px solid var(--rule);border-radius:var(--radius);padding:10px;color:var(--ink);text-decoration:none}
+.door .pic{background:var(--red);border-radius:2px;display:flex;align-items:center;justify-content:center;min-height:200px;overflow:hidden}
+.door .pic img{width:80%;height:auto} .door .pic.ph{background:var(--tint);position:relative} .door .pic.ph img{width:100%;height:100%;object-fit:cover;position:absolute;inset:0}
+.door .pic .badge{position:absolute;left:8px;bottom:8px;background:var(--red);color:var(--on-flag);font-family:var(--serif);font-size:14px;padding:3px 8px;border-radius:2px} .door .pic .badge span{font-family:var(--score);font-size:18px}
+.credits{font-size:12px;color:var(--muted);margin:8px 2px 0} .credits a{color:inherit}
 .door .pic.num{flex-direction:column;color:var(--on-flag);font-family:var(--score);font-size:52px;line-height:1} .door .pic.num small{font-family:var(--serif);font-size:15px;letter-spacing:.14em;text-transform:uppercase;margin-top:6px;opacity:.85}
 .door .tx{display:flex;flex-direction:column;padding:6px 4px} .door b{font-family:var(--serif);font-weight:600;font-size:24px;line-height:1.15;margin-bottom:8px}
 .door i{font-family:var(--serif);font-size:16px;line-height:1.4;color:var(--muted)} .door .arr{color:var(--flame);font-size:22px;margin-top:auto;padding-top:8px}
 .door:hover b{color:var(--red-ink)}
 @media (max-width:560px){.door{grid-template-columns:110px 1fr} .door .pic{min-height:130px} .story .tx{padding:26px 22px} .start a{font-size:20px}}
-.recstrip{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px 24px;border-top:1.5px solid var(--red-ink);border-bottom:1.5px solid var(--red-ink);padding:14px 10px;margin:28px 0 0}
+.recstrip{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px 0;border-top:1.5px solid var(--red-ink);border-bottom:1.5px solid var(--red-ink);padding:12px 0;margin:24px 0 0}
+.recstrip>*{padding:0 22px;border-left:1px solid var(--rule)} .recstrip>*:first-child{border-left:0}
 .recstrip .k{font-family:var(--serif);font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--red-ink)} .recstrip i{font-family:var(--serif)}
 .recstrip .n{font-family:var(--serif);font-weight:700;font-size:34px;color:var(--red-ink)} .recstrip .n small{font-size:13px;letter-spacing:.14em;text-transform:uppercase;margin-left:6px;color:var(--ink);font-weight:600}
 .recstrip a{color:inherit;text-decoration:none}
 /* matchday: the match card takes the lead */
-body:not(.matchday) #matchSlot{display:none} body.matchday .story{display:none} body.matchday .lead{grid-template-columns:1fr}
-@media (min-width:900px){body.matchday .lead{grid-template-columns:minmax(0,3fr) minmax(0,1fr)}}
+body:not(.matchday) #matchSlot{display:none} body.matchday .story{display:none} body.matchday .edlead{grid-template-columns:1fr}
+@media (min-width:900px){body.matchday .edlead{grid-template-columns:minmax(0,1fr) 260px}}
 #matchSlot #matchSheet{margin-top:0}
 /* hub layout: one column on phones, three on desktop (same as manutd.wiki) */
 .hub{display:grid;grid-template-columns:1fr;gap:0} .hub .sheet{margin-top:12px}
@@ -135,7 +141,7 @@ table.mini{width:100%;border-collapse:collapse;font-size:14px;font-variant-numer
 <nav class="munav" aria-label="Sections"></nav>
 <main id="main-content" tabindex="-1">
 <a class="nextbar" id="nextbar" href="/season/"><span class="kick"><b>Next</b> · <span id="nbComp">Loading</span> · <span id="nbDate"></span></span><span class="nbm" id="nbMatch"></span></a>
-<section class="lead" aria-label="Story">
+<section class="edlead" aria-label="Story">
   <article class="story" id="story"></article><div id="matchSlot"></div>
   <aside class="start"><h2 class="kick">Start here</h2><ul>
     <li><a href="/campaigns/world-cup-1990/">Italia ’90<span aria-hidden="true">→</span></a></li>
@@ -147,10 +153,11 @@ table.mini{width:100%;border-collapse:collapse;font-size:14px;font-variant-numer
 </section>
 <h2 class="sect"><span>From the current team to the archive</span></h2>
 <div class="doors">
-  <a class="door" href="/milestones/"><span class="pic kit"><img src="/assets/kits/2026-home.png" alt="" loading="lazy"></span><span class="tx"><b>The current team</b><i>Players nearing their milestones, the latest squad, and your XI for the next game.</i><span class="arr" aria-hidden="true">→</span></span></a>
-  <a class="door" href="/lifetime/"><span class="pic crest"><img src="/assets/crests-old/old-1969-1985.png" alt="" loading="lazy"></span><span class="tx"><b>A century of Ireland</b><i>Every finals campaign, the managers who shaped them, and Ireland in your lifetime.</i><span class="arr" aria-hidden="true">→</span></span></a>
-  <a class="door" href="/results/"><span class="pic num"><span id="nGames">600+</span><small>games</small></span><span class="tx"><b>Every result since 1924</b><i>The complete match archive: every game, score and opponent, with match reports from 1986.</i><span class="arr" aria-hidden="true">→</span></span></a>
+  <a class="door" href="/milestones/"><span class="pic ph"><img src="/assets/photos/door-team-480.jpg" srcset="/assets/photos/door-team-480.jpg 480w, /assets/photos/door-team-960.jpg 960w" sizes="200px" alt="The Ireland team before the game with Armenia, October 2025" loading="lazy"></span><span class="tx"><b>The current team</b><i>Players nearing their milestones, the latest squad, and your XI for the next game.</i><span class="arr" aria-hidden="true">→</span></span></a>
+  <a class="door" href="/lifetime/"><span class="pic ph"><img src="/assets/photos/door-century-480.jpg" srcset="/assets/photos/door-century-480.jpg 480w, /assets/photos/door-century-960.jpg 960w" sizes="200px" alt="An Ireland team in Sweden, about 1960" loading="lazy"></span><span class="tx"><b>A century of Ireland</b><i>Every finals campaign, the managers who shaped them, and Ireland in your lifetime.</i><span class="arr" aria-hidden="true">→</span></span></a>
+  <a class="door" href="/results/"><span class="pic ph"><img src="/assets/photos/door-results-480.jpg" alt="Ireland v Estonia at the Aviva Stadium, November 2011" loading="lazy"><span class="badge"><span id="nGames">600+</span> games</span></span><span class="tx"><b>Every result since 1924</b><i>The complete match archive: every game, score and opponent, with match reports from 1986.</i><span class="arr" aria-hidden="true">→</span></span></a>
 </div>
+<p class="credits" id="photoCredits"></p>
 <div class="recstrip" id="rec"></div>
 <h2 class="sect"><span>This season</span></h2>
 <div class="hub">
@@ -324,6 +331,7 @@ var LEADS=[
  {d:"06-22",kick:"Euro 2016",h:"Long beat Germany, Brady beat Italy",p:"Ireland reached the last 16 in France, and led the hosts in Lyon after two minutes.",href:"/campaigns/euro-2016/",cta:"Explore the campaign",kit:"2016-home",era:"old-2014-2017"}];
 var now=new Date(), md=function(d){var x=new Date(now.getFullYear()+"-"+d+"T12:00:00Z"); return Math.abs(x-now)/864e5};
 var pick=LEADS.filter(function(l){return md(l.d)<=7})[0]||LEADS[Math.floor(now/864e5)%LEADS.length];
+if(pick.img){$("story").classList.add("photo"); $("story").style.backgroundImage="url(/assets/photos/"+pick.img+"-1600.jpg)"}
 $("story").innerHTML='<div class="tx"><span class="kick">'+E(pick.kick)+'</span><h2>'+E(pick.h)+'</h2><p>'+E(pick.p)+'</p><a class="cta" href="'+pick.href+'">'+E(pick.cta)+' <span aria-hidden="true">→</span></a></div>'+
   '<div class="vis"><img class="shirt" src="/assets/kits/'+pick.kit+'.png" alt="The home shirt of the time"><img class="era" src="/assets/crests-old/'+pick.era+'.png" alt="The crest of the time"></div>';
 
@@ -339,6 +347,8 @@ MU.api("fixtures").then(function(j){var L=(j.response||[]).slice().sort(function
   $("nbMatch").innerHTML=cr(H)+'<span>'+E(nm(H))+'</span><span class="t">'+MU.fmtLocal(up.fixture.date)+'</span><span>'+E(nm(A))+'</span>'+cr(A);
 }).catch(function(){$("nextbar").hidden=true});
 
+// photo credits for the doors (free licences need them; see tools/data/photos/photos.csv)
+fetch("/assets/photos/credits.json").then(function(r){return r.json()}).then(function(C){$("photoCredits").innerHTML="Photos: "+["door-team","door-century","door-results"].filter(function(k){return C[k]}).map(function(k){var c=C[k]; return E(c.credit)+(c.licence&&c.licence!=="unknown"?", "+(c.url?'<a href="'+E(c.url)+'" rel="noopener">'+E(c.licence)+'</a>':E(c.licence)):"")}).join(" · ")+"."}).catch(function(){});
 // the record strip and the archive count
 Promise.all([fetch("/history/players.json").then(function(r){return r.json()}),fetch("/history/records.json").then(function(r){return r.json()})]).then(function(a){
   var g=a[0].slice().sort(function(x,y){return y.goals-x.goals})[0]; $("nGames").textContent=a[1].all.p;

@@ -33,8 +33,22 @@ window.MU=(function(){
   function nav(active){
     var el=document.querySelector("nav.munav"); if(!el)return;
     document.querySelectorAll("header.mu h1 br").forEach(function(br){br.replaceWith(" ")});   // the wordmark sits on one line now
-    el.innerHTML=NAV.map(function(n){return '<a href="'+n[0]+'"'+(n[1]===active?' aria-current="page"':'')+'>'+n[1]+'</a>'}).join("")+'<form class="musearch" role="search" action="/search/"><input type="search" name="q" placeholder="Search players, opponents, managers…" aria-label="Search the site" autocomplete="off"><div class="hits" hidden></div></form>';
+    // editorial masthead: four sections, each a short menu of today's pages, and search behind an icon
+    var GROUPS=[["Team",[["/squad/","Squad"],["/milestones/","Milestone watch"],["/xi/","Pick your XI"]],["Squad","Milestones","XI"]],
+      ["Matches",[["/season/","This season"],["/results/","Every result"],["/opponents/","Opponents"]],["Season","Results","Opponents","Match"]],
+      ["History",[["/campaigns/","Every campaign"],["/records/","Records"],["/managers/","Managers"],["/lifetime/","Ireland in your lifetime"],["/kits/","Kits and crests"]],["Records","Managers","Kits","Campaigns","Lifetime"]],
+      ["Players",[["/players/","Every player"],["/milestones/","Milestone watch"]],["Players"]]];
+    var h1=document.querySelector("header.mu .brand h1"); if(h1&&!h1.querySelector(".tag")){var tg=document.createElement("span"); tg.className="tag"; tg.textContent="The history of the Ireland men’s national team"; h1.parentNode.appendChild(tg)}
+    el.innerHTML=GROUPS.map(function(g){var cur=g[2].indexOf(active)>=0||g[1].some(function(x){return location.pathname===x[0]});
+      return '<details class="navm"><summary'+(cur?' aria-current="page"':'')+'>'+g[0]+'</summary><div class="menu">'+g[1].map(function(x){return '<a href="'+x[0]+'"'+(location.pathname===x[0]?' aria-current="page"':'')+'>'+x[1]+'</a>'}).join("")+'</div></details>'}).join("")+
+      '<button class="srchbtn" type="button" aria-label="Search" aria-expanded="false"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button>'+
+      '<form class="musearch" role="search" action="/search/" hidden><input type="search" name="q" placeholder="Search players, opponents, managers…" aria-label="Search the site" autocomplete="off"><div class="hits" hidden></div></form>';
     searchBox(el.querySelector(".musearch"));
+    (function(){var b=el.querySelector(".srchbtn"), f=el.querySelector(".musearch");
+      b.addEventListener("click",function(){var open=f.hidden; f.hidden=!open; b.setAttribute("aria-expanded",open?"true":"false"); if(open)f.querySelector("input").focus()});
+      el.querySelectorAll("details.navm").forEach(function(d){d.addEventListener("toggle",function(){if(d.open)el.querySelectorAll("details.navm[open]").forEach(function(o){if(o!==d)o.removeAttribute("open")})})});
+      document.addEventListener("click",function(e){if(!el.contains(e.target)){el.querySelectorAll("details.navm[open]").forEach(function(o){o.removeAttribute("open")})}});
+      document.addEventListener("keydown",function(e){if(e.key==="Escape"){el.querySelectorAll("details.navm[open]").forEach(function(o){o.removeAttribute("open")}); if(!f.hidden&&!f.contains(document.activeElement)){f.hidden=true; b.setAttribute("aria-expanded","false")}}})})();
     // phone tab bar: five destinations, the current one lit
     var TABS=[["/","Match",'<circle cx="12" cy="12" r="9"/><path d="M12 3v18M3 12h18"/>',["Hub"]],["/season/","Season",'<path d="M4 6h16M4 12h16M4 18h10"/>',["Season"]],["/results/","Results",'<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',["Results"]],["/players/","Players",'<circle cx="12" cy="8" r="4"/><path d="M4 21c1-5 4-7 8-7s7 2 8 7"/>',["Players","Squad"]],["/#more","More",'<circle cx="5" cy="12" r="1.5"/><circle cx="12" cy="12" r="1.5"/><circle cx="19" cy="12" r="1.5"/>',["Opponents","Records","Managers","Kits"]]];
     var old=document.querySelector("nav.mutabs"); if(old)old.remove();
