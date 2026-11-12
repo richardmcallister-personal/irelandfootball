@@ -60,9 +60,12 @@
 .story p{font-family:var(--serif);font-style:italic;font-size:19px;line-height:1.4;margin:0 0 22px;max-width:30em;opacity:.95}
 .story .cta{align-self:flex-start;white-space:nowrap;display:inline-flex;gap:10px;align-items:center;font-family:var(--serif);font-size:18px;color:var(--on-flag);text-decoration:none;border:1.5px solid var(--on-flag);padding:9px 18px;border-radius:3px}
 .story .cta:hover{background:color-mix(in srgb,var(--on-flag) 12%,transparent)}
-.story.photo{display:block;background-size:cover;background-position:var(--fx,70%) 30%}
-.story.photo:before{background:linear-gradient(90deg,var(--scrim) 0,var(--scrim) 30%,transparent 78%)}
-.story.photo .tx{max-width:560px;min-height:480px} .story.photo .vis{display:none}
+.story.photo .vis{padding:0;background-size:cover;background-position:center 35%;min-height:280px}
+.story.photo .vis:before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,var(--red) 0,transparent 38%)}
+.story.photo .vis img{display:none}
+@media (min-width:700px){.story.photo{grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr)}}
+.story.photo h2{font-size:clamp(36px,4.2vw,56px)} .story.photo{min-height:400px}
+@media (max-width:699px){.story.photo .vis{order:-1;min-height:220px} .story.photo .vis:before{background:linear-gradient(0deg,var(--red) 0,transparent 45%)}}
 .story .vis{position:relative;display:flex;align-items:center;justify-content:center;padding:24px;min-height:220px}
 .story .vis .shirt{width:min(96%,440px);height:auto;filter:drop-shadow(0 18px 30px var(--shadow))}
 .story .vis .era{position:absolute;right:22px;top:22px;width:82px;height:auto;filter:drop-shadow(0 4px 10px var(--shadow))}
@@ -329,14 +332,15 @@ var LEADS=[
  {d:"06-25",kick:"Genoa, 25 June 1990",h:"Bonner’s save, O’Leary’s penalty",p:"Ireland beat Romania 5–4 on penalties and reached a World Cup quarter-final at the first attempt.",href:"/matches/ireland-romania-1990/",cta:"Read the match",kit:"1990-home",era:"old-1987-1991"},
  {d:"06-30",kick:"The road to Italia ’90",h:"A summer that changed everything",p:"Second behind Spain in qualifying, three draws in the group, the shoot-out in Genoa and a quarter-final in Rome.",href:"/campaigns/world-cup-1990/",cta:"Explore the campaign",kit:"1990-home",era:"old-1987-1991"},
  {d:"06-12",kick:"Euro ’88",h:"Stuttgart, 12 June 1988",p:"Ray Houghton’s goal beat England in Ireland’s first game at a major finals.",href:"/campaigns/euro-1988/",cta:"Explore the campaign",kit:"1988-home",era:"old-1987-1991"},
- {d:"06-18",kick:"USA ’94",h:"Houghton again, and Italy beaten",p:"Through on goals scored after a draw in Belfast, then 1–0 against Italy at Giants Stadium.",href:"/campaigns/world-cup-1994/",cta:"Explore the campaign",kit:"1994-home",era:"old-1991-2004"},
+ {d:"06-18",kick:"USA ’94",h:"Houghton again, and Italy beaten",p:"Through on goals scored after a draw in Belfast, then 1–0 against Italy at Giants Stadium.",href:"/campaigns/world-cup-1994/",cta:"Explore the campaign",kit:"1994-home",era:"old-1991-2004",img:"lead-usa94",alt:"Ray Houghton celebrates his goal against Italy, 1994"},
  {d:"06-05",kick:"World Cup 2002",h:"Keane, in stoppage time",p:"A late equaliser against Germany, a 3–0 win over Saudi Arabia and a shoot-out with Spain in Suwon.",href:"/campaigns/world-cup-2002/",cta:"Explore the campaign",kit:"2002-home",era:"old-1991-2004"},
  {d:"06-22",kick:"Euro 2016",h:"Long beat Germany, Brady beat Italy",p:"Ireland reached the last 16 in France, and led the hosts in Lyon after two minutes.",href:"/campaigns/euro-2016/",cta:"Explore the campaign",kit:"2016-home",era:"old-2014-2017"}];
 var now=new Date(), md=function(d){var x=new Date(now.getFullYear()+"-"+d+"T12:00:00Z"); return Math.abs(x-now)/864e5};
 var pick=LEADS.filter(function(l){return md(l.d)<=7})[0]||LEADS[Math.floor(now/864e5)%LEADS.length];
-if(pick.img){$("story").classList.add("photo"); $("story").style.backgroundImage="url(/assets/photos/"+pick.img+"-1600.jpg)"}
+
 $("story").innerHTML='<div class="tx"><span class="kick">'+E(pick.kick)+'</span><h2>'+E(pick.h)+'</h2><p>'+E(pick.p)+'</p><a class="cta" href="'+pick.href+'">'+E(pick.cta)+' <span aria-hidden="true">→</span></a></div>'+
-  '<div class="vis"><img class="shirt" src="/assets/kits/'+pick.kit+'.png" alt="The home shirt of the time"><img class="era" src="/assets/crests-old/'+pick.era+'.png" alt="The crest of the time"></div>';
+  (pick.img?'<div class="vis" role="img" aria-label="'+E(pick.alt||"")+'" style="background-image:url(/assets/photos/'+pick.img+'-960.jpg)"></div>':'<div class="vis"><img class="shirt" src="/assets/kits/'+pick.kit+'.png" alt="The home shirt of the time"><img class="era" src="/assets/crests-old/'+pick.era+'.png" alt="The crest of the time"></div>');
+if(pick.img)$("story").classList.add("photo");
 
 // next match strip, and matchday: from three hours before kick-off to six hours after, the match card leads
 var DONE=/FT|AET|PEN/, DEAD=/CANC|PST|ABD|AWD|WO/;

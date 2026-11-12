@@ -429,7 +429,7 @@ nav.munav .srchbtn:hover{background:color-mix(in srgb,var(--on-flag) 14%,transpa
 nav.munav .musearch{position:absolute;right:0;top:100%;width:min(420px,calc(100vw - 32px));max-width:none;margin:0;padding:8px;background:var(--red);border-radius:0 0 var(--radius) var(--radius);z-index:50}
 nav.munav .musearch[hidden]{display:none}
 @media (max-width:1279px){header.mu .tag{display:none}}
-@media (max-width:760px){.mast nav.munav{width:100%;justify-content:space-between;padding-bottom:4px} nav.munav details.navm summary{font-size:16px;padding:10px 6px 10px} header.mu h1{font-size:26px} header.mu .brand img{width:40px;height:40px}
+@media (max-width:760px){.mast nav.munav{width:100%;justify-content:space-between;padding-bottom:4px} nav.munav details.navm summary{font-size:16px;padding:10px 6px 10px} header.mu h1{font-size:22px} header.mu .brand{gap:10px;min-width:0} header.mu .brand img{width:34px;height:34px} header.mu .langpick{margin-left:auto;flex:0 0 auto}
   nav.munav .menu{position:fixed;left:16px;right:16px;top:auto;min-width:0}}
 /* paper grain on the cream, drawn rather than loaded */
 body{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .05 0'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E")}
