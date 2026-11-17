@@ -68,7 +68,7 @@ The schedule of the play-offs was published by UEFA within one hour of the draw.
 * [[Yevhen Seleznyov|Seleznyov]] {{goal|54}}
 |goals2=
 |stadium=[[Arena Lviv]], [[Lviv]]
-|attendance=32,592<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/14/europe/european-championship-qualification/ukraine/slovenia/2164519/?ICID=PL_MS_05 | title = Ukraine vs Slovenia 2–0 | publisher=Soccerway | date= 14 November 2015 | access-date = 28 November 2015}}</ref>
+|attendance=32,592<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/14/europe/european-championship-qualification/ukraine/slovenia/2164519/ | archive-url = https://web.archive.org/web/20151112220749/http://int.soccerway.com/matches/2015/11/14/europe/european-championship-qualification/ukraine/slovenia/2164519/ | url-status = dead | archive-date = 12 November 2015 | title = Ukraine vs Slovenia 2–0 | publisher=Soccerway | date= 14 November 2015 | access-date = 28 November 2015}}</ref>
 |referee=[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
 }}
 {{Football box
@@ -84,7 +84,7 @@ The schedule of the play-offs was published by UEFA within one hour of the draw.
 |goals2=
 * [[Andriy Yarmolenko|Yarmolenko]] {{goal|90+7}}
 |stadium=[[Ljudski vrt]], [[Maribor]]
-|attendance=12,702<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/17/europe/european-championship-qualification/slovenia/ukraine/2164523/?ICID=PL_MS_06 | title = Slovenia vs Ukraine 1–1 | publisher=Soccerway | date= 17 November 2015 | access-date = 28 November 2015}}</ref>
+|attendance=12,702<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/17/europe/european-championship-qualification/slovenia/ukraine/2164523/ | archive-url = https://web.archive.org/web/20151112220759/http://int.soccerway.com/matches/2015/11/17/europe/european-championship-qualification/slovenia/ukraine/2164523/ | url-status = dead | archive-date = 12 November 2015 | title = Slovenia vs Ukraine 1–1 | publisher=Soccerway | date= 17 November 2015 | access-date = 28 November 2015}}</ref>
 |referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
 }}
 ''Ukraine won 3–1 on aggregate and qualified for [[UEFA Euro 2016]].''
@@ -103,7 +103,7 @@ The schedule of the play-offs was published by UEFA within one hour of the draw.
 |goals2=
 * [[Nicolai Jørgensen|Jørgensen]] {{goal|80}}
 |stadium=[[Friends Arena]], [[Solna Municipality|Solna]]
-|attendance=49,053<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/14/europe/european-championship-qualification/sweden/denmark/2164520/?ICID=PL_MS_07 | title = Sweden vs Denmark 2–1 | publisher=Soccerway | date= 14 November 2015 | access-date = 28 November 2015}}</ref>
+|attendance=49,053<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/14/europe/european-championship-qualification/sweden/denmark/2164520/ | archive-url = https://web.archive.org/web/20151109212446/http://int.soccerway.com/matches/2015/11/14/europe/european-championship-qualification/sweden/denmark/2164520/ | url-status = dead | archive-date = 9 November 2015 | title = Sweden vs Denmark 2–1 | publisher=Soccerway | date= 14 November 2015 | access-date = 28 November 2015}}</ref>
 |referee=[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
 }}
 {{Football box
@@ -120,7 +120,7 @@ The schedule of the play-offs was published by UEFA within one hour of the draw.
 |goals2=
 * [[Zlatan Ibrahimović|Ibrahimović]] {{goal|19||76}}
 |stadium=[[Parken Stadium|Telia Parken]], [[Copenhagen]]
-|attendance=36,051<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/17/europe/european-championship-qualification/denmark/sweden/2164524/?ICID=PL_MS_08 | title = Denmark vs Sweden 2–2 | publisher=Soccerway | date= 17 November 2015 | access-date = 28 November 2015}}</ref>
+|attendance=36,051<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/17/europe/european-championship-qualification/denmark/sweden/2164524/ | archive-url = https://web.archive.org/web/20151109212451/http://int.soccerway.com/matches/2015/11/17/europe/european-championship-qualification/denmark/sweden/2164524/ | url-status = dead | archive-date = 9 November 2015 | title = Denmark vs Sweden 2–2 | publisher=Soccerway | date= 17 November 2015 | access-date = 28 November 2015}}</ref>
 |referee=[[Martin Atkinson]] ([[The Football Association|England]])
 }}
 ''Sweden won 4–3 on aggregate and qualified for [[UEFA Euro 2016]].''
@@ -138,7 +138,7 @@ The schedule of the play-offs was published by UEFA within one hour of the draw.
 |goals2=
 * [[Robbie Brady|Brady]] {{goal|82}}
 |stadium=[[Bilino Polje Stadium|Bilino Polje]], [[Zenica]]
-|attendance=12,000<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/13/europe/european-championship-qualification/bosnia-herzegovina/ireland-republic/2164521/?ICID=PL_MS_03 | title = Bosnia and Herzegovina vs Republic of Ireland 1–1 | publisher=Soccerway | date= 13 November 2015 | access-date = 28 November 2015}}</ref>
+|attendance=12,000<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/13/europe/european-championship-qualification/bosnia-herzegovina/ireland-republic/2164521/ | archive-url = https://web.archive.org/web/20151114054416/http://int.soccerway.com/matches/2015/11/13/europe/european-championship-qualification/bosnia-herzegovina/ireland-republic/2164521/ | url-status = dead | archive-date = 14 November 2015 | title = Bosnia and Herzegovina vs Republic of Ireland 1–1 | publisher=Soccerway | date= 13 November 2015 | access-date = 28 November 2015}}</ref>
 |referee=[[Felix Brych]] ([[German Football Association|Germany]])
 }}
 {{Football box
@@ -153,7 +153,7 @@ The schedule of the play-offs was published by UEFA within one hour of the draw.
 * [[Jonathan Walters|Walters]] {{goal|24|pen.|70}}
 |goals2=
 |stadium=[[Aviva Stadium]], [[Dublin]]
-|attendance=50,500<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/16/europe/european-championship-qualification/ireland-republic/bosnia-herzegovina/2164525/?ICID=PL_MS_04 | title = Republic of Ireland vs Bosnia and Herzegovina 2–0 | publisher=Soccerway | date= 16 November 2015 | access-date = 28 November 2015}}</ref>
+|attendance=50,500<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/16/europe/european-championship-qualification/ireland-republic/bosnia-herzegovina/2164525/ | archive-url = https://web.archive.org/web/20151116024419/http://int.soccerway.com/matches/2015/11/16/europe/european-championship-qualification/ireland-republic/bosnia-herzegovina/2164525/ | url-status = dead | archive-date = 16 November 2015 | title = Republic of Ireland vs Bosnia and Herzegovina 2–0 | publisher=Soccerway | date= 16 November 2015 | access-date = 28 November 2015}}</ref>
 |referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
 }}
 ''Republic of Ireland won 3–1 on aggregate and qualified for [[UEFA Euro 2016]].''
@@ -170,7 +170,7 @@ The schedule of the play-offs was published by UEFA within one hour of the draw.
 |goals2=
 * [[László Kleinheisler|Kleinheisler]] {{goal|26}}
 |stadium=[[Ullevaal Stadion]], [[Oslo]]
-|attendance=27,182<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/12/europe/european-championship-qualification/norway/hungary/2164522/?ICID=PL_MS_01 | title = Norway vs Hungary 0–1 | publisher=Soccerway | date= 12 November 2015 | access-date = 28 November 2015}}</ref>
+|attendance=27,182<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/12/europe/european-championship-qualification/norway/hungary/2164522/ | archive-url = https://web.archive.org/web/20151021225502/http://int.soccerway.com/matches/2015/11/12/europe/european-championship-qualification/norway/hungary/2164522/ | url-status = dead | archive-date = 21 October 2015 | title = Norway vs Hungary 0–1 | publisher=Soccerway | date= 12 November 2015 | access-date = 28 November 2015}}</ref>
 |referee=[[Mark Clattenburg]] ([[The Football Association|England]])
 }}
 {{Football box
@@ -187,7 +187,7 @@ The schedule of the play-offs was published by UEFA within one hour of the draw.
 |goals2=
 * [[Markus Henriksen|Henriksen]] {{goal|87}}
 |stadium=[[Groupama Arena]], [[Budapest]]
-|attendance=22,189<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/15/europe/european-championship-qualification/hungary/norway/2164526/?ICID=PL_MS_02 | title = Hungary vs Norway 2–1 | publisher=Soccerway | date= 15 November 2015 | access-date = 28 November 2015}}</ref>
+|attendance=22,189<ref>{{cite web | url = https://int.soccerway.com/matches/2015/11/15/europe/european-championship-qualification/hungary/norway/2164526/ | archive-url = https://web.archive.org/web/20151109220624/http://int.soccerway.com/matches/2015/11/15/europe/european-championship-qualification/hungary/norway/2164526/ | url-status = dead | archive-date = 9 November 2015 | title = Hungary vs Norway 2–1 | publisher=Soccerway | date= 15 November 2015 | access-date = 28 November 2015}}</ref>
 |referee=[[Carlos Velasco Carballo]] ([[Royal Spanish Football Federation|Spain]])
 }}
 ''Hungary won 3–1 on aggregate and qualified for [[UEFA Euro 2016]].''
@@ -237,7 +237,6 @@ The following suspensions were served during the play-off matches:
 
 [[Category:UEFA Euro 2016 qualifying|Play-offs]]
 [[Category:Denmark–Sweden football rivalry|2015]]
-[[Category:Hungary–Norway sports relations|2015]]
 [[Category:Slovenia–Ukraine sports relations|2015]]
 [[Category:Hungary at UEFA Euro 2016|Play-offs]]
 [[Category:Republic of Ireland at UEFA Euro 2016|Play-offs]]

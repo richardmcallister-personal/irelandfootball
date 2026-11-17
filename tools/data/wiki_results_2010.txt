@@ -1456,7 +1456,7 @@ This article contains the results of the [[Republic of Ireland national football
 |round   = [[Exhibition match|Friendly]]
 |team1={{fb-rt|IRL}}
 |score=0–1
-|report=[https://int.soccerway.com/matches/2017/03/28/world/friendlies/ireland-republic/iceland/2366744/ Report]
+|report=[https://www.soccerway.com/match/iceland-6TsAIrGN/ireland-Gfyqk1aG/?mid=dKgMs9GC Report]
 |team2={{fb|ISL}}
 |goals1=
 |goals2=[[Hörður Björgvin Magnússon|Magnússon]] {{goal|21}}
@@ -1473,7 +1473,7 @@ This article contains the results of the [[Republic of Ireland national football
 |round   = [[Exhibition match|Friendly]]
 |team1={{fb-rt|MEX}}
 |score=3–1
-|report=[https://int.soccerway.com/matches/2017/06/01/world/friendlies/mexico/ireland-republic/2422313/ Report]
+|report=[https://www.soccerway.com/match/ireland-Gfyqk1aG/mexico-O6iHcNkd/?mid=xYq42VV9 Report]
 |team2={{fb|IRL}}
 |goals1=[[Jesús Manuel Corona|J. M. Corona]] {{goal|16}}<br />[[Raúl Jiménez|Jiménez]] {{goal|25|pen.}}<br />[[Carlos Vela|Vela]] {{goal|54}}
 |goals2=[[Stephen Gleeson|Gleeson]] {{goal|76}}
@@ -1633,7 +1633,7 @@ This article contains the results of the [[Republic of Ireland national football
 |round   = [[Exhibition match|Friendly]]
 |team1={{fb-rt|TUR}}
 |score=1–0
-|report=[https://www.fai.ie/ireland/match/19/2018/2024161 Report (FAI)]<br />[https://int.soccerway.com/matches/2018/03/23/world/friendlies/turkey/ireland-republic/2704216/ Report]
+|report=[https://www.fai.ie/ireland/match/19/2018/2024161 Report (FAI)]<br />[https://www.soccerway.com/match/ireland-Gfyqk1aG/turkey-QeijuHo5/?mid=WnXFPoGn Report]
 |team2={{fb|IRL}}
 |goals1=[[Mehmet Topal|Topal]] {{goal|52}}
 |goals2=
@@ -1668,7 +1668,7 @@ This article contains the results of the [[Republic of Ireland national football
 |team1={{fb-rt|FRA|1974}}
 |score=2–0
 |team2={{fb|IRL}}
-|report=[https://web.archive.org/web/20180529130018/http://www.uefa.com/friendlies/season=2018/matches/round=2000741/match=2023916/postmatch/commentary/index.html Report (UEFA)]<br />[https://int.soccerway.com/matches/2018/05/28/world/friendlies/france/ireland-republic/2702099/ Report]
+|report=[https://web.archive.org/web/20180529130018/http://www.uefa.com/friendlies/season=2018/matches/round=2000741/match=2023916/postmatch/commentary/index.html Report (UEFA)]<br />[https://www.soccerway.com/match/france-QkGeVG1n/ireland-Gfyqk1aG/?mid=65VFRCtk Report]
 |goals1=[[Olivier Giroud|Giroud]] {{goal|40}}<br />[[Nabil Fekir|Fekir]] {{goal|44}}
 |goals2=
 |stadium=[[Stade de France]]
@@ -1684,7 +1684,7 @@ This article contains the results of the [[Republic of Ireland national football
 |round   = [[Exhibition match|Friendly]]
 |team1={{fb-rt|IRL}}
 |score=2–1
-|report=[https://www.ussoccer.com/stories/2018/06/02/22/21/20180602-recap-mnt-young-usa-downed-2-1-by-last-minute-goal-from-ireland-in-dublin Report (USSF)]<br />[https://int.soccerway.com/matches/2018/06/02/world/friendlies/ireland-republic/united-states-of-america/2737272/ Report]
+|report=[https://www.ussoccer.com/stories/2018/06/02/22/21/20180602-recap-mnt-young-usa-downed-2-1-by-last-minute-goal-from-ireland-in-dublin Report (USSF)]<br />[https://www.soccerway.com/match/ireland-Gfyqk1aG/usa-fuitL4CF/?mid=vVouIDSj Report]
 |team2={{fb|USA}}
 |goals1=[[Graham Burke|Burke]] {{goal|57}}<br />[[Alan Judge (Irish footballer)|Judge]] {{goal|90}}
 |goals2=[[Bobby Wood (soccer)|Wood]] {{goal|45+1}}
@@ -1707,7 +1707,7 @@ This article contains the results of the [[Republic of Ireland national football
 |goals2=[[Shaun Williams (footballer)|S. Williams]] {{goal|66}}
 |stadium=[[Cardiff City Stadium]]
 |location=[[Cardiff]], Wales
-|attendance=25,657<ref>{{cite web |url=https://int.soccerway.com/matches/2018/09/06/europe/uefa-nations-league/wales/ireland-republic/2720463/ |title=Wales vs. Republic of Ireland |website=soccerway.com |publisher=Soccerway |date=6 September 2018 |access-date=1 December 2018 |archive-date=2 December 2018 |archive-url=https://web.archive.org/web/20181202083522/https://int.soccerway.com/matches/2018/09/06/europe/uefa-nations-league/wales/ireland-republic/2720463/ |url-status=live }}</ref>
+|attendance=25,657<ref>{{cite web |url=https://www.soccerway.com/match/ireland-Gfyqk1aG/wales-YcUP0Nqp/?mid=GEqydugr |title=Wales vs. Republic of Ireland |website=soccerway.com |publisher=Soccerway |date=6 September 2018 |access-date=1 December 2018 |archive-date=2 December 2018 |archive-url=https://web.archive.org/web/20181202083522/https://int.soccerway.com/matches/2018/09/06/europe/uefa-nations-league/wales/ireland-republic/2720463/ |url-status=live }}</ref>
 |referee=[[Clément Turpin]] ([[French Football Federation|France]])
 |result=L
 }}
@@ -1718,7 +1718,7 @@ This article contains the results of the [[Republic of Ireland national football
 |round   = [[Exhibition match|Friendly]]
 |team1={{fb-rt|POL}}
 |score=1–1
-|report=[https://int.soccerway.com/matches/2018/09/11/world/friendlies/poland/ireland-republic/2730495/ Report]
+|report=[https://www.soccerway.com/match/ireland-Gfyqk1aG/poland-2HzmcynI/?mid=EiSGrHD8 Report]
 |team2={{fb|IRL}}
 |goals1=[[Mateusz Klich|Klich]] {{goal|87}}
 |goals2=[[Aiden O'Brien|O'Brien]] {{goal|53}}
@@ -1741,7 +1741,7 @@ This article contains the results of the [[Republic of Ireland national football
 |goals2=
 |stadium=[[Aviva Stadium|Lansdowne Road]]
 |location=[[Dublin]], Ireland
-|attendance=41,220<ref>{{cite web |url=https://int.soccerway.com/matches/2018/10/13/europe/uefa-nations-league/ireland-republic/denmark/2720465/ |title=Republic of Ireland vs. Denmark |website=soccerway.com |publisher=Soccerway |date=13 October 2018 |access-date=1 December 2018 |archive-date=2 December 2018 |archive-url=https://web.archive.org/web/20181202080506/https://int.soccerway.com/matches/2018/10/13/europe/uefa-nations-league/ireland-republic/denmark/2720465/ |url-status=live }}</ref>
+|attendance=41,220<ref>{{cite web |url=https://www.soccerway.com/match/denmark-0KUdxQVi/ireland-Gfyqk1aG/?mid=A7NHRcqQ |title=Republic of Ireland vs. Denmark |website=soccerway.com |publisher=Soccerway |date=13 October 2018 |access-date=1 December 2018 |archive-date=2 December 2018 |archive-url=https://web.archive.org/web/20181202080506/https://int.soccerway.com/matches/2018/10/13/europe/uefa-nations-league/ireland-republic/denmark/2720465/ |url-status=live }}</ref>
 |referee=[[Xavier Estrada Fernández]] ([[Royal Spanish Football Federation|Spain]])
 |result=D
 }}
@@ -1758,7 +1758,7 @@ This article contains the results of the [[Republic of Ireland national football
 |goals2=[[Harry Wilson (footballer, born 1997)|Wilson]] {{goal|58}}
 |stadium=[[Aviva Stadium|Lansdowne Road]]
 |location=[[Dublin]], Ireland
-|attendance=38,321<ref>{{cite web |url=https://int.soccerway.com/matches/2018/10/16/europe/uefa-nations-league/ireland-republic/wales/2720466/ |title=Republic of Ireland vs. Wales |website=soccerway.com |publisher=Soccerway |date=16 October 2018 |access-date=1 December 2018 |archive-date=2 December 2018 |archive-url=https://web.archive.org/web/20181202092023/https://int.soccerway.com/matches/2018/10/16/europe/uefa-nations-league/ireland-republic/wales/2720466/ |url-status=live }}</ref>
+|attendance=38,321<ref>{{cite web |url=https://www.soccerway.com/match/ireland-Gfyqk1aG/wales-YcUP0Nqp/?mid=SnAqNHis |title=Republic of Ireland vs. Wales |website=soccerway.com |publisher=Soccerway |date=16 October 2018 |access-date=1 December 2018 |archive-date=2 December 2018 |archive-url=https://web.archive.org/web/20181202092023/https://int.soccerway.com/matches/2018/10/16/europe/uefa-nations-league/ireland-republic/wales/2720466/ |url-status=live }}</ref>
 |referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
 |result=L
 }}
@@ -1769,7 +1769,7 @@ This article contains the results of the [[Republic of Ireland national football
 |round   = [[Exhibition match|Friendly]]
 |team1={{fb-rt|IRL}}
 |score=0–0
-|report=[https://int.soccerway.com/matches/2018/11/15/world/friendlies/ireland-republic/northern-ireland/2730493/ Report]
+|report=[https://www.soccerway.com/match/ireland-Gfyqk1aG/northern-ireland-lQADNSWu/?mid=Cz2ECHeJ Report]
 |team2={{fb|NIR}}
 |goals1=
 |goals2=
@@ -1792,7 +1792,7 @@ This article contains the results of the [[Republic of Ireland national football
 |goals2=
 |stadium=[[Aarhus Idrætspark|Idrætspark]]
 |location=[[Aarhus]], Denmark
-|attendance=11,130<ref>{{cite web |url=https://int.soccerway.com/matches/2018/11/19/europe/uefa-nations-league/denmark/ireland-republic/2720468/ |title=Denmark vs. Republic of Ireland |website=soccerway.com |publisher=Soccerway |date=19 November 2018 |access-date=1 December 2018 |archive-date=2 December 2018 |archive-url=https://web.archive.org/web/20181202075002/https://int.soccerway.com/matches/2018/11/19/europe/uefa-nations-league/denmark/ireland-republic/2720468/ |url-status=live }}</ref>
+|attendance=11,130<ref>{{cite web |url=https://www.soccerway.com/match/denmark-0KUdxQVi/ireland-Gfyqk1aG/?mid=OE3hLeMg |title=Denmark vs. Republic of Ireland |website=soccerway.com |publisher=Soccerway |date=19 November 2018 |access-date=1 December 2018 |archive-date=2 December 2018 |archive-url=https://web.archive.org/web/20181202075002/https://int.soccerway.com/matches/2018/11/19/europe/uefa-nations-league/denmark/ireland-republic/2720468/ |url-status=live }}</ref>
 |referee=[[Aliyar Aghayev]] ([[Association of Football Federations of Azerbaijan|Azerbaijan]])
 |result=D
 }}
@@ -1811,7 +1811,7 @@ This article contains the results of the [[Republic of Ireland national football
 |goals2=[[Jeff Hendrick|Hendrick]] {{goal|49}}
 |stadium=[[Victoria Stadium (Gibraltar)|Victoria Stadium]]
 |location=[[Gibraltar]]
-|attendance=2,000<ref>{{cite web|title=UEFA Euro 2020 qualifying – Group D–Gibraltar vs. Republic of Ireland|url=https://int.soccerway.com/matches/2019/03/23/europe/european-championship-qualification/gibraltar/ireland-republic/2942768/|website=soccerway.com|publisher=Soccerway|date=23 March 2019|access-date=7 June 2019|archive-date=29 August 2021|archive-url=https://web.archive.org/web/20210829085532/https://int.soccerway.com/matches/2019/03/23/europe/european-championship-qualification/gibraltar/ireland-republic/2942768/|url-status=live}}</ref>
+|attendance=2,000<ref>{{cite web|title=UEFA Euro 2020 qualifying – Group D–Gibraltar vs. Republic of Ireland|url=https://www.soccerway.com/match/gibraltar-CEihsqe7/ireland-Gfyqk1aG/?mid=6BtWzAG7|website=soccerway.com|publisher=Soccerway|date=23 March 2019|access-date=7 June 2019|archive-date=29 August 2021|archive-url=https://web.archive.org/web/20210829085532/https://int.soccerway.com/matches/2019/03/23/europe/european-championship-qualification/gibraltar/ireland-republic/2942768/|url-status=live}}</ref>
 |referee=Anastasios Papapetrou ([[Hellenic Football Federation|Greece]])
 |result=W
 }}
@@ -1828,7 +1828,7 @@ This article contains the results of the [[Republic of Ireland national football
 |goals2=
 |stadium=[[Aviva Stadium|Lansdowne Road]]
 |location=[[Dublin]], Ireland
-|attendance=40,317<ref>{{cite web|title=UEFA Euro 2020 qualifying – Group D–Republic of Ireland vs. Georgia|url=https://int.soccerway.com/matches/2019/03/26/europe/european-championship-qualification/ireland-republic/georgia/2942794/|website=soccerway.com|publisher=Soccerway|date=26 March 2019|access-date=7 June 2019|archive-date=21 December 2019|archive-url=https://web.archive.org/web/20191221150157/https://int.soccerway.com/matches/2019/03/26/europe/european-championship-qualification/ireland-republic/georgia/2942794/|url-status=live}}</ref>
+|attendance=40,317<ref>{{cite web|title=UEFA Euro 2020 qualifying – Group D–Republic of Ireland vs. Georgia|url=https://www.soccerway.com/match/georgia-YVovjspA/ireland-Gfyqk1aG/?mid=zBlDlESG|website=soccerway.com|publisher=Soccerway|date=26 March 2019|access-date=7 June 2019|archive-date=21 December 2019|archive-url=https://web.archive.org/web/20191221150157/https://int.soccerway.com/matches/2019/03/26/europe/european-championship-qualification/ireland-republic/georgia/2942794/|url-status=live}}</ref>
 |referee=[[Serdar Gözübüyük]] ([[Royal Dutch Football Association|Netherlands]])
 |result=W
 }}
@@ -1845,7 +1845,7 @@ This article contains the results of the [[Republic of Ireland national football
 |goals2=[[Shane Duffy|Duffy]] {{goal|85}}
 |stadium=[[Parken Stadium]]
 |location=[[Copenhagen]], Denmark
-|attendance=34,610<ref>{{cite web|title=UEFA Euro 2020 qualifying – Group D–Denmark vs. Republic of Ireland|url=https://int.soccerway.com/matches/2019/06/07/europe/european-championship-qualification/denmark/ireland-republic/2942805/|website=soccerway.com|publisher=Soccerway|date=7 June 2019|access-date=12 October 2019|archive-date=23 August 2019|archive-url=https://web.archive.org/web/20190823090229/https://int.soccerway.com/matches/2019/06/07/europe/european-championship-qualification/denmark/ireland-republic/2942805/|url-status=live}}</ref>
+|attendance=34,610<ref>{{cite web|title=UEFA Euro 2020 qualifying – Group D–Denmark vs. Republic of Ireland|url=https://www.soccerway.com/match/denmark-0KUdxQVi/ireland-Gfyqk1aG/?mid=norrnzP8|website=soccerway.com|publisher=Soccerway|date=7 June 2019|access-date=12 October 2019|archive-date=23 August 2019|archive-url=https://web.archive.org/web/20190823090229/https://int.soccerway.com/matches/2019/06/07/europe/european-championship-qualification/denmark/ireland-republic/2942805/|url-status=live}}</ref>
 |referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
 |result=D
 }}
@@ -1862,7 +1862,7 @@ This article contains the results of the [[Republic of Ireland national football
 |goals2=
 |stadium=[[Aviva Stadium|Lansdowne Road]]
 |location=[[Dublin]], Ireland
-|attendance=36,281<ref>{{cite web|title=UEFA Euro 2020 qualifying – Group D–Republic of Ireland vs. Gibraltar|url=https://int.soccerway.com/matches/2019/06/10/europe/european-championship-qualification/ireland-republic/gibraltar/2942829/|website=soccerway.com|publisher=Soccerway|date=10 June 2019|access-date=12 October 2019|archive-date=29 March 2022|archive-url=https://web.archive.org/web/20220329082650/https://us.soccerway.com/matches/2019/06/10/europe/european-championship-qualification/ireland-republic/gibraltar/2942829/|url-status=live}}</ref>
+|attendance=36,281<ref>{{cite web|title=UEFA Euro 2020 qualifying – Group D–Republic of Ireland vs. Gibraltar|url=https://www.soccerway.com/match/gibraltar-CEihsqe7/ireland-Gfyqk1aG/?mid=bowOxWoe|website=soccerway.com|publisher=Soccerway|date=10 June 2019|access-date=12 October 2019|archive-date=29 March 2022|archive-url=https://web.archive.org/web/20220329082650/https://us.soccerway.com/matches/2019/06/10/europe/european-championship-qualification/ireland-republic/gibraltar/2942829/|url-status=live}}</ref>
 |referee=[[Radu Petrescu (referee, born 1982)|Radu Petrescu]] ([[Romanian Football Federation|Romania]])
 |result=W
 }}
@@ -1879,7 +1879,7 @@ This article contains the results of the [[Republic of Ireland national football
 |goals2=[[Fabian Schär|Schär]] {{goal|74}}
 |stadium=[[Aviva Stadium|Lansdowne Road]]
 |location=[[Dublin]], Ireland
-|attendance=44,111<ref>{{cite web|title=UEFA Euro 2020 qualifying – Group D–Republic of Ireland vs. Switzerland|url=https://int.soccerway.com/matches/2019/09/05/europe/european-championship-qualification/ireland-republic/switzerland/2942851/|website=soccerway.com|publisher=Soccerway|date=5 September 2019|access-date=12 October 2019|archive-date=19 September 2019|archive-url=https://web.archive.org/web/20190919083432/https://int.soccerway.com/matches/2019/09/05/europe/european-championship-qualification/ireland-republic/switzerland/2942851/|url-status=live}}</ref>
+|attendance=44,111<ref>{{cite web|title=UEFA Euro 2020 qualifying – Group D–Republic of Ireland vs. Switzerland|url=https://www.soccerway.com/match/ireland-Gfyqk1aG/switzerland-rHJ2vy1B/?mid=tlihPCHe|website=soccerway.com|publisher=Soccerway|date=5 September 2019|access-date=12 October 2019|archive-date=19 September 2019|archive-url=https://web.archive.org/web/20190919083432/https://int.soccerway.com/matches/2019/09/05/europe/european-championship-qualification/ireland-republic/switzerland/2942851/|url-status=live}}</ref>
 |referee=[[Carlos del Cerro Grande]] ([[Royal Spanish Football Federation|Spain]])
 |result=D
 }}

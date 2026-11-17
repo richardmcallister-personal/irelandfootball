@@ -2588,6 +2588,131 @@
 "T. Parrott"
 ]
 },
+"1528976": {
+"bench": [
+"R. Vata",
+"H. Vale",
+"M. Travers",
+"C. Ogbene",
+"M. O’Leary",
+"J. O&apos;Brien",
+"B. Lawal",
+"J. Knight",
+"L. Kitching",
+"J. Egan",
+"T. Cannon",
+"C. Coventry"
+],
+"city": "Linz",
+"coach": "H. Hallgrímsson",
+"d": "2026-11-14",
+"form": "3-5-2",
+"ga": 1,
+"gf": 0,
+"goals": [],
+"home": false,
+"id": 1528976,
+"league": "UEFA Nations League",
+"opp": "Austria",
+"st": "FT",
+"subs": [
+"Adam Idah",
+"Chiedozie Ogbene",
+"Ryan Manning",
+"Jake O'Brien",
+"Jack Moylan",
+"Harvey Vale",
+"James Abankwah",
+"Bosun Lawal"
+],
+"venue": "Raiffeisen Arena",
+"xi": [
+"C. Kelleher",
+"D. O&apos;Shea",
+"N. Collins",
+"L. Scales",
+"J. Abankwah",
+"J. Moylan",
+"J. Molumby",
+"F. Azaz",
+"R. Manning",
+"T. Parrott",
+"A. Idah"
+]
+},
+"1528997": {
+"bench": [
+"H. Vale",
+"C. Ogbene",
+"T. Cannon",
+"M. O’Leary",
+"M. Travers",
+"J. O&apos;Brien",
+"B. Lawal",
+"J. Knight",
+"L. Kitching",
+"J. Dunne",
+"R. Vata",
+"C. Coventry"
+],
+"city": "Dublin",
+"coach": "H. Hallgrímsson",
+"d": "2026-11-17",
+"form": "3-4-2-1",
+"ga": 0,
+"gf": 3,
+"goals": [
+{
+"d": "Penalty",
+"m": 28,
+"n": "Troy Parrott",
+"x": null
+},
+{
+"d": "Penalty",
+"m": 50,
+"n": "Troy Parrott",
+"x": null
+},
+{
+"d": "Normal Goal",
+"m": 75,
+"n": "Jack Moylan",
+"x": null
+}
+],
+"home": true,
+"id": 1528997,
+"league": "UEFA Nations League",
+"opp": "Kosovo",
+"st": "FT",
+"subs": [
+"Ryan Manning",
+"Liam Kitching",
+"Liam Scales",
+"Harvey Vale",
+"Jack Moylan",
+"Chiedozie Ogbene",
+"John Egan",
+"Jake O'Brien",
+"James Abankwah",
+"Rocco Vata"
+],
+"venue": "Aviva Stadium",
+"xi": [
+"C. Kelleher",
+"D. O&apos;Shea",
+"J. Egan",
+"L. Scales",
+"J. Abankwah",
+"F. Azaz",
+"J. Molumby",
+"R. Manning",
+"J. Moylan",
+"A. Idah",
+"T. Parrott"
+]
+},
 "1537647": {
 "bench": [
 "K. Cahill",

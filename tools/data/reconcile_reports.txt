@@ -13,8 +13,8 @@ Match reports: where Wikipedia's results boxes and the archive disagree (build_r
 2015-06-04: on Wikipedia, not in the archive (IRL v NIR)
 2018-05-20: on Wikipedia, not in the archive (Celtic SCO v IRL Republic of Ireland XI)
 2026-05-12: on Wikipedia, not in the archive (Real Murcia Imperial ESP v Republic of Ireland)
-2026-11-14: on Wikipedia, not in the archive (AUT v Republic of Ireland)
-2026-11-17: on Wikipedia, not in the archive (Republic of Ireland v KOS)
+2026-11-14: no score in the box
+2026-11-17: no score in the box
 1993-05-29 v Hungary: no football box on Wikipedia; report built from the archive only
 1995-02-15 v England: no football box on Wikipedia; report built from the archive only
 2023-03-22 v Latvia: no football box on Wikipedia; report built from the archive only
@@ -25,3 +25,5 @@ Match reports: where Wikipedia's results boxes and the archive disagree (build_r
 2024-06-11 v Portugal: no football box on Wikipedia; report built from the archive only
 2025-06-06 v Senegal: no football box on Wikipedia; report built from the archive only
 2025-06-10 v Luxembourg: no football box on Wikipedia; report built from the archive only
+2026-11-14 v Austria: no football box on Wikipedia; report built from the archive only
+2026-11-17 v Kosovo: no football box on Wikipedia; report built from the archive only

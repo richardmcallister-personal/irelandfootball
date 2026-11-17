@@ -18,7 +18,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |team2 = {{fb|IRL}}
 |goals2 = [[Keith Fahey|Fahey]] {{goal|76}}
 |stadium = [[Vazgen Sargsyan Republican Stadium]], [[Yerevan]] 
-|attendance = 8,600<ref>{{cite web|url=https://int.soccerway.com/matches/2010/09/03/europe/european-championships/armenia/ireland-republic/922604/ |title=Armenia vs. Ireland Republic - 3 September 2010 |publisher=Soccerway |date=3 September 2010 |access-date=26 June 2013}}</ref>
+|attendance = 8,600<ref>{{cite web|url=https://int.soccerway.com/matches/2010/09/03/europe/european-championships/armenia/ireland-republic/922604/ |archive-url=https://web.archive.org/web/20221014203840/https://int.soccerway.com/matches/2010/09/03/europe/european-championships/armenia/ireland-republic/922604/ |url-status=dead |archive-date=14 October 2022 |title=Armenia vs. Ireland Republic - 3 September 2010 |publisher=Soccerway |date=3 September 2010 |access-date=26 June 2013}}</ref>
 |referee = [[Zsolt Szabó (referee)|Zsolt Szabó]] ([[Hungarian Football Federation|Hungary]]) }}
 
 {{Football box
@@ -31,7 +31,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |team2 = {{fb|RUS}}
 |goals2 = [[Pavel Pogrebnyak|Pogrebnyak]] {{goal|14||64|pen.}}
 |stadium = [[Estadi Comunal d'Andorra la Vella|Estadi Comunal]], [[Andorra la Vella]]
-|attendance = 1,100<ref>{{cite web|url=https://int.soccerway.com/matches/2010/09/03/europe/european-championships/andorra/russia/922605/ |title=Andorra vs. Russia - 3 September 2010 |publisher=Soccerway |date=3 September 2010 |access-date=26 June 2013}}</ref>
+|attendance = 1,100<ref>{{cite web|url=https://int.soccerway.com/matches/2010/09/03/europe/european-championships/andorra/russia/922605/ |archive-url=https://web.archive.org/web/20221014202338/https://int.soccerway.com/matches/2010/09/03/europe/european-championships/andorra/russia/922605/ |url-status=dead |archive-date=14 October 2022 |title=Andorra vs. Russia - 3 September 2010 |publisher=Soccerway |date=3 September 2010 |access-date=26 June 2013}}</ref>
 |referee = Marco Borg ([[Malta Football Association|Malta]]) }}
 
 {{Football box
@@ -44,7 +44,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |team2 = {{fb|MKD|name=Macedonia}}
 |goals1 = [[Filip Hološko|Hološko]] {{goal|90+1}}
 |stadium = [[Štadión Pasienky]], [[Bratislava]]
-|attendance = 5,980<ref>{{cite web|url=https://int.soccerway.com/matches/2010/09/03/europe/european-championships/slovakia/macedonia-fyr/922606/ |title=Slovakia vs. Macedonia FYR - 3 September 2010 |publisher=Soccerway |date=3 September 2010 |access-date=26 June 2013}}</ref>
+|attendance = 5,980<ref>{{cite web|url=https://int.soccerway.com/matches/2010/09/03/europe/european-championships/slovakia/macedonia-fyr/922606/ |archive-url=https://web.archive.org/web/20221014203856/https://int.soccerway.com/matches/2010/09/03/europe/european-championships/slovakia/macedonia-fyr/922606/ |url-status=dead |archive-date=14 October 2022 |title=Slovakia vs. Macedonia FYR - 3 September 2010 |publisher=Soccerway |date=3 September 2010 |access-date=26 June 2013}}</ref>
 |referee = [[Claudio Circhetta]] ([[Swiss Football Association|Switzerland]]) }}
 ----
 {{Football box
@@ -57,7 +57,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |team2 = {{fb|SVK}}
 |goals2 = [[Miroslav Stoch|Stoch]] {{goal|27}}
 |stadium = [[Lokomotiv Stadium (Moscow)|Lokomotiv Stadium]], [[Moscow]]
-|attendance = 27,052<ref>{{cite web|url=https://int.soccerway.com/matches/2010/09/07/europe/european-championships/russia/slovakia/922608/ |title=Russia vs. Slovakia - 7 September 2010 |publisher=Soccerway |date=7 September 2010 |access-date=26 June 2013}}</ref>
+|attendance = 27,052<ref>{{cite web|url=https://int.soccerway.com/matches/2010/09/07/europe/european-championships/russia/slovakia/922608/ |archive-url=https://web.archive.org/web/20221014202400/https://int.soccerway.com/matches/2010/09/07/europe/european-championships/russia/slovakia/922608/ |url-status=dead |archive-date=14 October 2022 |title=Russia vs. Slovakia - 7 September 2010 |publisher=Soccerway |date=7 September 2010 |access-date=26 June 2013}}</ref>
 |referee = [[Frank De Bleeckere]] ([[Royal Belgian Football Association|Belgium]]) }}
 
 {{Football box
@@ -85,7 +85,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |goals1 = [[Kevin Kilbane|Kilbane]] {{goal|15}}<br />[[Kevin Doyle (footballer)|Doyle]] {{goal|41}}<br />[[Robbie Keane|Keane]] {{goal|54}}
 |goals2 = [[Cristian Martínez (Andorran footballer)|Martínez]] {{goal|45}}
 |stadium = [[Aviva Stadium|Landsdowne Road]], [[Dublin]]
-|attendance = 40,283<ref>{{cite web|url=https://int.soccerway.com/matches/2010/09/07/europe/european-championships/ireland-republic/andorra/922607/ |title=Ireland Republic vs. Andorra - 7 September 2010 |publisher=Soccerway |date=7 September 2010 |access-date=26 June 2013}}</ref>
+|attendance = 40,283<ref>{{cite web|url=https://int.soccerway.com/matches/2010/09/07/europe/european-championships/ireland-republic/andorra/922607/ |archive-url=https://web.archive.org/web/20221014203846/https://int.soccerway.com/matches/2010/09/07/europe/european-championships/ireland-republic/andorra/922607/ |url-status=dead |archive-date=14 October 2022 |title=Ireland Republic vs. Andorra - 7 September 2010 |publisher=Soccerway |date=7 September 2010 |access-date=26 June 2013}}</ref>
 |referee = Leontios Trattou ([[Cyprus Football Association|Cyprus]]) }}
 ----
 {{Football box
@@ -99,7 +99,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |goals1 = [[Yura Movsisyan|Movsisyan]] {{goal|23}}<br />[[Gevorg Ghazaryan|Ghazaryan]] {{goal|50}}<br />[[Henrikh Mkhitaryan|Mkhitaryan]] {{goal|89}}
 |goals2 = [[Vladimír Weiss (footballer born 1989)|Weiss]] {{goal|37}}
 |stadium = [[Vazgen Sargsyan Republican Stadium]], [[Yerevan]]
-|attendance = 8,500<ref>{{cite web|url=https://int.soccerway.com/matches/2010/10/08/europe/european-championships/armenia/slovakia/922610/ |title=Armenia vs. Slovakia - 8 October 2010 |publisher=Soccerway |date=8 October 2010 |access-date=26 June 2013}}</ref>
+|attendance = 8,500<ref>{{cite web|url=https://int.soccerway.com/matches/2010/10/08/europe/european-championships/armenia/slovakia/922610/ |archive-url=https://web.archive.org/web/20221014203851/https://int.soccerway.com/matches/2010/10/08/europe/european-championships/armenia/slovakia/922610/ |url-status=dead |archive-date=14 October 2022 |title=Armenia vs. Slovakia - 8 October 2010 |publisher=Soccerway |date=8 October 2010 |access-date=26 June 2013}}</ref>
 |referee = [[Daniele Orsato]] ([[Italian Football Federation|Italy]]) }}
 
 {{Football box
@@ -112,7 +112,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |team2 = {{fb|MKD|name=Macedonia}}
 |goals2 = [[Ilčo Naumoski|Naumoski]] {{goal|42}}<br />[[Vanče Šikov|Šikov]] {{goal|60}}
 |stadium = [[Estadi Comunal d'Andorra la Vella|Estadi Comunal]], [[Andorra la Vella]]
-|attendance = 550<ref>{{cite web|url=https://int.soccerway.com/matches/2010/10/08/europe/european-championships/andorra/macedonia-fyr/922612/ |title=Andorra vs. Macedonia FYR - 8 October 2010 |publisher=Soccerway |date=8 October 2010 |access-date=26 June 2013}}</ref>
+|attendance = 550<ref>{{cite web|url=https://int.soccerway.com/matches/2010/10/08/europe/european-championships/andorra/macedonia-fyr/922612/ |archive-url=https://web.archive.org/web/20221014202359/https://int.soccerway.com/matches/2010/10/08/europe/european-championships/andorra/macedonia-fyr/922612/ |url-status=dead |archive-date=14 October 2022 |title=Andorra vs. Macedonia FYR - 8 October 2010 |publisher=Soccerway |date=8 October 2010 |access-date=26 June 2013}}</ref>
 |referee = [[Gediminas Mažeika]] ([[Lithuanian Football Federation|Lithuania]])
 }}
 
@@ -127,7 +127,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |goals1 = [[Robbie Keane|Keane]] {{goal|72|pen.}}<br />[[Shane Long|Long]] {{goal|78}}
 |goals2 = [[Aleksandr Kerzhakov|Kerzhakov]] {{goal|11}}<br />[[Alan Dzagoev|Dzagoev]] {{goal|29}}<br />[[Roman Shirokov|Shirokov]] {{goal|50}}
 |stadium = [[Aviva Stadium|Landsdowne Road]], [[Dublin]]
-|attendance = 50,411<ref>{{cite web|url=https://int.soccerway.com/matches/2010/10/08/europe/european-championships/ireland-republic/russia/922611/ |title=Ireland Republic vs. Russia - 8 October 2010 |publisher=Soccerway |date=8 October 2010 |access-date=26 June 2013}}</ref>
+|attendance = 50,411<ref>{{cite web|url=https://int.soccerway.com/matches/2010/10/08/europe/european-championships/ireland-republic/russia/922611/ |archive-url=https://web.archive.org/web/20221014202341/https://int.soccerway.com/matches/2010/10/08/europe/european-championships/ireland-republic/russia/922611/ |url-status=dead |archive-date=14 October 2022 |title=Ireland Republic vs. Russia - 8 October 2010 |publisher=Soccerway |date=8 October 2010 |access-date=26 June 2013}}</ref>
 |referee = [[Kevin Blom]] ([[Royal Dutch Football Association|Netherlands]]) }}
 ----
 {{Football box
@@ -140,7 +140,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |team2 = {{fb|AND}}
 |goals1 = [[Gevorg Ghazaryan|Ghazaryan]] {{goal|4}}<br />[[Henrikh Mkhitaryan|Mkhitaryan]] {{goal|16}}<br />[[Yura Movsisyan|Movsisyan]] {{goal|33}}<br />[[Marcos Pizzelli|Pizzelli]] {{goal|52}}
 |stadium = [[Vazgen Sargsyan Republican Stadium]], [[Yerevan]]
-|attendance = 11,000<ref>{{cite web|url=https://int.soccerway.com/matches/2010/10/12/europe/european-championships/armenia/andorra/922613/ |title=Armenia vs. Andorra - 12 October 2010 |publisher=Soccerway |date=12 October 2010 |access-date=26 June 2013}}</ref>
+|attendance = 11,000<ref>{{cite web|url=https://int.soccerway.com/matches/2010/10/12/europe/european-championships/armenia/andorra/922613/ |archive-url=https://web.archive.org/web/20221014203852/https://int.soccerway.com/matches/2010/10/12/europe/european-championships/armenia/andorra/922613/ |url-status=dead |archive-date=14 October 2022 |title=Armenia vs. Andorra - 12 October 2010 |publisher=Soccerway |date=12 October 2010 |access-date=26 June 2013}}</ref>
 |referee = [[Tomasz Mikulski]] ([[Polish Football Association|Poland]]) }}
 
 {{Football box
@@ -153,7 +153,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |team2 = {{fb|RUS}}
 |goals2 = [[Aleksandr Kerzhakov|Kerzhakov]] {{goal|8}} 
 |stadium = [[Philip II Arena]], [[Skopje]] 
-|attendance = 10,500<ref>{{cite web|url=https://int.soccerway.com/matches/2010/10/12/europe/european-championships/macedonia-fyr/russia/922615/ |title=Macedonia FYR vs. Russia - 12 October 2010 |publisher=Soccerway |date=12 October 2010 |access-date=26 June 2013}}</ref>
+|attendance = 10,500<ref>{{cite web|url=https://int.soccerway.com/matches/2010/10/12/europe/european-championships/macedonia-fyr/russia/922615/ |archive-url=https://web.archive.org/web/20221014203844/https://int.soccerway.com/matches/2010/10/12/europe/european-championships/macedonia-fyr/russia/922615/ |url-status=dead |archive-date=14 October 2022 |title=Macedonia FYR vs. Russia - 12 October 2010 |publisher=Soccerway |date=12 October 2010 |access-date=26 June 2013}}</ref>
 |referee = [[Stefan Johannesson]] ([[Swedish Football Association|Sweden]]) }}
 
 {{Football box
@@ -167,7 +167,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |goals1 = [[Ján Ďurica|Ďurica]] {{goal|36}}
 |goals2 = [[Sean St Ledger|St Ledger]] {{goal|16}}
 |stadium = [[Stadium Pod Dubňom]], [[Žilina]]
-|attendance = 10,892<ref>{{cite web|url=https://int.soccerway.com/matches/2010/10/12/europe/european-championships/slovakia/ireland-republic/922614/ |title=Slovakia vs. Ireland Republic - 12 October 2010 |publisher=Soccerway |date=12 October 2010 |access-date=26 June 2013}}</ref>
+|attendance = 10,892<ref>{{cite web|url=https://int.soccerway.com/matches/2010/10/12/europe/european-championships/slovakia/ireland-republic/922614/ |archive-url=https://web.archive.org/web/20221014203839/https://int.soccerway.com/matches/2010/10/12/europe/european-championships/slovakia/ireland-republic/922614/ |url-status=dead |archive-date=14 October 2022 |title=Slovakia vs. Ireland Republic - 12 October 2010 |publisher=Soccerway |date=12 October 2010 |access-date=26 June 2013}}</ref>
 |referee = [[Alberto Undiano Mallenco]] ([[Royal Spanish Football Federation|Spain]]) }}
 ----
 {{Football box
@@ -179,7 +179,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |report = [https://www.uefa.com/uefaeuro/match/2002237--armenia-vs-russia/ Report]
 |team2 = {{fb|RUS}}
 |stadium = [[Vazgen Sargsyan Republican Stadium]], [[Yerevan]]
-|attendance = 14,400<ref>{{cite web|url=https://int.soccerway.com/matches/2011/03/26/europe/european-championships/armenia/russia/922618/ |title=Armenia vs. Russia - 26 March 2011 |publisher=Soccerway |date=26 March 2011 |access-date=26 June 2013}}</ref>
+|attendance = 14,400<ref>{{cite web|url=https://int.soccerway.com/matches/2011/03/26/europe/european-championships/armenia/russia/922618/ |archive-url=https://web.archive.org/web/20221014203842/https://int.soccerway.com/matches/2011/03/26/europe/european-championships/armenia/russia/922618/ |url-status=dead |archive-date=14 October 2022 |title=Armenia vs. Russia - 26 March 2011 |publisher=Soccerway |date=26 March 2011 |access-date=26 June 2013}}</ref>
 |referee = [[Craig Thomson (referee)|Craig Thomson]] ([[Scottish Football Association|Scotland]]) }}
 
 {{Football box
@@ -206,7 +206,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |goals1 = [[Aiden McGeady|McGeady]] {{goal|2}}<br/>[[Robbie Keane|Keane]] {{goal|21}}
 |goals2 = [[Ivan Tričkovski|Tričkovski]] {{goal|45}}
 |stadium = [[Aviva Stadium|Landsdowne Road]], [[Dublin]]
-|attendance = 33,200<ref>{{cite web|url=https://int.soccerway.com/matches/2011/03/26/europe/european-championships/ireland-republic/macedonia-fyr/922616/ |title=Ireland Republic vs. Macedonia FYR - 26 March 2011 |publisher=Soccerway |date=26 March 2011 |access-date=26 June 2013}}</ref>
+|attendance = 33,200<ref>{{cite web|url=https://int.soccerway.com/matches/2011/03/26/europe/european-championships/ireland-republic/macedonia-fyr/922616/ |archive-url=https://web.archive.org/web/20160307151601/http://int.soccerway.com/matches/2011/03/26/europe/european-championships/ireland-republic/macedonia-fyr/922616/ |url-status=dead |archive-date=7 March 2016 |title=Ireland Republic vs. Macedonia FYR - 26 March 2011 |publisher=Soccerway |date=26 March 2011 |access-date=26 June 2013}}</ref>
 |referee = [[István Vad]] ([[Hungarian Football Federation|Hungary]]) }}
 ----
 {{Football box
@@ -220,7 +220,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |goals1 = [[Roman Pavlyuchenko|Pavlyuchenko]] {{goal|26||59||73|pen.}}
 |goals2 = [[Marcos Pizzelli|Pizzelli]] {{goal|25}}
 |stadium = [[Petrovsky Stadium]], [[Saint Petersburg]]
-|attendance = 18,000<ref>{{cite web|url=https://int.soccerway.com/matches/2011/06/04/europe/european-championships/russia/armenia/922619/ |title=Russia vs. Armenia - 4 June 2011 |publisher=Soccerway |date=4 June 2011 |access-date=26 June 2013}}</ref>
+|attendance = 18,000<ref>{{cite web|url=https://int.soccerway.com/matches/2011/06/04/europe/european-championships/russia/armenia/922619/ |archive-url=https://web.archive.org/web/20221014202337/https://int.soccerway.com/matches/2011/06/04/europe/european-championships/russia/armenia/922619/ |url-status=dead |archive-date=14 October 2022 |title=Russia vs. Armenia - 4 June 2011 |publisher=Soccerway |date=4 June 2011 |access-date=26 June 2013}}</ref>
 |referee = [[Stéphane Lannoy]] ([[French Football Federation|France]]) }}
 
 {{Football box
@@ -233,7 +233,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |team2 = {{fb|AND}}
 |goals1 = [[Miroslav Karhan|Karhan]] {{goal|63}}
 |stadium = [[Štadión Pasienky]], [[Bratislava]]
-|attendance = 4,300<ref>{{cite web|url=https://int.soccerway.com/matches/2011/06/04/europe/european-championships/slovakia/andorra/922620/ |title=Slovakia vs. Andorra - 4 June 2011 |publisher=Soccerway |date=4 June 2011 |access-date=26 June 2013}}</ref>
+|attendance = 4,300<ref>{{cite web|url=https://int.soccerway.com/matches/2011/06/04/europe/european-championships/slovakia/andorra/922620/ |archive-url=https://web.archive.org/web/20221014202336/https://int.soccerway.com/matches/2011/06/04/europe/european-championships/slovakia/andorra/922620/ |url-status=dead |archive-date=14 October 2022 |title=Slovakia vs. Andorra - 4 June 2011 |publisher=Soccerway |date=4 June 2011 |access-date=26 June 2013}}</ref>
 |referee = [[Lorenc Jemini]] ([[Albanian Football Association|Albania]]) }}
 
 {{Football box
@@ -246,7 +246,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |team2 = {{fb|IRL}}
 |goals2 = [[Robbie Keane|Keane]] {{goal|8||37}}
 |stadium = [[Philip II Arena]], [[Skopje]]
-|attendance = 29,500<ref>{{cite web|url=https://int.soccerway.com/matches/2011/06/04/europe/european-championships/macedonia-fyr/ireland-republic/922621/ |title=Macedonia FYR vs. Ireland Republic - 4 June 2011 |publisher=Soccerway |date=4 June 2011 |access-date=26 June 2013}}</ref>
+|attendance = 29,500<ref>{{cite web|url=https://int.soccerway.com/matches/2011/06/04/europe/european-championships/macedonia-fyr/ireland-republic/922621/ |archive-url=https://web.archive.org/web/20221014200843/https://int.soccerway.com/matches/2011/06/04/europe/european-championships/macedonia-fyr/ireland-republic/922621/ |url-status=dead |archive-date=14 October 2022 |title=Macedonia FYR vs. Ireland Republic - 4 June 2011 |publisher=Soccerway |date=4 June 2011 |access-date=26 June 2013}}</ref>
 |referee = [[Florian Meyer (referee)|Florian Meyer]] ([[German Football Association|Germany]]) }}
 ----
 {{Football box
@@ -259,7 +259,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |team2 = {{fb|ARM}}
 |goals2 = [[Marcos Pizzelli|Pizzelli]] {{goal|35}}<br />[[Gevorg Ghazaryan|Ghazaryan]] {{goal|75}}<br />[[Henrikh Mkhitaryan|Mkhitaryan]] {{goal|90+1|pen.}}
 |stadium = [[Estadi Comunal d'Andorra la Vella|Estadi Comunal]], [[Andorra la Vella]]
-|attendance = 750<ref>{{cite web|url=https://int.soccerway.com/matches/2011/09/02/europe/european-championships/andorra/armenia/922623/ |title=Andorra vs. Armenia - 2 September 2011 |publisher=Soccerway |date=2 September 2011 |access-date=26 June 2013}}</ref>
+|attendance = 750<ref>{{cite web|url=https://int.soccerway.com/matches/2011/09/02/europe/european-championships/andorra/armenia/922623/ |archive-url=https://web.archive.org/web/20191215042709/https://int.soccerway.com/matches/2011/09/02/europe/european-championships/andorra/armenia/922623/ |url-status=dead |archive-date=15 December 2019 |title=Andorra vs. Armenia - 2 September 2011 |publisher=Soccerway |date=2 September 2011 |access-date=26 June 2013}}</ref>
 |referee =[[Alexander Kostadinov]] ([[Bulgarian Football Union|Bulgaria]]) }}
 
 {{Football box
@@ -272,7 +272,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |team2 = {{fb|MKD|name=Macedonia}}
 |goals1 = [[Igor Semshov|Semshov]] {{goal|41}}
 |stadium = [[Luzhniki Stadium]], [[Moscow]]
-|attendance = 31,028<ref>{{cite web|url=https://int.soccerway.com/matches/2011/09/02/europe/european-championships/russia/macedonia-fyr/922624/ |title=Russia vs. Macedonia FYR - 2 September 2011 |publisher=Soccerway |date=2 September 2011 |access-date=26 June 2013}}</ref>
+|attendance = 31,028<ref>{{cite web|url=https://int.soccerway.com/matches/2011/09/02/europe/european-championships/russia/macedonia-fyr/922624/ |archive-url=https://web.archive.org/web/20191215042711/https://int.soccerway.com/matches/2011/09/02/europe/european-championships/russia/macedonia-fyr/922624/ |url-status=dead |archive-date=15 December 2019 |title=Russia vs. Macedonia FYR - 2 September 2011 |publisher=Soccerway |date=2 September 2011 |access-date=26 June 2013}}</ref>
 |referee = [[Bülent Yıldırım (referee)|Bülent Yıldırım]] ([[Turkish Football Federation|Turkey]])}}
 
 {{Football box
@@ -284,7 +284,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |report = [https://www.uefa.com/uefaeuro/match/2002228--republic-of-ireland-vs-slovakia/ Report]
 |team2 = {{fb|SVK}}
 |stadium = [[Aviva Stadium|Landsdowne Road]], [[Dublin]]
-|attendance =35,480<ref>{{cite web|url=https://int.soccerway.com/matches/2011/09/02/europe/european-championships/ireland-republic/slovakia/922622/ |title=Ireland Republic vs. Slovakia - 2 September 2011 |publisher=Soccerway |date=2 September 2011 |access-date=26 June 2013}}</ref>
+|attendance =35,480<ref>{{cite web|url=https://int.soccerway.com/matches/2011/09/02/europe/european-championships/ireland-republic/slovakia/922622/ |archive-url=https://web.archive.org/web/20191215042717/https://int.soccerway.com/matches/2011/09/02/europe/european-championships/ireland-republic/slovakia/922622/ |url-status=dead |archive-date=15 December 2019 |title=Ireland Republic vs. Slovakia - 2 September 2011 |publisher=Soccerway |date=2 September 2011 |access-date=26 June 2013}}</ref>
 |referee = [[Pedro Proença]] ([[Portuguese Football Federation|Portugal]])}}
 ----
 {{Football box
@@ -296,7 +296,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |report = [https://www.uefa.com/uefaeuro/match/2002218--russia-vs-republic-of-ireland/ Report]
 |team2 = {{fb|IRL}}
 |stadium = [[Luzhniki Stadium]], [[Moscow]]
-|attendance = 49,515<ref>{{cite web|url=https://int.soccerway.com/matches/2011/09/06/europe/european-championships/russia/ireland-republic/922625/ |title=Russia vs. Ireland Republic - 6 September 2011 |publisher=Soccerway |date=6 September 2011 |access-date=26 June 2013}}</ref>
+|attendance = 49,515<ref>{{cite web|url=https://int.soccerway.com/matches/2011/09/06/europe/european-championships/russia/ireland-republic/922625/ |archive-url=https://web.archive.org/web/20191215042725/https://int.soccerway.com/matches/2011/09/06/europe/european-championships/russia/ireland-republic/922625/ |url-status=dead |archive-date=15 December 2019 |title=Russia vs. Ireland Republic - 6 September 2011 |publisher=Soccerway |date=6 September 2011 |access-date=26 June 2013}}</ref>
 |referee = [[Felix Brych]] ([[German Football Association|Germany]]) }}
 
 {{Football box
@@ -309,7 +309,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |team2 = {{fb|AND}}
 |goals1 = [[Mirko Ivanovski|Ivanovski]] {{goal|59}}
 |stadium = [[Philip II Arena]], [[Skopje]]
-|attendance = 5,000<ref>{{cite web|url=https://int.soccerway.com/matches/2011/09/06/europe/european-championships/macedonia-fyr/andorra/922627/ |title=Macedonia FYR vs. Andorra - 6 September 2011 |publisher=Soccerway |date=6 September 2011 |access-date=26 June 2013}}</ref>
+|attendance = 5,000<ref>{{cite web|url=https://int.soccerway.com/matches/2011/09/06/europe/european-championships/macedonia-fyr/andorra/922627/ |archive-url=https://web.archive.org/web/20191215042737/https://int.soccerway.com/matches/2011/09/06/europe/european-championships/macedonia-fyr/andorra/922627/ |url-status=dead |archive-date=15 December 2019 |title=Macedonia FYR vs. Andorra - 6 September 2011 |publisher=Soccerway |date=6 September 2011 |access-date=26 June 2013}}</ref>
 |referee = [[Mark Steven Whitby]] ([[Football Association of Wales|Wales]]) }}
 
 {{Football box
@@ -323,7 +323,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |goals1 = 
 |goals2 = [[Yura Movsisyan|Movsisyan]] {{goal|57}}<br />[[Henrikh Mkhitaryan|Mkhitaryan]] {{goal|70}}<br />[[Gevorg Ghazaryan|Ghazaryan]] {{goal|80}}<br />[[Artur Sarkisov|Sarkisov]] {{goal|90+1}}
 |stadium = [[Stadium Pod Dubňom]], [[Žilina]]
-|attendance = 7,238<ref>{{cite web|url=https://int.soccerway.com/matches/2011/09/06/europe/european-championships/slovakia/armenia/922626/ |title=Slovakia vs. Armenia - 6 September 2011 |publisher=Soccerway |date=6 September 2011 |access-date=26 June 2013}}</ref>
+|attendance = 7,238<ref>{{cite web|url=https://int.soccerway.com/matches/2011/09/06/europe/european-championships/slovakia/armenia/922626/ |archive-url=https://web.archive.org/web/20191215042747/https://int.soccerway.com/matches/2011/09/06/europe/european-championships/slovakia/armenia/922626/ |url-status=dead |archive-date=15 December 2019 |title=Slovakia vs. Armenia - 6 September 2011 |publisher=Soccerway |date=6 September 2011 |access-date=26 June 2013}}</ref>
 |referee = [[Marcin Borski]] ([[Polish Football Association|Poland]]) }}
 ----
 {{Football box
@@ -337,7 +337,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |goals1 = [[Marcos Pizzelli|Pizzelli]] {{goal|28}} <br> [[Henrik Mkhitaryan|Mkhitaryan]] {{goal|34}} <br> [[Gevorg Ghazaryan|Ghazaryan]] {{goal|69}} <br> [[Artur Sarkisov|Sarkisov]] {{goal|90+1}}
 |goals2 = [[Vanče Šikov|Šikov]] {{goal|86}}
 |stadium = [[Vazgen Sargsyan Republican Stadium]], [[Yerevan]] 
-|attendance = 14,403<ref>{{cite web|url=https://int.soccerway.com/matches/2011/10/07/europe/european-championships/armenia/macedonia-fyr/922628/ |title=Armenia vs. Macedonia FYR - 7 October 2011 |publisher=Soccerway |date=7 October 2011 |access-date=26 June 2013}}</ref>
+|attendance = 14,403<ref>{{cite web|url=https://int.soccerway.com/matches/2011/10/07/europe/european-championships/armenia/macedonia-fyr/922628/ |archive-url=https://web.archive.org/web/20191215042753/https://int.soccerway.com/matches/2011/10/07/europe/european-championships/armenia/macedonia-fyr/922628/ |url-status=dead |archive-date=15 December 2019 |title=Armenia vs. Macedonia FYR - 7 October 2011 |publisher=Soccerway |date=7 October 2011 |access-date=26 June 2013}}</ref>
 |referee = [[Robert Schörgenhofer]] ([[Austrian Football Association|Austria]]) }}
 
 {{Football box
@@ -351,7 +351,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |goals1 = 
 |goals2 = [[Alan Dzagoev|Dzagoev]] {{goal|71}}
 |stadium = [[Stadium Pod Dubňom]], [[Žilina]]
-|attendance = 10,087<ref>{{cite web|url=https://int.soccerway.com/matches/2011/10/07/europe/european-championships/slovakia/russia/922630/ |title=Slovakia vs. Russia - 7 October 2011 |publisher=Soccerway |date=7 October 2011 |access-date=26 June 2013}}</ref>
+|attendance = 10,087<ref>{{cite web|url=https://int.soccerway.com/matches/2011/10/07/europe/european-championships/slovakia/russia/922630/ |archive-url=https://web.archive.org/web/20191215042759/https://int.soccerway.com/matches/2011/10/07/europe/european-championships/slovakia/russia/922630/ |url-status=dead |archive-date=15 December 2019 |title=Slovakia vs. Russia - 7 October 2011 |publisher=Soccerway |date=7 October 2011 |access-date=26 June 2013}}</ref>
 |referee = [[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])}}
 
 {{Football box
@@ -365,7 +365,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |goals1 = 
 |goals2 = [[Kevin Doyle (footballer)|Doyle]] {{goal|8}} <br> [[Aiden McGeady|McGeady]] {{goal|20}}
 |stadium = [[Estadi Comunal d'Andorra la Vella|Estadi Comunal]], [[Andorra la Vella]]
-|attendance = 860<ref>{{cite web|url=https://int.soccerway.com/matches/2011/10/07/europe/european-championships/andorra/ireland-republic/922629/ |title=Andorra vs. Ireland Republic - 7 October 2011 |publisher=Soccerway |date=7 October 2011 |access-date=26 June 2013}}</ref>
+|attendance = 860<ref>{{cite web|url=https://int.soccerway.com/matches/2011/10/07/europe/european-championships/andorra/ireland-republic/922629/ |archive-url=https://web.archive.org/web/20191215042805/https://int.soccerway.com/matches/2011/10/07/europe/european-championships/andorra/ireland-republic/922629/ |url-status=dead |archive-date=15 December 2019 |title=Andorra vs. Ireland Republic - 7 October 2011 |publisher=Soccerway |date=7 October 2011 |access-date=26 June 2013}}</ref>
 |referee = [[Libor Kovařik]] ([[Czech Football Association|Czech Republic]]) }}
 ----
 {{Football box
@@ -379,7 +379,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |goals1 = [[Alan Dzagoev|Dzagoev]] {{goal|5||44}} <br> [[Sergei Ignashevich|Ignashevich]] {{goal|26}} <br> [[Roman Pavlyuchenko|Pavlyuchenko]] {{goal|30}} <br> [[Denis Glushakov|Glushakov]] {{goal|59}} <br> [[Diniyar Bilyaletdinov|Bilyaletdinov]] {{goal|78}}
 |goals2 = 
 |stadium = [[Luzhniki Stadium]], [[Moscow]]
-|attendance = 38,790<ref>{{cite web|url=https://int.soccerway.com/matches/2011/10/11/europe/european-championships/russia/andorra/922632/ |title=Russia vs. Andorra - 11 October 2011 |publisher=Soccerway |date=11 October 2011 |access-date=26 June 2013}}</ref>
+|attendance = 38,790<ref>{{cite web|url=https://int.soccerway.com/matches/2011/10/11/europe/european-championships/russia/andorra/922632/ |archive-url=https://web.archive.org/web/20191215042812/https://int.soccerway.com/matches/2011/10/11/europe/european-championships/russia/andorra/922632/ |url-status=dead |archive-date=15 December 2019 |title=Russia vs. Andorra - 11 October 2011 |publisher=Soccerway |date=11 October 2011 |access-date=26 June 2013}}</ref>
 |referee =[[Eli Hacmon]] ([[Israel Football Association|Israel]]) }}
 
 {{Football box
@@ -393,7 +393,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |goals1 = [[Valeri Aleksanyan|V. Aleksanyan]] {{goal|43|o.g.}} <br> [[Richard Dunne|Dunne]] {{goal|59}}
 |goals2 = [[Henrikh Mkhitaryan|Mkhitaryan]] {{goal|62}}
 |stadium = [[Aviva Stadium|Landsdowne Road]], [[Dublin]]
-|attendance = 45,200<ref>{{cite web|url=https://int.soccerway.com/matches/2011/10/11/europe/european-championships/ireland-republic/armenia/922631/ |title=Ireland Republic vs. Armenia - 11 October 2011 |publisher=Soccerway |date=11 October 2011 |access-date=26 June 2013}}</ref>
+|attendance = 45,200<ref>{{cite web|url=https://int.soccerway.com/matches/2011/10/11/europe/european-championships/ireland-republic/armenia/922631/ |archive-url=https://web.archive.org/web/20191215042818/https://int.soccerway.com/matches/2011/10/11/europe/european-championships/ireland-republic/armenia/922631/ |url-status=dead |archive-date=15 December 2019 |title=Ireland Republic vs. Armenia - 11 October 2011 |publisher=Soccerway |date=11 October 2011 |access-date=26 June 2013}}</ref>
 |referee =[[Eduardo Iturralde González]] ([[Royal Spanish Football Federation|Spain]]) }}
 
 {{Football box
@@ -407,7 +407,7 @@ Group B fixtures were to be negotiated between the participants at a meeting in 
 |goals1 = [[Nikolče Noveski|Noveski]] {{goal|79}}
 |goals2 = [[Juraj Piroska|Piroska]] {{goal|54}}
 |stadium = [[Philip II Arena]], [[Skopje]]
-|attendance = 4,100<ref>{{cite web|url=https://int.soccerway.com/matches/2011/10/11/europe/european-championships/macedonia-fyr/slovakia/922633/ |title=Macedonia FYR vs. Slovakia - 11 October 2011 |publisher=Soccerway |date=11 October 2011 |access-date=26 June 2013}}</ref>
+|attendance = 4,100<ref>{{cite web|url=https://int.soccerway.com/matches/2011/10/11/europe/european-championships/macedonia-fyr/slovakia/922633/ |archive-url=https://web.archive.org/web/20191215042824/https://int.soccerway.com/matches/2011/10/11/europe/european-championships/macedonia-fyr/slovakia/922633/ |url-status=dead |archive-date=15 December 2019 |title=Macedonia FYR vs. Slovakia - 11 October 2011 |publisher=Soccerway |date=11 October 2011 |access-date=26 June 2013}}</ref>
 |referee =[[Tony Chapron]] ([[French Football Federation|France]]) }}
 
 ==Goalscorers==
