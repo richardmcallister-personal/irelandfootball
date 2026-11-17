@@ -72,7 +72,7 @@ The seedings were as follows:<ref>{{cite web |url=https://www.uefa.com/uefaeuro/
 |team2 = {{fb|CRO}}
 |goals2 = [[Ivica Olić|Olić]] {{goal|2}} <br> [[Mario Mandžukić|Mandžukić]] {{goal|32}}<br/>[[Vedran Ćorluka|Ćorluka]] {{goal|51}}
 |stadium = [[Türk Telekom Arena]], [[Istanbul]]
-|attendance = 42,863<ref>{{Cite web | url=https://int.soccerway.com/matches/2011/11/11/europe/european-championships/turkey/croatia/1219245/ | title=Turkey vs. Croatia - 11 November 2011 - Soccerway }}</ref>
+|attendance = 42,863<ref>{{Cite web | url=https://int.soccerway.com/matches/2011/11/11/europe/european-championships/turkey/croatia/1219245/ | archive-url=https://web.archive.org/web/20200109122239/https://int.soccerway.com/matches/2011/11/11/europe/european-championships/turkey/croatia/1219245/ | url-status=dead | archive-date=January 9, 2020 | title=Turkey vs. Croatia - 11 November 2011 - Soccerway }}</ref>
 |referee = [[Felix Brych]] ([[German Football Association|Germany]]) }}
 {{Football box
 |id=Croatia v Turkey
@@ -83,7 +83,7 @@ The seedings were as follows:<ref>{{cite web |url=https://www.uefa.com/uefaeuro/
 |report = [https://www.uefa.com/uefaeuro/match/2008828--croatia-vs-turkiye/ Report]
 |team2 = {{fb|TUR}}
 |stadium = [[Maksimir Stadium]], [[Zagreb]]
-|attendance = 26,371<ref>{{Cite web | url=https://int.soccerway.com/matches/2011/11/15/europe/european-championships/croatia/turkey/1219248/ | title=Croatia vs. Turkey - 15 November 2011 - Soccerway }}</ref>
+|attendance = 26,371<ref>{{Cite web | url=https://int.soccerway.com/matches/2011/11/15/europe/european-championships/croatia/turkey/1219248/ | archive-url=https://web.archive.org/web/20200109122247/https://int.soccerway.com/matches/2011/11/15/europe/european-championships/croatia/turkey/1219248/ | url-status=dead | archive-date=January 9, 2020 | title=Croatia vs. Turkey - 15 November 2011 - Soccerway }}</ref>
 |referee = [[Pedro Proença]] ([[Portuguese Football Federation|Portugal]]) }}
 ''Croatia won 3–0 on aggregate and qualified for [[UEFA Euro 2012]].''
 ----
@@ -97,7 +97,7 @@ The seedings were as follows:<ref>{{cite web |url=https://www.uefa.com/uefaeuro/
 |team2 = {{fb|IRL}}
 |goals2 = [[Keith Andrews (footballer)|Andrews]] {{goal|13}}<br/>[[Jonathan Walters|Walters]] {{goal|67}}<br/>[[Robbie Keane|Keane]] {{goal|71||88|pen.}}
 |stadium = [[A. Le Coq Arena]], [[Tallinn]]
-|attendance = 9,692<ref>{{Cite web | url=https://int.soccerway.com/matches/2011/11/11/europe/european-championships/estonia/ireland-republic/1219246/ | title=Estonia vs. Republic of Ireland - 11 November 2011 - Soccerway }}</ref>
+|attendance = 9,692<ref>{{Cite web | url=https://int.soccerway.com/matches/2011/11/11/europe/european-championships/estonia/ireland-republic/1219246/ | archive-url=https://web.archive.org/web/20200109125616/https://int.soccerway.com/matches/2011/11/11/europe/european-championships/estonia/ireland-republic/1219246/ | url-status=dead | archive-date=January 9, 2020 | title=Estonia vs. Republic of Ireland - 11 November 2011 - Soccerway }}</ref>
 |referee = [[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]]) }}
 {{Football box
 |id=Republic of Ireland v Estonia
@@ -110,7 +110,7 @@ The seedings were as follows:<ref>{{cite web |url=https://www.uefa.com/uefaeuro/
 |goals1 = [[Stephen Ward (footballer)|Ward]] {{goal|32}}
 |goals2 = [[Konstantin Vassiljev|Vassiljev]] {{goal|57}}
 |stadium = [[Aviva Stadium]], [[Dublin]]
-|attendance = 51,151<ref>{{Cite web | url=https://int.soccerway.com/matches/2011/11/15/europe/european-championships/ireland-republic/estonia/1219249/ | title=Republic of Ireland vs. Estonia - 15 November 2011 - Soccerway }}</ref>
+|attendance = 51,151<ref>{{Cite web | url=https://int.soccerway.com/matches/2011/11/15/europe/european-championships/ireland-republic/estonia/1219249/ | archive-url=https://web.archive.org/web/20200109122255/https://int.soccerway.com/matches/2011/11/15/europe/european-championships/ireland-republic/estonia/1219249/ | url-status=dead | archive-date=January 9, 2020 | title=Republic of Ireland vs. Estonia - 15 November 2011 - Soccerway }}</ref>
 |referee = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]]) }}
 ''Republic of Ireland won 5–1 on aggregate and qualified for [[UEFA Euro 2012]].''
 ----
@@ -124,7 +124,7 @@ The seedings were as follows:<ref>{{cite web |url=https://www.uefa.com/uefaeuro/
 |team2 = {{fb|MNE}}
 |goals1 = [[Václav Pilař|Pilař]] {{goal|63}}<br/>[[Tomáš Sivok|Sivok]] {{goal|90+2}}
 |stadium = [[Generali Arena]], [[Prague]]
-|attendance = 14,560<ref>{{Cite web | url=https://int.soccerway.com/matches/2011/11/11/europe/european-championships/czech-republic/montenegro/1219247/ | title=Czech Republic vs. Montenegro - 11 November 2011 - Soccerway }}</ref>
+|attendance = 14,560<ref>{{Cite web | url=https://int.soccerway.com/matches/2011/11/11/europe/european-championships/czech-republic/montenegro/1219247/ | archive-url=https://web.archive.org/web/20200109125609/https://int.soccerway.com/matches/2011/11/11/europe/european-championships/czech-republic/montenegro/1219247/ | url-status=dead | archive-date=January 9, 2020 | title=Czech Republic vs. Montenegro - 11 November 2011 - Soccerway }}</ref>
 |referee = [[Martin Atkinson]] ([[The Football Association|England]]) }}
 {{Football box
 |id=Montenegro v Czech Republic
@@ -136,7 +136,7 @@ The seedings were as follows:<ref>{{cite web |url=https://www.uefa.com/uefaeuro/
 |team2 = {{fb|CZE}}
 |goals2 = [[Petr Jiráček|Jiráček]] {{goal|81}}
 |stadium = [[Podgorica City Stadium]], [[Podgorica]]
-|attendance = 10,100<ref>{{Cite web | url=https://int.soccerway.com/matches/2011/11/15/europe/european-championships/montenegro/czech-republic/1219252/ | title=Montenegro vs. Czech Republic - 15 November 2011 - Soccerway }}</ref>
+|attendance = 10,100<ref>{{Cite web | url=https://int.soccerway.com/matches/2011/11/15/europe/european-championships/montenegro/czech-republic/1219252/ | archive-url=https://web.archive.org/web/20200109122303/https://int.soccerway.com/matches/2011/11/15/europe/european-championships/montenegro/czech-republic/1219252/ | url-status=dead | archive-date=January 9, 2020 | title=Montenegro vs. Czech Republic - 15 November 2011 - Soccerway }}</ref>
 |referee = [[Nicola Rizzoli]] ([[Italian Football Federation|Italy]]) }}
 ''Czech Republic won 3–0 on aggregate and qualified for [[UEFA Euro 2012]].''
 ----
@@ -149,7 +149,7 @@ The seedings were as follows:<ref>{{cite web |url=https://www.uefa.com/uefaeuro/
 |report = [https://www.uefa.com/uefaeuro/match/2008827--bosnia-and-herzegovina-vs-portugal/ Report]
 |team2 = {{fb|POR}}
 |stadium = [[Bilino Polje]], [[Zenica]]
-|attendance = 12,352<ref>{{Cite web | url=https://int.soccerway.com/matches/2011/11/11/europe/european-championships/bosnia-herzegovina/portugal/1219250/ | title=Bosnia-Herzegovina vs. Portugal - 11 November 2011 - Soccerway }}</ref>
+|attendance = 12,352<ref>{{Cite web | url=https://int.soccerway.com/matches/2011/11/11/europe/european-championships/bosnia-herzegovina/portugal/1219250/ | archive-url=https://web.archive.org/web/20200109122225/https://int.soccerway.com/matches/2011/11/11/europe/european-championships/bosnia-herzegovina/portugal/1219250/ | url-status=dead | archive-date=January 9, 2020 | title=Bosnia-Herzegovina vs. Portugal - 11 November 2011 - Soccerway }}</ref>
 |referee = [[Howard Webb]] ([[The Football Association|England]]) }}
 {{Football box
 |id=Portugal v Bosnia and Herzegovina
@@ -162,7 +162,7 @@ The seedings were as follows:<ref>{{cite web |url=https://www.uefa.com/uefaeuro/
 |goals1 = [[Cristiano Ronaldo|Ronaldo]] {{goal|8||53}} <br/> [[Nani (footballer)|Nani]] {{goal|24}} <br/> [[Hélder Postiga|Postiga]] {{goal|72||82}} <br/> [[Miguel Veloso|Veloso]] {{goal|80}}
 |goals2 = [[Zvjezdan Misimović|Misimović]] {{goal|41|pen.}} <br/> [[Emir Spahić|Spahić]] {{goal|65}}
 |stadium = [[Estádio da Luz]], [[Lisbon]]
-|attendance = 47,728<ref>{{Cite web | url=https://int.soccerway.com/matches/2011/11/15/europe/european-championships/portugal/bosnia-herzegovina/1219251/ | title=Portugal vs. Bosnia-Herzegovina - 15 November 2011 - Soccerway }}</ref>
+|attendance = 47,728<ref>{{Cite web | url=https://int.soccerway.com/matches/2011/11/15/europe/european-championships/portugal/bosnia-herzegovina/1219251/ | archive-url=https://web.archive.org/web/20141023043934/http://int.soccerway.com/matches/2011/11/15/europe/european-championships/portugal/bosnia-herzegovina/1219251/ | url-status=dead | archive-date=October 23, 2014 | title=Portugal vs. Bosnia-Herzegovina - 15 November 2011 - Soccerway }}</ref>
 |referee = [[Wolfgang Stark]] ([[German Football Association|Germany]]) }}
 ''Portugal won 6–2 on aggregate and qualified for [[UEFA Euro 2012]].''
 
@@ -177,7 +177,6 @@ The seedings were as follows:<ref>{{cite web |url=https://www.uefa.com/uefaeuro/
 
 [[Category:UEFA Euro 2012 qualifying|Play-offs]]
 [[Category:Croatia–Turkey sports relations|2011]]
-[[Category:Estonia–Ireland sports relations|2011]]
 [[Category:Croatia at UEFA Euro 2012|Play-offs]]
 [[Category:Czech Republic at UEFA Euro 2012|Play-offs]]
 [[Category:Republic of Ireland at UEFA Euro 2012|Play-offs]]
