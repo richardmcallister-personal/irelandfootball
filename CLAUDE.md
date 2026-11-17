@@ -29,6 +29,7 @@ tools/data/      raw inputs and reconcile.txt (every disagreement between source
 | Named goals in friendlies | Wikipedia's Keane goals list and hat-tricks list, `tools/data/extra_goals.csv` (fills gaps only, no minutes) | CC BY-SA |
 | Kit library photos | Eddie O'Mahony's James Nolan Memorial Collection, `tools/data/kits_catalogue.csv` into `site/kits/library.json` by `tools/build_kits.py`; web copies in `site/assets/kits/lib/`. Richard's decision, no permission obtained yet: keep the watermark and credit, keep it out of search, take down if asked | see left |
 | Shirts from 2021 on | Football Kit Archive's Ireland list, `tools/data/kits_extra.csv` (facts and links only; its images are not copied). Photos Richard supplies go in `site/assets/kits/extra/<id>.jpg`, then run `tools/build_kits.py` | |
+| Player photos | Richard's own photos. Web copy (1200 wide, no EXIF) in `site/assets/players/`, listed by player slug in `site/player/photos.json` (kept by hand: src, w, h, alt, cap, credit); shown under Photos on the player page | Richard's |
 | Club form | Worker route `/api/form`, built a few players at a time into KV | paid plan |
 
 11v11.com and eu-football.info are not sources: 11v11's terms bar publishing its data, and eu-football has not given permission. Don't scrape them.
